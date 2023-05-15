@@ -1,0 +1,28 @@
+.grid {
+  --gap: 2.5rem 4rem;
+  --align: flex-start;
+
+  display: grid;
+  align-items: var(--align);
+  grid-auto-rows: min-content;
+  grid-gap: var(--gap);
+  grid-template-columns: 100%;
+
+  @include breakpoint(large) {
+    grid-auto-columns: 1fr;
+    grid-auto-flow: column;
+    grid-template-columns: inherit;
+
+    &--reverse {
+      direction: rtl;
+    }
+
+    &--reverse > * {
+      direction: ltr;
+    }
+
+    > * {
+      grid-column: var(--col);
+    }
+  }
+}

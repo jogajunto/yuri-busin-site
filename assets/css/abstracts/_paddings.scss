@@ -1,0 +1,80 @@
+$paddings: "top", "bottom";
+$default-side-padding: 1.5rem;
+
+@mixin override-side-padding {
+	min-width: calc(100% + (2 * #{$default-side-padding}));
+	position: relative;
+	left: -$default-side-padding;
+}
+
+@include breakpoint(small, medium) {
+	.fill-side-padding-on-mobile {
+		@include override-side-padding;
+	}
+}
+
+// -
+// -
+// -
+
+@each $direction in $paddings {
+	.padding-#{$direction}-medium {
+		padding-#{$direction}: 8rem !important;
+	}
+
+	@include breakpoint(large) {
+		.padding-#{$direction}-medium-desktop {
+			padding-#{$direction}: 8rem !important;
+		}
+	}
+
+	@include breakpoint(small, medium) {
+		.padding-#{$direction}-medium-mobile {
+			padding-#{$direction}: 8rem !important;
+		}
+	}
+}
+
+// -
+// -
+// -
+
+@each $direction in $paddings {
+	.padding-#{$direction}-small {
+		padding-#{$direction}: 3rem !important;
+	}
+
+	@include breakpoint(large) {
+		.padding-#{$direction}-small-desktop {
+			padding-#{$direction}: 3rem !important;
+		}
+	}
+
+	@include breakpoint(small, medium) {
+		.padding-#{$direction}-small-mobile {
+			padding-#{$direction}: 3rem !important;
+		}
+	}
+}
+
+// -
+// -
+// -
+
+@each $direction in $paddings {
+	.padding-#{$direction}-none {
+		padding-#{$direction}: 0 !important;
+	}
+
+	@include breakpoint(large) {
+		.padding-#{$direction}-none-desktop {
+			padding-#{$direction}: 0 !important;
+		}
+	}
+
+	@include breakpoint(small, medium) {
+		.padding-#{$direction}-none-mobile {
+			padding-#{$direction}: 0 !important;
+		}
+	}
+}

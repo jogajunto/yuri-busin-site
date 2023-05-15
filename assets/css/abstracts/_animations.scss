@@ -1,0 +1,50 @@
+@keyframes breathe-in {
+	0% {
+		transform: scale(1);
+	}
+	30% {
+		transform: scale(1 + 0.05);
+	}
+	55% {
+		transform: scale(1 + 0.03);
+	}
+	75% {
+		transform: scale(1 + 0.04);
+	}
+	90% {
+		transform: scale(1 + 0.035);
+	}
+	100% {
+		transform: scale(1 + 0.04);
+	}
+}
+
+@keyframes breathe-out {
+	0% {
+		transform: scale(1 + 0.04);
+	}
+	45% {
+		transform: scale(0.98);
+	}
+	100% {
+		transform: scale(1);
+	}
+}
+
+@keyframes fade-in {
+	0% {
+		opacity: 0;
+	}
+	100% {
+		opacity: 1;
+	}
+}
+
+@keyframes fade-out {
+	0% {
+		opacity: 1;
+	}
+	100% {
+		opacity: 0;
+	}
+}

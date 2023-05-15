@@ -1,0 +1,17 @@
+@include breakpoint(small) {
+  .hidden-sm {
+    display: none !important;
+  }
+}
+
+@include breakpoint(medium) {
+  .hidden-md {
+    display: none !important;
+  }
+}
+
+@include breakpoint(large) {
+  .hidden-lg {
+    display: none !important;
+  }
+}

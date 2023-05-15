@@ -1,0 +1,29 @@
+@include breakpoint(large) {
+  .image-offset {
+    --translateY: 0;
+    --translateX: 0;
+
+    position: absolute;
+    left: 0;
+    right: 0;
+    transform: translate(var(--translateX), var(--translateY));
+    z-index: -1;
+
+    &--middle {
+      --translateY: -50%;
+      top: 50%;
+    }
+
+    &--bottom {
+      bottom: 0;
+    }
+
+    &--right {
+      --translateX: 18rem;
+    }
+
+    &--left {
+      --translateX: -20rem;
+    }
+  }
+}

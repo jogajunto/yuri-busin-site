@@ -1,0 +1,21 @@
+.visually-hidden:not(:focus) {
+	clip: rect(0, 0, 0, 0);
+	position: absolute;
+}
+
+.back-to-top,
+.skip-to-main {
+	z-index: 100;
+}
+
+.back-to-top {
+	bottom: 1.5rem;
+	position: fixed !important;
+	right: 1.5rem;
+}
+
+.skip-to-main {
+	left: 1.5rem;
+	position: absolute !important;
+	top: 1.5rem;
+}

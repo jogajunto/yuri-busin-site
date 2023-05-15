@@ -1,0 +1,113 @@
+.buttons {
+	display: flex; // Aligns buttons in a row when there is more than one button.
+	flex-wrap: wrap; // Wraps buttons in a column when there are not enough space.
+	align-items: center; // Aligns buttons to center vertically.
+	gap: 1rem 0.75rem; // Gap between buttons.
+	justify-content: center; // Aligns buttons to center horizontally.
+
+	@include breakpoint(large) {
+		justify-content: flex-start; // Aligns buttons to left horizontally.
+	}
+}
+
+// -
+// -
+// -
+
+.button {
+	--border-radius: 6.25rem; // Sets the border radius.
+
+	border-radius: var(--border-radius); // Although the visual border radius is defined in the pseudo-element, this style is for the focus state.
+	font-weight: 400;
+	line-height: 0; // Line-height is 0 to prevent the button from affecting the vertical-align of the text.
+	padding: 0 1.6em; // Top and bottom padding is 0 to prevent the button from affecting the vertical-align of the text.
+
+	display: flex; // Aligns button to center vertically.
+	gap: 0.5rem; // Gap between icon and text.
+	align-items: center; // Aligns button content to center vertically.
+
+	width: max-content; // Width is max-content to prevent the button fill the available space.
+	height: 3.25rem;
+
+	position: relative; // Allow the button background as pseudo-element.
+	z-index: 1; // Bring the button content to the front.
+
+	&::after {
+		content: "";
+		border: 1px solid var(--border); // Variable is defined in each button modifier
+		border-radius: var(--border-radius);
+		background: var(--background); // Variable is defined in each button modifier
+
+		width: 100%; // Fill the button size.
+		height: 100%; // Fill the button size.
+
+		position: absolute; // Position the background as a pseudo-element.
+		inset: 0; // Align to the center vertically and horizontally.
+		z-index: -1; // Bring the button background to the back.
+		will-change: transform; // Optimize browser render performance.
+	}
+
+	&.hover-in::after {
+		animation: breathe-in 600ms ease-in forwards;
+	}
+
+	&.hover-out::after {
+		animation: breathe-out 300ms ease-out forwards;
+	}
+
+	&:focus {
+		outline: none; // Remove outline to add it to the pseudo-element.
+
+		&::after {
+			@include outline; // Apply the outline style.
+		}
+	}
+
+	.icon {
+		max-width: 1.125rem;
+	}
+}
+
+// -
+// -
+// -
+
+.button--small {
+	font-size: 0.875rem;
+	padding: 0.575em 1.6em;
+	height: 2.375rem;
+}
+
+// -
+// -
+// -
+
+.button--primary {
+	--background: #{map-get($colors, green)};
+	--border: #{map-get($colors, green)};
+	color: map-get($colors, neutral-100);
+}
+
+.button--outline {
+	--background: #{map-get($colors, neutral-100)};
+	--border: #{map-get($colors, neutral-100)};
+	color: map-get($colors, body);
+}
+
+.button--yellow {
+	--background: #{map-get($colors, brand-yellow)};
+	--border: #{map-get($colors, brand-yellow)};
+	color: map-get($colors, neutral-0);
+}
+
+.button--border-blue {
+	--background: transparent;
+	--border: #{map-get($colors, green)};
+	color: #{map-get($colors, green)};
+}
+
+.button--border-white {
+	--background: transparent;
+	--border: #{map-get($colors, neutral-100)};
+	color: #{map-get($colors, neutral-100)};
+}

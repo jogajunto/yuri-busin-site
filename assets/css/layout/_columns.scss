@@ -1,0 +1,26 @@
+.columns {
+	--gap: 4rem;
+	--align: flex-start;
+
+	display: grid;
+	align-items: var(--align);
+	grid-auto-rows: min-content;
+	grid-gap: var(--gap);
+
+	@include breakpoint(large) {
+		grid-template-columns: var(--cols-desktop);
+
+		> * {
+			grid-column: var(--col);
+			order: var(--order);
+		}
+	}
+
+	@include breakpoint(medium) {
+		grid-template-columns: var(--cols-tablet);
+	}
+
+	@include breakpoint(small) {
+		grid-template-columns: var(--cols-phone);
+	}
+}

@@ -1,0 +1,43 @@
+.align-right {
+	justify-content: flex-end !important;
+}
+
+.align-center {
+	justify-content: center !important;
+	margin-left: auto !important;
+	margin-right: auto !important;
+}
+
+@include breakpoint(small, medium) {
+	.align-center-mobile {
+		justify-content: center !important;
+		margin-left: auto !important;
+		margin-right: auto !important;
+	}
+}
+
+.align-baseline {
+	align-items: baseline !important;
+	align-content: baseline !important;
+}
+
+.align-middle {
+	align-items: center !important;
+	align-content: center !important;
+	align-self: center !important;
+}
+
+.align-stretch {
+	align-items: stretch !important;
+	align-content: stretch !important;
+}
+
+.align-start {
+	align-items: flex-start !important;
+	align-content: flex-start !important;
+}
+
+.align-bottom {
+	align-items: flex-end !important;
+	align-content: flex-end !important;
+}

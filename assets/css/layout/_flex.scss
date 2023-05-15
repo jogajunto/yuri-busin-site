@@ -1,0 +1,31 @@
+.flex {
+  --gap: 1rem;
+  --align: center;
+
+  display: flex;
+  align-items: var(--align);
+  gap: var(--gap);
+
+  &--center {
+    justify-content: center;
+    align-content: center;
+  }
+
+  &--space-between {
+    justify-content: space-between;
+  }
+}
+
+@include breakpoint(small) {
+  .flex {
+    flex-direction: column;
+
+    &--no-wrap {
+      flex-direction: row;
+    }
+
+    &--center {
+      align-items: center;
+    }
+  }
+}

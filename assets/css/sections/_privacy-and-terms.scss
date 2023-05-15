@@ -1,0 +1,127 @@
+.privacy-and-terms {
+	padding: 2rem $default-side-padding 8rem;
+
+	@include breakpoint(medium, large) {
+		padding-top: 4rem;
+	}
+
+	&__container {
+		@extend .container;
+		max-width: 48rem; // Expected size: 768px
+	}
+
+	&__content {
+		h3 {
+			@extend .headline;
+			@extend .headline--size-3;
+			@extend .color-brand-dark-blue;
+		}
+
+		table {
+			font-size: 1rem;
+			width: 100%;
+
+			td {
+				padding: 1em;
+				border: 1px solid map-get($colors, border);
+			}
+
+			@include breakpoint(medium, large) {
+				font-size: inherit;
+			}
+		}
+
+		a,
+		button {
+			@extend .link;
+		}
+
+		&,
+		> ol,
+		> ol > li,
+		> ol > li > ol,
+		> ol > li > ol > li,
+		> ol > li > ol > li > ol,
+		> ol > li > ol > li > ol > li {
+			@extend .content;
+			--margin: 2.5rem;
+		}
+
+		// -
+		// -
+		// -
+
+		> ol {
+			counter-reset: section; // Add section counters. Example: 1.
+
+			> li {
+				border-top: 1px solid map-get($colors, neutral-80);
+				counter-increment: section; // Increment section counter. Example: 1.
+				padding-top: var(--margin); // Add a space between the section and the top edge with the same space between each sections. --margin is defined in _content.scss.
+
+				> h3:before {
+					content: counter(section) ". "; // Concatenate section counter and section title.
+					color: map-get($colors, brand-dark-blue);
+				}
+			}
+		}
+
+		// -
+		// -
+		// -
+
+		ol > li > ol {
+			counter-reset: clause; // Add clause counters. Example: 1.1.
+
+			> li,
+			> li > ol > li {
+				position: relative;
+
+				// Position clause and item counters relative to their parent.
+				&:before {
+					display: block;
+					color: map-get($colors, brand-dark-blue);
+					font-size: 1em;
+					font-weight: bold;
+					margin-bottom: 1em;
+
+					@include breakpoint(medium, large) {
+						position: absolute;
+						top: 0;
+						left: 0;
+					}
+				}
+			}
+
+			> li {
+				counter-increment: clause; // Increment section counter. Example: 1.1.
+
+				&:before {
+					width: 3rem;
+					content: counter(section) "." counter(clause) ". "; // Concatenate section counter, clause counter and clause paragraph.
+				}
+
+				@include breakpoint(medium, large) {
+					padding-left: 4rem;
+				}
+			}
+
+			> li > ol {
+				counter-reset: item; // Add item counters. Example: 1.1.1.
+			}
+
+			> li > ol > li {
+				counter-increment: item; // Increment clause counter. Example: 1.1.1.
+
+				&:before {
+					content: counter(section) "." counter(clause) "." counter(item) "."; // Concatenate section counter, clause counter and clause paragraph.
+					width: 4rem;
+				}
+
+				@include breakpoint(medium, large) {
+					padding-left: 5rem;
+				}
+			}
+		}
+	}
+}

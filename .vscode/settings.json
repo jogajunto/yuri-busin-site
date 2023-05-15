@@ -1,0 +1,8 @@
+{
+  "files.associations": {
+    "*.html": "handlebars"
+  },
+  "[handlebars]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  }
+}

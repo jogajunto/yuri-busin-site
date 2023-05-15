@@ -1,0 +1,58 @@
+.tooltip {
+	cursor: help; // Change the cursor to the help icon.
+	border-bottom: 2px dotted currentColor; // Add a custom style to the dashed line.
+	text-decoration: none; // Remove the default style.
+	position: relative; // Make tooltip content relative to the target element.
+	white-space: nowrap; // Prevent line-breaks.
+
+	&::after {
+		--tooltip-width: 190px;
+
+		content: attr(aria-label); // Get the tooltip content from the target element.
+
+		position: absolute;
+		bottom: 125%; // Move the tooltip to the top of the target element.
+		z-index: 1; // Set the z-index to 1 so the tooltip is above the element.
+		opacity: 0; // Hide the tooltip.
+		pointer-events: none; // Prevents the hover state on a tooltip balloon
+
+		// Stylize the tooltip.
+		background-color: #1e1e1e;
+		border-radius: 0.25rem;
+		box-shadow: 1px 1px 5px 0 rgba(0, 0, 0, 0.4);
+		color: map-get($colors, neutral-100);
+		font-size: 0.875rem;
+		padding: 0.25rem 0.5rem;
+		width: var(--tooltip-width); // Limit the tooltip width. This size is also defined in setTooltipPosition() to prevent the tooltip from appearing off-screen.
+		text-align: center;
+		white-space: normal; // Allow line-breaks.
+
+		transition: opacity 100ms ease-in-out;
+	}
+
+	&.hover-in::after {
+		animation: breathe-in 600ms ease-in forwards;
+	}
+
+	&.hover-out::after {
+		animation: breathe-out 300ms ease-out forwards;
+	}
+
+	&:hover::after,
+	&:focus::after {
+		opacity: 1;
+	}
+
+	&--center::after {
+		left: calc(50% - var(--tooltip-width) / 2); // Center the tooltip horizontally.
+	}
+
+	&--left::after {
+		left: 0;
+	}
+
+	&--right::after {
+		left: inherit;
+		right: 0;
+	}
+}

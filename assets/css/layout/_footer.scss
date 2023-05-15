@@ -1,0 +1,34 @@
+.footer {
+	background: #13161e;
+	color: map-get($colors, neutral-100);
+	padding: 6rem $default-side-padding;
+
+	&__menu {
+		&__title,
+		&__link {
+			display: block;
+			padding: 0.5em 1em;
+		}
+
+		&__link {
+			border-bottom: 1px solid transparent;
+			transition: color 300ms ease-in-out, border 300ms ease-in-out;
+			width: 100%;
+			text-align: left; // Set align left to prevent the button from being centered
+			@include nav-link(map-get($colors, neutral-100));
+
+			@include breakpoint(large) {
+				max-width: max-content;
+			}
+		}
+	}
+
+	&__brand {
+		display: block;
+		max-width: 5rem;
+	}
+
+	&__info {
+		text-align: center;
+	}
+}

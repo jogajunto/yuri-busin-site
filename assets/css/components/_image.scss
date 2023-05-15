@@ -1,0 +1,76 @@
+.image-rounded,
+.image-rounded > img {
+	border-radius: 1rem;
+}
+
+// -
+// -
+// -
+
+.image-left,
+.image-left > img {
+	margin-left: 0;
+}
+
+.image-left-mobile,
+.image-left-mobile > img {
+	margin-left: 0;
+}
+
+// -
+// -
+// -
+
+.image-with-graphic {
+	max-width: max-content; // Add limit to picture width according to the image width.
+
+	&:before {
+		content: "";
+		width: 100%;
+		height: 100%;
+		position: absolute;
+		top: 0;
+		left: 0;
+		z-index: -1;
+		background: var(--graphic);
+	}
+}
+
+// -
+// -
+// -
+
+.image-background {
+	&--top > img {
+		object-position: top;
+	}
+
+	@include breakpoint(small, medium) {
+		@include override-side-padding;
+		opacity: 0.8;
+		margin-bottom: -6rem;
+		z-index: -1;
+
+		&::after {
+			content: "";
+			position: absolute;
+			width: 100%;
+			height: 60%;
+			background: linear-gradient(0deg, #000000 0%, rgba(0, 0, 0, 0) 100%);
+			z-index: 1;
+			bottom: 0;
+		}
+	}
+
+	@include breakpoint(large) {
+		img {
+			position: absolute;
+			width: 100%;
+			height: 100%;
+			inset: 0;
+			z-index: -1;
+			opacity: 0.4;
+			object-fit: cover;
+		}
+	}
+}

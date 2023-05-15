@@ -1,0 +1,114 @@
+.bluy-screens {
+	background: url(/vectors/bluy-screens-bg.svg) no-repeat top / auto 100%;
+	padding-top: 12rem; // Increase default padding-top due to the rounded background.
+	margin-top: -4rem; // Set negative margin-top to fix spacing between sections due to the rounded background.
+
+	@include breakpoint(large) {
+		margin-top: 4rem; // Prevent overlap previous session image.
+		padding-top: 16rem; // Increase default padding-top due to the rounded background.
+	}
+
+	&__tabs {
+		display: grid; // Override default tab grid. Default is display: flex.
+	}
+
+	&__content {
+		order: 1; // Show content above nav list.
+		padding-top: 0 !important; // Override default tab padding.
+
+		@include screenshot-shadow; // Add shadow to image.
+		min-width: calc(100% + #{$default-side-padding}); // Override default right padding making the image fill the whole width of the container.
+		border-color: map-get($colors, focus-line);
+		border-radius: $default-border-radius 0 0 $default-border-radius;
+		border-style: solid;
+		border-width: 1px 0 1px 1px; // Add border on image for top, bottom and left only. Right border is unnecessary because image doesn't have right padding.
+		overflow: hidden;
+
+		@include breakpoint(medium, large) {
+			min-width: 100%; // Reset the minimum width to 100% so that the image fills the container keeping the default side paddings.
+			border-radius: $default-border-radius;
+			border-width: 1px;
+		}
+	}
+
+	&__list {
+		@extend .step-columns;
+
+		display: grid !important; // Override default tab grid. Default is display: flex.
+		order: 2; // Show nav list below content.
+		padding-top: 4rem; // Add space between content and nav list.
+
+		@include breakpoint(large) {
+			padding-bottom: 2.5rem; // Add space between nav list and next stacked content.
+		}
+
+		&__item:not(:last-child) &__icon::after {
+			content: "";
+			background-color: linear-gradient(map-get($colors, brand-light-blue) 33%, transparent 0%);
+			background-position: right;
+			background-size: 100% 12px;
+			background-repeat: repeat-y;
+			height: 100%;
+			width: 2px;
+			position: absolute;
+			top: var(--number-size);
+			left: calc(var(--number-size) / 2);
+			z-index: -1;
+
+			@include breakpoint(large) {
+				border: none;
+				background-image: linear-gradient(to right, map-get($colors, brand-light-blue) 33%, transparent 0%);
+				background-position: bottom;
+				background-size: 12px 100%;
+				background-repeat: repeat-x;
+				width: 100%;
+				height: 2px;
+				top: calc((var(--number-size) / 2) + 0.5rem);
+				left: calc(50% + (var(--number-size) / 2));
+			}
+		}
+
+		// Double & is needed to override the default tab style.
+		& &__link {
+			@extend .step-columns__item;
+			@extend .text-left-mobile;
+			padding: 0.5em;
+
+			&:hover {
+				color: inherit;
+			}
+
+			&[aria-selected="true"] {
+				background: none;
+			}
+		}
+
+		&__icon {
+			@extend .step-columns__item__number;
+
+			&__check {
+				width: 1.75rem;
+				height: 100%;
+			}
+
+			&__number {
+				display: none; // Hide number by default.
+			}
+		}
+
+		// Set disabled state to itens that was not completed yet.
+		[data-active="false"] &__icon {
+			background: map-get($colors, disabled);
+		}
+
+		// Hide check icon to itens that was not completed yet.
+		[data-active="false"] &__icon__check {
+			display: none;
+		}
+
+		// Show number to itens that was not completed yet.
+		[data-active="false"] &__icon__number {
+			display: block;
+		}
+	}
+}

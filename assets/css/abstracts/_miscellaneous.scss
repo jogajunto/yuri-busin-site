@@ -1,0 +1,96 @@
+// -
+// - Variables
+// -
+
+$default-border-radius: 1rem;
+$default-close-button-size: 2rem;
+
+// -
+// - Overflow
+// -
+
+.overflow-hidden {
+	overflow: hidden;
+}
+
+// -
+// -
+// -
+
+@mixin outline($offset: 2px) {
+	outline: 2px solid map-get($colors, focus-line);
+	outline-offset: 2px;
+}
+
+// -
+// -
+// -
+
+@keyframes link-hover-in {
+	0% {
+		transform: translateX(-150%);
+		opacity: 0.5;
+	}
+
+	50% {
+		transform: translateX(10%);
+		opacity: 1;
+	}
+
+	100% {
+		transform: translateX(0);
+	}
+}
+
+@keyframes link-hover-out {
+	0% {
+		transform: translateX(0%);
+		opacity: 0.5;
+	}
+
+	50% {
+		transform: translateX(10%);
+		opacity: 1;
+	}
+
+	100% {
+		transform: translateX(-150%);
+	}
+}
+
+@mixin nav-link($color: map-get($colors, green)) {
+	position: relative;
+	overflow: hidden;
+
+	&.hover-in::after {
+		animation: link-hover-in 700ms ease-in-out forwards;
+	}
+
+	&.hover-out::after {
+		animation: link-hover-out 500ms ease-in-out forwards;
+	}
+
+	&::after {
+		content: "";
+		border-radius: 100rem;
+		background: $color;
+		display: block;
+		height: 2px;
+		transition: transform 500ms ease-in-out;
+		width: 100%;
+		transform: translateX(-150%);
+		position: relative;
+		top: 0.25rem;
+	}
+
+	&:hover,
+	&:active,
+	&:focus {
+		outline: none;
+		color: $color;
+
+		&::after {
+			// transform: translate(0);
+		}
+	}
+}

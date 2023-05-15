@@ -1,0 +1,241 @@
+---
+title: "Yuri Busin"
+description: Norem ipsum dolor sit amet, consectetur adipiscing elit. Etiam eu turpis molestie, dictum est.
+---
+
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Archivo:wght@200;300;400;900&display=swap" rel="stylesheet">
+
+<section class="section padding-top-small-mobile">
+  <div class="container">
+    <div class="grid align-middle" style="--gap: 4rem">
+      <div class="content">
+        <h1 class="headline headline--size-1 color-brand-dark-blue">Simplificamos processos seletivos</h1>
+        <p class="text-blockquote">A Bluy é uma plataforma de Recrutamento e Seleção que otimiza o tempo de pessoas candidatas e de Recursos Humanos.</p>
+        <div class="buttons">
+          <a href="/solucoes-para-rh/" class="button button--primary">Conhecer as soluções para RH</a>
+        </div>
+      </div>
+      <div class="content">
+        <picture class="image-offset image-offset--right image-offset--middle" style="--translateX: 20rem">
+          <img src="./simplificamos-processos-seletivos.png" alt="Jovem negra de cabelo cacheado sorrindo" width="575" height="577" loading="lazy" />
+        </picture>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!--<section class="section padding-bottom-none-mobile bg-purple">
+  <div class="container">
+    <div class="grid grid--reverse">
+      <div class="content">
+        <h2 class="headline headline--size-2 color-brand-dark-blue">Está procurando emprego? Cadastre-se gratuitamente</h2>
+        <p class="text-blockquote">Com apenas alguns cliques, você entra no banco de talentos e recebe alertas de novas vagas de emprego.</p>
+        <div class="buttons">
+          <a class="button button--yellow" href="https://bluy.com/bancodetalentos/banco-de-talentos-jobj">Fazer cadastro gratuito</button>
+          <a class="button button--border-white" href="/vagas-de-emprego/">Saber mais</a>
+        </div>
+      </div>
+      <div class="content">
+        <picture class="image-offset image-offset--bottom image-offset--left">
+          <source media="(max-width: 1040px)" srcset="./esta-procurando-emprego.png" width="651" height="707" />
+          <img src="./esta-procurando-emprego.png" alt="Mulher negra utilizando um tablet" width="560" height="608" loading="lazy" />
+        </picture>
+      </div>
+    </div>
+  </div>
+</section>!-->
+
+{{< vacancies >}}
+
+<section class="section bg-neutral-100">
+  <div class="container">
+    <div class="stack">
+      <div class="content text-center">
+        <h2 class="headline headline--size-2 color-brand-dark-blue">Gerencie todo o Recrutamento e Seleção em um só lugar</h2>
+      </div>
+
+      <!-- Only mobile -->
+      <div class="stack hidden-lg">
+        <div class="scrolling-box">
+          <div class="scrolling-box__wrapper">
+            <div class="scrolling-box__item">
+              <div class="box box--compact padding-bottom-none">
+                <div class="content">
+                  <div class="flex flex--no-wrap align-middle" style="height: 4rem">
+                    {{< svg src="/icons/checkmark.svg" viewBox="0 0 27 28" class="icon" width="20" >}}
+                    <p>Crie vagas em poucos minutos</p>
+                  </div>
+                  <picture class="scrolling-box__image scrolling-box__image--full-width">
+                    <source media="(min-width: 480px)" srcset="./animation-crie-vagas-em-poucos-minutos-tablet.png" />
+                    <img src="./animation-crie-vagas-em-poucos-minutos-phone.png" alt="Tela Bluy: Criação de vagas" width="1152" height="590" />
+                  </picture>
+                </div>
+              </div>
+            </div>
+            <div class="scrolling-box__item">
+              <div class="box box--compact padding-bottom-none">
+                <div class="content">
+                  <div class="flex flex--no-wrap align-middle" style="height: 4rem">
+                    {{< svg src="/icons/checkmark.svg" viewBox="0 0 27 28" class="icon" width="20" >}}
+                    <p>Atraia os melhores talentos</p>
+                  </div>
+                  <picture class="scrolling-box__image scrolling-box__image--full-width">
+                    <source media="(min-width: 480px)" srcset="./animation-atraia-os-melhores-talentos-tablet.jpg" />
+                    <img src="./animation-atraia-os-melhores-talentos-phone.jpg" alt="Tela Bluy: Página de empresas" width="1152" height="590" />
+                  </picture>
+                </div>
+              </div>
+            </div>
+            <div class="scrolling-box__item">
+              <div class="box box--compact padding-bottom-none">
+                <div class="content">
+                  <div class="flex flex--no-wrap align-middle" style="height: 4rem">
+                    {{< svg src="/icons/checkmark.svg" viewBox="0 0 27 28" class="icon" width="20" >}}
+                    <p>Selecione a pessoa certa pra cada vaga</p>
+                  </div>
+                  <picture class="scrolling-box__image scrolling-box__image--full-width">
+                    <source media="(min-width: 480px)" srcset="./animation-pessoa-certa-pra-cada-vaga-tablet.png" />
+                    <img src="./animation-pessoa-certa-pra-cada-vaga-phone.png" alt="Tela Bluy: Mensagem de aprovação" width="1152" height="590" />
+                  </picture>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+
+      <!-- Only Desktop -->
+      <div class="tabpanel tabpanel--horizontal hidden-sm hidden-md">
+        <div class="bluy-screens__tabs js-tabs">
+          <ul class="bluy-screens__list js-tablist" data-hx="h2">
+            <li class="bluy-screens__list__item js-tablist__item">
+              <a href="#crie-vagas-em-poucos-minutos" class="bluy-screens__list__link js-tablist__link">
+                <p class="bluy-screens__list__icon">
+                  {{< svg class="bluy-screens__list__icon__check" src="/icons/check.svg" viewBox="0 0 26 26" >}}
+                  <span class="bluy-screens__list__icon__number">1</span>
+                </p>
+                <p>Crie vagas em poucos minutos</p>
+              </a>
+            </li>
+            <li class="bluy-screens__list__item js-tablist__item">
+              <a href="#atraia-os-melhores-talentos" class="bluy-screens__list__link js-tablist__link">
+                <p class="bluy-screens__list__icon">
+                  {{< svg class="bluy-screens__list__icon__check" src="/icons/check.svg" viewBox="0 0 26 26" >}}
+                  <span class="bluy-screens__list__icon__number">2</span>
+                </p>
+                <p>Atraia os melhores talentos</p>
+              </a>
+            </li>
+            <li class="bluy-screens__list__item js-tablist__item">
+              <a href="#selecione-a-pessoa-certa-para-cada-vagas" class="bluy-screens__list__link js-tablist__link">
+                <p class="bluy-screens__list__icon">
+                  {{< svg class="bluy-screens__list__icon__check" src="/icons/check.svg" viewBox="0 0 26 26" >}}
+                  <span class="bluy-screens__list__icon__number">3</span>
+                </p>
+                <p>Selecione a pessoa certa pra cada vaga</p>
+              </a>
+            </li>
+          </ul>
+          <div class="bluy-screens__content js-tabcontent" id="crie-vagas-em-poucos-minutos">
+            <picture class="bluy-screens__images__item bluy-screens__images__item--1" data-animation-images="visible">
+              <img src="./animation-crie-vagas-em-poucos-minutos.png" alt="Tela Bluy: Criação de vagas" width="1152" height="590" />
+            </picture>
+          </div>
+          <div class="bluy-screens__content js-tabcontent" id="atraia-os-melhores-talentos">
+            <picture class="bluy-screens__images__item bluy-screens__images__item--1" data-animation-images="hidden">
+              <img src="./animation-atraia-os-melhores-talentos.jpg" alt="Tela Bluy: Página de empresas" width="1152" height="590" />
+            </picture>
+          </div>
+          <div class="bluy-screens__content js-tabcontent" id="selecione-a-pessoa-certa-para-cada-vagas">
+            <picture class="bluy-screens__images__item bluy-screens__images__item--1" data-animation-images="hidden">
+              <img src="./animation-pessoa-certa-pra-cada-vaga.png" alt="Tela Bluy: Mensagem de aprovação" width="1152" height="590" />
+            </picture>
+          </div>
+        </div>
+      </div>
+      <div class="flex align-center" style="--gap: 1.5rem 2.5rem">
+        <p class="headline headline--size-4 color-brand-dark-blue">É mais fácil fazer <abbr class="tooltip" aria-label="Recrutamento e Seleção" tabindex="0">R&amp;S</abbr> com a Bluy</p>
+        <div class="buttons">
+          <a class="button button--primary" href="/contato-para-empresas/?subject=demonstracao">Agendar demonstração</a>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+
+<section class="section section--diagonal bg-blue overflow-hidden">
+  <div class="container">
+    <div class="grid grid--reverse">
+      <div class="content">
+        <picture class="image-offset image-offset--bottom image-offset--right fill-side-padding-on-mobile" style="--translateX: 26rem; --translateY: 12rem">
+          <source media="(max-width: 1040px)" srcset="./solucoes-ideais-mobile.png" width="600" height="578" />
+          <img src="./solucoes-ideais.png" alt="Funcionários da Bluy sorrindo" width="754" height="1022" loading="lazy" />
+        </picture>
+      </div>
+      <div class="content">
+        <h2 class="headline headline--size-2 color-brand-dark-blue">A Bluy tem as soluções ideais para sua empresa</h2>
+        <ul class="list list--checkmark">
+          <li>Gerencie todo o Recrutamento e Seleção em um só lugar</li>
+          <li>Use estratégias de <span class="tooltip" aria-label="Marca empregadora" tabindex="0">Employer Branding</span> na atração de talentos</li>
+          <li>Mantenha as pessoas candidatas informadas e engajadas durante todo o processo de triagem</li>
+          <li>Encontre o perfil ideal com menos vieses e mais diversidade</li>
+        </ul>
+        <div class="buttons">
+          <a href="/solucoes-para-rh/" class="button button--yellow">Conhecer as soluções</a>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+
+<section class="section section--compact">
+  <div class="container">
+    <div class="stack">
+      <div class="content text-center-desktop">
+        <h2 class="headline headline--size-2 color-brand-dark-blue">Uma experiência que encanta</h2>
+      </div>
+      <div class="grid" style="--gap: 2rem 4rem">
+        <div class="icon-with-text text-center-desktop">
+          <figure>
+            {{< svg src="/icons/fist-bump.svg" viewBox="0 0 165 164" class="icon" >}}
+          </figure>
+          <p>Conexão de pessoas e empresas com os mesmos valores</p>
+        </div>
+        <div class="icon-with-text text-center-desktop">
+          <figure>
+            {{< svg src="/icons/people.svg" viewBox="0 0 165 164" class="icon" >}}
+          </figure>
+          <p>Tudo 100% gratuito para pessoas candidatas</p>
+        </div>
+        <div class="icon-with-text text-center-desktop">
+          <figure>
+            {{< svg src="/icons/holding-phone.svg" viewBox="0 0 165 164" class="icon" >}}
+          </figure>
+          <p>Fortalecimento da sua marca empregadora através da melhor experiência do usuário</p>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+
+<section class="section section--small bg-lighter-blue">
+  <div class="container">
+    <div class="grid">
+      <div class="content" style="--col: span 5">
+        <picture class="image-offset image-offset--bottom image-offset--left">
+          <source media="(max-width: 1040px)" srcset="./gostou-vem-conhecer-mobile.png" width="600" height="628" />
+          <img src="./gostou-vem-conhecer.png" alt="Jovem tatuado utilizando o aplicativo da Bluy" width="589" height="522" loading="lazy" />
+        </picture>
+      </div>
+      <div class="content text-center-mobile" style="--col: span 4">
+        <h2 class="headline headline--size-2 color-brand-dark-blue">Gostou? Vem conhecer as:</h2>
+        <div class="buttons">
+          <a href="/solucoes-para-rh/" class="button button--primary">Soluções para RH</a>
+          <a href="/vagas-de-emprego/" class="button button--border-blue">Vagas de emprego</a>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>

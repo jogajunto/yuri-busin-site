@@ -1,0 +1,30 @@
+{
+  "tabWidth": 2,
+  "overrides": [
+    {
+      "files": ["*.html"],
+      "options": {
+        "bracketSameLine": true,
+        "goTemplateBracketSpacing": true,
+        "parser": "go-template",
+        "printWidth": 1000
+      }
+    },
+    {
+      "files": ["*.scss", "css"],
+      "options": {
+        "useTabs": true,
+        "tabWidth": 2,
+        "printWidth": 400
+      }
+    },
+    {
+      "files": ["*.js"],
+      "options": {
+        "useTabs": true,
+        "printWidth": 200,
+        "singleQuote": true
+      }
+    }
+  ]
+}

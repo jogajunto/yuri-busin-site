@@ -1,0 +1,49 @@
+.scrolling-box {
+	@include override-side-padding;
+	display: flex;
+	overflow-x: auto;
+	padding: 0 0 2rem;
+	scroll-snap-type: x mandatory;
+
+	&__wrapper {
+		display: flex;
+		align-items: stretch;
+		justify-content: center;
+		gap: 1rem;
+		min-width: min-content;
+
+		&::before,
+		&::after {
+			content: "";
+			width: $default-side-padding; // Workaround to add side padding inside scroll box
+		}
+	}
+
+	&--compact &__item {
+		min-width: inherit;
+		width: 16.5rem;
+	}
+
+	&__item {
+		background: map-get($colors, neutral-100);
+		width: 80vw;
+		scroll-snap-align: center;
+		border-radius: 1rem;
+		max-width: 580px;
+
+		> .box {
+			height: 100%;
+			overflow: hidden;
+		}
+	}
+
+	&__image--full-width {
+		@include override-side-padding;
+		border: 1px solid map-get($colors, border);
+		border-radius: $default-border-radius;
+
+		img {
+			border-radius: $default-border-radius;
+		}
+	}
+}

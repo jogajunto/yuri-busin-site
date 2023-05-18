@@ -1,5 +1,5 @@
 # Site settings
-baseURL: "https://yuribusin.com.br"
+baseURL: "/"
 title: "Dr. Yuri Busin"
 defaultContentLanguage: pt-br
 
@@ -7,23 +7,3 @@ defaultContentLanguage: pt-br
 enableRobotsTXT: yes
 disableHugoGeneratorInject: yes
 disableKinds: ["taxonomy", "taxonomyTerm"]
-
-# Menu
-menu:
-  main:
-    - name: Início
-      url: /
-      pageRef: "/"
-      weight: 10
-    - name: Soluções para RH
-      url: /solucoes-para-rh
-      pageRef: "solucoes-para-rh"
-      weight: 20
-    - name: Vagas de emprego
-      url: /vagas-de-emprego
-      pageRef: "vagas-de-emprego"
-      weight: 25
-    - name: Quem somos
-      url: /quem-somos
-      pageRef: "quem-somos"
-      weight: 30

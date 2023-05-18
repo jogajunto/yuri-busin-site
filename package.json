@@ -1,6 +1,6 @@
 {
   "version": "1.0.0",
-  "description": "Hugo Boilerplate",
+  "description": "Website by Jogajunto",
   "scripts": {
     "start": "hugo server",
     "build": "hugo -v --gc --minify"
@@ -8,18 +8,14 @@
   "author": "Matheus Carvalho <matheus@jogajunto.com.br>",
   "browserslist": "defaults",
   "license": "ISC",
-  "devDependencies": {
-    "autoprefixer": "^10.4.7",
-    "hugo-extended": "^0.101.0",
-    "postcss": "^8.4.14",
-    "postcss-cli": "^9.1.0",
-    "postcss-preset-env": "^7.7.2",
-    "prettier": "^2.7.1",
-    "prettier-plugin-go-template": "^0.0.13"
-  },
   "dependencies": {
-    "gsap": "^3.10.4",
-    "micromodal": "^0.4.10",
-    "van11y-accessible-tab-panel-aria": "^2.0.4"
+    "autoprefixer": "^10.4.14",
+    "hugo-extended": "^0.111.3",
+    "include-media": "^1.4.9",
+    "postcss-cli": "^10.1.0",
+    "postcss-preset-env": "^8.3.2",
+    "postcss": "^8.4.23",
+    "prettier": "^2.8.8",
+    "prettier-plugin-go-template": "^0.0.13"
   }
 }

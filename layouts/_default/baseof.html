@@ -4,10 +4,8 @@
     <meta charset="UTF-8" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover" />
-    <meta name="color-scheme" content="only light" />
-    <meta name="facebook-domain-verification" content="lo00gipjjeu7y9ztniiv7hqnfuugdq" />
 
-    <title>{{ if .IsHome }}{{ .Title }}{{ else }}{{ .Title }} - {{ .Site.Title }}{{ end }}</title>
+    <title>{{ if .IsHome }}{{ .Title }}{{ else }}{{ .Title }} | {{ .Site.Title }}{{ end }}</title>
     <meta name="description" content="{{ .Description }}" />
 
     {{ if .Params.noindex }}
@@ -17,11 +15,11 @@
     {{ $style := resources.Get "css/index.scss" | toCSS | minify | fingerprint "sha512" }}
     <link rel="stylesheet" href="{{ $style.Permalink }}" />
 
-    <link rel="preload" href="/fonts/nunito-bold.woff2" as="font" type="font/woff2" crossorigin />
-    <link rel="preload" href="/fonts/nunito-regular.woff2" as="font" type="font/woff2" crossorigin />
-    <link rel="preload" href="/fonts/nunito-semibold.woff2" as="font" type="font/woff2" crossorigin />
-    <link rel="preload" href="/fonts/nunitosans-bold.woff2" as="font" type="font/woff2" crossorigin />
-    <link rel="preload" href="/fonts/nunitosans-regular.woff2" as="font" type="font/woff2" crossorigin />
+    {{ $fonts := slice "" }}
+    {{ range $fonts }}
+      <link rel="preload" href="/fonts/{{ . }}.woff2" as="font" type="font/woff2" crossorigin />
+    {{ end }}
+
 
     <meta property="og:type" content="website" />
     <meta property="og:title" content="{{ if .IsHome }}{{ .Title }}{{ else }}{{ .Title }} - {{ .Site.Title }}{{ end }}" />
@@ -29,135 +27,30 @@
     <meta property="og:url" content="{{ .Permalink }}" />
     <meta property="og:image" content="{{ .Site.BaseURL }}/opengraph.png" />
 
-    <meta name="theme-color" content="#0635da" />
+    <meta name="theme-color" content="#FFFFFF" />
     <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png" />
     <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png" />
     <link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png" />
     <link rel="manifest" href="/site.webmanifest" />
     <link rel="canonical" href="{{ .Permalink }}" />
   </head>
-  <body id="body">
-    <a href="#main" class="button button--primary skip-to-main visually-hidden">Pular para o conteúdo</a>
+  <body class="body" id="body">
+    {{ partial "header.html" }}
 
-    <header class="header">
-      <div class="container">
-        <nav class="nav" data-dialog="closed">
-          <div class="nav__wrapper">
-            <a class="nav__brand" href="/" title="Página principal">
-              {{ partial "svg.html" (dict "class" "nav__brand__image nav__brand__image--colored" "viewBox" "0 0 62 33" "src" "/vectors/logo-bluy.svg") }}
-              {{ partial "svg.html" (dict "class" "nav__brand__image nav__brand__image--mono color-neutral-100" "viewBox" "0 0 62 33" "src" "/vectors/logo-bluy-mono.svg") }}
-              <span class="visually-hidden">Página principal</span>
-            </a>
-            <ul class="nav__list">
-              {{ $currentPage := . }}
-              {{ range .Site.Menus.main }}
-                <li class="nav__list__item">
-                  <a class="nav__list__link {{ if $currentPage.IsMenuCurrent "main" . }}nav__list__link--active{{ end }}" href="{{ .URL }}">{{ .Name }}</a>
-                </li>
-              {{ end }}
-              <li class="nav__list__item">
-                <details class="nav__list__details">
-                  <summary class="nav__list__link nav__list__link--summary">
-                    <span class="nav__list__link__text">Contato</span>
-                    {{ partial "svg.html" (dict "class" "nav__list__link__icon" "viewBox" "0 0 24 25" "src" "/icons/chevron-down.svg") }}
-                  </summary>
-                  <ul class="nav__list__details__list">
-                    <li class="nav__list__details__item">
-                      <a class="nav__list__details__link" href="/contato-para-empresas/">Para empresas</a>
-                    </li>
-                    <li class="nav__list__details__item">
-                      <a class="nav__list__details__link" href="https://help.bluy.com/hc/pt-br/sections/12476878467867-Sou-Candidato" target="_blank" rel="noopener">Para pessoas candidatas</a>
-                    </li>
-                  </ul>
-                </details>
-              </li>
-            </ul>
-            <button class="nav__toggle hidden-desktop" aria-haspopup="true" aria-expanded="false" title="Abrir/Fechar Menu">
-              {{ partial "svg.html" (dict "class" "nav__toggle__icon nav__toggle__icon--open color-green" "viewBox" "0 0 40 40" "src" "/icons/menu.svg") }}
-              {{ partial "svg.html" (dict "class" "nav__toggle__icon nav__toggle__icon--close color-neutral-100" "viewBox" "0 0 40 40" "src" "/icons/close.svg") }}
-            </button>
-          </div>
-        </nav>
-      </div>
-    </header>
 
-    <main id="main">
+    <main class="main" id="main">
       {{ block "main" . }}{{ end }}
     </main>
 
-    <footer class="footer">
-      <div class="container">
-        <div class="stack stack--expansive">
-          <ul class="grid" style="--gap: 4rem 3rem">
-            <li class="footer__menu content">
-              <h2 class="footer__menu__title headline headline--size-5">Bluy</h2>
-              <ul class="footer__menu__list stack stack--xsmall">
-                <li class="footer__menu__item"><a class="footer__menu__link" href="/quem-somos/">Quem somos</a></li>
-                <li class="footer__menu__item"><a class="footer__menu__link" href="https://bluy.com/bluyer" target="_blank" rel="noopener">Carreiras</a></li>
-                <li class="footer__menu__item"><a class="footer__menu__link" href="/imprensa/">Imprensa</a></li>
-              </ul>
-            </li>
-            <li class="footer__menu content">
-              <h2 class="footer__menu__title headline headline--size-5">Soluções para <abbr class="tooltip" aria-label="Recursos Humanos" tabindex="0">RH</abbr></h2>
-              <ul class="footer__menu__list stack stack--xsmall">
-                <li class="footer__menu__item"><a class="footer__menu__link" href="/solucoes-para-rh/">Recrutamento &amp; Seleção</a></li>
-                <li class="footer__menu__item"><a class="footer__menu__link" href="/contato-para-empresas/?subject=demonstracao">Agendar demonstração</a></li>
-                <li class="footer__menu__item"><a class="footer__menu__link" href="/contato-para-empresas/">Contato para empresas</a></li>
-              </ul>
-            </li>
-            <li class="footer__menu content">
-              <h2 class="footer__menu__title headline headline--size-5">Para pessoas candidatas</abbr></h2>
-              <ul class="footer__menu__list stack stack--xsmall">
-                <li class="footer__menu__item"><a class="footer__menu__link" href="/vagas-de-emprego/">Vagas de emprego</a></li>
-                <li class="footer__menu__item"><a class="footer__menu__link" href="https://bluy.com/bancodetalentos/banco-de-talentos-jobj" target="_blank" rel="noopener">Fazer cadastro gratuito</a></li>
-                <li class="footer__menu__item"><a class="footer__menu__link" href="https://help.bluy.com/hc/pt-br/sections/12476878467867-Sou-Candidato" target="_blank" rel="noopener">Central de ajuda</a></li>
-              </ul>
-            </li>
-            <li class="footer__menu content">
-              <h2 class="footer__menu__title headline headline--size-5">Transparência</h2>
-              <ul class="footer__menu__list stack stack--xsmall">
-                <li class="footer__menu__item"><a class="footer__menu__link" href="/politica-de-privacidade/">Política de Privacidade</a></li>
-                <li class="footer__menu__item"><a class="footer__menu__link" href="/termos-de-uso/">Termos de uso</a></li>
-              </ul>
-            </li>
-          </ul>
-          <div class="flex flex--space-between" style="--gap: 2rem">
-            <a class="footer__brand" href="/" title="Página principal">
-              {{ partial "svg.html" (dict "viewBox" "0 0 62 33" "src" "/uploads/bluy-mono.svg" "ariaLabel" "Bluy") }}
-              <span class="visually-hidden">Página principal</span>
-            </a>
-            <div class="footer__info">© {{ dateFormat "2006" now }} Bluy. Todos os direitos reservados.</div>
-          </div>
-        </div>
-      </div>
-      <a href="#body" class="button button--outline back-to-top visually-hidden">Voltar ao topo</a>
-    </footer>
-
+    {{ partial "footer.html" }}
 
     {{ $javascript := resources.Get "js/script.js" | js.Build "js/bundle.js" | resources.Minify }}
     {{ $secureJS := $javascript | resources.Fingerprint "sha512" }}
-
     <script src="{{ $secureJS.RelPermalink | safeURL }}" defer integrity="{{ $secureJS.Data.Integrity }}"></script>
 
+    <!-- Google Tag Manager  -->
     {{ if not (in (.Site.BaseURL | string) "localhost") }}
-      <!-- Google Tag Manager -->
-      <script>
-        (function (w, d, s, l, i) {
-          w[l] = w[l] || [];
-          w[l].push({ "gtm.start": new Date().getTime(), event: "gtm.js" });
-          var f = d.getElementsByTagName(s)[0],
-            j = d.createElement(s),
-            dl = l != "dataLayer" ? "&l=" + l : "";
-          j.async = true;
-          j.src = "https://www.googletagmanager.com/gtm.js?id=" + i + dl;
-          f.parentNode.insertBefore(j, f);
-        })(window, document, "script", "dataLayer", "GTM-WDR393D");
-      </script>
-      <!-- End Google Tag Manager -->
-      
-      <!-- Google Tag Manager (noscript) -->
-      <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-WDR393D" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
-      <!-- End Google Tag Manager (noscript) -->
     {{ end }}
+    <!-- End Google Tag Manager -->
   </body>
 </html>

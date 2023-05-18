@@ -1,5 +1,13 @@
 {
   "tabWidth": 2,
+  "useTabs": true,
+  "semi": true,
+  "singleQuote": true,
+  "trailingComma": "es5",
+  "bracketSpacing": true,
+  "arrowParens": "always",
+  "htmlWhitespaceSensitivity": "css",
+  "endOfLine": "lf",
   "overrides": [
     {
       "files": ["*.html"],
@@ -7,23 +15,19 @@
         "bracketSameLine": true,
         "goTemplateBracketSpacing": true,
         "parser": "go-template",
-        "printWidth": 1000
+        "printWidth": 0
       }
     },
     {
       "files": ["*.scss", "css"],
       "options": {
-        "useTabs": true,
-        "tabWidth": 2,
         "printWidth": 400
       }
     },
     {
       "files": ["*.js"],
       "options": {
-        "useTabs": true,
-        "printWidth": 200,
-        "singleQuote": true
+        "printWidth": 200
       }
     }
   ]

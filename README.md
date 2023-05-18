@@ -2,13 +2,11 @@
 
 > Website created using [Hugo Framework](https://gohugo.io/) (Static Page Generator).
 
-![yuribusin](https://www.yuribusin.com/opengraph.png)
-
 ## Installation & Usage
 
 ### ❗️ Prerequisites
 
-Before starting, you need to have [node](https://nodejs.org/en/download/) version 16.3.1 or higher installed.
+Before starting, you need to have [node](https://nodejs.org/en/download/) version 18.16 or higher installed.
 
 Next step, clone this repository and run:
 

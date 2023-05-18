@@ -1,0 +1,156 @@
+/*
+  With inspiration from:
+    - Josh W Comeau - https://courses.joshwcomeau.com/css-for-js/treasure-trove/010-global-styles/
+    - Andy Bell - https://piccalil.li/blog/a-modern-css-reset/
+    - Adam Argyle - https://unpkg.com/open-props@1.3.16/normalize.min.css / https://codepen.io/argyleink/pen/KKvRORE
+    - Elly Loel - https://ellyloel.com/
+  Notes:
+    - `:where()` is used to lower specificity for easy overriding.
+*/
+
+/* Remove default margin on everything */
+/* Remove default padding on everything */
+/* Calc `em` based line height, bigger line height for smaller font size and smaller line height for bigger font size: https://kittygiraudel.com/2020/05/18/using-calc-to-figure-out-optimal-line-height/ */
+* {
+	margin: 0;
+	padding: 0;
+	line-height: calc(0.25rem + 1em + 0.25rem);
+}
+
+/* Use a more-intuitive box-sizing model on everything */
+*,
+::before,
+::after {
+	box-sizing: border-box;
+}
+
+/* Remove border and set sensible defaults for backgrounds, on all elements except fieldset progress and meter */
+*:where(:not(fieldset, progress, meter)) {
+	border-width: 0;
+	border-style: solid;
+	background-origin: border-box;
+	background-repeat: no-repeat;
+}
+
+/* Allow percentage-based heights in the application */
+/* Making sure text size is only controlled by font-size */
+html {
+	block-size: 100%;
+	-webkit-text-size-adjust: none;
+}
+
+/* Improve text rendering */
+/* https://marco.org/2012/11/15/text-rendering-optimize-legibility */
+/* Allow percentage-based heights in the application */
+body {
+	-webkit-font-smoothing: antialiased;
+	text-rendering: optimizeSpeed;
+	min-block-size: 100%;
+}
+
+/* Improve media defaults */
+:where(img, svg, video, canvas, audio, iframe, embed, object, picture) {
+	display: block;
+}
+:where(img, svg, video) {
+	block-size: auto;
+	max-inline-size: 100%;
+}
+
+/* Remove stroke and set fill colour to the inherited font colour */
+:where(svg) {
+	stroke: none;
+	fill: currentColor;
+}
+
+/* Remove built-in form typography styles */
+:where(input, button, textarea, select),
+:where(input[type="file"])::-webkit-file-upload-button {
+	color: inherit;
+	font: inherit;
+	font-size: inherit;
+	letter-spacing: inherit;
+	word-spacing: inherit;
+}
+
+/* Change textarea resize to vertical only and block only if the browser supports that */
+:where(textarea) {
+	resize: vertical;
+}
+@supports (resize: block) {
+	:where(textarea) {
+		resize: block;
+	}
+}
+
+/* Avoid text overflows */
+:where(p, h1, h2, h3, h4, h5, h6) {
+	font-weight: normal;
+	overflow-wrap: break-word;
+}
+
+/* Remove default list styles */
+:where(ul, ol) {
+	list-style: none;
+}
+
+/* More readable underline style for anchor tags without a class. This could be set on anchor tags globally, but it can cause conflicts. */
+a:not([class]) {
+	text-decoration-skip-ink: auto;
+}
+
+/* Make it clear that interactive elements are interactive */
+:where(a[href], area, button, label[for], select, summary, [tabindex]:not([tabindex*="-"])) {
+	cursor: pointer;
+	touch-action: manipulation;
+}
+:where(input[type="file"]) {
+	cursor: auto;
+}
+:where(input[type="file"])::-webkit-file-upload-button,
+:where(input[type="file"])::file-selector-button {
+	cursor: pointer;
+}
+
+/* Make sure users can't select button text */
+:where(button, button[type], input[type="button"], input[type="submit"], input[type="reset"]),
+:where(input[type="file"])::-webkit-file-upload-button,
+:where(input[type="file"])::file-selector-button {
+	-webkit-tap-highlight-color: transparent;
+	-webkit-touch-callout: none;
+	user-select: none;
+	text-align: center;
+}
+
+/* Disabled cursor for disabled buttons */
+:where(button, button[type], input[type="button"], input[type="submit"], input[type="reset"])[disabled] {
+	cursor: not-allowed;
+}
+
+/* Remove default button styles and outline */
+:where(button) {
+	background-color: transparent;
+	border-style: none;
+	outline: none;
+}
+
+/* Remove default summary marker */
+summary {
+	list-style: none;
+	user-select: none;
+}
+summary::marker,
+summary::-webkit-details-marker {
+	display: none;
+}
+
+/* Make pictures have the same size as their parent */
+picture {
+	max-width: max-content;
+}
+
+/* Remove default blockquote styles */
+blockquote,
+cite {
+	font-style: normal;
+}

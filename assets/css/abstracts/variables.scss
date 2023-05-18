@@ -1,0 +1,72 @@
+:root {
+	// =============================================
+	// Colors
+	// =============================================
+
+	--content-on-light-primary: rgba(0, 0, 0, 1);
+	--content-on-light-secondary: rgba(40, 40, 40, 0.800000011920929);
+	--content-on-light-disabled: rgba(40, 40, 40, 0.5);
+
+	--content-on-dark-primary: rgba(255, 255, 255, 1);
+	--content-on-dark-secondary: rgba(255, 255, 255, 0.8);
+	--content-on-dark-disabled: rgba(255, 255, 255, 0.4);
+
+	--surface-light-background: rgba(255, 255, 255, 1);
+	--surface-light-surface-1: rgba(251, 251, 251, 1);
+	--surface-light-surface-2: rgba(245, 245, 245, 1);
+	--surface-light-stroke: rgba(0, 0, 0, 0.08);
+
+	--surface-dark-background: rgba(0, 0, 0, 1);
+	--surface-dark-surface-1: rgba(15, 15, 15, 1);
+	--surface-dark-surface-2: rgba(36, 36, 36, 1);
+	--surface-dark-stroke: rgba(255, 255, 255, 0.12);
+
+	--green-700: rgba(141, 198, 63, 1);
+	--green-800: rgba(113, 158, 50, 1);
+	--green-900: rgba(0, 0, 0, 1);
+
+	// =============================================
+	// Text
+	// =============================================
+
+	// 900, 400, 300, 500, 700
+	--default-font-family: "Archivo", sans-serif;
+
+	--display-xl: 6.5rem; // Equivalent to 104px
+	--display-lg: 5rem; // Equivalent to 80px
+	--display-md: 4rem; // Equivalent to 64px
+	--display-sm: 3rem; // Equivalent to 48px
+
+	--headline--lg: 2.5rem; // Equivalent to 40px
+	--headline-lg: 2.25rem; // Equivalent to 36px
+	--headline-md: 2rem; // Equivalent to 32px
+	--headline-sm: 1.5rem; // Equivalent to 24px
+	--headline--xs: 1.12rem; // Equivalent to 18px
+
+	--paragraph--xl: 1.75rem; // Equivalent to 28px
+	--paragraph-lg: 1.25rem; // Equivalent to 20px
+	--paragraph-md: 1rem; // Equivalent to 16px
+	--paragraph-sm: 0.75rem; // Equivalent to 12px
+
+	--button-md: 1rem; // Equivalent to 16px
+	--overline-md: 1rem; // Equivalent to 16px
+	--overline-sm: 0.75rem; // Equivalent to 12px
+	--label-lg: 1.25rem; // Equivalent to 20px
+	--label-md: 1rem; // Equivalent to 16px
+	--label-sm: 0.88rem; // Equivalent to 14px
+	--label--sm: 0.62rem; // Equivalent to 10px
+
+	// =============================================
+	// Spacing
+	// =============================================
+
+	--spacing-xxxl: 17rem; // Equivalent to 272px
+	--spacing-xxl: 6.5rem; // Equivalent to 104px
+	--spacing-xl: 4rem; // Equivalent to 64px
+	--spacing-lg: 2.5rem; // Equivalent to 40px
+	--spacing-md: 1.5rem; // Equivalent to 24px
+	--spacing-sm: 1rem; // Equivalent to 16px
+	--spacing-xs: 0.5rem; // Equivalent to 8px
+	--spacing-xxs: 0.25rem; // Equivalent to 4px
+	--side-spacing: var(--spacing-md);
+}

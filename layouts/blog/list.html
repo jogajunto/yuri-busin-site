@@ -1,0 +1,21 @@
+{{ define "main" }}
+	{{ $paginator := .Paginate (where .Site.Pages "Type" "post") }}
+
+	<section>
+		<h2>Destaques</h2>
+		{{ if eq .Paginator.PageNumber 1 }}
+			{{ $featuredPosts := where .Site.RegularPages "Params.featured" "==" true }}
+			{{ range first 2 $featuredPosts }}
+				{{ .Render "card" }}
+			{{ end }}
+		{{ end }}
+	</section>
+
+	<section>
+		<h2>Recentes</h2>
+		{{ range .Paginator.Pages }}
+			{{ .Render "card" }}
+			{{ partial "pagination.html" . }}
+		{{ end }}
+	</section>
+{{ end }}

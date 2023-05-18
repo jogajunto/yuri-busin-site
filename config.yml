@@ -1,9 +1,10 @@
 # Site settings
-baseURL: "/"
-title: "Dr. Yuri Busin"
+baseURL: '/'
+title: 'Dr. Yuri Busin'
 defaultContentLanguage: pt-br
 
 # Build settings
 enableRobotsTXT: yes
 disableHugoGeneratorInject: yes
-disableKinds: ["taxonomy", "taxonomyTerm"]
+disableKinds: ['taxonomy', 'taxonomyTerm']
+paginate: 6

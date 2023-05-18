@@ -1,0 +1,4 @@
+body {
+	@include paragraph(lg);
+	font-family: var(--default-font-family);
+}

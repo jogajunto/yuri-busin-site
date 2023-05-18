@@ -1,0 +1,41 @@
+.text {
+	&-xl {
+		@include paragraph(xl);
+	}
+
+	&-lg {
+		@include paragraph(lg);
+	}
+
+	&-md {
+		@include paragraph(md);
+	}
+
+	&-sm {
+		@include paragraph(sm);
+	}
+
+	&-light {
+		font-weight: 300;
+	}
+
+	&-regular {
+		font-weight: 400;
+	}
+
+	&-bold {
+		font-weight: 700;
+	}
+
+	&-black {
+		font-weight: 900;
+	}
+
+	&-center {
+		text-align: center;
+	}
+
+	&-right {
+		text-align: right;
+	}
+}

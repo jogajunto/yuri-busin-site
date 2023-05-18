@@ -1,8 +1,16 @@
 @import 'node_modules/include-media/dist/_include-media';
 
 @import './abstracts/variables';
+@import './abstracts/mixins';
+@import './abstracts/breakpoints';
 
 @import './base/reset';
 @import './base/fonts';
 @import './base/global';
 @import './base/a11y';
+
+@import './components/display';
+@import './components/heading';
+@import './components/label';
+@import './components/overline';
+@import './components/text';

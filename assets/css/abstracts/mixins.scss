@@ -1,0 +1,18 @@
+@mixin fill-side-padding {
+	min-width: calc(100% + var(--side-padding) * 2);
+	position: relative;
+	left: calc(var(--side-padding) * -1);
+}
+
+@mixin paragraph($size) {
+	font-size: var(--paragraph-#{$size});
+	line-height: 1.5;
+
+	@if $size == lg {
+		line-height: 1.4;
+	}
+
+	@if $size == xl {
+		line-height: 1.3;
+	}
+}

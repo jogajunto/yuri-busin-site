@@ -1,0 +1,54 @@
+.button {
+  padding: 12px 20px;
+  text-decoration: none;
+  text-transform: uppercase;
+  font-size: var(--button-md);
+  border-radius: 8px;
+  position: relative;
+
+  &--green {
+    background: var(--green-700);
+    color: var(--content-on-light-primary);
+
+    &:hover {
+      background: var(--green-800);
+    }
+
+    &:focus {
+      outline-offset: 1rem;
+      border: 2px dashed var(--content-on-light-primary);
+    }
+  }
+
+  &--right {
+    padding-right: 40px;
+  }
+
+  &--left {
+    padding-left: 40px;
+  }
+
+  &--right::after {
+    content: "";
+    background: url('https://cdn-icons-png.flaticon.com/512/109/109617.png') no-repeat center/contain;
+    width: 20px;
+    height: 20px;
+    position: absolute;
+    right: 10px;
+    top: 50%;
+    transform: translateY(-50%);
+    z-index: 2;
+  }
+
+  &--left::before {
+    content: "";
+    background: url('https://cdn-icons-png.flaticon.com/512/2223/2223615.png') no-repeat center/contain;
+    width: 20px;
+    height: 20px;
+    position: absolute;
+    left: 10px;
+    top: 50%;
+    transform: translateY(-50%);
+    z-index: 2;
+  }
+}

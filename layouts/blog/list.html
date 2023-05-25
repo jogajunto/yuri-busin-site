@@ -3,23 +3,28 @@
 
 
 	<section>
-		<h2>Destaques</h2>
-		{{ if eq .Paginator.PageNumber 1 }}
-			{{ $featuredPosts := where .Site.RegularPages "Params.featured" "==" true }}
-			{{ range first 2 $featuredPosts }}
-				{{ .Render "card" }}
+		<div class="container">
+			<h2>Destaques</h2>
+			{{ if eq .Paginator.PageNumber 1 }}
+				{{ $featuredPosts := where .Site.RegularPages "Params.featured" "==" true }}
+				<div class="grid">
+					{{ range first 2 $featuredPosts }}
+						{{ .Render "card" }}
+					{{ end }}
+				</div>
 			{{ end }}
-		{{ end }}
+		</div>
 	</section>
 
 	<section>
-		<h2>Recentes</h2>
-		<span class="tag tag--grey">Evento</span>
-		<a href="" class="button button--green ">Ver publicações recentes</a>
-		{{ range .Paginator.Pages }}
-			{{ .Render "card" }}
+		<div class="container">
+			<h2>Recentes</h2>
+			<div class="grid">
+				{{ range .Paginator.Pages }}
+					{{ .Render "card" }}
+				{{ end }}
+			</div>
 			{{ partial "pagination.html" . }}
-		{{ end }}
-
+		</div>
 	</section>
 {{ end }}

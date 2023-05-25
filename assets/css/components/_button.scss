@@ -1,68 +1,68 @@
 .button {
-  padding: 12px 20px;
-  text-decoration: none;
-  text-transform: uppercase;
-  font-size: var(--button-md);
-  border-radius: 8px;
-  position: relative;
-  border: 2px solid transparent;
+	border-radius: 8px;
+	border: 2px solid transparent;
+	display: inline-block;
+	font-size: var(--button-md);
+	padding: 0.75em 1.25em;
+	position: relative;
+	text-decoration: none;
+	text-transform: uppercase;
 
-  &--green {
-    background: var(--green-700);
-    color: var(--content-on-light-primary);
+	&--green {
+		background: var(--green-700);
+		color: var(--content-on-light-primary);
 
-    &:hover {
-      background: var(--green-800);
-    }
+		&:hover {
+			background: var(--green-800);
+		}
 
-    &:focus {
-      outline-offset: 1rem;
-      border: 2px dashed var(--content-on-light-primary);
-    }
-  }
+		&:focus {
+			outline-offset: 1rem;
+			border: 2px dashed var(--content-on-light-primary);
+		}
+	}
 
-  &--right {
-    padding-right: 40px;
-  }
+	&--right {
+		padding-right: 40px;
+	}
 
-  &--left {
-    padding-left: 40px;
-  }
+	&--left {
+		padding-left: 40px;
+	}
 
-  &--right::after {
-    content: "";
-    background: url('/vectors/arrow-right.svg') no-repeat center/contain;
-    width: 20px;
-    height: 20px;
-    position: absolute;
-    right: 10px;
-    top: 50%;
-    transform: translateY(-50%);
-    z-index: 2;
-  }
+	&--right::after {
+		content: '';
+		background: url('/vectors/arrow-right.svg') no-repeat center/contain;
+		width: 20px;
+		height: 20px;
+		position: absolute;
+		right: 10px;
+		top: 50%;
+		transform: translateY(-50%);
+		z-index: 2;
+	}
 
-  &--left::before {
-    content: "";
-    background: url('/vectors/arrow-left.svg') no-repeat center/contain;
-    width: 20px;
-    height: 20px;
-    position: absolute;
-    left: 10px;
-    top: 50%;
-    transform: translateY(-50%);
-    z-index: 2;
-  }
-  
-  &--negative {
-    background: transparent;
-    border-bottom: 2px solid var(--content-on-dark-primary);
-    color: var(--content-on-dark-primary);
-    border-radius: none;
-    
-    &:hover {
-      border: 2px solid var(--green-800);
-      background: transparent;
-    }
-  }
+	&--left::before {
+		content: '';
+		background: url('/vectors/arrow-left.svg') no-repeat center/contain;
+		width: 20px;
+		height: 20px;
+		position: absolute;
+		left: 10px;
+		top: 50%;
+		transform: translateY(-50%);
+		z-index: 2;
+	}
 
+	&--negative {
+		background: transparent;
+		border-bottom: 2px solid var(--content-on-dark-primary);
+		color: var(--content-on-dark-primary);
+		border-radius: none;
+
+		&:hover {
+			border: 2px solid var(--green-800);
+			background: transparent;
+		}
+	}
 }

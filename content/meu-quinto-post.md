@@ -4,8 +4,7 @@ description: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam eu t
 image: https://yuribusin.com.br/blog/como-e-o-tratamento-para-ansiedade-na-terapia-cognitivo-comportamental.jpg
 date: 2023-04-01
 featured: true
-categories:
-  - Cotidiano
+category: Cotidiano
 type: post
 ---
 

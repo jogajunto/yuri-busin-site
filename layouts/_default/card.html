@@ -1,1 +1,18 @@
-<div><a href="{{ .RelPermalink }}">{{ .Title }}</a></div>
+<article class="card">
+	<header class="card__header">
+		<img src="{{ .Params.image }}" alt="{{ .Title }}" />
+	</header>
+	<section class="card__body">
+		<div class="stack-sm">
+			<span class="tag tag--negative">{{ .Params.category }}</span>
+			<h2 class="heading heading--sm">{{ .Title }}</h2>
+		</div>
+	</section>
+	<footer class="card__footer">
+		<div class="icon-with-label">
+			{{ partial "svg.html" (dict "viewBox" "0 0 24 24" "src" "/icons/clock-circle.svg" "class" "icon") }}
+			<div class="label-md">8 minutos</div>
+		</div>
+		<a class="button button--green" href="{{ .RelPermalink }}">Ler</a>
+	</footer>
+</article>

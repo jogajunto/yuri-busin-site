@@ -1,0 +1,25 @@
+$stackSizes: xxs, xs, sm, md, lg, xl, xxl;
+
+@each $size in $stackSizes {
+	.stack-#{$size} > * + * {
+		margin-top: var(--spacing-#{$size});
+	}
+
+	@include media('>desktop') {
+		.stack-#{$size}-at-desktop > * + * {
+			margin-top: var(--spacing-#{$size});
+		}
+	}
+
+	@include media('>tablet', '<=desktop') {
+		.stack-#{$size}-at-tablet > * + * {
+			margin-top: var(--spacing-#{$size});
+		}
+	}
+
+	@include media('<=tablet') {
+		.stack-#{$size}-at-phone > * + * {
+			margin-top: var(--spacing-#{$size});
+		}
+	}
+}

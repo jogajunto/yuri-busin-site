@@ -12,13 +12,13 @@
 	--content-on-dark-disabled: rgba(255, 255, 255, 0.4);
 
 	--surface-light-background: rgba(255, 255, 255, 1);
-	--surface-light-surface-1: rgba(251, 251, 251, 1);
-	--surface-light-surface-2: rgba(245, 245, 245, 1);
+	--surface-light-1: rgba(251, 251, 251, 1);
+	--surface-light-2: rgba(245, 245, 245, 1);
 	--surface-light-stroke: rgba(0, 0, 0, 0.08);
 
 	--surface-dark-background: rgba(0, 0, 0, 1);
-	--surface-dark-surface-1: rgba(15, 15, 15, 1);
-	--surface-dark-surface-2: rgba(36, 36, 36, 1);
+	--surface-dark-1: rgba(15, 15, 15, 1);
+	--surface-dark-2: rgba(36, 36, 36, 1);
 	--surface-dark-stroke: rgba(255, 255, 255, 0.12);
 
 	--green-700: rgba(141, 198, 63, 1);
@@ -54,7 +54,7 @@
 	--label-lg: 1.25rem; // Equivalent to 20px
 	--label-md: 1rem; // Equivalent to 16px
 	--label-sm: 0.88rem; // Equivalent to 14px
-	--label--sm: 0.62rem; // Equivalent to 10px
+	--label-xs: 0.62rem; // Equivalent to 10px
 
 	// =============================================
 	// Spacing
@@ -69,4 +69,13 @@
 	--spacing-xs: 0.5rem; // Equivalent to 8px
 	--spacing-xxs: 0.25rem; // Equivalent to 4px
 	--side-spacing: var(--spacing-md);
+
+	// =============================================
+	// Radius
+	// =============================================
+
+	--radius-lg: 1rem; // Equivalent to 16px
+	--radius-md: 0.5rem; // Equivalent to 8px
+	--radius-sm: 0.25rem; // Equivalent to 4px
+	--radius-xs: 0.125rem; // Equivalent to 2px
 }

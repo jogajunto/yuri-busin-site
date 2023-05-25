@@ -1,18 +1,18 @@
 .tag {
-  display: inline-block;
-  background-color: transparent;
-  color: inherit;
-  border: 2px solid;
-  border-radius: 4px;
-  padding: 2px 4px;
+	border-radius: var(--radius-xs);
+	border-style: 2px;
+	border-width: 2px;
+	display: inline-block;
+	padding: 0.25em 0.5em;
+	font-size: var(--label-sm);
 
-  &--white {
-    border-color: var(--content-on-light-primary);
-    color: var(--content-on-light-primary);
-  }
+	&--positive {
+		border-color: var(--content-on-light-primary);
+		color: var(--content-on-light-primary);
+	}
 
-  &--grey {
-    border-color: var(--content-on-dark-primary);
-    color: var(--content-on-dark-primary);
-  }
+	&--negative {
+		border-color: var(--content-on-dark-primary);
+		color: var(--content-on-dark-primary);
+	}
 }

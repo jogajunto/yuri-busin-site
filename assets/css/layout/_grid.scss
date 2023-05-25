@@ -1,0 +1,10 @@
+.grid {
+	--gapX: var(--spacing-md);
+	--gapY: var(--spacing-md);
+	--gap: var(--gapY) var(--gapX);
+	--min-column-size: 20rem;
+
+	display: grid;
+	grid-template-columns: repeat(auto-fit, minmax(var(--min-column-size), 1fr));
+	grid-gap: var(--gap);
+}

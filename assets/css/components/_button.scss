@@ -5,6 +5,7 @@
   font-size: var(--button-md);
   border-radius: 8px;
   position: relative;
+  border: 2px solid transparent;
 
   &--green {
     background: var(--green-700);
@@ -30,7 +31,7 @@
 
   &--right::after {
     content: "";
-    background: url('https://cdn-icons-png.flaticon.com/512/109/109617.png') no-repeat center/contain;
+    background: url('/vectors/arrow-right.svg') no-repeat center/contain;
     width: 20px;
     height: 20px;
     position: absolute;
@@ -42,7 +43,7 @@
 
   &--left::before {
     content: "";
-    background: url('https://cdn-icons-png.flaticon.com/512/2223/2223615.png') no-repeat center/contain;
+    background: url('/vectors/arrow-left.svg') no-repeat center/contain;
     width: 20px;
     height: 20px;
     position: absolute;
@@ -51,4 +52,17 @@
     transform: translateY(-50%);
     z-index: 2;
   }
+  
+  &--negative {
+    background: transparent;
+    border-bottom: 2px solid var(--content-on-dark-primary);
+    color: var(--content-on-dark-primary);
+    border-radius: none;
+    
+    &:hover {
+      border: 2px solid var(--green-800);
+      background: transparent;
+    }
+  }
+
 }

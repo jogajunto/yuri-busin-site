@@ -1,6 +1,7 @@
 {{ define "main" }}
 	{{ $paginator := .Paginate (where .Site.Pages "Type" "post") }}
 
+
 	<section>
 		<h2>Destaques</h2>
 		{{ if eq .Paginator.PageNumber 1 }}
@@ -13,9 +14,12 @@
 
 	<section>
 		<h2>Recentes</h2>
+		<span class="tag tag--grey">Evento</span>
+		<a href="" class="button button--green ">Ver publicações recentes</a>
 		{{ range .Paginator.Pages }}
 			{{ .Render "card" }}
 			{{ partial "pagination.html" . }}
 		{{ end }}
+
 	</section>
 {{ end }}

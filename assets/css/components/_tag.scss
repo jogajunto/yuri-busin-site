@@ -1,0 +1,18 @@
+.tag {
+  display: inline-block;
+  background-color: transparent;
+  color: inherit;
+  border: 2px solid;
+  border-radius: 4px;
+  padding: 2px 4px;
+
+  &--white {
+    border-color: var(--content-on-light-primary);
+    color: var(--content-on-light-primary);
+  }
+
+  &--grey {
+    border-color: var(--content-on-dark-primary);
+    color: var(--content-on-dark-primary);
+  }
+}

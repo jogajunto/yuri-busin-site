@@ -94,6 +94,11 @@ body {
 	list-style: none;
 }
 
+/* Remove default color styles */
+a {
+	color: currentColor;
+}
+
 /* More readable underline style for anchor tags without a class. This could be set on anchor tags globally, but it can cause conflicts. */
 a:not([class]) {
 	text-decoration-skip-ink: auto;

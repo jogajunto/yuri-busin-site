@@ -13,5 +13,10 @@ img {
 }
 
 a {
-	color: currentColor;
+	text-decoration: none;
+	transition: color 0.3s ease-in-out;
+
+	&:hover {
+		color: var(--content-on-dark-secondary);
+	}
 }

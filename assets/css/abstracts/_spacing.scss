@@ -1,0 +1,31 @@
+$spacing-sizes: xxxl, xxl, xl, lg, md, sm, xs, xxs, xxs, xxs, 0;
+
+@mixin generate-spacing-query($direction, $size) {
+	.spacing-#{$direction}-#{$size} {
+		padding-#{$direction}: $size;
+	}
+
+	@include media('>desktop') {
+		.spacing-#{$direction}-#{$size}-at-destkop {
+			padding-#{$direction}: $size;
+		}
+	}
+
+	@include media('>tablet') {
+		.spacing-#{$direction}-#{$size}-at-tablet {
+			padding-#{$direction}: $size;
+		}
+	}
+
+	@include media('<tablet') {
+		.spacing-#{$direction}-#{$size}-at-phone {
+			padding-#{$direction}: $size;
+		}
+	}
+}
+
+@each $direction in top, bottom {
+	@each $size in $spacing-sizes {
+		@include generate-spacing-query($direction, $size);
+	}
+}

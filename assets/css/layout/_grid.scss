@@ -1,10 +1,44 @@
-.grid {
+$columns: 12;
+
+:where(.grid) {
 	--gapX: var(--spacing-md);
 	--gapY: var(--spacing-md);
 	--gap: var(--gapY) var(--gapX);
-	--min-column-size: 20rem;
 
 	display: grid;
-	grid-template-columns: repeat(auto-fit, minmax(var(--min-column-size), 1fr));
+	grid-template-columns: repeat(var(--columns), 1fr);
 	grid-gap: var(--gap);
+}
+
+:where(.column) {
+	width: 100%;
+	grid-column: span var(--columns);
+}
+
+@mixin generate-media-query($device, $columnsByDevice) {
+	.grid {
+		--columns: #{$columnsByDevice};
+	}
+
+	.reverse-at-#{$device} {
+		@include reverse-grid-columns;
+	}
+
+	@for $i from 1 through $columnsByDevice {
+		.column-#{$i}-at-#{$device} {
+			grid-column: span $i;
+		}
+	}
+}
+
+@include media('>desktop') {
+	@include generate-media-query('desktop', $columns);
+}
+
+@include media('>tablet', '<=desktop') {
+	@include generate-media-query('tablet', $columns / 2);
+}
+
+@include media('<=tablet') {
+	@include generate-media-query('phone', $columns / 6);
 }

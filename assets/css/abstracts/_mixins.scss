@@ -24,3 +24,49 @@
 		line-height: 1.3;
 	}
 }
+
+@mixin generate-text-aligner($aligner) {
+	text-align: #{$aligner};
+
+	@include media('>desktop') {
+		&-at-desktop {
+			text-align: #{$aligner};
+		}
+	}
+
+	@include media('>tablet') {
+		&-at-tablet {
+			text-align: #{$aligner};
+		}
+	}
+
+	@include media('<tablet') {
+		&-at-phone {
+			text-align: #{$aligner};
+		}
+	}
+}
+
+@mixin generate-spacing-query($direction, $size) {
+	.spacing-#{$direction}-#{$size} {
+		padding-#{$direction}: $size;
+	}
+
+	@include media('>desktop') {
+		.spacing-#{$direction}-#{$size}-at-destkop {
+			padding-#{$direction}: $size;
+		}
+	}
+
+	@include media('>tablet') {
+		.spacing-#{$direction}-#{$size}-at-tablet {
+			padding-#{$direction}: $size;
+		}
+	}
+
+	@include media('<tablet') {
+		.spacing-#{$direction}-#{$size}-at-phone {
+			padding-#{$direction}: $size;
+		}
+	}
+}

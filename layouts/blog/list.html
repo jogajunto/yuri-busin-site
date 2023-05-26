@@ -4,9 +4,9 @@
 	{{ if eq .Paginator.PageNumber 1 }}
 		<section class="section blog-hero">
 			<div class="container">
-				<div class="grid reverse-at-desktop" style="--gapY: var(--spacing-xl)">
+				<div class="grid reverse-at-desktop" style="--gapY: var(--spacing-lg)">
 					<div class="column column-6-at-desktop">
-						<div class="stack-lg">
+						<div class="stack-lg text-center text-left-at-desktop">
 							<h1 class="display display--lg">Blog</h1>
 							<p class="text-xl text-light">Lorem ipsum dolor sit amet consectetur adipisicing elit. Totam unde laudantium minima expedita, modi magni?</p>
 							<a href="#publicacoes" class="button button--negative">Ver publicações recentes</a>
@@ -37,6 +37,7 @@
 			</div>
 		</section>
 	{{ end }}
+
 
 	<section class="section" id="publicacoes">
 		<div class="container">

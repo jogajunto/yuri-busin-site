@@ -32,10 +32,14 @@
 	}
 
 	&-center {
-		text-align: center;
+		@include generate-text-aligner(center);
 	}
 
 	&-right {
-		text-align: right;
+		@include generate-text-aligner(right);
+	}
+
+	&-left {
+		@include generate-text-aligner(left);
 	}
 }

@@ -4,6 +4,14 @@
 	left: calc(var(--side-padding) * -1);
 }
 
+@mixin reverse-grid-columns {
+	direction: rtl;
+
+	& > * {
+		direction: ltr;
+	}
+}
+
 @mixin paragraph($size) {
 	font-size: var(--paragraph-#{$size});
 	line-height: 1.5;

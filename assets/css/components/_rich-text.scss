@@ -23,6 +23,14 @@
 		border-radius: var(--radius-md);
 	}
 
+	a {
+		color: var(--green-700);
+
+		&:hover {
+			color: var(--green-800);
+		}
+	}
+
 	blockquote {
 		@extend .blockquote;
 	}

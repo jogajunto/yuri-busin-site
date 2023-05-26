@@ -64,4 +64,24 @@
 			</div>
 		</div>
 	</article>
+
+	<section class="section">
+		<div class="container">
+			<div class="stack-xl">
+				<div class="text-center">
+					<h2 class="heading heading--lg">Últimas publicações</h2>
+				</div>
+				<div class="grid" style="--gapX: var(--spacing-md)">
+					{{ $relatedPosts := where site.RegularPages "Type" "in" "post" }}
+					{{ $relatedPosts = where $relatedPosts "Permalink" "!=" .Permalink }}
+					{{ $relatedPosts = first 3 $relatedPosts }}
+					{{ range $relatedPosts }}
+						<div class="column column-4-at-desktop column-3-at-tablet">
+							{{ .Render "card" }}
+						</div>
+					{{ end }}
+				</div>
+			</div>
+		</div>
+	</section>
 {{ end }}

@@ -1,4 +1,6 @@
 .article {
+	padding: 0 var(--side-spacing);
+
 	&__header {
 		display: grid;
 		align-content: flex-end;
@@ -18,6 +20,22 @@
 		}
 	}
 
+	&__image {
+		margin: 0;
+		width: 100%;
+		height: 100%;
+		object-fit: cover;
+		position: absolute;
+		inset: 0;
+		z-index: -2;
+	}
+
+	&__info {
+		display: flex;
+		justify-content: center;
+		gap: 1.5em;
+	}
+
 	&__layout {
 		display: grid;
 		grid-template-columns: 8rem 1fr 8rem;
@@ -33,21 +51,5 @@
 
 	&__content {
 		order: 2;
-	}
-
-	&__info {
-		display: flex;
-		justify-content: center;
-		gap: 1.5em;
-	}
-
-	&__image {
-		margin: 0;
-		width: 100%;
-		height: 100%;
-		object-fit: cover;
-		position: absolute;
-		inset: 0;
-		z-index: -2;
 	}
 }

@@ -20,6 +20,7 @@
 		&:hover {
 			background: var(--green-800);
 			border-color: var(--green-800);
+			color: var(--content-on-light-primary);
 		}
 	}
 
@@ -50,6 +51,7 @@
 		&:hover {
 			border-radius: var(--radius-md);
 			border-color: var(--green-700);
+			color: var(--content-on-dark-secondary);
 		}
 	}
 }

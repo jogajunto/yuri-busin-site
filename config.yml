@@ -1,5 +1,5 @@
 # Site settings
-baseURL: '/'
+baseURL: 'https://yuri-busin-site.pages.dev/'
 title: 'Dr. Yuri Busin'
 defaultContentLanguage: pt-br
 

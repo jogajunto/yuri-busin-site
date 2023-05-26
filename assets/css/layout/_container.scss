@@ -2,5 +2,29 @@
 	margin-left: auto;
 	margin-right: auto;
 	width: 100%;
-	max-width: 71.25rem;
+	max-width: var(--container-xl);
+
+	&--xxl {
+		max-width: var(--container-xxl);
+	}
+
+	&--xl {
+		max-width: var(--container-xl);
+	}
+
+	&--lg {
+		max-width: var(--container-lg);
+	}
+
+	&--md {
+		max-width: var(--container-md);
+	}
+
+	&--sm {
+		max-width: var(--container-sm);
+	}
+
+	&--xs {
+		max-width: var(--container-xs);
+	}
 }

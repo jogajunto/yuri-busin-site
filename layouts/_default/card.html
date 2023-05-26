@@ -1,6 +1,6 @@
 <article class="card">
 	<header class="card__header">
-		<img src="{{ .Params.image }}" alt="{{ .Title }}" />
+		<img src="{{ .Params.image }}" alt="{{ .Title }}" loading="lazy" />
 	</header>
 	<section class="card__body">
 		<div class="stack-sm">
@@ -11,7 +11,7 @@
 	<footer class="card__footer">
 		<div class="icon-with-label">
 			{{ partial "svg.html" (dict "viewBox" "0 0 24 24" "src" "/icons/clock-circle.svg" "class" "icon") }}
-			<div class="label-md">8 minutos</div>
+			<p class="label-md">{{ .ReadingTime }} minuto{{ if (ne .ReadingTime 1) }}s{{ end }}</p>
 		</div>
 		<a class="button button--green" href="{{ .RelPermalink }}">Ler</a>
 	</footer>

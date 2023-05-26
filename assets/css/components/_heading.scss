@@ -2,27 +2,27 @@
 	font-weight: 900;
 	letter-spacing: -1px;
 
-	&-xl {
+	&--xl {
 		font-size: var(--heading-xl);
 		line-height: 1.05;
 	}
 
-	&-lg {
+	&--lg {
 		font-size: var(--heading-lg);
 		line-height: 1.1;
 	}
 
-	&-md {
+	&--md {
 		font-size: var(--heading-md);
 		line-height: 1.15;
 	}
 
-	&-sm {
+	&--sm {
 		font-size: var(--heading-sm);
 		line-height: 1.2;
 	}
 
-	&-xs {
+	&--xs {
 		font-size: var(--heading-xs);
 		line-height: 1.2;
 	}

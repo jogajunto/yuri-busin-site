@@ -2,14 +2,33 @@
 	{{ $paginator := .Paginate (where .Site.Pages "Type" "post") }}
 
 	{{ if eq .Paginator.PageNumber 1 }}
-		<section class="section">
+		<section class="section blog-hero">
+			<div class="container">
+				<div class="grid reverse-at-desktop" style="--gapY: var(--spacing-xl)">
+					<div class="column column-6-at-desktop">
+						<div class="stack-lg">
+							<h1 class="display display--lg">Blog</h1>
+							<p class="text-xl text-light">Lorem ipsum dolor sit amet consectetur adipisicing elit. Totam unde laudantium minima expedita, modi magni?</p>
+							<a href="#publicacoes" class="button button--negative">Ver publicações recentes</a>
+						</div>
+					</div>
+					<div class="column column-6-at-desktop">
+						<picture>
+							<img src="/yuri-busin.webp" alt="Dr. Yuri Busin" loading="lazy" />
+						</picture>
+					</div>
+				</div>
+			</div>
+		</section>
+
+		<section class="section section-bottom-0">
 			<div class="container">
 				<div class="stack-lg">
 					<div class="text-center">
 						<h2 class="heading heading--md">Publicações em destaque</h2>
 					</div>
 					{{ $featuredPosts := where .Site.RegularPages "Params.featured" "==" true }}
-					<div class="grid">
+					<div class="feed">
 						{{ range first 2 $featuredPosts }}
 							{{ .Render "card" }}
 						{{ end }}
@@ -19,7 +38,8 @@
 		</section>
 	{{ end }}
 
-	<section class="section">
+
+	<section class="section" id="publicacoes">
 		<div class="container">
 			<div class="stack-lg">
 				<div class="text-center">
@@ -33,7 +53,7 @@
 					</div>
 				</div>
 				{{ $featuredPosts := where .Site.RegularPages "Params.featured" "==" true }}
-				<div class="grid">
+				<div class="feed">
 					{{ range .Paginator.Pages }}
 						{{ .Render "card" }}
 					{{ end }}

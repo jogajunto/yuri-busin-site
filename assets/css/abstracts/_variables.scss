@@ -37,11 +37,11 @@
 	--display-md: 4rem; // Equivalent to 64px
 	--display-sm: 3rem; // Equivalent to 48px
 
-	--headline--lg: 2.5rem; // Equivalent to 40px
-	--headline-lg: 2.25rem; // Equivalent to 36px
-	--headline-md: 2rem; // Equivalent to 32px
-	--headline-sm: 1.5rem; // Equivalent to 24px
-	--headline--xs: 1.12rem; // Equivalent to 18px
+	--heading-xl: 2.5rem; // Equivalent to 40px
+	--heading-lg: 2.25rem; // Equivalent to 36px
+	--heading-md: 2rem; // Equivalent to 32px
+	--heading-sm: 1.5rem; // Equivalent to 24px
+	--heading--xs: 1.12rem; // Equivalent to 18px
 
 	--paragraph-xl: 1.75rem; // Equivalent to 28px
 	--paragraph-lg: 1.25rem; // Equivalent to 20px
@@ -69,6 +69,16 @@
 	--spacing-xs: 0.5rem; // Equivalent to 8px
 	--spacing-xxs: 0.25rem; // Equivalent to 4px
 	--side-spacing: var(--spacing-md);
+
+	// =============================================
+	// Container
+	// =============================================
+
+	--container-xxl: 84rem; // Equivalent to 1240px
+	--container-xl: 71.25rem; // Equivalent to 1140px
+	--container-lg: 60rem; // Equivalent to 960px
+	--container-md: 48rem; // Equivalent to 768px
+	--container-sm: 44rem; // Equivalent to 576px
 
 	// =============================================
 	// Radius

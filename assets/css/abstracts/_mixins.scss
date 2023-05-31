@@ -34,7 +34,7 @@
 		}
 	}
 
-	@include media('>tablet') {
+	@include media('>tablet', '<=desktop') {
 		&-at-tablet {
 			text-align: #{$aligner};
 		}
@@ -49,24 +49,24 @@
 
 @mixin generate-spacing-query($direction, $size) {
 	.spacing-#{$direction}-#{$size} {
-		padding-#{$direction}: $size;
+		padding-#{$direction}: var(--spacing-#{$size});
 	}
 
 	@include media('>desktop') {
-		.spacing-#{$direction}-#{$size}-at-destkop {
-			padding-#{$direction}: $size;
+		.spacing-#{$direction}-#{$size}-at-desktop {
+			padding-#{$direction}: var(--spacing-#{$size});
 		}
 	}
 
-	@include media('>tablet') {
+	@include media('>tablet', '<=desktop') {
 		.spacing-#{$direction}-#{$size}-at-tablet {
-			padding-#{$direction}: $size;
+			padding-#{$direction}: var(--spacing-#{$size});
 		}
 	}
 
 	@include media('<tablet') {
 		.spacing-#{$direction}-#{$size}-at-phone {
-			padding-#{$direction}: $size;
+			padding-#{$direction}: var(--spacing-#{$size});
 		}
 	}
 }

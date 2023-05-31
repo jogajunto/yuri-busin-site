@@ -89,3 +89,12 @@
 	--radius-sm: 0.25rem; // Equivalent to 4px
 	--radius-xs: 0.125rem; // Equivalent to 2px
 }
+
+@include media('<tablet') {
+	:root {
+		--display-xl: 2.5rem; // Equivalent to 104px
+		--display-lg: 2.5rem; // Equivalent to 80px
+		--display-md: 2.5rem; // Equivalent to 64px
+		--display-sm: 2.5rem; // Equivalent to 48px
+	}
+}

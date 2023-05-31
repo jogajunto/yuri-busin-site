@@ -5,6 +5,7 @@
 @import './abstracts/breakpoints';
 @import './abstracts/spacing';
 @import './abstracts/aligner';
+@import './abstracts/coloring';
 
 @import './base/reset';
 @import './base/fonts';
@@ -41,6 +42,6 @@
 @import './layout/feed';
 @import './layout/section';
 @import './layout/stack';
-@import './layout/footer';
 
 @import './sections/blog-hero';
+@import './sections/frontmatter';

@@ -18,3 +18,26 @@
 		}
 	}
 }
+
+@include media('>desktop') {
+	.image {
+		&-fill-height {
+			position: absolute;
+			bottom: 0;
+			left: 0;
+			right: 0;
+			margin: auto;
+			height: 80%;
+
+			img {
+				object-fit: contain;
+				object-position: bottom;
+				height: 100%;
+			}
+
+			&--left {
+				transform: translateX(-15rem);
+			}
+		}
+	}
+}

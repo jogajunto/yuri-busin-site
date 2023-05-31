@@ -11,6 +11,7 @@
 @import './base/global';
 @import './base/a11y';
 
+@import './components/menu';
 @import './components/display';
 @import './components/heading';
 @import './components/label';
@@ -30,6 +31,9 @@
 @import './components/blockquote';
 @import './components/rich-text';
 @import './components/youtube-embed';
+
+@import './layout/header';
+@import './layout/footer';
 
 @import './layout/container';
 @import './layout/article';

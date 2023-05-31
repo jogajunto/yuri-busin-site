@@ -1,12 +1,35 @@
-<!--
-
-<header class="header">
+<header class="header" data-menu="closed">
 	<div class="a11y">
 		<a href="#main" class="button button--green skip-to-main visually-hidden">Pular para o conteúdo</a>
 	</div>
 	<div class="container">
-		<h2>Header</h2>
+		<nav class="nav">
+			<div class="nav__wrapper">
+				<a class="nav__brand" href="/" title="Voltar para a página principal">
+					{{ partial "svg.html" (dict "viewBox" "0 0 123 72" "src" "/vectors/logo-yuri-busin.svg" "class" "brand") }}
+				</a>
+				<div class="nav__cta">
+					<a class="button button--green" href="">Contato</a>
+				</div>
+				<button class="nav__toggle" aria-haspopup="true" aria-expanded="false" title="Abrir/Fechar Menu">
+					{{ partial "svg.html" (dict "class" "nav__toggle__icon nav__toggle__icon--open" "viewBox" "0 0 24 24" "src" "/icons/menu.svg") }}
+					{{ partial "svg.html" (dict "class" "nav__toggle__icon nav__toggle__icon--close" "viewBox" "0 0 24 24" "src" "/icons/close.svg") }}
+				</button>
+			</div>
+			<ul class="nav__list">
+				<li class="nav__list__item">
+					<a class="nav__list__link" href="/">Início</a>
+				</li>
+				<li class="nav__list__item">
+					<a class="nav__list__link" href="/artigos/">Artigos</a>
+				</li>
+				<li class="nav__list__item">
+					<a class="nav__list__link" href="/projetos/">Projetos</a>
+				</li>
+				<li class="nav__list__item">
+					<a class="button button--outline button--on-light button--md" href="{{ $.Site.Params.whatsApp }}" target="_blank" rel="noopener">Contato</a>
+				</li>
+			</ul>
+		</nav>
 	</div>
 </header>
-
--->

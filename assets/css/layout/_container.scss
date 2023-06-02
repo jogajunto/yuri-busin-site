@@ -28,3 +28,9 @@
 		max-width: var(--container-xs);
 	}
 }
+
+@include media('>tablet', '<desktop') {
+	.container:not(.container--fluid) {
+		max-width: 75%;
+	}
+}

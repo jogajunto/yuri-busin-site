@@ -1,34 +1,34 @@
 {
-  "tabWidth": 2,
-  "useTabs": true,
-  "semi": true,
-  "singleQuote": true,
-  "trailingComma": "es5",
-  "bracketSpacing": true,
-  "arrowParens": "always",
-  "htmlWhitespaceSensitivity": "css",
-  "endOfLine": "lf",
-  "overrides": [
-    {
-      "files": ["*.html"],
-      "options": {
-        "bracketSameLine": true,
-        "goTemplateBracketSpacing": true,
-        "parser": "go-template",
-        "printWidth": 300
-      }
-    },
-    {
-      "files": ["*.scss", "css"],
-      "options": {
-        "printWidth": 120
-      }
-    },
-    {
-      "files": ["*.js"],
-      "options": {
-        "printWidth": 120
-      }
-    }
-  ]
+	"tabWidth": 2,
+	"useTabs": true,
+	"semi": true,
+	"singleQuote": true,
+	"trailingComma": "es5",
+	"bracketSpacing": true,
+	"arrowParens": "always",
+	"htmlWhitespaceSensitivity": "css",
+	"endOfLine": "lf",
+	"overrides": [
+		{
+			"files": ["*.html"],
+			"options": {
+				"bracketSameLine": true,
+				"goTemplateBracketSpacing": true,
+				"parser": "go-template",
+				"printWidth": 300
+			}
+		},
+		{
+			"files": ["*.scss", "css"],
+			"options": {
+				"printWidth": 120
+			}
+		},
+		{
+			"files": ["*.js"],
+			"options": {
+				"printWidth": 120
+			}
+		}
+	]
 }

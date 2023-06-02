@@ -1,0 +1,52 @@
+<script type="application/ld+json">
+  {
+    "@context": "http://schema.org/",
+    "@type": "Organization",
+    "name": "Dr. Yuri Busin | Psicólogo",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "R. Voluntários da Pátria, 2468 - Cj. 214 | Santana",
+      "addressLocality": "São Paulo",
+      "addressRegion": "São Paulo",
+      "postalCode": "02401000"
+    },
+    "logo": {
+      "@type": "ImageObject",
+      "url": "{{ .Site.BaseURL }}/schema.jpg"
+    },
+    "telephone": "+{{ .Site.Params.phone }}",
+    "url": "{{ .Site.BaseURL }}",
+    "sameAs": [
+      "{{ .Site.Params.facebook }}",
+      "{{ .Site.Params.youtube }}",
+      "{{ .Site.Params.instagram }}"
+    ]
+  }
+
+  {{ if eq .Type "post" }}
+    {
+      "@context": "https://schema.org",
+      "@type": "NewsArticle",
+      "headline": "{{ .Title }}",
+      "description": "{{ .Params.description }}"
+      "image": "{{ .Site.BaseURL }}{{ .Params.image }}",
+      "datePublished": "{{ .Params.date }}",
+      "dateModified": "{{ .Params.date }}",
+      "author": {
+        "@type": "Person",
+        "name": "Dr. Yuri Busin"
+      },
+      "publisher": {
+        "@type": "Organization",
+        "name": "Dr. Yuri Busin | Psicólogo",
+        "logo": {
+          "@type": "ImageObject",
+          "url": "{{ .Site.BaseURL }}/schema.jpg"
+        }
+      },
+      "mainEntityOfPage": {
+        "@type": "WebPage"
+      }
+    }
+  {{ end }}
+</script>

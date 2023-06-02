@@ -20,6 +20,7 @@
 			<link rel="preload" href="/fonts/{{ . }}.woff2" as="font" type="font/woff2" crossorigin />
 		{{ end }}
 
+
 		<meta property="og:type" content="website" />
 		<meta property="og:title" content="{{ if .IsHome }}{{ .Title }}{{ else }}{{ .Title }} - {{ .Site.Title }}{{ end }}" />
 		<meta property="og:description" content="{{ .Description }}" />
@@ -32,15 +33,18 @@
 		<link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png" />
 		<link rel="manifest" href="/site.webmanifest" />
 		<link rel="canonical" href="{{ .Permalink }}" />
+
+		{{ partial "schema.html" . }}
 	</head>
 	<body class="body" id="body">
-		{{ partial "header.html" }}
+		{{ partial "header.html" . }}
+
 
 		<main class="main" id="main">
 			{{ block "main" . }}{{ end }}
 		</main>
 
-		{{ partial "footer.html" }}
+		{{ partial "footer.html" . }}
 
 		{{ $javascript := resources.Get "js/script.js" | js.Build "js/bundle.js" | resources.Minify }}
 		{{ $secureJS := $javascript | resources.Fingerprint "sha512" }}

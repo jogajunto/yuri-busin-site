@@ -8,3 +8,12 @@ enableRobotsTXT: yes
 disableHugoGeneratorInject: yes
 disableKinds: ['taxonomy', 'taxonomyTerm']
 paginate: 6
+
+params:
+  whatsApp: 'https://wa.me/5511999646940'
+  facebook: 'https://www.facebook.com/yuribusinpsicologo/'
+  instagram: 'https://www.instagram.com/dryuribusin/'
+  youtube: 'https://www.youtube.com/channel/UCcmQYl3OkMp3HmhRQs3mPHA'
+  email: 'contato@yuribusin.com.br'
+  phone: '551141168926'
+  googleMaps: 'https://goo.gl/maps/ChkZLjVBCgUBhVd86?coh=178572&entry=tt'

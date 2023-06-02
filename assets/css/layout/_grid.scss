@@ -15,30 +15,32 @@ $columns: 12;
 	grid-column: span var(--columns);
 }
 
-.column {
-	&-divider-left,
-	&-divider-right {
-		position: relative;
+@include media('>desktop') {
+	.column {
+		&-divider-left,
+		&-divider-right {
+			position: relative;
 
-		&::before {
-			content: '';
-			display: block;
-			height: 100%;
-			width: 1px;
-			background-color: var(--content-on-dark-secondary);
-			position: absolute;
+			&::before {
+				content: '';
+				display: block;
+				height: 100%;
+				width: 1px;
+				background-color: var(--content-on-dark-secondary);
+				position: absolute;
+			}
 		}
-	}
 
-	&-divider-left {
-		&::before {
-			left: calc(var(--gapX) / 2 * -1);
+		&-divider-left {
+			&::before {
+				left: calc(var(--gapX) / 2 * -1);
+			}
 		}
-	}
 
-	&-divider-right {
-		&::before {
-			right: calc(var(--gapX) / 2 * 1);
+		&-divider-right {
+			&::before {
+				right: calc(var(--gapX) / 2 * 1);
+			}
 		}
 	}
 }

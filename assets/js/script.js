@@ -17,7 +17,7 @@ if (scenesElement) {
 	const scenes = gsap.utils.toArray('.scene');
 
 	// Set scenes height
-	const scenesHeight = (scenes.length - 1) * 200 + '%';
+	const scenesHeight = (scenes.length - 1) * 100 + '%';
 
 	// Scenes Timeline
 	const scenesTimeline = gsap.timeline({

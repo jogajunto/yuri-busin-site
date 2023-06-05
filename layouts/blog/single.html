@@ -1,0 +1,87 @@
+{{ define "main" }}
+	<article class="article">
+		<header class="article__header">
+			<div class="container">
+				<div class="stack-lg">
+					<div class="article__title">
+						<div class="stack-sm">
+							<span class="tag tag--negative">{{ .Params.Category }}</span>
+							<h1 class="display display--lg">{{ .Title }}</h1>
+						</div>
+					</div>
+					<div class="article__info">
+						<div class="icon-with-label">
+							{{ partial "svg.html" (dict "viewBox" "0 0 24 24" "src" "/icons/calendar.svg" "class" "icon") }}
+							<time class="label-md" datetime="{{ .Date }}">{{ .Date.Format "01/02/2006" }}</time>
+						</div>
+						<div class="icon-with-label">
+							{{ partial "svg.html" (dict "viewBox" "0 0 24 24" "src" "/icons/clock-circle.svg" "class" "icon") }}
+							<p class="label-md">{{ .ReadingTime }} minuto{{ if (ne .ReadingTime 1) }}s{{ end }}</p>
+						</div>
+					</div>
+					<img class="article__image" src="{{ .Params.image }}" alt="" loading="lazy" />
+				</div>
+			</div>
+		</header>
+		<div class="article__body">
+			<div class="container container--xl">
+				<div class="article__layout">
+					<div class="article__content">
+						<div class="rich-text">
+							{{ .Content }}
+						</div>
+					</div>
+					<aside class="article__share">
+						<div class="stack-sm">
+							<div class="text-center">
+								<h2 class="text-md">Compartilhar</h2>
+							</div>
+							<ul class="social social--vertical">
+								<li class="social__item">
+									<a class="social__link" title="Compartilhar no Twitter" href="https://twitter.com/intent/tweet?text={{ .Title }}&url={{ .Permalink }}" rel="noopener" target="_blank">
+										{{ partial "svg.html" (dict "viewBox" "0 0 24 24" "src" "/icons/social-twitter.svg" "class" "icon align-center") }}
+									</a>
+								</li>
+								<li class="social__item">
+									<a class="social__link" title="Compartilhar no LinkedIn" href="https://www.linkedin.com/shareArticle?mini=true&url={{ .Permalink }}&title={{ .Title }}&summary={{ .Description }}" rel="noopener" target="_blank">
+										{{ partial "svg.html" (dict "viewBox" "0 0 24 24" "src" "/icons/social-linkedin.svg" "class" "icon align-center") }}
+									</a>
+								</li>
+								<li class="social__item">
+									<a class="social__link" title="Compartilhar no Facebook" href="https://www.facebook.com/sharer/sharer.php?u={{ .Permalink }}" rel="noopener" target="_blank">
+										{{ partial "svg.html" (dict "viewBox" "0 0 24 24" "src" "/icons/social-facebook.svg" "class" "icon align-center") }}
+									</a>
+								</li>
+								<li class="social__item">
+									<a class="social__link" title="Comparitlhar no WhatsApp" href="https://api.whatsapp.com/send?text={{ .Title }} {{ .Permalink }}" rel="noopener" target="_blank">
+										{{ partial "svg.html" (dict "viewBox" "0 0 24 24" "src" "/icons/social-whatsapp.svg" "class" "icon align-center") }}
+									</a>
+								</li>
+							</ul>
+						</div>
+					</aside>
+				</div>
+			</div>
+		</div>
+	</article>
+
+	<section class="section">
+		<div class="container">
+			<div class="stack-xl">
+				<div class="text-center">
+					<h2 class="heading heading--lg">Últimas publicações</h2>
+				</div>
+				<div class="grid" style="--gapX: var(--spacing-md)">
+					{{ $relatedPosts := where site.RegularPages "Type" "in" "post" }}
+					{{ $relatedPosts = where $relatedPosts "Permalink" "!=" .Permalink }}
+					{{ $relatedPosts = first 3 $relatedPosts }}
+					{{ range $relatedPosts }}
+						<div class="column column-4-at-desktop column-3-at-tablet">
+							{{ .Render "card" }}
+						</div>
+					{{ end }}
+				</div>
+			</div>
+		</div>
+	</section>
+{{ end }}

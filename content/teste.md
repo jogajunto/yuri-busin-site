@@ -1,5 +1,5 @@
 ---
-type: posts
+type: blogs
 draft: false
 date: 2023-05-25T11:26:48.251Z
 title: Post de demonstração e teste de componente

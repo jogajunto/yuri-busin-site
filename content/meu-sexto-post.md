@@ -4,7 +4,7 @@ description: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam eu t
 image: https://yuribusin.com.br/blog/como-e-o-tratamento-para-ansiedade-na-terapia-cognitivo-comportamental.jpg
 date: 2023-04-01
 category: Cotidiano
-type: post
+type: blog
 ---
 
 De forma geral, nossas vidas são construídas a partir de uma série de pequenos hábitos que executamos todos os dias. Muitos deles, fazemos sem nem ao menos nos darmos conta que o fazemos regularmente.

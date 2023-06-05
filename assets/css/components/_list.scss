@@ -17,17 +17,22 @@
 	}
 
 	&--ordered {
+		--width: 2em;
+
 		counter-reset: ordered-list;
 		padding-left: var(--spacing-sm);
 
 		> li {
 			counter-increment: ordered-list;
-			padding-left: var(--spacing-md);
+			padding-left: calc(var(--spacing-xxs) + var(--width));
 
 			&::before {
 				content: counter(ordered-list) '.';
 				color: var(--green-700);
 				font-weight: bold;
+				text-align: center;
+				width: var(--width);
+
 				position: absolute;
 				left: 0;
 				top: 0;

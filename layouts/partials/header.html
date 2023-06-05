@@ -9,7 +9,7 @@
 					{{ partial "svg.html" (dict "viewBox" "0 0 123 72" "src" "/vectors/logo-yuri-busin.svg" "class" "brand") }}
 				</a>
 				<div class="nav__cta">
-					<a class="button button--green" href="">Contato</a>
+					<a class="button button--green" href="">Agendar consulta</a>
 				</div>
 				<button class="nav__toggle" aria-haspopup="true" aria-expanded="false" title="Abrir/Fechar Menu">
 					{{ partial "svg.html" (dict "class" "nav__toggle__icon nav__toggle__icon--open" "viewBox" "0 0 24 24" "src" "/icons/menu.svg") }}
@@ -18,16 +18,22 @@
 			</div>
 			<ul class="nav__list">
 				<li class="nav__list__item">
-					<a class="nav__list__link" href="/">Início</a>
+					<a class="nav__list__link" href="/">Sobre</a>
 				</li>
 				<li class="nav__list__item">
-					<a class="nav__list__link" href="/artigos/">Artigos</a>
+					<a class="nav__list__link" href="/transtornos/">Transtornos</a>
 				</li>
 				<li class="nav__list__item">
-					<a class="nav__list__link" href="/projetos/">Projetos</a>
+					<a class="nav__list__link" href="/psicologo-online/">Psicólogo Online</a>
 				</li>
 				<li class="nav__list__item">
-					<a class="button button--outline button--on-light button--md" href="{{ $.Site.Params.whatsApp }}" target="_blank" rel="noopener">Contato</a>
+					<a class="nav__list__link" href="/blog/">Blog</a>
+				</li>
+				<li class="nav__list__item">
+					<a class="nav__list__link" href="/imprensa/">Imprensa</a>
+				</li>
+				<li class="nav__list__item">
+					<a class="nav__list__link" href="/contato/">Contato</a>
 				</li>
 			</ul>
 		</nav>

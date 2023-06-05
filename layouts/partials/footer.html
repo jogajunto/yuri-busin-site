@@ -8,43 +8,46 @@
 					</a>
 					<div class="stack-xs">
 						<p class="label-sm">© <time datetime="2006">{{ now.Format "2006" }}</time> Yuri Busin. Política de Privacidade</p>
-					<p class="label-sm">Criação do site por <a href="https://jogajunto.co/" target="_blank" rel="noopener">Jogajunto</a>.</p>
+						<p class="label-sm">Criação do site por <a href="https://jogajunto.co/" target="_blank" rel="noopener">Jogajunto</a>.</p>
 					</div>
 				</div>
 			</div>
 			<div class="column column-6-at-desktop">
 				<div class="stack-md">
 					<p class="label-sm">
-						<a href="https://goo.gl/maps/TuEx32rL8a7tv4w2A?coh=178572&entry=tt" target="_blank" rel="noopener" title="Como chegar">R. Voluntários da Pátria, 2468 – Cj – 214 <br /> Santana, São Paulo – SP, 02401-000</a>
+						<a href="https://goo.gl/maps/TuEx32rL8a7tv4w2A?coh=178572&entry=tt" target="_blank" rel="noopener" title="Como chegar">
+							R. Voluntários da Pátria, 2468 - Cj - 214 <br />
+							Santana, São Paulo - SP, 02401-000
+						</a>
 					</p>
 					<div class="stack-xs">
 						<p class="label-sm">
-							<a href="mailto:contato@yuribusin.com.br" title="Enviar um e-mail">contato@yuribusin.com.br</a>
+							<a href="mailto:{{ .Site.Params.email }}" title="Enviar um e-mail">{{ .Site.Params.email }}</a>
 						</p>
 						<p class="label-sm">
 							<a href="tel:+551141168926" title="Ligar">(11) 4116-8926</a>
 							|
-							<a href="https://api.whatsapp.com/send/?phone=5511999646940" title="Enviar mensagem via WhatsApp">WhatsApp</a>
+							<a href="{{ .Site.Params.whatsApp }}" title="Enviar mensagem via WhatsApp">WhatsApp</a>
 						</p>
 					</div>
 					<ul class="social">
 						<li class="social__item">
-							<a class="social__link" title="Instagram" href="https://www.instagram.com/dryuribusin/" rel="noopener" target="_blank">
+							<a class="social__link" title="Instagram" href="{{ .Site.Params.instagram }}" rel="noopener" target="_blank">
 								{{ partial "svg.html" (dict "viewBox" "0 0 24 24" "src" "/icons/social-instagram.svg" "class" "icon align-center") }}
 							</a>
 						</li>
 						<li class="social__item">
-							<a class="social__link" title="YouTube" href="https://www.youtube.com/channel/UCcmQYl3OkMp3HmhRQs3mPHA" rel="noopener" target="_blank">
+							<a class="social__link" title="YouTube" href="{{ .Site.Params.youtube }}" rel="noopener" target="_blank">
 								{{ partial "svg.html" (dict "viewBox" "0 0 24 24" "src" "/icons/social-linkedin.svg" "class" "icon align-center") }}
 							</a>
 						</li>
 						<li class="social__item">
-							<a class="social__link" title="Facebook" href="https://www.facebook.com/yuribusinpsicologo/" rel="noopener" target="_blank">
+							<a class="social__link" title="Facebook" href="{{ .Site.Params.facebook }}" rel="noopener" target="_blank">
 								{{ partial "svg.html" (dict "viewBox" "0 0 24 24" "src" "/icons/social-facebook.svg" "class" "icon align-center") }}
 							</a>
 						</li>
 						<li class="social__item">
-							<a class="social__link" title="WhatsApp" href="https://api.whatsapp.com/send/?phone=5511999646940" rel="noopener" target="_blank">
+							<a class="social__link" title="WhatsApp" href="{{ .Site.Params.whatsApp }}" rel="noopener" target="_blank">
 								{{ partial "svg.html" (dict "viewBox" "0 0 24 24" "src" "/icons/social-whatsapp.svg" "class" "icon align-center") }}
 							</a>
 						</li>

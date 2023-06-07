@@ -1,0 +1,8 @@
+:where(.section) {
+	padding: var(--spacing-xxl) var(--side-spacing);
+	position: relative;
+}
+
+:where(.section + .section) {
+	padding-top: 0;
+}

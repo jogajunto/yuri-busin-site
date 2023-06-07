@@ -1,0 +1,16 @@
+.footer {
+	padding: var(--spacing-xl) var(--side-spacing);
+}
+
+@media (--phone), (--tablet) {
+	.footer {
+		text-align: center;
+	}
+
+	.footer .brand,
+	.footer .social {
+		justify-content: center;
+		margin-left: auto;
+		margin-right: auto;
+	}
+}

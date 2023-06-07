@@ -1,0 +1,15 @@
+.overline {
+	line-height: 1.2;
+	letter-spacing: 0.4em;
+	text-transform: uppercase;
+}
+
+.overline--md {
+	font-size: var(--overline-md);
+	letter-spacing: 0.4em;
+}
+
+.overline--sm {
+	font-size: var(--overline-sm);
+	letter-spacing: 0.4em;
+}

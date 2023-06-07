@@ -1,0 +1,17 @@
+.social {
+	display: flex;
+	gap: 0.25em;
+}
+
+.social--center {
+	justify-content: center;
+}
+
+.social--vertical {
+	flex-direction: column;
+}
+
+.social__link {
+	display: block;
+	padding: 0.25em;
+}

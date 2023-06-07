@@ -12,8 +12,8 @@
 			<meta name="robots" content="noindex" />
 		{{ end }}
 
-		{{ $style := resources.Get "css/index.scss" | toCSS | minify | fingerprint "sha512" }}
-		<link rel="stylesheet" href="{{ $style.Permalink }}" />
+		{{ $stylesheet := resources.Get "css/style.css" | postCSS | fingerprint "sha512" }}
+		<link rel="stylesheet" href="{{ $stylesheet.RelPermalink | safeURL }}" integrity="{{ $stylesheet.Data.Integrity }}" />
 
 		{{ $fonts := slice "archivo-black" "archivo-bold" "archivo-medium" "archivo-regular" "archivo-light" }}
 		{{ range $fonts }}

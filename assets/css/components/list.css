@@ -1,0 +1,56 @@
+.list > li {
+	position: relative;
+}
+
+.list > li + li {
+	margin-top: var(--spacing-xs);
+}
+
+.list--ordered,
+.list--unordered {
+	padding-left: var(--spacing-sm);
+}
+
+.list--ordered > li,
+.list--unordered > li {
+	padding-left: var(--spacing-md);
+}
+
+.list--ordered {
+	--width: 2em;
+
+	counter-reset: ordered-list;
+	padding-left: var(--spacing-sm);
+}
+
+.list--ordered > li {
+	counter-increment: ordered-list;
+	padding-left: calc(var(--spacing-xxs) + var(--width));
+}
+
+.list--ordered > li&::before {
+	content: counter(ordered-list) '.';
+	color: var(--green-700);
+	font-weight: bold;
+	text-align: center;
+	width: var(--width);
+
+	position: absolute;
+	left: 0;
+	top: 0;
+}
+
+.list--unordered > li {
+	padding-left: var(--spacing-sm);
+}
+
+.list--unordered > li::before {
+	content: '';
+	background-color: var(--green-700);
+	width: 0.3em;
+	height: 0.3em;
+	border-radius: 50%;
+	position: absolute;
+	left: 0;
+	top: 0.6em;
+}

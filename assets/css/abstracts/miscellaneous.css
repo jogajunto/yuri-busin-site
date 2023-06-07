@@ -1,0 +1,5 @@
+.fill-side-padding {
+	min-width: calc(100% + var(--side-padding) * 2);
+	position: relative;
+	left: calc(var(--side-padding) * -1);
+}

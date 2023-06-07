@@ -1,0 +1,30 @@
+:where(.grid) {
+	--gapX: var(--spacing-xl);
+	--gapY: var(--spacing-lg);
+	--gap: var(--gapY) var(--gapX);
+
+	display: grid;
+	grid-gap: var(--gap);
+	grid-auto-rows: min-content;
+	grid-template-columns: 1fr;
+}
+
+@media (--desktop) {
+	:where(.grid) {
+		grid-auto-columns: 1fr;
+		grid-auto-flow: column;
+		grid-template-columns: inherit;
+	}
+
+	:where(.grid--reverse) {
+		direction: rtl;
+	}
+
+	:where(.grid--reverse > *) {
+		direction: ltr;
+	}
+
+	:where(.grid > *) {
+		grid-column: var(--column);
+	}
+}

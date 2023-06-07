@@ -1,7 +1,0 @@
-$spacing-sizes: xxxl, xxl, xl, lg, md, sm, xs, xxs, xxs, xxs, 0;
-
-@each $direction in top, bottom {
-	@each $size in $spacing-sizes {
-		@include generate-spacing-query($direction, $size);
-	}
-}

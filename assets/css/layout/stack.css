@@ -1,0 +1,63 @@
+:where(.stack-xs > * + *) {
+	margin-top: var(--spacing-xs);
+}
+
+:where(.stack-sm > * + *) {
+	margin-top: var(--spacing-sm);
+}
+
+:where(.stack-md > * + *) {
+	margin-top: var(--spacing-md);
+}
+
+:where(.stack-lg > * + *) {
+	margin-top: var(--spacing-lg);
+}
+
+:where(.stack-xl > * + *) {
+	margin-top: var(--spacing-xl);
+}
+
+@media (--desktop) {
+	:where(.stack-xs-at-desktop > * + *) {
+		margin-top: var(--spacing-xs);
+	}
+
+	:where(.stack-sm-at-desktop > * + *) {
+		margin-top: var(--spacing-sm);
+	}
+
+	:where(.stack-md-at-desktop > * + *) {
+		margin-top: var(--spacing-md);
+	}
+
+	:where(.stack-lg-at-desktop > * + *) {
+		margin-top: var(--spacing-lg);
+	}
+
+	:where(.stack-xl-at-desktop > * + *) {
+		margin-top: var(--spacing-xl);
+	}
+}
+
+@media (--tablet) {
+	:where(.stack-xs-at-tablet > * + *) {
+		margin-top: var(--spacing-xs);
+	}
+
+	:where(.stack-sm-at-tablet > * + *) {
+		margin-top: var(--spacing-sm);
+	}
+
+	:where(.stack-md-at-tablet > * + *) {
+		margin-top: var(--spacing-md);
+	}
+
+	:where(.stack-lg-at-tablet > * + *) {
+		margin-top: var(--spacing-lg);
+	}
+
+	:where(.stack-xl-at-tablet > * + *) {
+		margin-top: var(--spacing-xl);
+	}
+}

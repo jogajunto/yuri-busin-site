@@ -1,4 +1,5 @@
 {{ define "main" }}
+	<!--
 	<section class="scenes">
 		<section class="scenes__wrap">
 			<div class="scenes__items">
@@ -33,27 +34,23 @@
 				<div class="scene scene--content">
 					<div class="scene__inner">
 						<div class="container">
-							<div class="grid align-middle reverse-at-desktop">
-								<div class="column column-7-at-desktop">
-									<div class="stack-lg text-center text-right-at-desktop">
-										<h2 class="display display--md">Yuri Busin</h2>
-										<h3 class="heading heading--sm">
-											<span class="color-green">Psicólogo, Mestre e Doutor</span> <br />
-											em Neurociência Cognitiva
-										</h3>
-										<ul class="list">
-											<li>Palestrante</li>
-											<li>Empreendedor</li>
-											<li>Fundador do Dialogo Positivo</li>
-											<li>+ 25k horas ajudando pessoas</li>
-										</ul>
-									</div>
+							<div class="grid align-middle reverse-at-desktop" style="--desktop: repeat(2, 1fr)">
+								<div class="stack-lg text-center text-right-at-desktop">
+									<h2 class="display display--md">Yuri Busin</h2>
+									<h3 class="heading heading--sm">
+										<span class="color-green">Psicólogo, Mestre e Doutor</span> <br />
+										em Neurociência Cognitiva
+									</h3>
+									<ul class="list">
+										<li>Palestrante</li>
+										<li>Empreendedor</li>
+										<li>Fundador do Dialogo Positivo</li>
+										<li>+ 25k horas ajudando pessoas</li>
+									</ul>
 								</div>
-								<div class="column column-3-at-desktop">
-									<picture class="image-fill-height image-fill-height--left">
-										<img src="/teste.png" alt="Dr. Yuri Busin" loading="lazy" />
-									</picture>
-								</div>
+								<picture class="image-fill-height image-fill-height--left">
+									<img src="/teste.png" alt="Dr. Yuri Busin" loading="lazy" />
+								</picture>
 							</div>
 						</div>
 					</div>
@@ -61,6 +58,7 @@
 			</div>
 		</section>
 	</section>
+  -->
 
 	<section class="section">
 		<div class="container">
@@ -72,71 +70,66 @@
 		</div>
 	</section>
 
-	<section class="section spacing-bottom-0">
-		<div class="stack-xl">
+	<section class="section evolua-com-especialista">
+		<div class="stack-lg stack-xl-at-desktop">
 			<div class="container container--sm">
-				<div class="text-center">
-					<h2 class="display display--md">Evolua com quem é especialista.</h2>
-				</div>
+				<h2 class="display display--md">Evolua com quem é especialista</h2>
 			</div>
 			<div class="container">
 				<div class="text-center">
 					<a href="https://g1.globo.com/fantastico/noticia/2021/09/05/haters-o-exercito-invisivel-que-dissemina-odio-na-internet-e-nao-poupa-ninguem-de-seus-ataques.ghtml" target="_blank" rel="noopener" title="Ver matéria">
 						<span class="visually-hidden">Haters, o exército invisível que dissemina ódio na internet e não poupa ninguém de seus ataques</span>
-						<img class="image-border image-radius-md" src="/images/thumb-video-fantastico.webp" alt="" />
+						<img class="image-border image-radius-md" src="/images/thumb-video-fantastico.webp" alt="..." />
 					</a>
 				</div>
 			</div>
 		</div>
 	</section>
 
-	<section class="section spacing-bottom-0">
+	<section class="section imprensa">
+		<div class="stack-xl text-center">
+			<h2 class="display display--md">Imprensa</h2>
+			<p>LOGO LOGO LOGO LOGO</p>
+		</div>
+	</section>
+
+	<section class="section eventos-e-publicacoes">
 		<div class="container">
-			<div class="grid" style="--gapX: var(--spacing-xl); --gapY: var(--spacing-xl)">
-				<div class="column column-7-at-desktop">
-					<div class="stack-md text-center-at-tablet text-center-at-phone">
-						<h2 class="heading heading--sm">Eventos</h2>
-						<div class="grid">
-							<div class="column column-6-at-desktop column-3-at-tablet">
-								<div class="stack-sm">
-									<img class="image-radius-sm" src="/images/eventos-safe-experience.webp" alt="..." />
-									<h3 class="label-sm">Safe Experience</h3>
-								</div>
-							</div>
-							<div class="column column-6-at-desktop column-3-at-tablet">
-								<div class="stack-sm">
-									<img class="image-radius-sm" src="/images/eventos-capacitacao-dialogo-positivo.webp" alt="..." />
-									<h3 class="label-sm">Capacitação Diálogo Positivo</h3>
-								</div>
-							</div>
+			<div class="grid" style="--gapX: var(--spacing-xxl)">
+				<div class="stack-lg">
+					<h2 class="heading heading--md">Eventos</h2>
+					<div class="grid" style="--gap: var(--spacing-md)">
+						<div class="stack-sm">
+							<img class="image-radius-sm" src="/images/eventos-safe-experience.webp" alt="..." />
+							<h3 class="label-sm">Safe Experience</h3>
+						</div>
+						<div class="stack-sm">
+							<img class="image-radius-sm" src="/images/eventos-capacitacao-dialogo-positivo.webp" alt="..." />
+							<h3 class="label-sm">Capacitação Diálogo Positivo</h3>
 						</div>
 					</div>
 				</div>
-				<div class="column column-5-at-desktop column-divider-left">
-					<div class="stack-md text-center-at-tablet text-center-at-phone">
-						<h2 class="heading heading--sm">Publicações</h2>
-						<ul class="list">
-							<li><a class="text-md" href="">Blog</a></li>
-							<li><a class="text-md" href="">Trabalhos científicos publicados</a></li>
-							<li><a class="text-md" href="">Pesquisa compulsão por smartphones</a></li>
-						</ul>
-						<a class="button button--negative" href="">Ver mais</a>
-					</div>
+				<div class="stack-lg">
+					<h2 class="heading heading--md">Publicações</h2>
+					<ul class="list">
+						<li><a href="/blog/">Blog</a></li>
+						<li><a href="">Trabalhos científicos publicados</a></li>
+						<li><a href="">Pesquisa compulsão por smartphones</a></li>
+					</ul>
+					<a class="button button--negative" href="/blog/">Ver mais</a>
 				</div>
 			</div>
 		</div>
 	</section>
 
-	<section class="section spacing-top-xxxl-at-desktop spacing-bottom-xxxl-at-desktop spacing-bottom-0-at-phone spacing-bottom-0-at-tablet blog-hero">
+	<section class="section pronto-para-a-mudanca">
 		<div class="container">
-			<div class="grid reverse-at-desktop" style="--gapY: var(--spacing-xl)">
-				<div class="column column-7-at-desktop">
-					<div class="stack-lg text-center text-right-at-desktop">
-						<h2 class="display display--md">Está pronto para a mudança?</h2>
-						<a href="#publicacoes" class="button button--green">Agende uma consulta</a>
-					</div>
+			<div class="grid grid--reverse align-middle" style="--gapY: var(--spacing-xl)">
+				<div class="stack-lg">
+					<h2 class="display display--md">Está pronto para a mudança?</h2>
+					<a href="#publicacoes" class="button button--green">Agende uma consulta</a>
 				</div>
-				<div class="column column-3-at-desktop">
+				<div class="stack-lg">
 					<picture class="image-fill-height image-fill-height--left">
 						<img src="/yuri-busin.webp" alt="Dr. Yuri Busin" loading="lazy" />
 					</picture>

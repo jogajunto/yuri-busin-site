@@ -1,0 +1,40 @@
+.image-border {
+	border: 1px solid var(--surface-dark-stroke);
+}
+
+.image-radius-lg {
+	border-radius: var(--radius-lg);
+}
+
+.image-radius-md {
+	border-radius: var(--radius-md);
+}
+
+.image-radius-sm {
+	border-radius: var(--radius-sm);
+}
+
+.image-radius-xs {
+	border-radius: var(--radius-xs);
+}
+
+@media (--desktop) {
+	.image-fill-height {
+		position: absolute;
+		bottom: 0;
+		left: 0;
+		right: 0;
+		margin: auto;
+		height: 80%;
+	}
+
+	.image-fill-height--left {
+		transform: translateX(-15rem);
+	}
+
+	.image-fill-height img {
+		object-fit: contain;
+		object-position: bottom;
+		height: 100%;
+	}
+}

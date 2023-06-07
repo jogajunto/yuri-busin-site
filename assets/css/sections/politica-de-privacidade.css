@@ -1,0 +1,60 @@
+// .politica-de-privacidade {
+// 	color: var(--content-on-dark-secondary);
+
+// 	/**
+//    * Elements
+//    */
+
+// 	a {
+// 		color: var(--green-700);
+
+// 		&:hover {
+// 			color: var(--green-800);
+// 		}
+// 	}
+
+// 	ul,
+// 	ol {
+// 		@extend .list;
+// 	}
+
+// 	ol {
+// 		@extend .list--ordered;
+// 	}
+
+// 	ul {
+// 		@extend .list--unordered;
+// 	}
+
+// 	h2,
+// 	h3,
+// 	h4,
+// 	h5,
+// 	h6 {
+// 		@extend .heading;
+// 		@extend .heading--sm;
+// 		color: var(--content-on-dark-primary);
+// 	}
+
+// 	/**
+//    * Spacing
+//    */
+
+// 	* + * {
+// 		margin-top: var(--spacing-sm);
+// 	}
+
+// 	h2,
+// 	h3,
+// 	h4 {
+// 		margin-top: var(--spacing-lg);
+// 	}
+
+// 	// * + p:has(img), // Any element that is before a paragraph with an image
+// 	// * + blockquote, // Any element that is before a blockquote
+// 	// p:has(img) + *, // Any element that is after a paragraph with an image
+// 	// blockquote + * // Any element that is after a paragraph with an image
+// 	// {
+// 	// 	margin-top: var(--spacing-lg);
+// 	// }
+// }

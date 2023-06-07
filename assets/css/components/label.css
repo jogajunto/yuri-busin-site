@@ -1,0 +1,19 @@
+.label-lg {
+	font-size: var(--label-lg);
+	line-height: 1.2;
+}
+
+.label-md {
+	font-size: var(--label-md);
+	line-height: 1.25;
+}
+
+.label-sm {
+	font-size: var(--label-sm);
+	line-height: 1.25;
+}
+
+.label-xs {
+	font-size: var(--label-xs);
+	line-height: 1.25;
+}

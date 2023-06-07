@@ -1,0 +1,36 @@
+.container {
+	margin-left: auto;
+	margin-right: auto;
+	width: 100%;
+	max-width: var(--container-xl);
+}
+
+.container--xxl {
+	max-width: var(--container-xxl);
+}
+
+.container--xl {
+	max-width: var(--container-xl);
+}
+
+.container--lg {
+	max-width: var(--container-lg);
+}
+
+.container--md {
+	max-width: var(--container-md);
+}
+
+.container--sm {
+	max-width: var(--container-sm);
+}
+
+.container--xs {
+	max-width: var(--container-xs);
+}
+
+@media (--tablet) {
+	.container:not(.container--fluid) {
+		max-width: 75%;
+	}
+}

@@ -1,0 +1,55 @@
+/**
+ * Sizes
+ */
+
+.text-xl {
+	font-size: var(--paragraph-xl);
+}
+
+.text-lg {
+	font-size: var(--paragraph-lg);
+}
+
+.text-md {
+	font-size: var(--paragraph-md);
+}
+
+.text-sm {
+	font-size: var(--paragraph-sm);
+}
+
+/**
+ * Weights
+ */
+
+.text-light {
+	font-weight: 300;
+}
+
+.text-regular {
+	font-weight: 400;
+}
+
+.text-bold {
+	font-weight: 700;
+}
+
+.text-black {
+	font-weight: 900;
+}
+
+/**
+ * Alignments
+ */
+
+.text-center {
+	text-align: center;
+}
+
+.text-right {
+	text-align: right;
+}
+
+.text-left {
+	text-align: left;
+}

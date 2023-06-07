@@ -1,0 +1,43 @@
+.button {
+	border-radius: var(--radius-md);
+	border-style: solid;
+	border-width: 2px;
+	display: inline-flex;
+	gap: 0.5em;
+	align-items: center;
+	font-size: var(--button-md);
+	padding: 0.75em 1.25em;
+	position: relative;
+	text-decoration: none;
+	text-transform: uppercase;
+	transition: background 0.3s ease-in-out, color 0.3s ease-in-out,
+		border-color 0.3s ease-in-out, border-radius 0.3s ease-in-out;
+}
+
+.button--green {
+	background: var(--green-700);
+	border-color: var(--green-700);
+	color: var(--content-on-light-primary);
+}
+
+.button--green:hover {
+	background: var(--green-800);
+	border-color: var(--green-800);
+	color: var(--content-on-light-primary);
+}
+
+.button--negative {
+	background: transparent;
+	border-top-color: transparent;
+	border-left-color: transparent;
+	border-right-color: transparent;
+	border-bottom-color: var(--content-on-dark-primary);
+	border-radius: 0;
+	color: var(--content-on-dark-primary);
+}
+
+.button--negative:hover {
+	border-radius: var(--radius-md);
+	border-color: var(--green-700);
+	color: var(--content-on-dark-secondary);
+}

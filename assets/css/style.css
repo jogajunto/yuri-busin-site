@@ -39,9 +39,13 @@
 @import 'layout/section';
 @import 'layout/stack';
 
-@import 'sections/eventos-e-publicacoes';
 @import 'sections/hero';
 @import 'sections/subpage-hero';
+
+@import 'sections/blog';
+@import 'sections/eventos-e-publicacoes';
 @import 'sections/politica-de-privacidade';
 @import 'sections/pronto-para-a-mudanca';
+@import 'sections/publicacoes-em-destaque';
+@import 'sections/publicacoes-recentes';
 @import 'sections/transtornos';

@@ -11,6 +11,30 @@
 	padding-top: calc(var(--header-height) + var(--spacing-md));
 }
 
+/**
+ * Spacing
+ */
+
+.section--padding-top {
+	padding-top: var(--spacing-xxl);
+}
+
+.section--padding-bottom {
+	padding-bottom: var(--spacing-xxl);
+}
+
+.section--padding-top-0 {
+	padding-top: 0;
+}
+
+.section--padding-bottom-0 {
+	padding-bottom: 0;
+}
+
+/**
+ * Line
+ */
+
 .section--line::before {
 	content: '';
 	background: url(/vectors/line.svg) no-repeat center / auto 100%;

@@ -2,18 +2,16 @@
 	{{ $paginator := .Paginate (where .Site.Pages "Type" "blog") }}
 
 	{{ if eq .Paginator.PageNumber 1 }}
-		<section class="section blog-hero">
+		<section class="section blog">
 			<div class="container">
-				<div class="grid reverse-at-desktop" style="--gapY: var(--spacing-lg)">
-					<div class="column column-6-at-desktop">
-						<div class="stack-lg text-center text-left-at-desktop">
-							<h1 class="display display--lg">Blog</h1>
-							<p class="text-xl text-light">Lorem ipsum dolor sit amet consectetur adipisicing elit. Totam unde laudantium minima expedita, modi magni?</p>
-							<a href="#publicacoes" class="button button--negative">Ver publicações recentes</a>
-						</div>
+				<div class="grid grid--reverse align-middle" style="--gapY: var(--spacing-xl)">
+					<div class="stack-lg">
+						<h1 class="display display--lg">Blog</h1>
+						<p class="text-xl text-light">Lorem ipsum dolor sit amet consectetur adipisicing elit. Totam unde laudantium minima expedita, modi magni?</p>
+						<a href="#publicacoes" class="button button--negative">Ver publicações recentes</a>
 					</div>
-					<div class="column column-6-at-desktop">
-						<picture>
+					<div class="stack-lg">
+						<picture class="image-fill-height image-fill-height--left">
 							<img src="/yuri-busin.webp" alt="Dr. Yuri Busin" loading="lazy" />
 						</picture>
 					</div>
@@ -21,7 +19,7 @@
 			</div>
 		</section>
 
-		<section class="section section-bottom-0">
+		<section class="section publicacoes-em-destaque">
 			<div class="container">
 				<div class="stack-lg">
 					<div class="text-center">
@@ -39,7 +37,7 @@
 	{{ end }}
 
 
-	<section class="section" id="publicacoes">
+	<section class="section {{ if eq .Paginator.PageNumber 1 }}publicacoes-recentes{{ end }}" id="publicacoes">
 		<div class="container">
 			<div class="stack-lg">
 				<div class="text-center">

@@ -13,6 +13,10 @@ Porém, em determinados momentos – como a chegada de um ano novo, por exemplo 
 
 Felizmente, é nesses momentos de reflexão que temos o poder de rever aqueles velhos hábitos e substituí-los por aqueles mais saudáveis. Veja abaixo alguns exemplos deles:
 
+> The quote “Somewhere, something incredible is waiting to be known” has been ascribed to Carl Sagan.
+
+> Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam eu turpis molestie, dictum est a, mattis tellus.”
+
 ## 1. Experimente a diversão sóbria
 
 Têm surgido ao redor do mundo um movimento crescente que prega um estilo de vida sóbrio, em que é possível desfrutar de ocasiões sociais sem a necessidade de bebidas alcoólicas. Isso não apenas tem se tornado um comportamento socialmente bem-visto, mas também tem ajudado a quebrar o estigma de que só é possível se divertir se a pessoa estiver consumindo o álcool.

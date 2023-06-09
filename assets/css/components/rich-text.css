@@ -1,7 +1,7 @@
 .rich-text {
 	/* Add top spacing to improve visual when an anchor is used */
 	--anchor-spacing: var(--spacing-lg);
-	padding: var(--anchor-spacing);
+	padding-top: var(--anchor-spacing);
 	margin-top: calc(var(--anchor-spacing) * -1);
 }
 
@@ -18,6 +18,25 @@
 /**
  * Elements style
  */
+
+.rich-text blockquote {
+	color: var(--content-on-dark-primary);
+	position: relative;
+	padding-left: var(--spacing-lg);
+}
+
+.rich-text blockquote::before {
+	content: '“';
+	color: var(--green-700);
+	display: block;
+	font-size: var(--display-md);
+	line-height: 1;
+	margin-bottom: var(--spacing-sm);
+	position: absolute;
+	top: 0;
+	left: 0;
+	transform: translateY(-10%);
+}
 
 .rich-text > p:has(img) {
 	max-width: 100%;

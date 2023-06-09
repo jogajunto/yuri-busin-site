@@ -24,7 +24,7 @@
 			</div>
 		</header>
 		<div class="article__body">
-			<div class="container container--xl">
+			<div class="container container--xl container--fluid">
 				<div class="article__layout">
 					<div class="article__content">
 						<div class="rich-text">
@@ -72,7 +72,7 @@
 					<h2 class="heading heading--lg">Últimas publicações</h2>
 				</div>
 				<div class="grid" style="--gapX: var(--spacing-md)">
-					{{ $relatedPosts := where site.RegularPages "Type" "in" "post" }}
+					{{ $relatedPosts := where site.RegularPages "Type" "in" "blog" }}
 					{{ $relatedPosts = where $relatedPosts "Permalink" "!=" .Permalink }}
 					{{ $relatedPosts = first 3 $relatedPosts }}
 					{{ range $relatedPosts }}

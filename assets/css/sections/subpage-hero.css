@@ -4,15 +4,11 @@
 	/* Align content to center */
 	display: grid;
 	align-content: center;
+	align-content: end;
 
 	/* Make content be above the background and the gradient */
 	position: relative;
 	z-index: 0;
-}
-
-.subpage-hero--bottom {
-	/* Align content to the bottom */
-	align-content: end;
 }
 
 .subpage-hero-background {
@@ -23,7 +19,7 @@
 	position: absolute;
 	left: 0;
 	right: 0;
-	z-index: -1;
+	z-index: -2;
 }
 
 .subpage-hero-background::before {

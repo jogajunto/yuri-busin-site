@@ -13,6 +13,10 @@
 	transition: background 0.3s ease-in-out, color 0.3s ease-in-out, border-color 0.3s ease-in-out, border-radius 0.3s ease-in-out;
 }
 
+.button--sm {
+	font-size: var(--button-sm);
+}
+
 .button--green {
 	background: var(--green-700);
 	border-color: var(--green-700);

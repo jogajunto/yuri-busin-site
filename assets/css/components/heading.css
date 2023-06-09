@@ -1,29 +1,34 @@
 .heading {
+	color: var(--content-on-dark-primary);
 	font-weight: 900;
-	letter-spacing: -1px;
 }
 
 .heading--xl {
 	font-size: var(--heading-xl);
 	line-height: 1.05;
+	letter-spacing: -1px;
 }
 
 .heading--lg {
 	font-size: var(--heading-lg);
 	line-height: 1.1;
+	letter-spacing: -0.5px;
 }
 
 .heading--md {
 	font-size: var(--heading-md);
 	line-height: 1.15;
+	letter-spacing: -0.5px;
 }
 
 .heading--sm {
 	font-size: var(--heading-sm);
 	line-height: 1.2;
+	letter-spacing: -0.5px;
 }
 
 .heading--xs {
 	font-size: var(--heading-xs);
 	line-height: 1.2;
+	letter-spacing: -0.5px;
 }

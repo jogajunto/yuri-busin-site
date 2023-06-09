@@ -43,5 +43,5 @@
 
 @import 'sections/pronto-para-a-mudanca';
 @import 'sections/eventos-e-publicacoes';
-/* @import 'sections/politica-de-privacidade'; */
+@import 'sections/politica-de-privacidade';
 @import 'sections/frontmatter';

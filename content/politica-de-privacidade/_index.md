@@ -123,9 +123,9 @@ A Política de Privacidade foi atualizada em **11/02/2020**.
 
         O período de conservação dos dados são definidos de acordo com os seguintes critérios:
 
-        - localização ou cidade da qual nossa companhia não atua
-        - perfil ou cargo que não fazem sentido para relacionamento comercial
-        - baixa ou nenhuma abertura de e-mails
+        - localização ou cidade da qual nossa companhia não atua;
+        - perfil ou cargo que não fazem sentido para relacionamento comercial;
+        - baixa ou nenhuma abertura de e-mails.
 
         Os dados pessoais dos usuários apenas poderão ser conservados após o término de seu tratamento nas seguintes hipóteses:
 
@@ -146,12 +146,12 @@ A Política de Privacidade foi atualizada em **11/02/2020**.
 
         O Yuri Busin poderá divulgar os Dados Pessoais coletados a terceiro, nas seguintes situações e nos limites exigidos e autorizados pela Lei:
 
-        - a) Com seus clientes e parceiros quando necessário e/ou apropriado à prestação de serviços relacionados;
-        - b) Com as empresas e indivíduos contratados para execução de determinadas atividades e serviços em nome do Yuri Busin;
-        - c) Com empresas do grupo;
-        - e) Com fornecedores e parceiros para consecução dos serviços contratados pelo Yuri Busin;
-        - f) Para propósitos administrativos como: pesquisa, planejamento, desenvolvimento de serviços, segurança e gerenciamento de risco;
-        - g) Quando necessário em decorrência de obrigação, determinação de autoridade competente ou decisão judicial.
+        - com seus clientes e parceiros quando necessário e/ou apropriado à prestação de serviços relacionados;
+        - com as empresas e indivíduos contratados para execução de determinadas atividades e serviços em nome do Yuri Busin;
+        - com empresas do grupo;
+        - com fornecedores e parceiros para consecução dos serviços contratados pelo Yuri Busin;
+        - para propósitos administrativos como: pesquisa, planejamento, desenvolvimento de serviços, segurança e gerenciamento de risco;
+        - quando necessário em decorrência de obrigação, determinação de autoridade competente ou decisão judicial.
 
         Nas hipóteses de compartilhamento de Dados Pessoais com terceiros, todos os sujeitos mencionados nos itens de a) até g) deverão utilizar os Dados Pessoais partilhados de maneira consistente e de acordo com os propósitos para os quais foram coletados (ou com os quais o Usuário consentiu previamente) e de acordo com que foi determinado por esta Política de Privacidade, outras declarações de privacidade de website ou países, e todas as leis privacidade e proteção de dados aplicáveis.
 

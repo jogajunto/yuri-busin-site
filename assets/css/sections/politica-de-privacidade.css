@@ -1,60 +1,123 @@
-// .politica-de-privacidade {
-// 	color: var(--content-on-dark-secondary);
+.politica-de-privacidade {
+	background: var(--surface-dark-1);
+	color: var(--content-on-dark-secondary);
+	padding-top: var(--spacing-xxl);
+}
 
-// 	/**
-//    * Elements
-//    */
+/**
+ * Elements style
+ */
 
-// 	a {
-// 		color: var(--green-700);
+.politica-de-privacidade-content a {
+	text-decoration: underline;
+}
 
-// 		&:hover {
-// 			color: var(--green-800);
-// 		}
-// 	}
+.politica-de-privacidade-content a:hover {
+	color: var(--green-800);
+}
 
-// 	ul,
-// 	ol {
-// 		@extend .list;
-// 	}
+.politica-de-privacidade-content h2,
+.politica-de-privacidade-content h3,
+.politica-de-privacidade-content h4 {
+	color: var(--content-on-dark-primary);
+	font-size: var(--heading-sm);
+	font-weight: 900;
+	letter-spacing: -0.5px;
+	line-height: 1.2;
+}
 
-// 	ol {
-// 		@extend .list--ordered;
-// 	}
+/**
+ * Spacing between elements
+ */
 
-// 	ul {
-// 		@extend .list--unordered;
-// 	}
+.politica-de-privacidade-content * + * {
+	margin-top: var(--spacing-sm);
+}
 
-// 	h2,
-// 	h3,
-// 	h4,
-// 	h5,
-// 	h6 {
-// 		@extend .heading;
-// 		@extend .heading--sm;
-// 		color: var(--content-on-dark-primary);
-// 	}
+.politica-de-privacidade-content h2,
+.politica-de-privacidade-content h3,
+.politica-de-privacidade-content h4 {
+	margin-top: var(--spacing-lg);
+}
 
-// 	/**
-//    * Spacing
-//    */
+/**
+ * Ordered List
+ */
 
-// 	* + * {
-// 		margin-top: var(--spacing-sm);
-// 	}
+/* Number Style */
+.politica-de-privacidade-content > ol > li > h2::before,
+.politica-de-privacidade-content > ol > li > ol > li > h3::before,
+.politica-de-privacidade-content > ol > li > ol > li > ol > li > h4::before {
+	color: var(--green-700);
+	font-weight: 700;
+	margin-right: var(--spacing-xs);
+}
 
-// 	h2,
-// 	h3,
-// 	h4 {
-// 		margin-top: var(--spacing-lg);
-// 	}
+/* Add Section Number */
+.politica-de-privacidade-content > ol {
+	counter-reset: section;
+}
+.politica-de-privacidade-content > ol > li {
+	counter-increment: section;
+}
+.politica-de-privacidade-content > ol > li > h2::before {
+	content: counters(section, '.') '. ';
+}
 
-// 	// * + p:has(img), // Any element that is before a paragraph with an image
-// 	// * + blockquote, // Any element that is before a blockquote
-// 	// p:has(img) + *, // Any element that is after a paragraph with an image
-// 	// blockquote + * // Any element that is after a paragraph with an image
-// 	// {
-// 	// 	margin-top: var(--spacing-lg);
-// 	// }
-// }
+/* Add Subsection Number */
+.politica-de-privacidade-content > ol > li > ol {
+	counter-reset: subsection;
+}
+.politica-de-privacidade-content > ol > li > ol > li {
+	counter-increment: subsection;
+}
+.politica-de-privacidade-content > ol > li > ol > li > h3::before {
+	content: counters(section, '.') '.' counters(subsection, '.') '. ';
+}
+
+/* Add Subsubsection Number */
+.politica-de-privacidade-content > ol > li > ol > li > ol {
+	counter-reset: subsubsection;
+}
+.politica-de-privacidade-content > ol > li > ol > li > ol > li {
+	counter-increment: subsubsection;
+}
+.politica-de-privacidade-content > ol > li > ol > li > ol > li > h4::before {
+	content: counters(section, '.') '.' counters(subsection, '.') '.' counters(subsubsection, '.') '. ';
+}
+
+@media (--tablet), (--desktop) {
+	.politica-de-privacidade-content > ol > li ol {
+		padding-left: var(--spacing-md);
+	}
+}
+
+/**
+ * Unordered List
+ */
+
+.politica-de-privacidade-content ul {
+	padding-left: var(--spacing-sm);
+}
+
+.politica-de-privacidade-content ul > li {
+	position: relative;
+	padding-left: var(--spacing-sm);
+}
+
+.politica-de-privacidade-content ul > li::before {
+	--size: 0.3em;
+
+	content: '';
+	background-color: var(--green-700);
+	border-radius: 50%;
+	width: var(--size);
+	height: var(--size);
+	position: absolute;
+	top: calc(var(--size) * 1.75);
+	left: 0;
+}
+
+.politica-de-privacidade-content ul > li + li {
+	margin-top: var(--spacing-xs);
+}

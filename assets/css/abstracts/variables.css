@@ -77,8 +77,9 @@
 	--container-xxl: 84rem; /* Equivalent to 1240px */
 	--container-xl: 71.25rem; /* Equivalent to 1140px */
 	--container-lg: 60rem; /* Equivalent to 960px */
-	--container-md: 42.5rem; /* Equivalent to 768px */
-	--container-sm: 44rem; /* Equivalent to 576px */
+	--container-md: 48rem; /* Equivalent to 768px */
+	--container-sm: 42rem; /* Equivalent to 672px */
+	--container-xs: 35rem; /* Equivalent to 560px */
 
 	/* ============================================= */
 	/* Radius */

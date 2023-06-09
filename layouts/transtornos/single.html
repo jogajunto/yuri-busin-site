@@ -1,9 +1,30 @@
 {{ define "main" }}
-	<section class="section">
-		<div class="container">
-			<div class="text-center">
-				<h2 class="heading heading--lg">{{ .Title }}</h2>
+	<section>
+		<div class="section subpage-hero subpage-hero--bottom">
+			<picture class="subpage-hero-background">
+				<img src="{{ .Params.image }}" alt="{{ .Title }}" />
+			</picture>
+			<div class="container container--sm">
+				<div class="stack-lg">
+					<img src="{{ .Params.icon }}" alt="{{ .Title }}" />
+					<div class="box text-center stack-sm">
+						<h1 class="display display--sm">{{ .Title }}</h1>
+						<p class="text-lg">{{ .Params.excerpt }}</p>
+					</div>
+					<div class="text-center">
+						<a href="#saber-mais" title="Saber mais">
+							{{ partial "svg.html" (dict "viewBox" "0 0 24 24" "src" "/icons/down.svg" "class" "icon align-center") }}
+						</a>
+					</div>
+				</div>
+			</div>
+		</div>
+		<div class="container container--xl">
+			<div class="rich-text" id="saber-mais">
+				{{ .Content }}
 			</div>
 		</div>
 	</section>
+
+	{{ partial "call-to-action.html" . }}
 {{ end }}

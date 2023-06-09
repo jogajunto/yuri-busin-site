@@ -1,105 +1,100 @@
-/* // .rich-text {
-// 	color: var(--content-on-dark-secondary);
+.rich-text {
+	/* Add top spacing to improve visual when an anchor is used */
+	--anchor-spacing: var(--spacing-lg);
+	padding: var(--anchor-spacing);
+	margin-top: calc(var(--anchor-spacing) * -1);
+}
 
-// 	/**
-//    * Container
-//    */
+/**
+ * Spacing
+ */
 
-// 	> *:not(img) {
-// 		max-width: var(--container-sm);
-// 		margin-left: auto;
-// 		margin-right: auto;
-// 	}
+.rich-text > *:not(img) {
+	max-width: var(--container-md);
+	margin-left: auto;
+	margin-right: auto;
+}
 
-// 	> p:has(img) {
-// 		max-width: 100%;
-// 	}
+/**
+ * Elements style
+ */
 
-// 	/**
-//    * Elements
-//    */
+.rich-text > p:has(img) {
+	max-width: 100%;
+}
 
-// 	img {
-// 		border-radius: var(--radius-md);
-// 	}
+.rich-text img {
+	border-radius: var(--radius-md);
+}
 
-// 	a {
-// 		color: var(--green-700);
+.rich-text a {
+	color: var(--green-700);
+}
 
-// 		&:hover {
-// 			color: var(--green-800);
-// 		}
-// 	}
+.rich-text a:hover {
+	color: var(--green-800);
+}
 
-// 	blockquote {
-// 		@extend .blockquote;
-// 	}
+.rich-text h2,
+.rich-text h3,
+.rich-text h4,
+.rich-text h5,
+.rich-text h6 {
+	color: var(--content-on-dark-primary);
+	font-weight: 900;
+}
 
-// 	ul,
-// 	ol {
-// 		@extend .list;
-// 	}
+.rich-text h2 {
+	font-size: var(--heading-xl);
+	line-height: 1.05;
+	letter-spacing: -1px;
+}
 
-// 	ol {
-// 		@extend .list--ordered;
-// 	}
+.rich-text h3 {
+	font-size: var(--heading-md);
+	line-height: 1.15;
+	letter-spacing: -0.5px;
+}
 
-// 	ul {
-// 		@extend .list--unordered;
-// 	}
+.rich-text h4,
+.rich-text h5,
+.rich-text h6 {
+	font-size: var(--heading-sm);
+	line-height: 1.2;
+	letter-spacing: -0.5px;
+}
 
-// 	h2,
-// 	h3,
-// 	h4,
-// 	h5,
-// 	h6 {
-// 		@extend .heading;
-// 		color: var(--content-on-dark-primary);
-// 	}
+/**
+ * Spacing
+ */
 
-// 	h2 {
-// 		@extend .heading--xl;
-// 	}
+.rich-text * + *,
+.rich-text blockquote > * + * {
+	margin-top: var(--spacing-sm);
+}
 
-// 	h3 {
-// 		@extend .heading--md;
-// 	}
+/* Any element that is after an h2
+Any element that is after an h3
+Any element that is before an h3
+Any element that is before an h4 */
 
-// 	h4 {
-// 		@extend .heading--sm;
-// 	}
+.rich-text h2 + *,
+.rich-text h3 + *,
+.rich-text * + h3,
+.rich-text * + h4 {
+	margin-top: var(--spacing-md);
+}
 
-// 	h5 {
-// 		@extend .heading--sm;
-// 	}
+/* Any element that is before an h2
+Any element that is before a paragraph with an image
+Any element that is before a blockquote
+Any element that is after a paragraph with an image
+Any element that is after a paragraph with an image */
 
-// 	h6 {
-// 		@extend .heading--sm;
-// 	}
-
-// 	/**
-//    * Spacing
-//    */
-
-// 	* + *,
-// 	blockquote > * + * {
-// 		margin-top: var(--spacing-sm);
-// 	}
-
-// 	h2 + *, // Any element that is after an h2
-//   h3 + *, // Any element that is after an h3
-//   * + h3, // Any element that is before an h3
-//   * + h4 // Any element that is before an h4,
-// 	{
-// 		margin-top: var(--spacing-md);
-// 	}
-
-// 	* + h2, // Any element that is before an h2
-//   * + p:has(img), // Any element that is before a paragraph with an image
-//   * + blockquote, // Any element that is before a blockquote
-//   p:has(img) + *, // Any element that is after a paragraph with an image
-//   blockquote + * // Any element that is after a paragraph with an image
-// 	{
-// 		margin-top: var(--spacing-lg);
-// 	}
-// } */
+.rich-text * + h2,
+.rich-text * + p:has(img),
+.rich-text * + blockquote,
+.rich-text p:has(img) + *,
+.rich-text blockquote + * {
+	margin-top: var(--spacing-lg);
+}

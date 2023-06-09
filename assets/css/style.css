@@ -24,11 +24,10 @@
 @import 'components/tag';
 @import 'components/icon';
 @import 'components/image';
-@import 'components/service';
 @import 'components/icon-with-label';
 @import 'components/pagination';
 @import 'components/blockquote';
-/* @import 'components/rich-text'; */
+@import 'components/rich-text';
 @import 'components/youtube-embed';
 
 @import 'layout/header';
@@ -41,7 +40,9 @@
 @import 'layout/section';
 @import 'layout/stack';
 
-@import 'sections/pronto-para-a-mudanca';
 @import 'sections/eventos-e-publicacoes';
+@import 'sections/hero';
+@import 'sections/subpage-hero';
 @import 'sections/politica-de-privacidade';
-@import 'sections/frontmatter';
+@import 'sections/pronto-para-a-mudanca';
+@import 'sections/transtornos';

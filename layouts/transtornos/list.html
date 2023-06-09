@@ -1,51 +1,40 @@
 {{ define "main" }}
-	<section class="section blog-hero">
-		<div class="container">
-			<div class="grid align-middle reverse-at-desktop">
-				<div class="column column-6-at-desktop">
-					<div class="stack-lg text-center text-left-at-desktop">
-						<h1 class="display display--sm">Principais áreas de atuação e tipos de transtornos</h1>
-						<p class="text-xl">Entenda quais são os principais tipos de transtornos e como funcionam.</p>
-					</div>
-				</div>
-				<div class="column column-6-at-desktop">
-					<picture class="image-fill-height image-fill-height--left">
-						<img src="/yuri-busin.webp" alt="Dr. Yuri Busin" loading="lazy" />
-					</picture>
+	<section class="section transtornos">
+		<div class="stack-xl">
+			<div class="container container--xs">
+				<div class="stack-sm text-center">
+					<h1 class="display display--lg">Transtornos</h1>
+					<p class="text-xl">Entenda quais são os principais tipos de transtornos e como funcionam.</p>
 				</div>
 			</div>
-		</div>
-	</section>
-
-	<section class="section spacing-bottom-0">
-		<div class="container">
-			<div class="stack-lg">
-				<div class="stack-sm text-center">
-					<h2 class="overline overline--md">Tipos de transtornos</h2>
-					<p class="heading heading--md">Principais áreas de atuação e tipos de transtornos</p>
-				</div>
-				<div class="grid align-stretch">
-					{{ range .Page.RegularPages }}
-						<div class="column column-6-at-desktop">
-							<div class="service">
-								<div class="service__icon">
-									<img src="{{ .Params.icon }}" alt="Ícone {{ .Title }}" loading="lazy" />
-								</div>
-								<div class="service__content">
-									<div class="service__title">
+			<div class="container">
+				<div class="stack-lg">
+					<div class="stack-sm text-center">
+						<h2 class="overline overline--md">Tipos de transtornos</h2>
+						<p class="heading heading--md">Principais áreas de atuação e tipos de transtornos</p>
+					</div>
+					<div class="transtornos-feed">
+						{{ range sort .Page.RegularPages ".Params.name" }}
+							<div class="transtornos-item box">
+								<img class="transtornos-item__icon" src="{{ .Params.icon }}" alt="Ícone {{ .Title }}" loading="lazy" />
+								<div class="transtornos-item__content">
+									<div class="transtornos-item__description">
 										<div class="stack-sm">
-											<h3 class="heading heading--sm">{{ .Title }}</h3>
+											<h3 class="heading heading--sm">{{ .Params.name }}</h3>
 											<p>{{ .Description }}</p>
 										</div>
 									</div>
-									<div class="service__button">
+									<div class="transtornos-item__action">
 										<a class="button button--negative" href="{{ .Permalink }}">Ver mais</a>
 									</div>
 								</div>
 							</div>
-						</div>
-					{{ end }}
+						{{ end }}
+					</div>
 				</div>
+			</div>
+			<div class="container container--xs">
+				<p class="text-lg text-center">Se você não se identificou com alguma das áreas de atuação acima, entre em contato ou marque sua consulta.</p>
 			</div>
 		</div>
 	</section>

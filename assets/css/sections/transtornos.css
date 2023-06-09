@@ -1,0 +1,27 @@
+.transtornos-feed {
+	display: grid;
+	grid-template-columns: repeat(auto-fit, minmax(24rem, 1fr));
+	grid-gap: var(--spacing-md);
+}
+
+@media (--desktop) {
+	.transtornos-item {
+		display: grid;
+		grid-template-rows: auto 1fr;
+	}
+}
+
+@media (--tablet), (--large-desktop) {
+	.transtornos-item {
+		display: grid;
+		grid-template-columns: auto 1fr;
+		grid-template-rows: 1fr;
+		grid-gap: var(--spacing-md);
+	}
+
+	.transtornos-item__content {
+		display: grid;
+		align-content: space-between;
+		grid-gap: var(--spacing-md);
+	}
+}

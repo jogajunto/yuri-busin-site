@@ -1,7 +1,7 @@
 ---
 title: Como solicitar seu reembolso de psicoterapia
 description: Você sabia que pode pedir reembolso de psicoterapia? Leia aqui como solicitar isso do seu convênio passo a passo!
-image: /uploads/como-solicitar-seu-reembolso-de-terapia.webp
+image: como-solicitar-seu-reembolso-de-terapia.jpg
 date: 2023-04-01
 category: 'Psicologia'
 type: blog

@@ -10,7 +10,17 @@ const swiperTranstornos = new Swiper('.swiper-transtornos', {
 	centeredSlidesBounds: true,
 	breakpoints: {
 		768: {
-			slidesPerView: 4,
+			slidesPerView: 1.5,
+			centeredSlidesBounds: false,
+			spaceBetween: 32,
+		},
+		960: {
+			slidesPerView: 2.5,
+			centeredSlidesBounds: false,
+			spaceBetween: 32,
+		},
+		1280: {
+			slidesPerView: 3.5,
 			centeredSlidesBounds: false,
 			spaceBetween: 32,
 		},

@@ -10,22 +10,24 @@
  * Slider: Transtornos
  */
 
+.swiper-transtornos {
+	padding: var(--spacing-xxs) var(--side-spacing);
+}
+
 .swiper-transtornos .swiper-slide {
 	/* Make sure slides have the same height */
 	height: auto;
-	/* As swiper is using overflow: hidden, this padding avoids the block to be cut */
-	padding: var(--spacing-xs) 0;
 }
 
-@media (--phone) {
-	.swiper-transtornos .swiper-wrapper {
+@media (--phone), (--tablet) {
+	.swiper-transtornos {
 		padding: 0 var(--side-spacing);
 	}
 }
 
 @media (--tablet), (--desktop) {
 	.swiper-transtornos .swiper-slide {
-		min-width: 40ch;
-		width: 30%;
+		/* min-width: 40ch; */
+		/* width: 30%; */
 	}
 }

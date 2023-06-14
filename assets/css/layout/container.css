@@ -29,6 +29,14 @@
 	max-width: var(--container-xs);
 }
 
+.container--full {
+	max-width: 100%;
+
+	/* Fill section side spacing */
+	min-width: calc(100% + (var(--side-spacing) * 2));
+	margin-left: calc(var(--side-spacing) * -1);
+}
+
 @media (--tablet) {
 	.container:not(.container--fluid) {
 		max-width: 75%;

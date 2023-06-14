@@ -1,0 +1,13 @@
+<div class="container--full">
+	<div class="swiper swiper-transtornos">
+		<div class="swiper-wrapper">
+			{{ with $.Site.GetPage "section" "transtornos" }}
+				{{ range .RegularPages }}
+					<div class="swiper-slide">
+						{{ .Render "card" }}
+					</div>
+				{{ end }}
+			{{ end }}
+		</div>
+	</div>
+</div>

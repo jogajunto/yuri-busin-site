@@ -60,17 +60,14 @@
 	</section>
   -->
 
-	<section class="section como-posso-te-ajudar">
-		<div class="swiper mySwiper">
-			<div class="swiper-wrapper">
-				{{ with $.Site.GetPage "section" "transtornos" }}
-					{{ range .RegularPages }}
-						<div class="swiper-slide">
-							{{ .Render "card" }}
-						</div>
-					{{ end }}
-				{{ end }}
+	<section class="section">
+		<div class="stack-lg">
+			<div class="container">
+				<div class="text-center">
+					<h2 class="display display--md">Como posso te ajudar?</h2>
+				</div>
 			</div>
+			{{ partial "transtornos.html" . }}
 		</div>
 	</section>
 

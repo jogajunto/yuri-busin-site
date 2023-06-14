@@ -1,0 +1,31 @@
+/**
+ * Swiper: The Most Modern Mobile Touch Slider
+ * @link https://swiperjs.com/
+ */
+
+@import 'swiper/swiper-bundle.min';
+
+/**
+ * Custom Styles
+ * Slider: Transtornos
+ */
+
+.swiper-transtornos .swiper-slide {
+	/* Make sure slides have the same height */
+	height: auto;
+	/* As swiper is using overflow: hidden, this padding avoids the block to be cut */
+	padding: var(--spacing-xs) 0;
+}
+
+@media (--phone) {
+	.swiper-transtornos .swiper-wrapper {
+		padding: 0 var(--side-spacing);
+	}
+}
+
+@media (--tablet), (--desktop) {
+	.swiper-transtornos .swiper-slide {
+		min-width: 40ch;
+		width: 30%;
+	}
+}

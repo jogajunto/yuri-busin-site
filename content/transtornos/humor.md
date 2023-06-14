@@ -11,9 +11,9 @@ image: /images/transtorno-humor.jpg
 
 Transtorno caracterizado por dois ou mais episódios nos quais o humor e o nível de atividade do sujeito estão profundamente perturbados, sendo que este distúrbio consiste em algumas ocasiões de uma elevação do humor e aumento da energia e da atividade (hipomania ou mania) e em outras, de um rebaixamento do humor e de redução da energia e da atividade (depressão). Pacientes que sofrem somente de episódios repetidos de hipomania ou mania são classificados como bipolares.
 
-Quer saber mais sobre Transtorno Bipolar? Leia este post: O que é uma pessoa bipolar e como saber se sofro desse mal?
+Saiba mais sobre o transtorno bipolar:
 
-Consulte um profissional e agende um horário com Yuri Busin, Psicólogo em SP.
+- [O que é uma pessoa bipolar e como saber se sofro desse mal?](/o-que-e-uma-pessoa-bipolar-e-como-saber-se-sofro-desse-mal/)
 
 _Fonte: Classificação de Transtornos Mentais e do Comportamento da CID-10._
 

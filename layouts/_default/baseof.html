@@ -20,6 +20,7 @@
 			<link rel="preload" href="/fonts/{{ . }}.woff2" as="font" type="font/woff2" crossorigin />
 		{{ end }}
 
+
 		<meta property="og:type" content="website" />
 		<meta property="og:title" content="{{ if .IsHome }}{{ .Title }}{{ else }}{{ .Title }} - {{ .Site.Title }}{{ end }}" />
 		<meta property="og:description" content="{{ .Description }}" />
@@ -45,9 +46,16 @@
 
 		{{ partial "footer.html" . }}
 
-		{{ $javascript := resources.Get "js/script.js" | js.Build "js/bundle.js" | resources.Minify }}
-		{{ $secureJS := $javascript | resources.Fingerprint "sha512" }}
-		<script src="{{ $secureJS.RelPermalink | safeURL }}" defer integrity="{{ $secureJS.Data.Integrity }}"></script>
+		{{ if .IsHome }}
+			{{ $javascriptGsap := resources.Get "js/gsap.js" | js.Build "js/gsap.js" | resources.Minify }}
+			<script src="{{ $javascriptGsap.RelPermalink | safeURL }}" defer></script>
+
+			{{ $javascriptSwiper := resources.Get "js/swiper.js" | js.Build "js/swiper.js" | resources.Minify }}
+			<script src="{{ $javascriptSwiper.RelPermalink | safeURL }}" defer></script>
+		{{ end }}
+
+		{{ $mainJavascript := resources.Get "js/main.js" | js.Build "js/main.js" | resources.Minify }}
+		<script src="{{ $mainJavascript.RelPermalink | safeURL }}" defer></script>
 
 		<!-- Google Tag Manager  -->
 		{{ if not (in (.Site.BaseURL | string) "localhost") }}

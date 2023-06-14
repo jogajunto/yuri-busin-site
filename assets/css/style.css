@@ -3,6 +3,10 @@
 @import 'abstracts/aligner';
 @import 'abstracts/coloring';
 
+@import 'node_modules/swiper/swiper';
+@import 'node_modules/swiper/modules/navigation/navigation.min';
+@import 'node_modules/swiper/modules/pagination/pagination.min';
+
 @import 'base/reset';
 @import 'base/fonts';
 @import 'base/global';
@@ -26,6 +30,7 @@
 @import 'components/image';
 @import 'components/icon-with-label';
 @import 'components/pagination';
+@import 'components/swiper';
 @import 'components/rich-text';
 @import 'components/youtube-embed';
 
@@ -43,6 +48,7 @@
 @import 'sections/subpage-hero';
 
 @import 'sections/blog';
+@import 'sections/como-posso-te-ajudar';
 @import 'sections/eventos-e-publicacoes';
 @import 'sections/politica-de-privacidade';
 @import 'sections/pronto-para-a-mudanca';

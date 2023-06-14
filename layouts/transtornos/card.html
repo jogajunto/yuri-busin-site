@@ -1,0 +1,14 @@
+<div class="transtornos-item box">
+	<img class="transtornos-item__icon" src="{{ .Params.icon }}" alt="Ícone {{ .Title }}" loading="lazy" />
+	<div class="transtornos-item__content">
+		<div class="transtornos-item__description">
+			<div class="stack-sm">
+				<h3 class="heading heading--sm">{{ .Params.name }}</h3>
+				<p>{{ .Description }}</p>
+			</div>
+		</div>
+		<div class="transtornos-item__action">
+			<a class="button button--negative" href="{{ .Permalink }}">Ver mais</a>
+		</div>
+	</div>
+</div>

@@ -44,7 +44,6 @@
 	--sidebar-width: 8rem;
 
 	display: grid;
-	grid-template-columns: 1fr;
 	align-items: flex-start;
 	gap: var(--spacing-lg) var(--spacing-sm);
 }

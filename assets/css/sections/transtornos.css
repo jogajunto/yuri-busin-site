@@ -4,24 +4,31 @@
 	grid-gap: var(--spacing-md);
 }
 
-@media (--desktop) {
-	.transtornos-item {
-		display: grid;
-		grid-template-rows: auto 1fr;
-	}
+.transtornos-item {
+	align-items: flex-start;
+	flex-wrap: wrap;
+	gap: var(--spacing-xs) var(--spacing-md);
+  display: flex;
+  /* Make all items the same height */
+	height: 100%;
 }
 
-@media (--tablet), (--large-desktop) {
-	.transtornos-item {
-		display: grid;
-		grid-template-columns: auto 1fr;
-		grid-template-rows: 1fr;
-		grid-gap: var(--spacing-md);
-	}
+.transtornos-item > * {
+	flex: 1;
+}
 
-	.transtornos-item__content {
-		display: grid;
-		align-content: space-between;
-		grid-gap: var(--spacing-md);
-	}
+.transtornos-item__icon {
+  flex-basis: 100%;
+	max-width: 6.375rem;
+  margin: 0;
+}
+
+.transtornos-item__content {
+  /* Wrap columns when there's enough space to the content */
+	flex-basis: 280px;
+	align-self: stretch;
+  /* Make the button be at the bottom */
+	display: grid;
+	align-content: space-between;
+	grid-gap: var(--spacing-md);
 }

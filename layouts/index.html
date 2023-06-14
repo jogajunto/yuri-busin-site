@@ -60,12 +60,16 @@
 	</section>
   -->
 
-	<section class="section">
-		<div class="container">
-			<div class="stack-lg">
-				<div class="text-center">
-					<h2 class="display display--md">Como posso te ajudar?</h2>
-				</div>
+	<section class="section como-posso-te-ajudar">
+		<div class="swiper mySwiper">
+			<div class="swiper-wrapper">
+				{{ with $.Site.GetPage "section" "transtornos" }}
+					{{ range .RegularPages }}
+						<div class="swiper-slide">
+							{{ .Render "card" }}
+						</div>
+					{{ end }}
+				{{ end }}
 			</div>
 		</div>
 	</section>

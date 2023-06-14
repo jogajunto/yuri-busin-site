@@ -24,6 +24,7 @@
 		"postcss-import": "^15.1.0",
 		"postcss-preset-env": "^8.3.2",
 		"prettier": "^2.8.8",
-		"prettier-plugin-go-template": "^0.0.13"
+		"prettier-plugin-go-template": "^0.0.13",
+		"swiper": "^9.4.1"
 	}
 }

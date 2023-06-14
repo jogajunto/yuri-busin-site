@@ -17,7 +17,7 @@
 		"autoprefixer": "^10.4.14",
 		"cssnano": "^6.0.1",
 		"gsap": "^3.11.5",
-		"hugo-bin": "^0.108.0",
+		"hugo-extended": "^0.113.0",
 		"postcss": "^8.4.23",
 		"postcss-cli": "^10.1.0",
 		"postcss-custom-media": "^9.1.4",

@@ -2,7 +2,7 @@
 	<header class="card__header">
 		{{ $image := resources.Get (printf "images/%s" .Params.image) }}
 		{{ with $image }}
-			<img src="{{ ($image.Fill "768x768 webp").RelPermalink }}" alt="{{ .Title }}" loading="lazy" />
+			<img src="{{ ($image.Fill "768x576 webp").RelPermalink }}" alt="{{ .Title }}" loading="lazy" width="768" height="576" />
 		{{ end }}
 	</header>
 	<section class="card__body">

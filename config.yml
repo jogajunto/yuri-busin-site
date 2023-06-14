@@ -17,3 +17,9 @@ params:
   email: 'contato@yuribusin.com.br'
   phone: '551141168926'
   googleMaps: 'https://goo.gl/maps/ChkZLjVBCgUBhVd86?coh=178572&entry=tt'
+
+imaging:
+  anchor: Smart
+  bgColor: '#ffffff'
+  hint: photo
+  quality: 80

@@ -1,9 +1,13 @@
 {{ define "main" }}
 	<section>
 		<div class="section section--line subpage-hero">
-			<picture class="subpage-hero-background">
-				<img src="{{ .Params.image }}" alt="{{ .Title }}" />
-			</picture>
+			{{ $image := resources.Get (printf "images/%s" .Params.image) }}
+			{{ with $image }}
+				<picture class="subpage-hero-background">
+					<source media="(min-width: 768px)" srcset="{{ ($image.Fill "1440x800 webp q90").RelPermalink }}" width="1440" height="800" />
+					<img src="{{ ($image.Fill "768x1024 webp").RelPermalink }}" alt="{{ .Title }}" loading="lazy" width="768" height="1024" />
+				</picture>
+			{{ end }}
 			<div class="container container--sm">
 				<div class="stack-lg">
 					<img src="{{ .Params.icon }}" alt="{{ .Title }}" />
@@ -23,6 +27,17 @@
 			<div class="rich-text" id="saber-mais">
 				{{ .Content }}
 			</div>
+		</div>
+	</section>
+
+	<section class="section">
+		<div class="stack-lg">
+			<div class="container">
+				<div class="text-center">
+					<h2 class="display display--md">Outros transtornos</h2>
+				</div>
+			</div>
+			{{ partial "transtornos.html" . }}
 		</div>
 	</section>
 

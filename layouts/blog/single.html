@@ -19,7 +19,13 @@
 							<p class="label-md">{{ .ReadingTime }} minuto{{ if (ne .ReadingTime 1) }}s{{ end }}</p>
 						</div>
 					</div>
-					<img class="article__image" src="{{ .Params.image }}" alt="" loading="lazy" />
+					{{ $image := resources.Get (printf "images/%s" .Params.image) }}
+					{{ with $image }}
+						<picture class="article__image">
+							<source media="(min-width: 768px)" srcset="{{ ($image.Fill "1440x800 webp").RelPermalink }}" width="1440" height="800" />
+							<img src="{{ ($image.Fill "768x1024 webp").RelPermalink }}" alt="{{ .Title }}" loading="lazy" width="768" height="1024" />
+						</picture>
+					{{ end }}
 				</div>
 			</div>
 		</header>
@@ -71,14 +77,12 @@
 				<div class="text-center">
 					<h2 class="heading heading--lg">Últimas publicações</h2>
 				</div>
-				<div class="grid" style="--gapX: var(--spacing-md)">
+				<div class="feed">
 					{{ $relatedPosts := where site.RegularPages "Type" "in" "blog" }}
 					{{ $relatedPosts = where $relatedPosts "Permalink" "!=" .Permalink }}
 					{{ $relatedPosts = first 3 $relatedPosts }}
 					{{ range $relatedPosts }}
-						<div class="column column-4-at-desktop column-3-at-tablet">
-							{{ .Render "card" }}
-						</div>
+						{{ .Render "card" }}
 					{{ end }}
 				</div>
 			</div>

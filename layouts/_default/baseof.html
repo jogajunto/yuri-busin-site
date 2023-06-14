@@ -49,7 +49,9 @@
 		{{ if .IsHome }}
 			{{ $javascriptGsap := resources.Get "js/gsap.js" | js.Build "js/gsap.js" | resources.Minify }}
 			<script src="{{ $javascriptGsap.RelPermalink | safeURL }}" defer></script>
+		{{ end }}
 
+		{{ if or .IsHome (in .Section "transtornos") }}
 			{{ $javascriptSwiper := resources.Get "js/swiper.js" | js.Build "js/swiper.js" | resources.Minify }}
 			<script src="{{ $javascriptSwiper.RelPermalink | safeURL }}" defer></script>
 		{{ end }}

@@ -1,6 +1,9 @@
 <article class="card">
 	<header class="card__header">
-		<img src="{{ .Params.image }}" alt="{{ .Title }}" loading="lazy" />
+		{{ $image := resources.Get (printf "images/%s" .Params.image) }}
+		{{ with $image }}
+			<img src="{{ ($image.Fill "768x768 webp").RelPermalink }}" alt="{{ .Title }}" loading="lazy" />
+		{{ end }}
 	</header>
 	<section class="card__body">
 		<div class="stack-sm">

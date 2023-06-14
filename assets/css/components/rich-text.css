@@ -19,6 +19,62 @@
  * Elements style
  */
 
+/* Lists (unordered and ordered) */
+
+.rich-text li {
+	position: relative;
+	padding-left: var(--spacing-md);
+}
+
+.rich-text li + li {
+	margin-top: var(--spacing-xs);
+}
+
+.rich-text ul,
+.rich-text ol {
+	padding-left: var(--spacing-sm);
+}
+
+.rich-text ol {
+	--width: 2em;
+
+	counter-reset: ordered-list;
+	padding-left: var(--spacing-sm);
+}
+
+.rich-text ol > li {
+	counter-increment: ordered-list;
+	padding-left: calc(var(--spacing-xxs) + var(--width));
+}
+
+.rich-text ol > li::before {
+	content: counter(ordered-list) '.';
+	color: var(--green-700);
+	text-align: center;
+	width: var(--width);
+
+	position: absolute;
+	left: 0;
+	top: 0;
+}
+
+.rich-text ul > li {
+	padding-left: var(--spacing-sm);
+}
+
+.rich-text ul > li::before {
+	content: '';
+	background-color: var(--green-700);
+	width: 0.3em;
+	height: 0.3em;
+	border-radius: 50%;
+	position: absolute;
+	left: 0;
+	top: 0.6em;
+}
+
+/* Blockquote */
+
 .rich-text blockquote {
 	color: var(--content-on-dark-primary);
 	position: relative;
@@ -38,6 +94,8 @@
 	transform: translateY(-10%);
 }
 
+/* Image */
+
 .rich-text > p:has(img) {
 	max-width: 100%;
 }
@@ -46,13 +104,17 @@
 	border-radius: var(--radius-md);
 }
 
+/* Link */
+
 .rich-text a {
-	color: var(--green-700);
+	text-decoration: underline;
 }
 
 .rich-text a:hover {
 	color: var(--green-800);
 }
+
+/* Headings */
 
 .rich-text h2,
 .rich-text h3,

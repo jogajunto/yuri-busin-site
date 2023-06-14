@@ -14,4 +14,10 @@
 .social__link {
 	display: block;
 	padding: 0.25em;
+	width: max-content;
+	margin: auto;
+}
+
+.social__link:hover {
+	color: var(--green-700);
 }

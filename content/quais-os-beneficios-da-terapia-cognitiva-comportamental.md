@@ -5,7 +5,7 @@ image: '/blog/benef_cios-da-terapia-cognitiva-comportamental.jpeg'
 categories: ['Saúde']
 description: 'No entanto, existem muitos outros benefícios. E é isso que você verá nesse artigo! Vamos lá?'
 draft: false
-type: 'post'
+type: blog
 ---
 
 Cada vez mais a [terapia cognitiva comportamental](/como-funciona-a-terapia-cognitiva-comportamental/) tem se tornado em uma forma popular de psicoterapia. Seu principal objetivo é enfatizar a importância dos pensamentos para determinar como as pessoas sentem e agem.

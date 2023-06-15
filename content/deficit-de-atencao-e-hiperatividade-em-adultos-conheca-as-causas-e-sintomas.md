@@ -5,7 +5,7 @@ image: '/blog/ImageResizer.net-txhw9y35dy5e7zd.jpg'
 categories: ['Cotidiano']
 description: 'O TDAH é uma sigla que corresponde ao transtorno de déficit de atenção e hiperatividade. O transtorno pode também ser encontrado em adultos...'
 draft: false
-type: 'post'
+type: blog
 ---
 
 Vivemos no meio de muitos estímulos, são diversas informações ao clicar com apenas um dedo e tudo que se possa imaginar pode aparecer através de uma tela. O que nos leva a pensar em um questionamento muito importante, o qual é falado da boca para a fora no cotidiano, que é: será que tenho o transtorno de déficit de atenção e hiperatividade, o famoso TDAH?

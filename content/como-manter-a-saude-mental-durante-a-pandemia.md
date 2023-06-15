@@ -5,7 +5,7 @@ image: '/blog/como-manter-a-saude-mental-durante-a-pandemia.jpg'
 categories: ['Cotidiano']
 description: 'e você não para um minuto de pensar que vai contrair a Covid-19 ou que vai perder alguém que ama, é melhor ler este artigo.'
 draft: false
-type: 'post'
+type: blog
 ---
 
 O assunto “**pandemia**” simplesmente dominou os debates e noticiários mundo afora. Mas, como ninguém é de ferro, absorvemos tudo de uma forma intensa, o que pode acarretar problemas à saúde. Sobre os cuidados, todo mundo já sabe que eles devem ser seguidos à risca. O pânico, por exemplo, precisa ser evitado, mas vai falar isso para alguém ansioso.

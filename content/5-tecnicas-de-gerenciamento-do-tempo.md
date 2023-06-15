@@ -5,7 +5,7 @@ image: '/blog/usando-um-rel_gio-para-gerenciamento-de-tempo.jpg'
 categories: ['Cotidiano']
 description: 'Se você se vê cansado e frustrado por não conseguir completar suas tarefas diárias, confira a lista de ideias de gerenciamento de tempo neste artigo.'
 draft: false
-type: 'post'
+type: blog
 ---
 
 O tempo literalmente voa, o que torna difícil o seu controle ou monitoramento. Fazer o correto **gerenciamento do tempo** não apenas ajudará a alcançar metas, mas também diminuirá o desgaste físico e mental.

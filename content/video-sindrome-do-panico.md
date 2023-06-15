@@ -5,7 +5,7 @@ image: ''
 categories: ['Saúde']
 description: 'Veja aqui um vídeo de 2 minutos sobre Síndrome do Pânico:'
 draft: false
-type: 'post'
+type: blog
 ---
 
 Veja aqui um vídeo de 2 minutos sobre Síndrome do Pânico:

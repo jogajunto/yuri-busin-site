@@ -5,7 +5,7 @@ image: '/blog/consequencias-do-ciume-doentio.jpg'
 categories: ['Cotidiano']
 description: 'Se você realmente deseja mudar suas emoções e erradicar o comportamento ciumento, continue a leitura!'
 draft: false
-type: 'post'
+type: blog
 ---
 
 Existem vários elementos que criam **conflitos ciumentos**. Independente da causa, as consequências do [ciúme doentio](/qual-o-limite-do-ciumes-saudavel/) podem levar ao fim prematuro de um namoro ou casamento.

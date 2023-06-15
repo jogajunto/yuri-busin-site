@@ -5,7 +5,7 @@ image: '/blog/tratamento-depress_o.jpeg'
 categories: ['Cotidiano']
 description: 'Quando você está deprimido, pode parecer que você nunca sairá dessa condição. '
 draft: false
-type: 'post'
+type: blog
 ---
 
 Quando você está deprimido, pode parecer que você nunca sairá dessa condição. No entanto, se isto está impedido de você viver a vida que deseja, não hesite em procurar ajuda, por meio de um tratamento da depressão.

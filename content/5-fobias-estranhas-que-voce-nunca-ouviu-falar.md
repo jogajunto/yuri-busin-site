@@ -5,7 +5,7 @@ image: '/blog/mulher-com-m_os-no-rosto-com-as-fobias-mais-estranhas.jpg'
 categories: ['Cotidiano']
 description: 'Aqui está uma lista de cinco fobias surpreendentes e que são totalmente reais!'
 draft: false
-type: 'post'
+type: blog
 ---
 
 Uma **fobia** é definida como um medo extremo ou irracional a alguma coisa. Algumas fobias são bastante racionais e comuns, como o [medo de altura](/como-superar-o-medo-de-altura/), por exemplo. Por outro lado, existem algumas fobias que muitos nunca ouviram falar.

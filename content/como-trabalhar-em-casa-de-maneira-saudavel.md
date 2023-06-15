@@ -5,7 +5,7 @@ image: '/blog/como-trabalhar-em-casa-de-maneira-saud_vel.jpg'
 categories: ['Cotidiano']
 description: 'Como trabalhar em casa de maneira saudável?'
 draft: false
-type: 'post'
+type: blog
 ---
 
 Nos últimos anos, muitos profissionais têm descoberto que trabalhar em casa tem várias vantagens, incluindo maior **flexibilidade na jornada de trabalho**, economia de dinheiro e mais tempo para ficar com a família.

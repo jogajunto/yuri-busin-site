@@ -5,7 +5,7 @@ image: '/blog/homem-com-mascara-para-lidar-com-pessoas-t_xicas-no-trabalho.jpg'
 categories: ['Cotidiano']
 description: 'Neste artigo, você aprenderá como gerenciar melhor as consequências da toxicidade de outras pessoas. Continue a leitura!'
 draft: false
-type: 'post'
+type: blog
 ---
 
 Sobreviver aos altos e baixos do humor de alguém pode ser um **grande desafio**. Se você tem dificuldade em lidar com pessoas tóxicas no trabalho, é importante começar identificando aqueles comportamentos que podem afetar o seu **bem-estar mental**.

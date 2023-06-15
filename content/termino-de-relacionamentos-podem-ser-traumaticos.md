@@ -5,7 +5,7 @@ image: '/blog/casal-nos-trilhos-tristes-superando-o-termino-do-relacionamento.jp
 categories: ['Cotidiano']
 description: 'É muito comum vermos uma pessoa sofrendo pelo término de relacionamento. Para muitos, é uma dor muito grande que as fazem sofrer por muito tempo, até...'
 draft: false
-type: 'post'
+type: blog
 ---
 
 É comum vermos pessoas sofrendo por **[fim de relacionamento](/terapia-de-casal/)**. Para muitos, é uma dor grande que as fazem sofrer por muito tempo, até mesmo por anos. Contudo, nem sempre, no final do relacionamento a cisão pode gerar algum tipo de dor, independente da pessoa desejar o término ou não.

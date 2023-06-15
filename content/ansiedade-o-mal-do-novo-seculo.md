@@ -5,7 +5,7 @@ image: '/blog/ansiedade.jpg'
 categories: ['Cotidiano']
 description: 'Realmente, é muito difícil sentir-se assim, contudo o que não se costuma falar por ai, é que nem tudo é ansiedade, e que nem tudo é fora'
 draft: false
-type: 'post'
+type: blog
 ---
 
 Comumente vejo em meu consultório diversas pessoas falando: “nossa, eu sou extremamente ansioso”, “eu não consigo controlar a minha ansiedade”, “passo mal”, “fico paralisado”, entre outros sintomas.

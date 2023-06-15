@@ -5,7 +5,7 @@ image: '/blog/mulher-mao-amarrada-como-identificar-transtornos-alimentares.png'
 categories: ['Cotidiano']
 description: 'O transtorno alimentar está relacionado com dificuldades com a comida e o ato de comer, com o peso ou com a própria imagem corporal, alterando o comportamento da pessoa.'
 draft: false
-type: 'post'
+type: blog
 ---
 
 O transtorno alimentar está relacionado com dificuldades com a comida e o ato de comer, com o peso ou com a própria imagem corporal, alterando o comportamento da pessoa. Eles são de cunho psicológico e podem fazer com que o indivíduo deixe de comer, coma exageradamente ou sinta-se culpado ao comer e tente eliminar essa comida de alguma maneira.

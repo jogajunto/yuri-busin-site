@@ -5,7 +5,7 @@ image: '/blog/psicologo-em-seu-consultorio-desmitificando-os-principais-mitos-so
 categories: ['Saúde']
 description: 'Neste artigo, pretendo desmistificar os seis principais mitos sobre psicólogos e ajudar as pessoas a procurar tratamento. Clique para saber mais!'
 draft: false
-type: 'post'
+type: blog
 ---
 
 O **campo da psicologia** ainda é desconhecido para muitas pessoas, o que leva a muitos mal-entendidos, equívocos e estereótipos. Tudo isso faz com que muitos acreditem em vários mitos sobre psicólogos.

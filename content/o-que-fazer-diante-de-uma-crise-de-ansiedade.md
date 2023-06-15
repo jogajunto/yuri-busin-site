@@ -5,7 +5,7 @@ image: '/blog/mulher-deitada-no-ch_o-tendo-uma-crise-de-ansiedade.jpg'
 categories: ['Cotidiano']
 description: 'Estima-se que 9% da população convivem com o transtorno de ansiedade.Se você é uma delas, continue a leitura!'
 draft: false
-type: 'post'
+type: blog
 ---
 
 Todo mundo se sente **ansioso** de vez em quando, mas a partir do momento que a preocupação se torna excessiva e começa a afetar as atividades cotidianas, é hora de agir e colocar sua vida nos trilhos. Os sintomas de uma crise de ansiedade envolvem alterações de humor, alterações cognitivas e até sensações físicas.

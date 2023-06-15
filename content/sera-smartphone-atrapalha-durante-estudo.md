@@ -5,7 +5,7 @@ image: '/blog/william-iven-19843-unsplash.jpg'
 categories: ['Cotidiano']
 description: 'É muito comum entre os adolescentes estarem conectados em suas redes sociais durante as horas de estudo. Será que o smartphone atrapalha durante o estudo?'
 draft: false
-type: 'post'
+type: blog
 ---
 
 Durante o dia a dia dos **adolescentes** é muito comum eles estarem **conectados** aos seus smartphones boa parte do tempo. Mas será que usar o smartphone atrapalha durante o estudo?

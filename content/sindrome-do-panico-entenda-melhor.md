@@ -5,7 +5,7 @@ image: '/blog/sindrome-do-panico.jpg'
 categories: ['Cotidiano']
 description: 'Medo de perder o controle, sensação de estar prestes a morrer, sudorese (suor excessivo), formigamento nas mãos...podem ser sintomas da Síndrome do Pânico'
 draft: false
-type: 'post'
+type: blog
 ---
 
 Medo de perder o controle, sensação de estar prestes a morrer, sudorese (suor excessivo), formigamento nas mãos, pés ou rosto, palpitação, tremores, calafrios, dificuldade de respirar, dores no peito, tontura, dor de cabeça, entre outros.

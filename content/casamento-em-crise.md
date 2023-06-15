@@ -5,7 +5,7 @@ image: '/blog/Casamento-em-crise.jpeg'
 categories: ['Cotidiano']
 description: 'Vou apresentar os motivos mais comuns de um relacionamento em crise e dar dicas para ter sucesso no casamento. Continue a leitura!'
 draft: false
-type: 'post'
+type: blog
 ---
 
 Geralmente, um casamento em crise tem início quando um estresse ou conflito mal resolvido faz com que o nível de [ansiedade](/como-e-feito-o-tratamento-da-ansiedade/) se torne intenso demais para o casal conseguir administrar. Como resultado, a raiva, o ressentimento e a frustração se tornam habituais no relacionamento.

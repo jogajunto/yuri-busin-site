@@ -5,7 +5,7 @@ image: '/blog/homem-segurando-jornal-em-chamas-tentando-lidar-com-situa__es-estr
 categories: ['Saúde']
 description: 'O estresse prolongado pode ter efeitos significativos na saúde mental, provocando ansiedade e até mesmo depressão. Leia mais sobre aqui!'
 draft: false
-type: 'post'
+type: blog
 ---
 
 Muitas vezes, **situações estressantes** podem causar dor de cabeça, insônia ou redução na produtividade no trabalho. Esse estresse é uma reação normal do organismo e comum na vida agitada do cotidiano. No entanto, o estresse prolongado pode ter efeitos significativos na saúde mental, provocando ansiedade e até mesmo [depressão](/8-sintomas-de-depressao-que-voce-precisa-reconhecer/).

@@ -5,7 +5,7 @@ image: '/blog/essentialiving-pjeM49KIEik-unsplash-scaled.jpg'
 categories: ['Cotidiano']
 description: 'Se o fato de refletir sobre as coisas boas da vida produz muitos benefícios, por que fazemos pouco? A solução é o Diário Positivo, leia como fazer o seu!'
 draft: false
-type: 'post'
+type: blog
 ---
 
 Normalmente, quando olhamos para o passado e observamos o horizonte de eventos que transformaram as nossas vidas, lembramos mais dos desafios encarados, das dores, das tristezas e menos daqueles pequenos prazeres da vida, como aquele sopro de vento com cheiro de chuva matinal, aquele arrepio nas costas depois de uma massagem no pé, aquela gargalhada no telefone com sua melhor amiga… É necessário refletir sobre tudo, incluindo as coisas boas.

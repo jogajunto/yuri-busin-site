@@ -5,7 +5,7 @@ image: '/blog/boa-saude-mental.jpg'
 categories: ['Cotidiano']
 description: 'Neste artigo, você conhecerá os principais hábitos para manter a mente saudável. Vamos lá?'
 draft: false
-type: 'post'
+type: blog
 ---
 
 A boa saúde mental é definida como um estado de bem-estar no qual cada indivíduo percebe seu próprio potencial, lida com as tensões normais do dia a dia, trabalha de forma produtiva e é capaz de contribuir com a comunidade local.

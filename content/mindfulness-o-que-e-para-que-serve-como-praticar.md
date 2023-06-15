@@ -5,7 +5,7 @@ image: '/blog/lesly-juarez-307974-unsplash.jpg'
 categories: ['Cotidiano']
 description: 'O Mindfulness é a habilidade de conseguir focar sua atenção no momento presente, sem distrações. Tal técnica vem crescendo gradativamente ao longo do tempo.'
 draft: false
-type: 'post'
+type: blog
 ---
 
 O Mindfulness é a habilidade de conseguir focar sua atenção no momento presente, sem distrações. Tal técnica vem crescendo gradativamente ao longo do tempo, uma vez que vivemos em um momento da nossa existência cheia de estímulos, pressões e que conseguir manter sua atenção se torna um grande desafio.

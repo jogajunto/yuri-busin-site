@@ -5,7 +5,7 @@ image: '/blog/o-FELIZ-COM-O-CORPO-facebook.jpg'
 categories: ['Cotidiano']
 description: 'O convívio social é algo fundamental na vida de qualquer pessoa, porém, também existe a necessidade de que ocorram momentos de introspecção, para refle...'
 draft: false
-type: 'post'
+type: blog
 ---
 
 O convívio social é algo fundamental na vida de qualquer pessoa, porém, também existe a necessidade de que ocorram momentos de introspecção, para refletirmos sobre a nossa vida e fazer escolhas de acordo com o que acreditamos, sem que haja a interferência do outro.

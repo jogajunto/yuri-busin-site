@@ -5,7 +5,7 @@ image: '/blog/controle-emocional.jpg'
 categories: ['Saúde']
 description: 'Nesse artigo, você aprenderá o que são as emoções e conhecerá quais são as principais dicas para regulá-las. Vamos lá?'
 draft: false
-type: 'post'
+type: blog
 ---
 
 As emoções são poderosas. Elas podem determinar como você interage com as pessoas, quanto dinheiro gasta, como lida com os desafios ou usa seu tempo. Ao descobrir como controlar suas emoções você conseguirá se tornar mais forte mentalmente.

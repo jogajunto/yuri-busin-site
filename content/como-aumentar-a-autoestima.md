@@ -5,7 +5,7 @@ image: '/blog/como_aumentar_sua_auto_estima.jpg'
 categories: ['Cotidiano']
 description: 'A baixa autoestima está relacionada a uma série de doenças como depressão, transtornos alimentares e outros. Saiba como superar esse problema.'
 draft: false
-type: 'post'
+type: blog
 ---
 
 A autoestima está relacionada com a forma como você se percebe no mundo, como você encara quem você é e, claro, como você se sente em relação a isso. Ela também pode ser vista como a constituição de nossas crenças, qualidades, capacidades, modos de agir e gerir as nossas emoções, criando assim a nossa autoimagem.

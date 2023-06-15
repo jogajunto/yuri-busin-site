@@ -5,7 +5,7 @@ image: '/blog/mulher-chorando-em-d_vida-se-_-tristeza-ou-depress_o.jpg'
 categories: ['Cotidiano']
 description: 'Neste artigo, você descobrirá o que está por trás dos conceitos e como separar facilmente tristeza e depressão. Confira!'
 draft: false
-type: 'post'
+type: blog
 ---
 
 Sentimentos de tristeza, desespero e solidão são emoções normais que todos os seres humanos experimentam em algum momento de suas vidas. No entanto, para muitos, é difícil reconhecer se alguém está apenas triste ou, na verdade, está com depressão. Tristeza ou [depressão](/8-sintomas-de-depressao-que-voce-precisa-reconhecer/) são confundidas a todo momento, mesmo que haja **sintomas distintos entre elas**.

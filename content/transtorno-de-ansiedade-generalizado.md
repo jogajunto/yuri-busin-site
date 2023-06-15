@@ -5,7 +5,7 @@ image: '/blog/maxresdefault.jpg'
 categories: ['Cotidiano']
 description: 'Entenda em 2 minutos o que é o transtorno de ansiedade generalizado, sintomas e tratamentos.'
 draft: false
-type: 'post'
+type: blog
 ---
 
 Entenda em 2 minutos o que é o transtorno de ansiedade generalizado, sintomas e tratamentos.

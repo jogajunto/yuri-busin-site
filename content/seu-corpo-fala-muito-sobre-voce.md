@@ -5,7 +5,7 @@ image: '/blog/homem-de-terno-com-os-bra_os-cruzados-a-importancia-da-linguagem-c
 categories: ['Cotidiano']
 description: 'Você sabia que seu corpo diz muito sobre você? Que tal entender um pouco mais sobre isso, leia aqui algumas dicas!'
 draft: false
-type: 'post'
+type: blog
 ---
 
 Uma das melhores formas de criar empatia e conexão com as pessoas são a linguagem corporal. Se alguém interpreta erroneamente sua expressão corporal isso pode gerar consequências negativas nas suas relações interpessoais.

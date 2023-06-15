@@ -5,7 +5,7 @@ image: '/blog/inseguranca-na-cama.jpg'
 categories: ['Cotidiano']
 description: 'É muito comum ouvir nos pequenos grupos de homens e mulheres a temática sexual: “ser bom na cama”, porém alguns homens podem ter uma insegurança na cama...'
 draft: false
-type: 'post'
+type: blog
 ---
 
 É muito comum ouvir nos pequenos grupos de homens e mulheres a temática sexual: “ser bom na cama”, porém nem todos possuem a habilidade de lidar bem com a pressão de se sair bem na cama.

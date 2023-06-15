@@ -5,7 +5,7 @@ image: '/blog/mulher-espelho-coracao-como-amar-seu-proprio-corpo.jpg'
 categories: ['Cotidiano']
 description: 'Muitas pessoas demonstram problemas em relação à própria imagem, como se a pessoa não conseguisse amar o seu próprio corpo...'
 draft: false
-type: 'post'
+type: blog
 ---
 
 Muitas pessoas demonstram problemas em relação à própria imagem, como se a pessoa não conseguisse **amar o seu próprio corpo**. Isso, com o tempo, podem trazer diversos problemas em relação à auto-imagem e a auto-aceitação, fazendo com que a pessoa deixe de gostar dela mesma.

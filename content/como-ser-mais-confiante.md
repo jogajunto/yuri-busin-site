@@ -5,7 +5,7 @@ image: '/blog/m_o-levantada-de-algu_m-se-perguntando-como-ser-mais-confiante.jpg
 categories: ['Cotidiano']
 description: 'Se você busca criar mais confiança em si mesmo, este artigo pode te ajudar. Continue a leitura!'
 draft: false
-type: 'post'
+type: blog
 ---
 
 **Autoconfiança** é mais que apenas se sentir bem consigo mesmo. Ela é a base do amor-próprio, o que influencia a forma como alguém ama os outros e, principalmente, a si próprio. Por isso, é fundamental saber como ser mais confiante.

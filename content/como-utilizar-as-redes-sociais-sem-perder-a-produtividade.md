@@ -5,7 +5,7 @@ image: '/blog/4471ED93-E914-4310-BA91-5A79CC7DE450.png'
 categories: ['Cotidiano']
 description: 'As redes sociais são ferramentas para fazer as pessoas se comunicarem e interagirem. Entretanto, redes sociais e produtividade nem sempre caminham juntas.'
 draft: false
-type: 'post'
+type: blog
 ---
 
 As redes sociais se tornaram grandes ferramentas para permitir a comunicação e interação das pessoas por meio da internet. Além dos conhecidos Facebook, Twitter e LinkedIn, novos sites estão surgindo a cada dia. Com eles, é possível encontrar novos amigos, fazer negócios ou simplesmente se entreter. Entretanto, redes sociais e produtividade nem sempre caminham juntas, principalmente porque está cada vez mais fácil utilizar esses meios dentro do expediente profissional.

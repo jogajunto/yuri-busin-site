@@ -5,7 +5,7 @@ image: '/blog/blog-yuri-coach.jpg'
 categories: ['Saúde']
 description: 'Embora as pessoas pensem que eles são a mesma coisa, esses dois profissionais trabalham de forma diferente. Descubra a diferença entre psicólogo e coach.'
 draft: false
-type: 'post'
+type: blog
 ---
 
 Muitas pessoas têm dúvidas sobre as diferenças entre o psicólogo e o coach, mas antes de esclarecê-las, vale a pena falar sobre o universo que envolve estes profissionais.

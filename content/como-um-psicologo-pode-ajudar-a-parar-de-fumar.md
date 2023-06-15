@@ -5,7 +5,7 @@ image: '/blog/fumante-com-o-desejo-de-parar-de-fumar.jpg'
 categories: ['Cotidiano']
 description: 'Neste artigo, você vai descobrir como um psicólogo clínico pode ajudar a acabar com o hábito do fumo. Vamos lá?   '
 draft: false
-type: 'post'
+type: blog
 ---
 
 Decidir que você está pronto para **parar de fumar** é apenas parte da batalha. Cada sucesso traz consigo uma nova dificuldade, e cada marco alcançado — uma semana sem acender, um mês, um ano — traz uma alegria incalculável para você e sua família. No final, a decisão de desistir deve ser sua, mas a jornada não precisa ser feita sozinha.

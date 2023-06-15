@@ -5,7 +5,7 @@ image: '/blog/depress_o_final_de_ano.jpeg'
 categories: ['Cotidiano']
 description: 'Neste artigo, você conhecerá alguns dos fatores de risco para a depressão de fim de ano e como você pode evitá-los. Vamos lá?'
 draft: false
-type: 'post'
+type: blog
 ---
 
 Para a maioria das pessoas o fim de ano é uma época divertida, repleta de festas, comemorações e reuniões sociais com familiares e amigos. Porém, para outras, é um momento cheio de tristeza, autorreflexão, solidão e [ansiedade](/como-e-feito-o-tratamento-da-ansiedade/).

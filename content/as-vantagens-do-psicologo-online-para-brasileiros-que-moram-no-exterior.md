@@ -5,7 +5,7 @@ image: '/blog/brasileiros-que-moram-no-exterior-tem-a-conveni_ncia-do-psicologo-
 categories: ['Cotidiano']
 description: 'A natureza flexível da psicoterapia online beneficia pacientes e psicólogos. Saiba o porquê lendo este artigo!'
 draft: false
-type: 'post'
+type: blog
 ---
 
 O **aconselhamento remoto** está se tornando cada vez mais popular, principalmente, para aqueles que viajam muito ou brasileiros que moram no exterior. A tecnologia tem permitido que pessoas continuem a ser atendidos por seus [psicólogos clínicos](/pra-que-serve-um-psicologo-clinico/) de confiança, mesmo que eles estejam do outro lado do mundo.

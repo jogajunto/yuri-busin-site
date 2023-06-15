@@ -5,7 +5,7 @@ image: '/blog/homem-a-beira-do-precip_cio-preven__o-ao-suicidio.jpg'
 categories: ['Cotidiano']
 description: 'neste artigo, apresento a importância dos psicólogos para ajudar as pessoas que lutam com pensamentos suicidas todos os dias. Continue para saber mais!'
 draft: false
-type: 'post'
+type: blog
 ---
 
 Nos últimos anos, as [taxas de suicídio têm aumentado no Brasil](https://g1.globo.com/ciencia-e-saude/noticia/2019/09/10/na-contramao-da-tendencia-mundial-taxa-de-suicidio-aumenta-7percent-no-brasil-em-seis-anos.ghtml), indo contra a tendência mundial. Enquanto a taxa mundial caiu 9,8%, no nosso país ela **aumentou 7%**, alerta a Organização Mundial da Saúde (OMS). O estigma e a falta de acesso aos serviços de saúde mental têm dificultado a eficácia dos programas de **prevenção ao suicídio**.

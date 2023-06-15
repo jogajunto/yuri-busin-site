@@ -5,7 +5,7 @@ image: '/blog/homem-de-terno-com-infelicidade-no-trabalho.jpg'
 categories: ['Cotidiano']
 description: 'Você se sente desvalorizado pelo seu chefe? Gostaria de aumentar sua motivação no trabalho? Para saber como, leia este artigo!'
 draft: false
-type: 'post'
+type: blog
 ---
 
 Você se sente desvalorizado pelo seu chefe, seus colegas de trabalho não trabalham de forma colaborativa ou acha sua lista de tarefas muito chata. Muitas pessoas sentem isso todos os dias e acreditam que estão trabalhando no lugar errado. Mas, na verdade, muitas dessas afirmações são motivadas internamente por uma **infelicidade no trabalho** ou mesmo em suas profissões.

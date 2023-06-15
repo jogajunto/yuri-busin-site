@@ -5,7 +5,7 @@ image: '/blog/consult_rio-de-atendimento-psicol_gico.jpg'
 categories: ['Cotidiano']
 description: 'Se você está considerando procurar um atendimento psicológico, você já fez a parte difícil: reconheceu que precisa melhorar sua saúde mental! Saiba mais...'
 draft: false
-type: 'post'
+type: blog
 ---
 
 Se você está considerando procurar um atendimento psicológico, você já fez a parte difícil: reconheceu que precisa de uma ajuda profissional para melhorar sua saúde mental ou resolver um problema emocional.

@@ -5,7 +5,7 @@ image: '/blog/resolu__es-de-ano-novo.jpg'
 categories: ['Cotidiano']
 description: 'Neste artigo, você encontrará algumas dicas de resoluções que ajudarão você a crescer psicologicamente, emocionalmente ou socialmente. Vamos lá?'
 draft: false
-type: 'post'
+type: blog
 ---
 
 O início de um **novo ano** é um bom momento para deixar velhos hábitos no passado, e é por isso que tantas pessoas fazem [resoluções de ano novo](/como-alcancar-as-resolucoes-de-ano-novo-saiba-como-a-psicologia-pode-te-ajudar/).

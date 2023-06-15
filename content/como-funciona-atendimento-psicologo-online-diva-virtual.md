@@ -5,7 +5,7 @@ image: '/blog/yuri-psicologo-virtural-v2-1.jpg'
 categories: ['Cotidiano']
 description: 'Nem todos podem se deslocar até um consultório para um tratamento psicológico. Por isso o psicólogo online pode ser uma ótima solução...Entenda mais como...'
 draft: false
-type: 'post'
+type: blog
 ---
 
 O **psicólogo online** é uma prática de psicoterapia por meio das ferramentas atuais, no caso a internet. Alguns outros países já possuem uma legislação muito consolidada sobre isso e agora o Brasil também está aderindo a essa nova formação de atendimento.

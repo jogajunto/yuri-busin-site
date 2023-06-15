@@ -5,7 +5,7 @@ image: '/blog/homem-gritando-computador.jpg'
 categories: ['Cotidiano']
 description: 'Atualmente, diversos casos de problemas psicológicos estão sendo relacionados com o mau uso da internet. Os discursos de ódio, haters na internet...'
 draft: false
-type: 'post'
+type: blog
 ---
 
 Atualmente, diversos casos de problemas psicológicos estão sendo relacionados com o mau uso da internet. Os [discursos de ódio](https://www.infoescola.com/direito/discurso-de-odio/) nas redes sociais (haters na internet) têm se tornado cada vez mais comuns e podem fazer com que uma pessoa se sinta menosprezada, principalmente quando esse discurso é dirigida a ela.

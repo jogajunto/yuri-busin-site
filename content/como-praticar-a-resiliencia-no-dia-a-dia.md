@@ -5,7 +5,7 @@ image: '/blog/homem-com-os-bra_os-abertos-sobre-a-montanha-que-sabe-como-pratica
 categories: ['Cotidiano']
 description: 'Ser resiliente significa ser capaz de se adaptar e se recuperar quando algo difícil acontece. Quer aprender como fazer isso? Então leia este post!'
 draft: false
-type: 'post'
+type: blog
 ---
 
 Ser resiliente significa ser capaz de se adaptar e se **recuperar quando algo difícil acontece**, como um trauma ou uma experiência dolorosa. Aquelas pessoas que sabem como praticar a resiliência não ficam muito tempo lamentando o [fracasso](/como-superar-o-sentimento-de-fracasso/). Elas reconhecem a situação, aprendem com seus erros e depois **seguem em frente**.

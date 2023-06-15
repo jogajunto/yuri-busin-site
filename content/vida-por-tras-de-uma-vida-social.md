@@ -5,7 +5,7 @@ image: '/blog/A-vida-social-por-tr_s-de-uma-vida-virtual.jpg'
 categories: ['Cotidiano']
 description: 'Esse comportamento de se comparar com os outros é muito comum na vida cotidiana, mas o que está por trás de uma vida virtual?'
 draft: false
-type: 'post'
+type: blog
 ---
 
 Atualmente, o grande poder das redes sociais são maiores do que imaginamos, sempre ouvimos comentários “de que o fulano isso ou o que fulano aquilo” e, claro, o “fulano sempre está melhor que você”. Esse comportamento de se comparar com os outros é muito comum na vida cotidiana, mas quando se trata das redes sociais é notório que isso acaba causando até mesmo uma inveja.

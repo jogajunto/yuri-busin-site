@@ -5,7 +5,7 @@ image: '/blog/o-amor-patologico-e-seu-tratamentodr-yuri-busin-770x314.jpg'
 categories: ['Cotidiano']
 description: 'Mas, em certa medida, os relacionamentos podem se tornar destrutivos, trazendo problemas em longo prazo, quando o amor é patológico...'
 draft: false
-type: 'post'
+type: blog
 ---
 
 A busca pelo relacionamento amoroso, pelo parceiro ideal e pelo amor de nossas vidas para muitos é algo fundamental. Mas, em certa medida, os relacionamentos podem se tornar destrutivos, trazendo problemas em longo prazo, quando o amor se torna patológico, o que deixa de ser algo belo e saudável e se transforma em um vício.

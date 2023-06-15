@@ -5,7 +5,7 @@ image: '/blog/como-o-_lcool-afeta-o-c_rebro.jpg'
 categories: ['Cotidiano']
 description: 'Para saber mais detalhes sobre como as bebidas alcoólicas podem afetar o seu cérebro, continue a leitura!'
 draft: false
-type: 'post'
+type: blog
 ---
 
 Dificuldade para caminhar, visão turva, fala arrastada, tempos de reação lentos, memória prejudicada. Sem dúvidas, o álcool afeta o [cérebro](/entendendo-o-cerebro-para-sair-bem-nas-fotos/).

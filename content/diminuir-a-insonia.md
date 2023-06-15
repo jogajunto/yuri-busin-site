@@ -5,7 +5,7 @@ image: '/blog/alexandra-gorn-471463-unsplash.jpg'
 categories: ['Saúde']
 description: 'Buscando no Google de madrugada sobre insônia? Calma... você não está sozinho. A Psicologia ensina sobre como melhorar seu sono com poucas mud...'
 draft: false
-type: 'post'
+type: blog
 ---
 
 A **insônia** significa a incapacidade de adormecer, permanecer dormindo, tendência a acordar cedo demais ou ter um sono de má qualidade. Normalmente, ela é motivada por eventos estressantes como a perda de entes queridos, crises financeiras, divórcios, hospitalização ou desemprego.

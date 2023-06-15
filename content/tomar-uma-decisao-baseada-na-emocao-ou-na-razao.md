@@ -5,7 +5,7 @@ image: '/blog/tomar-uma-decis_o-baseada-na-emo__o-ou-na-raz_o.jpeg'
 categories: ['Cotidiano']
 description: 'Neste artigo, você conhecerá mais sobre o antagonismo entre os pensamentos lógico e emocional e como deve tomar suas decisões. Vamos lá?'
 draft: false
-type: 'post'
+type: blog
 ---
 
 O debate entre tomar uma decisão baseada na emoção ou na razão é antigo. Platão descreveu a emoção e a razão como dois cavalos nos puxando em direções opostas.

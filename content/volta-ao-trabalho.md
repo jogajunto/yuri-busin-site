@@ -5,7 +5,7 @@ image: '/blog/motivacao-pos-ferias.jpg'
 categories: ['Cotidiano']
 description: 'Voltar a trabalhar depois das férias pode ser uma tarefa difícil, principalmente se o tempo de descanso foi um pouco mais prolongado...'
 draft: false
-type: 'post'
+type: blog
 ---
 
 Voltar a trabalhar depois das férias pode ser uma tarefa difícil, principalmente se o tempo de descanso foi um pouco mais prolongado.

@@ -5,7 +5,7 @@ image: '/blog/menina-na-janela-tentando-se-livrar-de-pensamentos-negativos.jpg'
 categories: ['Saúde']
 description: 'Por isso, para ter uma melhor saúde física e mental, aqui estão algumas dicas de como se livrar de pensamentos negativos. Confira!'
 draft: false
-type: 'post'
+type: blog
 ---
 
 Durante a evolução humana, o cérebro se desenvolveu para responder a pensamentos negativos de forma mais ágil do que os sentimentos positivos, com o intuito de ajudar o homem a tomar decisões diante de ameaças, garantindo sua segurança e sobrevivência.

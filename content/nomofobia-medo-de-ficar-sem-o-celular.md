@@ -5,7 +5,7 @@ image: '/blog/ImageResizer.net-1yglctbvddskx5s.jpg'
 categories: ['Cotidiano']
 description: 'A “nomofobia” consiste na angustia de não estar com o celular próximo, fazendo a pessoa sentir sintomas como angustia, ansiedade, desamparo, impotência...'
 draft: false
-type: 'post'
+type: blog
 ---
 
 ## **O que é nomofobia e quais os perigos da dependência do telefone celular**

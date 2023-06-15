@@ -5,7 +5,7 @@ image: '/blog/quando-procurar-um-psic_logo.jpg'
 categories: ['Cotidiano']
 description: 'Aqui você encontra os principais sinais de que talvez seja hora de procurar um psicólogo.'
 draft: false
-type: 'post'
+type: blog
 ---
 
 A [psicoterapia](/quanto-tempo-dura-psicoterapia/) é um tratamento indicado para muitos dos problemas da vida. Mas, às vezes, uma pessoa não sabe quando procurar um psicólogo, esperando que uma situação se resolva sozinha, o que acaba **postergando o bem-estar dela**.

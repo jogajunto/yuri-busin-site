@@ -5,7 +5,7 @@ image: '/blog/82165C1E-2E03-42E8-9FB0-50A51B32131C.jpeg'
 categories: ['Cotidiano']
 description: 'A procrastinação está cada vez mais presente no nosso cotidiano. Afinal, vivemos numa sociedade repleta de estímulos que facilmente nos tiram do foco...'
 draft: false
-type: 'post'
+type: blog
 ---
 
 A **procrastinação** está cada vez mais presente no nosso cotidiano. Afinal, vivemos numa sociedade repleta de estímulos que facilmente nos tiram do foco, fazendo com que algumas pessoas percam tempo valioso em seus dias em detrimento de suas tarefas diárias.

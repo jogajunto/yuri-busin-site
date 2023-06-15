@@ -5,7 +5,7 @@ image: '/blog/homens.jpg'
 categories: ['Cotidiano']
 description: 'Já pararam para pensar que é muito difícil, homens confessarem que sofrem? Que choram? Que ficam tristes? Angustiados?'
 draft: false
-type: 'post'
+type: blog
 ---
 
 Já pararam para pensar que é muito difícil, homens confessarem que sofrem? Que choram? Que ficam tristes? Angustiados? Mas na realidade o homem sofre tanto quanto qualquer pessoa, velho ou novo, bonito ou feio, rico ou pobre, o homem é passível de sofrer.

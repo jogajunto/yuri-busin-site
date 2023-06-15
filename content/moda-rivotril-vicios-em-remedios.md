@@ -5,7 +5,7 @@ image: '/blog/moda-rivotril.jpg'
 categories: ['Cotidiano']
 description: 'O uso abusivo pode causar dependência sobre o medicamento utilizado e isso é uma preocupação no Brasil e também em outros países.Como por exemplo o Rivotril'
 draft: false
-type: 'post'
+type: blog
 ---
 
 Atualmente, um problema que tem sido destacado pela Organização Mundial da Saúde (OMS) se refere ao uso abusivo de medicamentos, em que está sendo apontado como um problema, mas ao mesmo tempo nada tem sido feito. O uso abusivo pode causar dependência sobre o medicamento utilizado e isso é uma preocupação no Brasil e também em outros países.

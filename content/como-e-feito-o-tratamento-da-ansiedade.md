@@ -5,7 +5,7 @@ image: '/blog/tratamento-ansiedade.jpeg'
 categories: ['Saúde']
 description: 'Neste artigo, você vai conhecer o que é a ansiedade e quais são os tratamentos recomendados. Continue lendo!'
 draft: false
-type: 'post'
+type: blog
 ---
 
 Tratar uma pessoa com ansiedade depende da natureza do transtorno e das preferências individuais do paciente. Muitas vezes, o tratamento da ansiedade combina terapia, medicação e adoção de novos hábitos.

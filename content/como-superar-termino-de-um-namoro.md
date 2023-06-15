@@ -5,7 +5,7 @@ image: '/blog/casal-nos-trilhos-tristes-superando-o-termino-do-relacionamento.jp
 categories: ['Cotidiano']
 description: 'Superar o término de um namoro nem sempre é uma tarefa fácil. Por isso, passa a ser fundamental aprender algumas formas para lidar melhor com esse momento.'
 draft: false
-type: 'post'
+type: blog
 ---
 
 Superar o término de um namoro nem sempre é uma tarefa fácil. Por isso, passa a ser fundamental aprender algumas formas para lidar melhor com esse momento, fazendo com que você possa se sentir melhor.

@@ -5,7 +5,7 @@ image: '/blog/v_rias-pessoas-utilizando-smartphones-sem-se-preocupar-com-o-uso-e
 categories: ['Cotidiano']
 description: 'Neste artigo, exploro como o celular está modificando a cultura moderna e quais os riscos do seu uso excessivo. Clique e leia!'
 draft: false
-type: 'post'
+type: blog
 ---
 
 Os **telefones celulares** se tornaram em parte integrante da vida cotidiana das pessoas. Se você é como a maioria, é provável que não saia de casa sem ele no bolso. No entanto, o **uso excessivo do celular** tem tornado as pessoas tão dependentes desse dispositivo que muitos nem conseguem imaginar um mundo sem ele.

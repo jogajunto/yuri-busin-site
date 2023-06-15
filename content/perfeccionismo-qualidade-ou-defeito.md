@@ -5,7 +5,7 @@ image: '/blog/40422059-60E4-4C25-A579-EF3D61AE53E5.jpeg'
 categories: ['Cotidiano']
 description: 'O perfeccionismo pode ser definido como a recusa em aceitar qualquer padrão que contenha quaisquer falhas ou defeitos...'
 draft: false
-type: 'post'
+type: blog
 ---
 
 O perfeccionismo pode ser definido como a recusa em aceitar qualquer padrão que contenha quaisquer falhas ou defeitos. Os indivíduos perfeccionistas costumam estipular metas ousadas e acreditam que o erro pode trazer consequências muito severas para suas vidas. Entretanto, esse tipo de comportamento pode ser prejudicial para as pessoas, desencadeando uma série de patologias.

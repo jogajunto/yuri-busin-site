@@ -5,7 +5,7 @@ image: '/blog/amor_proprio.jpg'
 categories: ['Cotidiano']
 description: 'É muito comum ouvir sobre o amor próprio e que se deve amar a si mesmo, mas a maioria das pessoas ainda não tem ideia do que isso significa. Entenda.'
 draft: false
-type: 'post'
+type: blog
 ---
 
 É muito comum ouvir sobre o amor-próprio e que se deve amar a si mesmo, mas a maioria das pessoas ainda não tem ideia do que isso significa. Em resumo, o amor-próprio é o modo de relacionar-se consigo mesmo, sem que haja qualquer punição por algum erro que você tenha cometido.

@@ -5,7 +5,7 @@ image: '/blog/mulher_insegura.jpg'
 categories: ['Cotidiano']
 description: 'Os relacionamentos amorosos atuais estão cada vez mais superficiais e passageiros, fazendo com que as pessoas tenham cada vez menos chance...'
 draft: false
-type: 'post'
+type: blog
 ---
 
 Os relacionamentos amorosos atuais estão cada vez mais superficiais e passageiros, fazendo com que as pessoas tenham cada vez menos chance de solucionar as dificuldades que enfrentam dentro de uma relação. Assim, no primeiro desentendimento, a relação chega ao fim e ambos os lados seguem em frente. Não há tempo para o relacionamento amadurecer.

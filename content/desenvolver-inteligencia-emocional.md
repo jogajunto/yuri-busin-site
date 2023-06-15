@@ -5,7 +5,7 @@ image: '/blog/intelig_ncia_emocional.jpeg'
 categories: ['Saúde']
 description: 'Por isso, se você busca desenvolver sua inteligência emocional, continue lendo este artigo! Vamos lá?'
 draft: false
-type: 'post'
+type: blog
 ---
 
 A **inteligência emocional pode ser definida como a capacidade de compreender, gerenciar e expressar os próprios sentimentos**, bem como se envolver com as outras pessoas.

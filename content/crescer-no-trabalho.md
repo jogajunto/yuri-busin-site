@@ -5,7 +5,7 @@ image: '/blog/law_post_10-compressor.jpg'
 categories: ['Cotidiano']
 description: 'Alguns hábitos são considerados bons, no entanto, muitos deles podem influenciar negativamente o seu desenvolvimento, limitando você crescer no trabalho'
 draft: false
-type: 'post'
+type: blog
 ---
 
 Ao longo da vida, a partir de suas experiências, você acumula uma série de manias, atitudes e regras. Alguns desses hábitos são considerados bons, no entanto, muitos deles podem influenciar negativamente o seu desenvolvimento pessoal, limitando, até mesmo, de você crescer no trabalho.

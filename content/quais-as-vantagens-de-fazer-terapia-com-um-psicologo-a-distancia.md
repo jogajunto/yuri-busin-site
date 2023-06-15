@@ -5,7 +5,7 @@ image: '/blog/homem-fazendo-uma-videochamada-para-o-seu-psic_logo-a-dist_ncia.jp
 categories: ['Saúde']
 description: 'A popularização da internet proporcionou uma série de facilidades. Entre elas, contar com a ajuda de um psicólogo a distância. Leia mais sobre aqui!'
 draft: false
-type: 'post'
+type: blog
 ---
 
 A popularização da internet proporcionou uma série de facilidades para a vida cotidiana. Entre elas, está a oportunidade de uma pessoa buscar por serviços de saúde mental, contando com a ajuda de um psicólogo a distância.

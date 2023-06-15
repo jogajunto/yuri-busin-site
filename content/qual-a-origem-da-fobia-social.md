@@ -5,7 +5,7 @@ image: '/blog/pessoa-com-fobia-social.jpg'
 categories: ['Cotidiano']
 description: 'A fobia social pode afetar profundamente as relações pessoais. Para se livrar desse mal, continue a leitura e saiba como melhorar os seus relacionamentos!'
 draft: false
-type: 'post'
+type: blog
 ---
 
 Quando alguém se sente [ansioso](/o-que-fazer-diante-de-uma-crise-de-ansiedade/) em situações sociais, mas fica mais confortável quando está sozinho, então a **fobia social** pode ser o problema.

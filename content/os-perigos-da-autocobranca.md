@@ -5,7 +5,7 @@ image: '/blog/nik-shuliahin-251237-unsplash.jpg'
 categories: ['Cotidiano']
 description: 'A busca por resultados rápidos fazem a pessoa achar que a autocobrança é solução. Quando, na verdade, você pode estar sendo o seu pior inimigo.'
 draft: false
-type: 'post'
+type: blog
 ---
 
 É muito comum **estipularmos regras** para nós mesmos, impondo **inúmeras exigências e condições para nos colocar na direção de um determinado objetivo**. Entretanto, de forma geral, somos muito mais exigentes com nós mesmos do que com as outras pessoas. A busca por resultados rápidos fazem a pessoa achar que a **autocobrança** é solução. Quando, na verdade, você pode estar sendo o seu pior inimigo.

@@ -5,7 +5,7 @@ image: '/blog/mulher-andando-em-meio-a-natureza-pensativa-em-como-superar-a-infi
 categories: ['Cotidiano']
 description: 'Quando você aprende a seguir em frente, é completamente possível que o relacionamento sobreviva mesmo após uma traição. Saiba como, neste artigo!'
 draft: false
-type: 'post'
+type: blog
 ---
 
 Quando um cônjuge descobre que seu parceiro se envolveu em algum tipo de **comportamento infiel**, seja ele físico ou emocional, ele experimenta uma série de emoções. Superar a infidelidade é um grande desafio e muitos relacionamentos acabam simplesmente porque ambos não se comprometerem em **tentar resolver o problema**.

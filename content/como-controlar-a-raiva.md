@@ -5,7 +5,7 @@ image: '/blog/Como-controlar-a-raiva.jpeg'
 categories: ['Saúde']
 description: 'Vou apresentar os benefícios de controlar a raiva, além de dar dicas de como praticar a resiliência e manter a calma diante dos acontecimentos. Vamos lá?'
 draft: false
-type: 'post'
+type: blog
 ---
 
 Como qualquer outra emoção humana, a raiva é normal e até saudável no cotidiano. Porém, a raiva descontrolada tem o potencial de prejudicar a saúde e também os relacionamentos. Assim, saber como controlar a raiva e ter uma resposta mais leve diante de um problema ou frustração é uma habilidade útil que proporciona mais [inteligência emocional](/desenvolver-inteligencia-emocional/) para o indivíduo.

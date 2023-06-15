@@ -5,7 +5,7 @@ image: '/blog/frasco-de-rem_dio-sobre-a-mesa-os-mitos-da-ritalina.jpg'
 categories: ['Cotidiano']
 description: 'Nos dias atuais, a Ritalina é um dos medicamentos mais controversos que existem. Na internet, muitos mitos sobre ele são disseminados como sendo ...'
 draft: false
-type: 'post'
+type: blog
 ---
 
 Nos dias atuais, a Ritalina é um dos medicamentos mais controversos que existem. Na internet, muitos mitos sobre ele são disseminados como sendo verdade e quase sempre ele é mal utilizado.

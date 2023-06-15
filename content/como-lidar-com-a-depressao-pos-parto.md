@@ -5,7 +5,7 @@ image: '/blog/como-lidar-com-a-depress_o-p_s-parto.jpg'
 categories: ['Cotidiano']
 description: 'A chegada de um bebê na família remete a um momento de felicidade. Em contrapartida, nem sempre é esse o cenário.'
 draft: false
-type: 'post'
+type: blog
 ---
 
 A chegada de um bebê na família remete a um momento de [felicidade](/dinheiro-compra-felicidade/). Em contrapartida, nem sempre é esse o cenário. Aliás, a depressão pós-parto (DPP), que é uma condição de profunda tristeza, acomete uma em cada cinco mulheres no Brasil.

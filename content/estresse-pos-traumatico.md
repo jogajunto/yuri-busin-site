@@ -5,7 +5,7 @@ image: '/blog/joshua-sortino-431615-unsplash.jpg'
 categories: ['Saúde']
 description: 'Nesse artigo, você conhecerá mais sobre esse transtorno, seus sintomas e como superar um evento traumático. Vamos lá?'
 draft: false
-type: 'post'
+type: blog
 ---
 
 O **estresse pós-traumático** é um grupo de reações de estresse que podem se desenvolver depois que alguém testemunha um evento traumático. Sentimentos de medo, tristeza e raiva e são comuns após um acontecimento angustiante.

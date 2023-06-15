@@ -5,7 +5,7 @@ image: '/blog/verdades-e-mentiras.jpg'
 categories: ['Cotidiano']
 description: 'Todos os dias nos deparamos com muitas pessoas, conversamos com diversas e mentimos para muitas delas...Mas porque temos a necessidade de mentir?'
 draft: false
-type: 'post'
+type: blog
 ---
 
 Todos os dias nos deparamos com muitas pessoas, conversamos com diversas e mentimos para muitas delas, parece duro falar desta forma, mas não podemos negar a realidade… A mentira está presente no cotidiano e como diria Dr. House, da série americana House, “todo mundo mente”.

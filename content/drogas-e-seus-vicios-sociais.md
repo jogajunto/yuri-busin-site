@@ -5,7 +5,7 @@ image: '/blog/drogas.jpg'
 categories: ['Cotidiano']
 description: 'Na atualidade, existem muitas pesquisas sobre as drogas, como elas agem no corpo, como elas modificam as estruturas cerebrais, como elas viciam...'
 draft: false
-type: 'post'
+type: blog
 ---
 
 Na atualidade, existem muitas pesquisas sobre as drogas, como elas agem no corpo, como elas modificam as estruturas cerebrais, como elas viciam, etc. Mas algumas pesquisas levam em conta o usuário, o qual é um dos mais prejudicados na situação, se não for o maior prejudicado (lembrando que familiares sempre sofrem juntos).

@@ -51,11 +51,11 @@ Os critérios diagnósticos para transtornos de ansiedade incluem:
 
 - Palpitações, sudorese, tensão muscular ou dor de cabeça.
 
-<!---->
+
 
 - Dificuldade para dormir ou sono inquieto.
 
-<!---->
+
 
 - Fadiga, cansaço ou fraqueza.
 

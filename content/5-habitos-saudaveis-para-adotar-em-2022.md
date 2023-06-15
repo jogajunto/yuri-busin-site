@@ -68,5 +68,3 @@ Agora, se ainda está receoso desse contato, uma simples ligação de voz já aj
 Agora que você sabe mais sobre alguns bons hábitos, é hora de fazer a mudança e colocá-los em prática!
 
 **Se você tem mais alguma dica de hábito saudável, compartilhe comigo lá no meu perfil no Instagram. O link está aqui: [@dryuribusin](https://www.instagram.com/dryuribusin/)**
-
-<!--EndFragment-->

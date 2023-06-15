@@ -13,7 +13,7 @@ date: 2022-12-30T16:24:58.895Z
 draft: false
 ---
 
-<!--StartFragment-->
+
 
 Alguns dias você se sente como invencível, exalando confiança, competência e coragem para realizar grandes projetos. Já em outros dias, sem causas óbvias, você só quer se esconder de tudo e de todos.
 

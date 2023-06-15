@@ -10,7 +10,7 @@ date: 2022-08-08T02:56:19.214Z
 draft: false
 ---
 
-<!--StartFragment-->
+
 
 Todo mundo sonha ser uma pessoa “super produtiva”, sendo capaz de acordar cedo, se exercitar, comer alimentos saudáveis, ir bem nos estudos, concluir tarefas do trabalho no menor tempo possível e ainda [manter bons relacionamentos](https://yuribusin.com.br/7-habitos-prejudicam-relacionamento-amoroso/). Porém, a ciência aponta que muita gente confunde a força de vontade com o poder do hábito.
 
@@ -46,4 +46,4 @@ Bons hábitos são contagiosos, portanto, procure pessoas que estão um pouco à
 
 [Para mais dicas como essas, confira o meu perfil no Instagram.](https://www.instagram.com/dryuribusin/)
 
-<!--EndFragment-->
+

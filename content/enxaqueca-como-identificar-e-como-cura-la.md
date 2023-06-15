@@ -10,7 +10,7 @@ date: 2022-06-27T22:39:14.585Z
 draft: false
 ---
 
-<!--StartFragment-->
+
 
 Muita gente não sabe, mas enxaqueca não é uma simples dor de cabeça. Ela é uma doença neurológica séria que pode, até mesmo, deixar uma pessoa acamada por vários dias.
 
@@ -44,4 +44,4 @@ O psicólogo clínico também ajudará o paciente a lidar com o impacto emociona
 
 [Se você está procurando ajuda para amenizar e prevenir a enxaqueca, entre em contato comigo, por meio do meu Instagram.](https://www.instagram.com/dryuribusin/)
 
-<!--EndFragment-->
+

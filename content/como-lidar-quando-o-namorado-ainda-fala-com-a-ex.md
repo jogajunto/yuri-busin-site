@@ -11,7 +11,7 @@ date: 2021-02-24T12:26:13.439Z
 draft: false
 ---
 
-<!--StartFragment-->
+
 
 Você está incomodada ou insegura porque descobriu que seu namorado ou marido ainda fala com a ex de vez em quando?
 
@@ -67,4 +67,4 @@ Se você quer um relacionamento duradouro, o seu parceiro já tem que ter **matu
 
 **Caso precise de ajuda para resolver a questão ou superar um relacionamento, experimente conversar com um psicólogo. Fale comigo, [clicando aqui!](https://yuribusin.com.br/contato/)**
 
-<!--EndFragment-->
+

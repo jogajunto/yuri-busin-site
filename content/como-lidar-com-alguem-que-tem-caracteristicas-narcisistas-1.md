@@ -10,7 +10,7 @@ date: 2022-07-22T18:32:32.367Z
 draft: false
 ---
 
-<!--StartFragment-->
+
 
 É comum usar a palavra narcisista para descrever uma pessoa egocêntrica e com pouca [empatia](https://yuribusin.com.br/empatia-voce-sabe-lidar-com-a-diversidade/). Contudo, é importante lembrar que o transtorno de personalidade narcisista é uma condição de saúde mental séria e requer diagnóstico por um psicólogo.
 
@@ -58,4 +58,4 @@ Você também pode manter a mente ocupada com coisas saudáveis, como novos hobb
 
 [Para mais dicas de saúde mental, consulte o meu perfil no Instagram.](https://www.instagram.com/dryuribusin/)
 
-<!--EndFragment-->
+

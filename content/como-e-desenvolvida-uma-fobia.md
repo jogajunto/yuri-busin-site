@@ -10,7 +10,7 @@ date: 2022-08-04T01:43:12.005Z
 draft: false
 ---
 
-<!--StartFragment-->
+
 
 A fobia pode ser caracterizada como um [medo avassalador e irracional ](/5-fobias-estranhas-que-voce-nunca-ouviu-falar/)de objetos ou situações que não representam de fato nenhum perigo real, mas, mesmo assim, provocam forte ansiedade e evitação na pessoa.
 
@@ -42,4 +42,4 @@ Durante o tratamento, o **[psicólogo comportamental](https://yuribusin.com.br/)
 
 [Gostou deste artigo? Confira mais dicas de saúde mental e bem-estar no meu perfil no Instagram!](https://www.instagram.com/dryuribusin/)
 
-<!--EndFragment-->
+

@@ -13,7 +13,7 @@ date: 2022-06-18T22:25:52.310Z
 draft: false
 ---
 
-<!--StartFragment-->
+
 
 Uma fobia pode ser considerada um tipo de transtorno de ansiedade que se apresenta na forma de um medo persistente, irracional e excessivo sobre algo. Pode ser medo de uma pessoa, atividade, situação, animal ou objeto.
 
@@ -54,4 +54,4 @@ O tratamento para essa fobia pode ser bem-sucedido com tempo e trabalho. Aos pou
 
 Obter o tratamento certo e o suporte para uma fobia específica, como a pistantrofobia, não apenas ajuda a pessoa a aprender a confiar novamente nos outros, mas também é fundamental para a saúde geral dela.
 
-<!--EndFragment-->
+

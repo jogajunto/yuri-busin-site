@@ -10,7 +10,7 @@ date: 2022-06-21T21:23:01.895Z
 draft: false
 ---
 
-<!--StartFragment-->
+
 
 Em tempos de medo e incerteza, quando as pessoas sentem suas existências ameaçadas, muitos acreditam que a [saúde mental](https://yuribusin.com.br/os-riscos-do-sedentarismo-para-a-saude-mental/) não é uma prioridade.
 
@@ -50,4 +50,4 @@ Por isso, se queremos reconstruir a nossa sociedade no pós-pandemia, a minha es
 
 [Para acompanhar o meu trabalho, siga o meu perfil no Instagram!](https://www.instagram.com/dryuribusin/)
 
-<!--EndFragment-->
+

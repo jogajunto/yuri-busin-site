@@ -10,7 +10,7 @@ date: 2022-06-29T23:38:14.031Z
 draft: false
 ---
 
-<!--StartFragment-->
+
 
 O Transtorno do Déficit de Atenção com Hiperatividade, mais conhecido como TDAH, é uma condição de saúde mental que inclui uma combinação de problemas persistentes, como dificuldade em prestar atenção, hiperatividade e comportamento impulsivo.
 
@@ -54,4 +54,4 @@ Por isso, quanto mais cedo descobrir, mais rápido a pessoa poderá iniciar o tr
 
 [Se você acredita que tem TDAH, marque uma consulta agora mesmo. Você pode falar comigo por meio do meu Instagram.](https://www.instagram.com/dryuribusin/)
 
-<!--EndFragment-->
+

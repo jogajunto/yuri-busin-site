@@ -12,7 +12,7 @@ date: 2022-07-09T22:53:09.577Z
 draft: false
 ---
 
-<!--StartFragment-->
+
 
 Todo mundo sente ansiedade às vezes. O sentimento pode aparecer no primeiro dia em um novo emprego, ao conhecer a família do parceiro ou fazer uma apresentação na frente de muitas pessoas. O medo de ser julgado é alto.
 
@@ -56,4 +56,4 @@ Quando você cuida de si mesmo, você se ama e tem um respeito saudável para co
 
 [Para mais dicas de saúde mental e controle da ansiedade, siga o meu perfil no Instagram.](https://www.instagram.com/dryuribusin/)
 
-<!--EndFragment-->
+

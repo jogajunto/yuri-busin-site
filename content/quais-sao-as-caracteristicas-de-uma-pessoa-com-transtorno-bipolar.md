@@ -10,7 +10,7 @@ date: 2022-07-13T23:16:17.401Z
 draft: false
 ---
 
-<!--StartFragment-->
+
 
 O transtorno bipolar é uma condição de [saúde mental](https://yuribusin.com.br/7-habitos-boa-saude-mental/) em que uma pessoa possui alterações de mania, humor e [depressão ](/diferenca-estresse-ansiedade-depressao/)de forma intermitente. Essas experiências podem durar de muitas semanas a muitos meses, impactando negativamente na qualidade de vida da pessoa.
 
@@ -66,4 +66,4 @@ Infelizmente, a condição é crônica e requer que o paciente faça um acompanh
 
 **Para conhecer mais do meu trabalho e como posso lhe ajudar, [confira o meu perfil no Instagram](https://www.instagram.com/dryuribusin/).**
 
-<!--EndFragment-->
+

@@ -10,7 +10,7 @@ date: 2022-06-25T23:55:35.794Z
 draft: false
 ---
 
-<!--StartFragment-->
+
 
 A insônia é um distúrbio do sono que é caracterizado pela dificuldade no [ato de dormir](https://yuribusin.com.br/como-dormir-melhor/). O aparecimento da condição é algo comum, principalmente naqueles momentos em que a pessoa está experimentando grandes mudanças de vida.
 
@@ -46,4 +46,4 @@ Finalmente, caso você ainda enfrente problemas para conseguir dormir, não deix
 
 [Você pode entrar em contato comigo por meio do meu perfil no Instagram.](https://www.instagram.com/dryuribusin/)
 
-<!--EndFragment-->
+

@@ -10,8 +10,6 @@ date: 2022-06-23T22:26:25.775Z
 draft: false
 ---
 
-<!--StartFragment-->
-
 Assim como qualquer parte do nosso corpo, o cérebro também precisa de certos cuidados para se [manter saudável](https://yuribusin.com.br/7-habitos-boa-saude-mental/). Exercitar a nossa mente para melhorar a memória, o foco ou a concentração deveria ser uma prioridade para as pessoas, especialmente à medida que elas envelhecem.
 
 Assim como ocorre com nossos músculos, nossos cérebros também atrofiam ou definham quando não são exercitados, diminuindo a capacidade cognitiva ao longo dos anos.
@@ -55,5 +53,3 @@ A meditação pode ajudar a melhorar a atenção, o foco, a empatia e até a imu
 A ideia aqui é parar pelo menos cinco minutos por dia para acalmar a sua mente e aprender como controlar pensamentos. A técnica será bem-vinda principalmente para aqueles que estão estressados ou sofrendo de quadros de ansiedade.
 
 [Para mais dicas de como melhorar a sua saúde mental, siga o meu perfil no Instagram!](https://www.instagram.com/dryuribusin/)
-
-<!--EndFragment-->

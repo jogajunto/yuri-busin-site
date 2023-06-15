@@ -1,12 +1,13 @@
 <div class="container--full">
 	<div class="swiper swiper-transtornos">
 		<div class="swiper-wrapper">
-			{{ with $.Site.GetPage "section" "transtornos" }}
-				{{ range .RegularPages }}
-					<div class="swiper-slide">
-						{{ .Render "card" }}
-					</div>
-				{{ end }}
+			{{ $transtornos := where site.RegularPages "Type" "in" "transtornos" }}
+			{{ $transtornos = where $transtornos "Permalink" "!=" .Permalink }}
+			{{ $transtornos = sort $transtornos ".Params.name" "asc" }}
+			{{ range $transtornos }}
+				<div class="swiper-slide">
+					{{ .Render "card" }}
+				</div>
 			{{ end }}
 		</div>
 	</div>

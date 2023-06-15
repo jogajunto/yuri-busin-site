@@ -11,14 +11,6 @@ date: 2020-09-25T20:19:45.198Z
 draft: false
 ---
 
-
-
-
-
-
-
-
-
 Manter um **diálogo eficiente** e é importante desenvolver a escuta ativa. Mas você sabe o porquê? Simples, por meio dela conseguimos transmitir informações de maneira mais clara e abrangente.
 
 Apesar de ser essencial para o nosso dia a dia, muitas pessoas não conseguiram desenvolver a escuta ativa, o que acarreta na dificuldade de manter um diálogo produtivo.
@@ -82,5 +74,3 @@ Para desenvolver a escuta ativa outro passo importante é procurar interessar-se
 Deixe-o à vontade e interaja, também com a linguagem não verbal e sempre faça contato visual. Dessa forma, ele conseguirá se expressar corretamente e passará a mensagem desejada a você.
 
 **Estas foram algumas dicas para você desenvolver a sua escuta ativa. Se você ainda tem dificuldade para praticar a escuta ativa, [entre em contato comigo!](https://yuribusin.com.br/contato/)**
-
-

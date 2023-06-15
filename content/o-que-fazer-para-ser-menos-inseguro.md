@@ -13,8 +13,6 @@ date: 2022-12-30T16:24:58.895Z
 draft: false
 ---
 
-
-
 Alguns dias você se sente como invencível, exalando confiança, competência e coragem para realizar grandes projetos. Já em outros dias, sem causas óbvias, você só quer se esconder de tudo e de todos.
 
 A insegurança está presente em várias áreas de nossas vidas, podendo surgir de uma hora para a outra, mesmo para aqueles que são bastante seguros de si. Podemos ficar inseguros sobre nossa aparência, nossa altura, como soa nossa voz, entre muitos outros aspectos.

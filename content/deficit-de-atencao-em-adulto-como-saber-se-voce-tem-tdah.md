@@ -10,8 +10,6 @@ date: 2022-06-29T23:38:14.031Z
 draft: false
 ---
 
-
-
 O Transtorno do Déficit de Atenção com Hiperatividade, mais conhecido como TDAH, é uma condição de saúde mental que inclui uma combinação de problemas persistentes, como dificuldade em prestar atenção, hiperatividade e comportamento impulsivo.
 
 Geralmente, o transtorno é mais comum em crianças, porém, uma parcela de adultos também apresenta os sintomas de TDAH. Muitas vezes, mesmo na idade adulta, a pessoa não sabe que tem a condição, com os sintomas sendo confundidos com outros transtornos mentais.
@@ -53,5 +51,3 @@ Em casos mais graves, a medicação pode ser utilizada como complemento à terap
 Por isso, quanto mais cedo descobrir, mais rápido a pessoa poderá iniciar o tratamento.
 
 [Se você acredita que tem TDAH, marque uma consulta agora mesmo. Você pode falar comigo por meio do meu Instagram.](https://www.instagram.com/dryuribusin/)
-
-

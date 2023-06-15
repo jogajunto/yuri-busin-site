@@ -11,14 +11,6 @@ date: 2020-12-24T12:32:58.316Z
 draft: false
 ---
 
-
-
-
-
-
-
-
-
 A síndrome do pânico (TP) é um problema mais comum do que imaginamos.
 
 Caracterizada por ataques recorrentes de medo e [pânico](https://www.google.com/url?client=internal-element-cse&cx=013413282715532661870:5z8llcwtwhy&q=https://yuribusin.com.br/sindrome-do-panico-entenda-melhor/&sa=U&ved=2ahUKEwiQuvPlh-LtAhVVILkGHcitBRAQFjAAegQIAhAC&usg=AOvVaw1t61daX6pa5CONBxMGS_sB), como o próprio nome sinaliza, os fatores podem ser físicos e/ou cognitivos.
@@ -76,5 +68,3 @@ Já o excesso de medicamentos pode causar dependência, além de ser um paliativ
 Portanto, lembre-se: quanto mais precoce for o tratamento, melhor será para o paciente.
 
 **E você, está precisando de apoio psicológico para a síndrome do pânico? [Entre em contato comigo](https://yuribusin.com.br/contato/)!**
-
-

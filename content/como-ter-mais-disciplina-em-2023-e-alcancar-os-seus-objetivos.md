@@ -11,14 +11,6 @@ date: 2022-12-15T12:29:01.501Z
 draft: false
 ---
 
-
-
-
-
-
-
-
-
 Mais um fim de ano se aproxima, e, com ele, as pessoas já começam a planejar uma série de [metas e objetivos](https://www.google.com/url?client=internal-element-cse&cx=013413282715532661870:5z8llcwtwhy&q=https://yuribusin.com.br/por-que-criar-metas-de-ano-novo/&sa=U&ved=2ahUKEwiy_-bR1vT7AhWpqZUCHVdgARwQFnoECAYQAg&usg=AOvVaw0VAUJMKvcFI_bsgF5zzYRN) para o vindouro 2023.
 
 Essa lista pode incluir itens mais simples, como economizar, fazer novos amigos ou cuidar mais do corpo. Porém, há também espaço para grandes projetos, como fazer uma grande viagem, conseguir uma promoção no trabalho ou iniciar um mestrado.
@@ -52,5 +44,3 @@ Também é interessante começar o ano buscando ajuda de um [psicólogo comporta
 Você é o condutor da mudança. Você consegue. Nunca desista de si mesmo. Um feliz e próspero ano novo para você!
 
 **Curtiu este artigo? [Acesse mais conteúdos no meu perfil no Instagram @dryuribusin.](https://www.instagram.com/dryuribusin/)**
-
-

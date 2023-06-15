@@ -11,8 +11,6 @@ date: 2022-07-29T03:09:36.853Z
 draft: false
 ---
 
-
-
 A inteligência emocional é a capacidade de entender, usar e gerenciar suas próprias emoções de maneira positiva para enfrentar o [estresse](/diferenca-estresse-ansiedade-depressao/), conflitos e outros desafios da vida moderna. Ou seja, a pessoa está sob controle total sobre suas próprias emoções. Ela permanece calma em uma crise e toma decisões com sensibilidade, por mais difícil que seja a situação.
 
 Todos experimentam emoções no dia a dia, mas são poucos os que podem identificá-las com precisão à medida que elas surgem. Aqueles com inteligência emocional dominam essas emoções porque as entendem e as usam a seu favor.
@@ -41,5 +39,3 @@ Uma ida ao [psicólogo comportamental](https://yuribusin.com.br/) também pode a
 Ao entender suas emoções e como controlá-las, você será mais capaz de viver no mundo mutável atual. Além de se comunicar melhor, você conseguirá formar relacionamentos mais fortes, tanto no trabalho quanto na vida pessoal.
 
 [Caso esteja interessada em mais conteúdos sobre saúde mental e inteligência emocional, siga o meu perfil no Instagram.](https://www.instagram.com/dryuribusin/)
-
-

@@ -1,11 +1,11 @@
 ---
-title: "Como vencer a insônia sem o uso de remédios?"
+title: 'Como vencer a insônia sem o uso de remédios?'
 date: 2020-03-23
-image : "/blog/como-vencer-a-ins_nia-sem-o-uso-de-rem_dios.jpg"
-categories: ["Cotidiano"]
-description: "A falta de sono pode gerar cansaço, baixa energia e dificuldades de concentração, atenção e memória. Saiba como resolver este problema!"
+image: '/blog/como-vencer-a-ins_nia-sem-o-uso-de-rem_dios.jpg'
+categories: ['Cotidiano']
+description: 'A falta de sono pode gerar cansaço, baixa energia e dificuldades de concentração, atenção e memória. Saiba como resolver este problema!'
 draft: false
-type: "post"
+type: 'post'
 ---
 
 Todo mundo experimenta uma noite de sono ruim de tempos em tempos. Aquelas noites em que é quase impossível vencer a [insônia](/diminuir-a-insonia/), pois você não consegue parar de se preocupar com o amanhã ou fica acordando várias vezes durante a madrugada.

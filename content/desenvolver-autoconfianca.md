@@ -11,14 +11,6 @@ date: 2020-09-25T20:28:30.769Z
 draft: false
 ---
 
-
-
-
-
-
-
-
-
 Você tem autoconfiança? Sabia que esta é uma habilidade que pode ser desenvolvida? E isso é a base para ter **sucesso em todas as áreas da vida**, seja no pessoal ou profissional?
 
 Desenvolver essa habilidade não é tão difícil quanto parece, mas precisa de dedicação e tempo.
@@ -76,5 +68,3 @@ Porque se você estiver com pessoas negativas tende, a tendência é que elas a 
 Em resumo, **desenvolver a autoconfiança** é o grande segredo de sucesso na vida. Crie uma mentalidade vencedora e não dê espaço para aquilo que pode prejudicar seu emocional e saúde mental.
 
 **E você, precisa de orientação psicológica para melhorar a sua autoconfiança? [Marque agora uma consulta!](https://yuribusin.com.br/contato/)**
-
-

@@ -12,14 +12,6 @@ date: 2021-07-20T12:14:27.329Z
 draft: false
 ---
 
-
-
-
-
-
-
-
-
 [Terminar o namoro](https://www.google.com/url?client=internal-element-cse&cx=013413282715532661870:5z8llcwtwhy&q=https://yuribusin.com.br/termino-de-relacionamentos-podem-ser-traumaticos/&sa=U&ved=2ahUKEwjDpI3QsfDxAhWepZUCHayGB6kQFjADegQIBBAC&usg=AOvVaw0Ubu2EPGfhS-VIzbWmU-kN) não é algo fácil para nenhuma das partes envolvidas.
 
 Uma vez que você decidiu que quer terminar o relacionamento, é importante dar a si mesmo um tempo para pensar sobre o que você quer dizer antes de realmente falar ao seu companheiro.
@@ -77,5 +69,3 @@ Não se sinta culpada por tomar a decisão de terminar. Não há problema algum 
 Terminar o relacionamento que você sabe que não vai dar certo é o melhor que você pode fazer pela sua [saúde mental](https://yuribusin.com.br/7-habitos-boa-saude-mental/). Vai doer no início, mas é a coisa mais honesta a se fazer, permitindo que ambos possam seguir em frente, abrindo espaço para que coisas melhores surjam.
 
 **Mas, se você ainda está em dúvida sobre terminar o namoro, posso te ajudar nessa fase de transição. [Marque a sua primeira consulta clicando aqui](https://yuribusin.com.br/contato/).**
-
-

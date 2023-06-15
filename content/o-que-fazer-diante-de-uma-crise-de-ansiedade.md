@@ -1,11 +1,11 @@
 ---
-title: "O que fazer diante de uma crise de ansiedade?"
+title: 'O que fazer diante de uma crise de ansiedade?'
 date: 2019-10-23
-image : "/blog/mulher-deitada-no-ch_o-tendo-uma-crise-de-ansiedade.jpg"
-categories: ["Cotidiano"]
-description: "Estima-se que 9% da população convivem com o transtorno de ansiedade.Se você é uma delas, continue a leitura!"
+image: '/blog/mulher-deitada-no-ch_o-tendo-uma-crise-de-ansiedade.jpg'
+categories: ['Cotidiano']
+description: 'Estima-se que 9% da população convivem com o transtorno de ansiedade.Se você é uma delas, continue a leitura!'
 draft: false
-type: "post"
+type: 'post'
 ---
 
 Todo mundo se sente **ansioso** de vez em quando, mas a partir do momento que a preocupação se torna excessiva e começa a afetar as atividades cotidianas, é hora de agir e colocar sua vida nos trilhos. Os sintomas de uma crise de ansiedade envolvem alterações de humor, alterações cognitivas e até sensações físicas.
@@ -22,11 +22,11 @@ No entanto, quando a ansiedade se torna esmagadora e começa a interferir em sua
 
 Geralmente, os sintomas acontecem do nada e geram uma série de sinais físicos, como coração acelerado, náusea, tremor e pulso irregular. Durante essas crises, é comum sentir que algo terrível está acontecendo ou vai acontecer. As pessoas experimentam um ataque de preocupação e apresentam sintomas de **fadiga, inquietação e angústia**.
 
-Dúvidas também podem atormentar a mente durante uma crise de ansiedade: E se eu perder meu emprego? E se meu parceiro estiver tendo um caso? E se meu filho sofrer um acidente de carro? Vale prestar atenção aqui que o “e se” fica muito presente, causando muito sofrimento de algo no futuro acontecer sem uma base prévia. 
+Dúvidas também podem atormentar a mente durante uma crise de ansiedade: E se eu perder meu emprego? E se meu parceiro estiver tendo um caso? E se meu filho sofrer um acidente de carro? Vale prestar atenção aqui que o “e se” fica muito presente, causando muito sofrimento de algo no futuro acontecer sem uma base prévia.
 
 No entanto, qualquer pessoa que tenha sintomas intensos, principalmente se forem novos, deve procurar aconselhamento médico para excluir potenciais causas físicas.
 
-Condições como baixo nível de açúcar no sangue, glândula tireóide hiperativa, desequilíbrios hormonais, distúrbios autoimunes, problemas no ouvido interno, disfunção de válvulas do coração e até uso de medicamentos podem imitar sintomas da ansiedade. 
+Condições como baixo nível de açúcar no sangue, glândula tireóide hiperativa, desequilíbrios hormonais, distúrbios autoimunes, problemas no ouvido interno, disfunção de válvulas do coração e até uso de medicamentos podem imitar sintomas da ansiedade.
 
 Portanto, além de procurar a ajuda de um psicólogo, também é fundamental procurar um médico clínico.
 

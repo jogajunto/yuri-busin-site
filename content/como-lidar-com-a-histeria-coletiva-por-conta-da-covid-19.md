@@ -1,11 +1,11 @@
 ---
-title: "Como lidar com a histeria coletiva por conta da Covid-19?"
+title: 'Como lidar com a histeria coletiva por conta da Covid-19?'
 date: 2020-04-21
-image : "/blog/como-lidar-com-a-histeria-coletiva-por-conta-da-covid-19.jpg"
-categories: ["Cotidiano"]
-description: "Não se fala em outra coisa: a Covid-19, doença causada pelo novo coronavírus, tornou-se o cerne de todos os debates ao redor do mundo e, com isso, pulverizou uma outra catástrofe:"
+image: '/blog/como-lidar-com-a-histeria-coletiva-por-conta-da-covid-19.jpg'
+categories: ['Cotidiano']
+description: 'Não se fala em outra coisa: a Covid-19, doença causada pelo novo coronavírus, tornou-se o cerne de todos os debates ao redor do mundo e, com isso, pulverizou uma outra catástrofe:'
 draft: false
-type: "post"
+type: 'post'
 ---
 
 Não se fala em outra coisa: a [Covid-19](/12-dicas-saude-mental-quarentena/), doença causada pelo novo coronavírus, tornou-se o cerne de todos os debates ao redor do mundo e, com isso, pulverizou uma outra catástrofe: o medo desmedido, por meio da histeria coletiva.

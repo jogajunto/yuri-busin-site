@@ -1,11 +1,11 @@
 ---
-title: "Dicas para evitar a procrastinação"
+title: 'Dicas para evitar a procrastinação'
 date: 2017-10-22
-image : "/blog/82165C1E-2E03-42E8-9FB0-50A51B32131C.jpeg"
-categories: ["Cotidiano"]
-description: "A procrastinação está cada vez mais presente no nosso cotidiano. Afinal, vivemos numa sociedade repleta de estímulos que facilmente nos tiram do foco..."
+image: '/blog/82165C1E-2E03-42E8-9FB0-50A51B32131C.jpeg'
+categories: ['Cotidiano']
+description: 'A procrastinação está cada vez mais presente no nosso cotidiano. Afinal, vivemos numa sociedade repleta de estímulos que facilmente nos tiram do foco...'
 draft: false
-type: "post"
+type: 'post'
 ---
 
 A **procrastinação** está cada vez mais presente no nosso cotidiano. Afinal, vivemos numa sociedade repleta de estímulos que facilmente nos tiram do foco, fazendo com que algumas pessoas percam tempo valioso em seus dias em detrimento de suas tarefas diárias.

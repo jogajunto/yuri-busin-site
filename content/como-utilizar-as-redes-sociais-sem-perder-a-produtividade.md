@@ -1,13 +1,12 @@
 ---
-title: "Como utilizar as redes sociais sem perder a produtividade"
+title: 'Como utilizar as redes sociais sem perder a produtividade'
 date: 2018-07-04
-image : "/blog/4471ED93-E914-4310-BA91-5A79CC7DE450.png"
-categories: ["Cotidiano"]
-description: "As redes sociais são ferramentas para fazer as pessoas se comunicarem e interagirem. Entretanto, redes sociais e produtividade nem sempre caminham juntas."
+image: '/blog/4471ED93-E914-4310-BA91-5A79CC7DE450.png'
+categories: ['Cotidiano']
+description: 'As redes sociais são ferramentas para fazer as pessoas se comunicarem e interagirem. Entretanto, redes sociais e produtividade nem sempre caminham juntas.'
 draft: false
-type: "post"
+type: 'post'
 ---
-
 
 As redes sociais se tornaram grandes ferramentas para permitir a comunicação e interação das pessoas por meio da internet. Além dos conhecidos Facebook, Twitter e LinkedIn, novos sites estão surgindo a cada dia. Com eles, é possível encontrar novos amigos, fazer negócios ou simplesmente se entreter. Entretanto, redes sociais e produtividade nem sempre caminham juntas, principalmente porque está cada vez mais fácil utilizar esses meios dentro do expediente profissional.
 
@@ -45,11 +44,11 @@ Ninguém é obrigado a estar presente em todas as redes sociais. Você perceber�
 
 Também podemos usar o próprio meio digital para nos permitir acessar menos aplicativos no celular. Sim, existem aplicativos que podem ajudá-lo a ficar um tempinho longe, pois limitam o uso de outros aplicativos, como por exemplo:
 
-- **Menthal** *(Disponível para Android) –* Este app mede o tempo gasto usando o celular e quanto desse tempo vai para cada aplicativo ou função, além de outras funcionalidades.
-- **Forest** *(Disponível para Android e iOS)* – Este é bem interessante, pois tem uma proposta mais gameficada. Funciona da seguinte forma: você planta uma espécie de árvore virtual, mas para ela crescer, você precisa ficar sem usar o celular por 30 minutos. Se você não tiver o controle certo para não abrir suas redes pelo celular, a planta acaba murchando e você perde o “jogo”.
-- **Moment** *(Disponível para iOS) –* Este monitora o quanto você usa o celular, além de contar quantas vezes o smartphone foi desbloqueado. O interessante no caso deste é que você pode definir um limite, se quiser.
-- **Freedom** *(Disponível para Android, iOS e Windows) –* Se controlar for a sua praia, este aplicativo é capaz de monitorar todos seus devices, seja o celular, o tablet e até o computador. Além do mais, é possível bloquear o uso de alguns aplicativos na hora do trabalho, se quiser.
-- **Focus Lock** *(Disponível para Android) –* O Focus é para quem só funciona com mudanças radicais. A aplicação permite que você coloque um tempo determinado para não utilizar um aplicativo e ele não deixa você abri-lo de jeito nenhum, até este tempo acabar.
+- **Menthal** _(Disponível para Android) –_ Este app mede o tempo gasto usando o celular e quanto desse tempo vai para cada aplicativo ou função, além de outras funcionalidades.
+- **Forest** _(Disponível para Android e iOS)_ – Este é bem interessante, pois tem uma proposta mais gameficada. Funciona da seguinte forma: você planta uma espécie de árvore virtual, mas para ela crescer, você precisa ficar sem usar o celular por 30 minutos. Se você não tiver o controle certo para não abrir suas redes pelo celular, a planta acaba murchando e você perde o “jogo”.
+- **Moment** _(Disponível para iOS) –_ Este monitora o quanto você usa o celular, além de contar quantas vezes o smartphone foi desbloqueado. O interessante no caso deste é que você pode definir um limite, se quiser.
+- **Freedom** _(Disponível para Android, iOS e Windows) –_ Se controlar for a sua praia, este aplicativo é capaz de monitorar todos seus devices, seja o celular, o tablet e até o computador. Além do mais, é possível bloquear o uso de alguns aplicativos na hora do trabalho, se quiser.
+- **Focus Lock** _(Disponível para Android) –_ O Focus é para quem só funciona com mudanças radicais. A aplicação permite que você coloque um tempo determinado para não utilizar um aplicativo e ele não deixa você abri-lo de jeito nenhum, até este tempo acabar.
 
 ## Conecte-se na vida real
 

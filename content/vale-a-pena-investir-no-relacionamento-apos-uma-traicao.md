@@ -13,14 +13,6 @@ date: 2021-12-25T10:37:10.761Z
 draft: false
 ---
 
-
-
-
-
-
-
-
-
 A traição é traumatizante em qualquer relação amorosa. Descobrir um caso extraconjugal pode ser algo devastador porque atinge muitos aspectos da identidade da pessoa traída, levantando dúvidas nela se é possível continuar o relacionamento após a traição.
 
 Geralmente, o traído tem a confiança abalada no parceiro e na relação de forma geral, abrindo a porta para inúmeros pensamentos e emoções, desde questionamentos sobre a sua própria atratividade, passando por medo da perda, além de ataques de [ansiedade](/ansiedade-sem-remedios/).
@@ -66,5 +58,3 @@ Reconstruir a confiança após uma traição é uma aposta para os dois lados. P
 Independentemente da situação, a palavra final sempre será da pessoa traída. É uma decisão difícil, mas, o que ela decidir, será sempre o caminho correto a ser seguido.
 
 **Para mais conteúdos sobre psicologia, siga o meu perfil no Instagram [@dryuribusin](https://www.instagram.com/dryuribusin/).**
-
-

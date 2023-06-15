@@ -12,14 +12,6 @@ date: 2020-10-20T11:57:24.649Z
 draft: false
 ---
 
-
-
-
-
-
-
-
-
 [Relacionamento abusivo](https://yuribusin.com.br/relacionamento-abusivo/). Um termo muito abordado nos últimos anos, mas que ainda gera dúvidas em muitas pessoas, e também dificuldade de o encerrar. Afinal, essa situação pode ser muito difícil para quem a vive.
 
 Em uma realidade em que a violência entre casais ainda é uma constante, a tarefa se torna ainda mais complicada. E essa realidade não escolhe classe social, sexo, idade ou cultura. Pode ocorrer com qualquer pessoa.
@@ -59,5 +51,3 @@ Mas permanecer nessa situação pode acarretar em uma série de problemas psicol
 É importante refletir que sustentar esse tipo de relacionamento pode ser prejudicial com o passar do tempo. Se perceber que passa por isso, não hesite em buscar ajuda para sair deste problema.
 
 **Portanto, se você está precisando de apoio profissional para terminar um relacionamento abusivo, [entre em contato com um psicólogo](https://yuribusin.com.br/contato/).**
-
-

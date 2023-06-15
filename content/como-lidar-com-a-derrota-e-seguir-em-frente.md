@@ -13,14 +13,6 @@ date: 2022-11-25T18:00:53.127Z
 draft: false
 ---
 
-
-
-
-
-
-
-
-
 Não importa o quão inteligente, dedicado e habilidoso você seja ou mesmo o quanto tenha se preparado para um determinado desafio. Sempre haverá momentos em que você experimentará a derrota.
 
 Às vezes pode ser muito difícil enfrentar um fracasso, aceitá-lo e, principalmente, conviver com ele. Frustração, raiva e decepção são comuns nesse momento, mas é importante entender que nem sempre as coisas saem da maneira como planejamos.
@@ -52,5 +44,3 @@ Além disso, se o que aconteceu não pode ser mudado, basta tirar aprendizados d
 Sabendo que a derrota de alguma forma ou de outra poderá ocorrer novamente no futuro, é importante desenvolver uma maneira positiva de reagir nessas situações. Lembre-se, é inútil tentar evitar a derrota a todo custo, pois isso apenas coloca em uma posição vulnerável de medo e ansiedade constante.
 
 **Gostou deste artigo? [Acesse mais conteúdos sobre saúde mental no meu perfil no Instagram @dryuribusin!](https://www.instagram.com/dryuribusin/)**
-
-

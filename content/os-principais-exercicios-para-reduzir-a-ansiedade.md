@@ -12,14 +12,6 @@ date: 2021-12-15T13:16:25.616Z
 draft: false
 ---
 
-
-
-
-
-
-
-
-
 Se você está lidando com tensões e preocupações regulares, lutando contra crises de estresse ou sofrendo de ataques de pânico, talvez seja hora de começar a aprender e praticar algumas técnicas para reduzir a [ansiedade](https://www.google.com/url?client=internal-element-cse&cx=013413282715532661870:5z8llcwtwhy&q=https://yuribusin.com.br/terapia-para-ansiedade/&sa=U&ved=2ahUKEwi8orr5l_zzAhU7qJUCHXynCRcQFnoECAIQAQ&usg=AOvVaw2sSki1g_5BlwrSujla8YIe).
 
 A ansiedade está enraizada no medo. Quando você é consumido pelo medo, seu julgamento é distorcido, paralisado pela dúvida, ficando incapaz de tomar decisões, inclusive as mais simples. Por sua vez, a dúvida e a confusão são um terreno fértil para aumentar ainda mais a ansiedade.
@@ -65,5 +57,3 @@ Atividades - como caminhar ou correr - que envolvem movimentos repetitivos de gr
 É claro, essas técnicas de controle da ansiedade são úteis, mas se você quiser se livrar da ansiedade de uma vez por todas, é essencial descobrir a causa raiz e resolvê-la por meio da [psicoterapia](https://www.google.com/url?client=internal-element-cse&cx=013413282715532661870:5z8llcwtwhy&q=https://yuribusin.com.br/o-que-esperar-de-um-atendimento-psicologico/&sa=U&ved=2ahUKEwi1sIirmvzzAhWtppUCHZBwDDYQFnoECAIQAg&usg=AOvVaw2HAv6Vi_jsIoif9mF6SmLQ).
 
 **Siga o meu perfil no Instagram [@dryuribusin](https://www.instagram.com/dryuribusin/) para mais dicas de bem-estar.**
-
-

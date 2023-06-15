@@ -11,14 +11,6 @@ date: 2021-12-22T10:49:37.949Z
 draft: false
 ---
 
-
-
-
-
-
-
-
-
 Em resumo, o hábito de agradar as pessoas envolve colocar as necessidades dos outros à frente das suas, apenas como uma forma de obter a aprovação alheia.
 
 Esse traço de personalidade é chamado de "sociotropia" e pode ser reflexo de um problema de saúde mental, como ansiedade, depressão e até codependência. Muitas vezes, a pessoa ajuda os outros por simples insegurança ou falta de autoestima.
@@ -54,5 +46,3 @@ Muito em breve, você estará ajudando os outros somente quando você tiver cond
 As maiores mudanças começam quando olhamos para nós mesmos com interesse e respeito, em vez de julgamento e negação. Pense nisso!
 
 **Para mais conteúdos sobre psicologia, siga o meu perfil no Instagram [@dryuribusin](https://www.instagram.com/dryuribusin/).**
-
-

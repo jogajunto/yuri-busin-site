@@ -10,8 +10,6 @@ date: 2022-06-25T23:55:35.794Z
 draft: false
 ---
 
-
-
 A insônia é um distúrbio do sono que é caracterizado pela dificuldade no [ato de dormir](https://yuribusin.com.br/como-dormir-melhor/). O aparecimento da condição é algo comum, principalmente naqueles momentos em que a pessoa está experimentando grandes mudanças de vida.
 
 De forma geral, problemas no trabalho, conflitos familiares e acesso constante ao celular são os principais vilões daqueles que tentam dormir de forma mais saudável.
@@ -45,5 +43,3 @@ Se você não consegue dormir, não fique ali se revirando na cama e se preocupa
 Finalmente, caso você ainda enfrente problemas para conseguir dormir, não deixe de marcar uma consulta com um [psicólogo comportamental](https://yuribusin.com.br/) ou até mesmo um [psicólogo clínico](https://yuribusin.com.br/pra-que-serve-um-psicologo-clinico/) para investigar mais a fundo a origem potencial desta insônia.
 
 [Você pode entrar em contato comigo por meio do meu perfil no Instagram.](https://www.instagram.com/dryuribusin/)
-
-

@@ -1,11 +1,11 @@
 ---
-title: "8 dicas de como lidar com situações estressantes"
+title: '8 dicas de como lidar com situações estressantes'
 date: 2019-04-11
-image : "/blog/homem-segurando-jornal-em-chamas-tentando-lidar-com-situa__es-estressantes.jpg"
-categories: ["Saúde"]
-description: "O estresse prolongado pode ter efeitos significativos na saúde mental, provocando ansiedade e até mesmo depressão. Leia mais sobre aqui!"
+image: '/blog/homem-segurando-jornal-em-chamas-tentando-lidar-com-situa__es-estressantes.jpg'
+categories: ['Saúde']
+description: 'O estresse prolongado pode ter efeitos significativos na saúde mental, provocando ansiedade e até mesmo depressão. Leia mais sobre aqui!'
 draft: false
-type: "post"
+type: 'post'
 ---
 
 Muitas vezes, **situações estressantes** podem causar dor de cabeça, insônia ou redução na produtividade no trabalho. Esse estresse é uma reação normal do organismo e comum na vida agitada do cotidiano. No entanto, o estresse prolongado pode ter efeitos significativos na saúde mental, provocando ansiedade e até mesmo [depressão](/8-sintomas-de-depressao-que-voce-precisa-reconhecer/).
@@ -81,7 +81,5 @@ Mas, para que a mudança realmente aconteça, será necessário modificar a form
 Para isso, será preciso refletir e perceber como você encara a suas atividades e buscar maneiras diferenciadas para modificar essa visão. Pois, a real mudança ocorre de dentro para fora.
 
 Com essas dicas, que vão desde mudanças internas (de pensamento), como mudança externas (comportamentos), passamos a conseguir controlar melhor o estresse e evitar que ele prejudique a nossa vida, contribuindo para que se tenha uma melhor qualidade de vida.
-
- 
 
 **E você, tem enfrentado situações estressantes no seu dia a dia? Está com dificuldade para lidar com elas? Então, entre em [contato](/contato/) e marque uma consulta com um psicólogo!**

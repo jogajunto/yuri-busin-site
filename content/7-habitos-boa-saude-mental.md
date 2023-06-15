@@ -1,13 +1,12 @@
 ---
-title: "7 hábitos que ajudam a ter uma boa saúde mental"
+title: '7 hábitos que ajudam a ter uma boa saúde mental'
 date: 2019-01-10
-image : "/blog/boa-saude-mental.jpg"
-categories: ["Cotidiano"]
-description: "Neste artigo, você conhecerá os principais hábitos para manter a mente saudável. Vamos lá?"
+image: '/blog/boa-saude-mental.jpg'
+categories: ['Cotidiano']
+description: 'Neste artigo, você conhecerá os principais hábitos para manter a mente saudável. Vamos lá?'
 draft: false
-type: "post"
+type: 'post'
 ---
-
 
 A boa saúde mental é definida como um estado de bem-estar no qual cada indivíduo percebe seu próprio potencial, lida com as tensões normais do dia a dia, trabalha de forma produtiva e é capaz de contribuir com a comunidade local.
 
@@ -16,8 +15,6 @@ Dessa forma, se você não estiver em dia com a sua saúde mental, será mais di
 Os distúrbios mentais são comuns no Brasil. Estima-se que [em ](https://portalms.saude.gov.br/saude-de-a-z/saude-mental)cada 100 pessoas pelo menos 30 delas têm ou terão problemas de saúde mental. A depressão, a ansiedade e a síndrome do pânico são os principais distúrbios.
 
 Por isso, neste artigo, você conhecerá os principais hábitos para manter a mente saudável. Vamos lá?
-
- 
 
 ## **A importância de manter uma boa saúde mental**
 
@@ -29,7 +26,7 @@ Por exemplo, estresse excessivo podem contribuir para problemas físicos, como d
 
 Por outro lado, uma boa saúde mental fortalece a capacidade de ter relacionamentos saudáveis, fazer boas escolhas de vida, manter a saúde física, lidar com os altos e baixos do dia a dia e crescer em direção ao seu potencial.
 
-## 
+##
 
 ## **Os sintomas que indicam um problema**
 
@@ -61,7 +58,7 @@ Caso, você apresente um ou mais sintomas listados, procure um [psicólogo clín
 
 Não existe saúde sem a saúde mental. No entanto, devido ao estigma que muitas vezes envolve a saúde mental, milhões de pessoas não recebem a ajuda de que necessitam simplesmente por ignorar os sinais de que algo está errado.
 
-## 
+##
 
 ## **Os principais hábitos para ter saúde mental**
 
@@ -100,7 +97,5 @@ Acordar mais cedo vale a pena. A maioria das pessoas é mais produtiva nas prime
 No entanto, é importante também dormir cedo e garantir pelo menos 7 horas de sono ininterruptos.
 
 Manter uma boa saúde mental é algo que muitas pessoas negligenciam. Entretanto, ela consegue afetar várias facetas da sua vida cotidiana, de quão feliz você se sente e até a forma que você desempenha suas funções no trabalho. Por isso, comece escolhendo um ou dois hábitos para implementar. Em pouco tempo, mudanças positivas graduais vão surgir, o que se estenderá em todas as áreas de sua vida.
-
- 
 
 **A recuperação da maioria dos problemas de saúde mental é possível. Se você ou um familiar está sofrendo com um problema e quer ter uma boa saúde mental,** [**fale comigo**](/contato/)**!**

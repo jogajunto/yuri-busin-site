@@ -13,14 +13,6 @@ date: 2022-11-25T18:09:01.022Z
 draft: false
 ---
 
-
-
-
-
-
-
-
-
 É muito comum as pessoas buscarem “fórmulas milagrosas” para atingirem os seus sonhos. E, para muitas delas, a garra é apontada como o item que falta para que elas atinjam os seus objetivos mais rapidamente – e sem o risco de qualquer [autossabotagem](https://yuribusin.com.br/como-evitar-a-autossabotagem/).
 
 De forma geral, a garra é um traço de personalidade possuído por indivíduos que demonstram paixão e perseverança em direção a uma determinada meta, mesmo que eles sejam confrontados por inúmeros obstáculos.
@@ -56,5 +48,3 @@ A boa notícia é que a garra é uma personalidade que pode ser adquirida. Você
 Por fim, até onde vai a sua garra?
 
 **Para mais dicas de saúde mental, acesse o meu perfil no Instagram** [@dryuribusin](https://www.instagram.com/dryuribusin/)
-
-

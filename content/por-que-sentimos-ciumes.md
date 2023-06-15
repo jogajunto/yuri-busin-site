@@ -12,14 +12,6 @@ date: 2020-11-25T20:35:10.862Z
 draft: false
 ---
 
-
-
-
-
-
-
-
-
 O que significa **sentir ciúmes**? É difícil racionalizar um sentimento subjetivo. Encontrar uma razão objetiva para o ciúme é uma tarefa árdua, mas vamos pensar juntos.
 
 Os [ciúmes](https://yuribusin.com.br/ciumes-sofrimento-de-muitos-e-amor-de-poucos/) advêm do sentimento de posse. Algo como: é meu e me pertence. Quando nos sentimos donos, é natural o zelo. O problema é quando este sentimento tão recorrente se torna desmedido.

@@ -1,13 +1,12 @@
 ---
-title: "O que fazer para diminuir a insônia?"
+title: 'O que fazer para diminuir a insônia?'
 date: 2018-07-28
-image : "/blog/alexandra-gorn-471463-unsplash.jpg"
-categories: ["Saúde"]
-description: "Buscando no Google de madrugada sobre insônia? Calma... você não está sozinho. A Psicologia ensina sobre como melhorar seu sono com poucas mud..."
+image: '/blog/alexandra-gorn-471463-unsplash.jpg'
+categories: ['Saúde']
+description: 'Buscando no Google de madrugada sobre insônia? Calma... você não está sozinho. A Psicologia ensina sobre como melhorar seu sono com poucas mud...'
 draft: false
-type: "post"
+type: 'post'
 ---
-
 
 A **insônia** significa a incapacidade de adormecer, permanecer dormindo, tendência a acordar cedo demais ou ter um sono de má qualidade. Normalmente, ela é motivada por eventos estressantes como a perda de entes queridos, crises financeiras, divórcios, hospitalização ou desemprego.
 
@@ -45,4 +44,4 @@ Após uma noite mal dormida, um cochilo durante o dia pode ajudar. O cochilo nã
 
 Dessa forma, pratique esses hábitos e descubra o que funciona melhor para você. Embora a boa higiene do sono não mude drasticamente sua insônia, isso ajuda a otimizar seu sono. Caso enfrente alguma dificuldade constante para dormir, não esqueça de procurar ajuda de um psicólogo. Entenda como o [psicólogo pode ajudar](/pra-que-serve-um-psicologo-clinico/) no seu contexto atual.
 
-**E então, já aplicou essas práticas sugeridas na tentativa de diminuir a insônia? Você acredita que a sua insônia já se tornou crônica?Agende um horário em meu [consultório de psicologia](/) ou entre em** [**contato comigo**](/contato/) **e conheça como a terapia cognitivo comportamental pode ajudar na sua qualidade do sono!** 
+**E então, já aplicou essas práticas sugeridas na tentativa de diminuir a insônia? Você acredita que a sua insônia já se tornou crônica?Agende um horário em meu [consultório de psicologia](/) ou entre em** [**contato comigo**](/contato/) **e conheça como a terapia cognitivo comportamental pode ajudar na sua qualidade do sono!**

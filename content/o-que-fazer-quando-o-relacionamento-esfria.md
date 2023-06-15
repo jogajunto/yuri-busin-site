@@ -12,14 +12,6 @@ date: 2021-02-24T12:21:55.599Z
 draft: false
 ---
 
-
-
-
-
-
-
-
-
 É muito comum que um relacionamento esfrie com o tempo.
 
 Às vezes, um namoro ou casamento pode ser exaustivo, principalmente quando ele cai na rotina.

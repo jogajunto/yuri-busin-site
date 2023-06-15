@@ -10,8 +10,6 @@ date: 2022-08-04T01:43:12.005Z
 draft: false
 ---
 
-
-
 A fobia pode ser caracterizada como um [medo avassalador e irracional ](/5-fobias-estranhas-que-voce-nunca-ouviu-falar/)de objetos ou situações que não representam de fato nenhum perigo real, mas, mesmo assim, provocam forte ansiedade e evitação na pessoa.
 
 Cada fobia é referida por seu próprio termo específico. Por exemplo, o medo de altura é chamado de acrofobia. Já o medo de espaços confinados é a claustrofobia. Há também fobias pouco conhecidas, como a ancraofobia, o [medo do vento](https://yuribusin.com.br/5-fobias-estranhas-que-voce-nunca-ouviu-falar/).
@@ -41,5 +39,3 @@ Alguém, que tem medo de altura, por exemplo, pode evitar ir a uma reunião de t
 Durante o tratamento, o **[psicólogo comportamental](https://yuribusin.com.br/)** orienta o paciente a como lidar com o medo e oferece dicas práticas para enfrentar a fobia. Além disso, a terapia inclui incentivar a pessoa a experimentar o medo de forma controlada e evolutiva, para que o medo vá perdendo força ao longo do tempo.
 
 [Gostou deste artigo? Confira mais dicas de saúde mental e bem-estar no meu perfil no Instagram!](https://www.instagram.com/dryuribusin/)
-
-

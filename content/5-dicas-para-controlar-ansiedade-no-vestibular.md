@@ -1,11 +1,11 @@
 ---
-title: "5 dicas para controlar a ansiedade no vestibular"
+title: '5 dicas para controlar a ansiedade no vestibular'
 date: 2017-11-18
-image : "/blog/gabarito.jpg"
-categories: ["Cotidiano"]
-description: "A ansiedade pode atrapalhar significativamente a vida dos estudantes, tanto no momento da preparação, quanto durante as provas...Ansiedade no vestibular..."
+image: '/blog/gabarito.jpg'
+categories: ['Cotidiano']
+description: 'A ansiedade pode atrapalhar significativamente a vida dos estudantes, tanto no momento da preparação, quanto durante as provas...Ansiedade no vestibular...'
 draft: false
-type: "post"
+type: 'post'
 ---
 
 A ansiedade pode atrapalhar significativamente a vida dos estudantes, tanto no momento da preparação, quanto durante as provas do vestibular. De maneira geral, a ansiedade pode ser vista como uma condição natural, desencadeada em momentos importantes, em que são secretados alguns hormônios, como a noradrenalina, que informa para o corpo que você está em um estado de alerta.

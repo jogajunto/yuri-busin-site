@@ -1,11 +1,11 @@
 ---
-title: "Entenda os 6 mitos sobre psicólogos"
+title: 'Entenda os 6 mitos sobre psicólogos'
 date: 2019-07-18
-image : "/blog/psicologo-em-seu-consultorio-desmitificando-os-principais-mitos-sobre-psicologos.jpg"
-categories: ["Saúde"]
-description: "Neste artigo, pretendo desmistificar os seis principais mitos sobre psicólogos e ajudar as pessoas a procurar tratamento. Clique para saber mais!"
+image: '/blog/psicologo-em-seu-consultorio-desmitificando-os-principais-mitos-sobre-psicologos.jpg'
+categories: ['Saúde']
+description: 'Neste artigo, pretendo desmistificar os seis principais mitos sobre psicólogos e ajudar as pessoas a procurar tratamento. Clique para saber mais!'
 draft: false
-type: "post"
+type: 'post'
 ---
 
 O **campo da psicologia** ainda é desconhecido para muitas pessoas, o que leva a muitos mal-entendidos, equívocos e estereótipos. Tudo isso faz com que muitos acreditem em vários mitos sobre psicólogos.
@@ -16,7 +16,7 @@ Na realidade, a psicologia é um estudo fascinante da mente e do comportamento e
 
 Por isso, neste artigo, pretendo desmistificar os seis principais mitos sobre psicólogos. Vamos lá?
 
-## **1. Somente os loucos vão ao psicólogo** 
+## **1. Somente os loucos vão ao psicólogo**
 
 Na verdade, você **não precisa ter um transtorno mental** para procurar um[ psicólogo clínico](/pra-que-serve-um-psicologo-clinico/). A terapia pode ser um instrumento de autoconhecimento, permitindo compreender como determinado tipo de pensamento, comportamento ou hábito afeta a sua vida, seus relacionamentos e a sua saúde física e mental.
 

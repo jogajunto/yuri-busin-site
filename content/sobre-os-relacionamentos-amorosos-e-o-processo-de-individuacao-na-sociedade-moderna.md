@@ -1,11 +1,11 @@
 ---
-title: "O processo de individuação na sociedade moderna"
+title: 'O processo de individuação na sociedade moderna'
 date: 2017-10-28
-image : "/blog/8C1C9C73-47D3-4467-9394-585149033D49.jpeg"
-categories: ["Cotidiano"]
-description: "Os relacionamentos estão em constante transformação. A medida que as pessoas vão mudando seus comportamentos, novos relacionamentos amorosos aparecem..."
+image: '/blog/8C1C9C73-47D3-4467-9394-585149033D49.jpeg'
+categories: ['Cotidiano']
+description: 'Os relacionamentos estão em constante transformação. A medida que as pessoas vão mudando seus comportamentos, novos relacionamentos amorosos aparecem...'
 draft: false
-type: "post"
+type: 'post'
 ---
 
 Os **relacionamentos** estão em constante transformação. A medida que as pessoas vão mudando seus comportamentos, crenças e ideias, as formas de se relacionar também acabam se modificado. Isso ocorreu ao longo dos séculos, acontece nos dias de hoje e, no futuro, provavelmente continuará mudando.

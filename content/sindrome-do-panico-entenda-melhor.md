@@ -1,15 +1,12 @@
 ---
-title: "Síndrome do Pânico, entenda melhor!"
+title: 'Síndrome do Pânico, entenda melhor!'
 date: 2015-09-16
-image : "/blog/sindrome-do-panico.jpg"
-categories: ["Cotidiano"]
-description: "Medo de perder o controle, sensação de estar prestes a morrer, sudorese (suor excessivo), formigamento nas mãos...podem ser sintomas da Síndrome do Pânico"
+image: '/blog/sindrome-do-panico.jpg'
+categories: ['Cotidiano']
+description: 'Medo de perder o controle, sensação de estar prestes a morrer, sudorese (suor excessivo), formigamento nas mãos...podem ser sintomas da Síndrome do Pânico'
 draft: false
-type: "post"
+type: 'post'
 ---
-
-
-
 
 Medo de perder o controle, sensação de estar prestes a morrer, sudorese (suor excessivo), formigamento nas mãos, pés ou rosto, palpitação, tremores, calafrios, dificuldade de respirar, dores no peito, tontura, dor de cabeça, entre outros.
 
@@ -19,9 +16,7 @@ A síndrome do pânico é um tipo do transtorno de ansiedade e tem como caracter
 
 Ansiedade é algo que tem cada vez mais aparecido na vida cotidiana das pessoas, mas o que irá diferenciar os comportamentos rotineiros de uma ansiedade patológica é o pensamento negativo, ou seja, pensamentos autodestrutivos sobre possíveis malefícios no cotidiano do próprio indivíduo.
 
-
 {{< youtube-embed title="Saúde em dois minutos | Transtorno Bipolar" id="v_aqfAht_9I" >}}
- 
 
 Apesar de ter uma maior incidência em mulheres, homens também estão suscetíveis a ter síndrome do pânico. Muitas pessoas desacreditam nesse quadro sintomático e julgam ser “bobeira” da pessoa acometida, entre outras coisas, mas o que ocorre não é nenhuma bobeira e muito menos brincadeira.
 
@@ -40,7 +35,5 @@ Uma boa maneira de evitar isso é conversar sobre o ocorrido e pensar em uma est
 Síndrome do pânico não é brincadeira, manha ou qualquer outro adjetivo que possa ser usado, ela afeta muitas pessoas e por ser mal interpretada pode causar danos maiores. Porém, nem tudo é Síndrome do Pânico, por isso o diagnóstico deve ser feito por um bom profissional e não pelo “Dr. Google”.
 
 Aceitar que algo não está indo bem é um bom começo e procurar um bom profissional é extremamente necessário, porque é uma patologia tratável com acompanhamento de psicoterapia e psiquiatria. Ficar doente não é coisa de mulher ou coisa de homem frágil, mas sim coisa do ser humano!
-
- 
 
 Que tal entrar em[ contato](/contato/)? E melhorar desta condição!

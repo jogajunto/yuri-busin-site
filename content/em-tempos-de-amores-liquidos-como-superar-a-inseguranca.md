@@ -1,13 +1,12 @@
 ---
-title: "Em tempos de amores líquidos, como superar a insegurança?"
+title: 'Em tempos de amores líquidos, como superar a insegurança?'
 date: 2018-05-06
-image : "/blog/mulher_insegura.jpg"
-categories: ["Cotidiano"]
-description: "Os relacionamentos amorosos atuais estão cada vez mais superficiais e passageiros, fazendo com que as pessoas tenham cada vez menos chance..."
+image: '/blog/mulher_insegura.jpg'
+categories: ['Cotidiano']
+description: 'Os relacionamentos amorosos atuais estão cada vez mais superficiais e passageiros, fazendo com que as pessoas tenham cada vez menos chance...'
 draft: false
-type: "post"
+type: 'post'
 ---
-
 
 Os relacionamentos amorosos atuais estão cada vez mais superficiais e passageiros, fazendo com que as pessoas tenham cada vez menos chance de solucionar as dificuldades que enfrentam dentro de uma relação. Assim, no primeiro desentendimento, a relação chega ao fim e ambos os lados seguem em frente. Não há tempo para o relacionamento amadurecer.
 
@@ -25,7 +24,7 @@ Assim, o amor se torna líquido porque ele pode ser facilmente encerrado, trocad
 
 Afinal, você não vai querer investir em uma relação que pode acabar de uma hora para outra. Tudo isso pode gerar insegurança e trazer diversos problemas para o relacionamento, como os [ciúmes](/ciumes-sofrimento-de-muitos-e-amor-de-poucos/) excessivo, por exemplo.
 
-## **É importante a****prender que você é autossuficiente**
+## **É importante a\*\***prender que você é autossuficiente\*\*
 
 Superar a insegurança significa aprender que você não precisa do outro para ser feliz. Muito pelo contrário. Você precisa aprender a ser feliz por conta própria, para então conseguir ser feliz com o outro.
 

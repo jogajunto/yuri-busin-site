@@ -11,14 +11,6 @@ date: 2022-03-29T16:21:36.439Z
 draft: false
 ---
 
-
-
-
-
-
-
-
-
 Elogiar os outros - sem que seja com o intuito de se beneficiar de algo - não é algo comum. E, infelizmente, aceitar elogios é ainda mais raro.
 
 Eu sei, ninguém gosta de pessoas puxando o saco das outras. Entretanto, o ato de fazer um elogio sincero a alguém - com o único objetivo que este se sinta bem - é algo extremamente positivo, principalmente em um mundo polarizado em que todos estão criticando a todos.
@@ -54,5 +46,3 @@ Aprender a aceitar elogios de maneira cortês é tão importante quanto aprender
 **Na dúvida, um simples “obrigado” já é o suficiente para aceitar um elogio**.
 
 **Para mais dicas de saúde mental, entre no meu perfil no Instagram. Serei grato a você por seguir o meu trabalho [@dryuribusin](https://www.instagram.com/dryuribusin/) !**
-
-

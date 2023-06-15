@@ -12,8 +12,6 @@ date: 2022-07-09T22:53:09.577Z
 draft: false
 ---
 
-
-
 Todo mundo sente ansiedade às vezes. O sentimento pode aparecer no primeiro dia em um novo emprego, ao conhecer a família do parceiro ou fazer uma apresentação na frente de muitas pessoas. O medo de ser julgado é alto.
 
 O problema é que esses [pensamentos negativos podem criar raízes](/7-sinais-que-voce-precisa-fazer-terapia/) em sua mente e distorcer a gravidade da situação. Isso acaba sendo traduzido em uma série de respostas físicas, como sudorese, náusea, tontura, falta de ar, nervosismo, entre outros.
@@ -55,5 +53,3 @@ Um excelente caminho para cuidar da ansiedade e outros pontos relacionados a sa�
 Quando você cuida de si mesmo, você se ama e tem um respeito saudável para com as suas próprias necessidades, dizendo mais “não” para aquelas coisas que não te acrescentam em nada ou que apenas gastam a sua energia.
 
 [Para mais dicas de saúde mental e controle da ansiedade, siga o meu perfil no Instagram.](https://www.instagram.com/dryuribusin/)
-
-

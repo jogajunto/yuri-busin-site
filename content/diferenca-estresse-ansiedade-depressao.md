@@ -11,14 +11,6 @@ date: 2020-09-20T22:35:20.227Z
 draft: false
 ---
 
-
-
-
-
-
-
-
-
 De acordo com a Organização Mundial da Saúde, transtornos mentais comuns, como estresse, ansiedade e depressão, atingem mais de 20 milhões de brasileiros.
 
 Recentemente, uma pesquisa feita pela Universidade do Estado do Rio de Janeiro (UERJ) apontou que casos depressivos dobraram em tempos de pandemia, enquanto os de ansiedade e estresse tiveram um aumento de 80%.
@@ -68,5 +60,3 @@ Por falar nesse profissional, não tenha vergonha de pedir a ajuda dele. Psicote
 Aprender a lidar melhor com estresse, ansiedade e depressão evita males e colabora com uma vida mais saudável e feliz. Cuide da sua saúde mental!
 
 **Se ficou interessado em procurar ajuda psicológica para tratar estresse, ansiedade e depressão, [entre em contato comigo!](https://yuribusin.com.br/contato/)**
-
-

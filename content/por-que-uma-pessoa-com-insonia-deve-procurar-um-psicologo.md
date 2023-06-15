@@ -10,8 +10,6 @@ date: 2022-07-20T02:27:49.988Z
 draft: false
 ---
 
-
-
 Todo mundo deseja [dormir bem](https://yuribusin.com.br/diminuir-a-insonia/), mas diante do estresse, da preocupação e da longa lista de obrigações do dia, a possibilidade de conseguir desfrutar de sete ou oito horas de sono parece uma meta inatingível.
 
 A grande verdade é que, em muitos casos, as pessoas sofrem de insônia pura e simplesmente porque desenvolveram um padrão de comportamento que interfere nos bons hábitos de sono.
@@ -41,5 +39,3 @@ Na[ **terapia cognitivo-comportamental**](https://yuribusin.com.br/como-funciona
 Na maioria dos casos, a psicoterapia é o suficiente para resolver a insônia, sem que a pessoa precise utilizar medicamentos - muitos deles viciantes. Por isso, se você enfrenta dificuldades para dormir, procure um psicólogo!
 
 [Para mais dicas de bem-estar, siga o meu perfil no Instagram.](https://www.instagram.com/dryuribusin/)
-
-

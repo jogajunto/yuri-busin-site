@@ -1,11 +1,11 @@
 ---
-title: "Como lidar com a depressão pós-parto?"
+title: 'Como lidar com a depressão pós-parto?'
 date: 2020-05-07
-image : "/blog/como-lidar-com-a-depress_o-p_s-parto.jpg"
-categories: ["Cotidiano"]
-description: "A chegada de um bebê na família remete a um momento de felicidade. Em contrapartida, nem sempre é esse o cenário."
+image: '/blog/como-lidar-com-a-depress_o-p_s-parto.jpg'
+categories: ['Cotidiano']
+description: 'A chegada de um bebê na família remete a um momento de felicidade. Em contrapartida, nem sempre é esse o cenário.'
 draft: false
-type: "post"
+type: 'post'
 ---
 
 A chegada de um bebê na família remete a um momento de [felicidade](/dinheiro-compra-felicidade/). Em contrapartida, nem sempre é esse o cenário. Aliás, a depressão pós-parto (DPP), que é uma condição de profunda tristeza, acomete uma em cada cinco mulheres no Brasil.

@@ -12,14 +12,6 @@ date: 2022-04-03T12:35:28.137Z
 draft: false
 ---
 
-
-
-
-
-
-
-
-
 A psicologia positiva é um ramo recente da psicologia que busca se concentrar em como ajudar as pessoas a prosperarem e ter uma vida mais saudável e feliz.
 
 Até pouco tempo, os tratamentos psicológicos tinham como foco principal ajudar aqueles pacientes que possuíam alguma disfunção comportamental ou condição mental.
@@ -55,5 +47,3 @@ O indivíduo também pode melhorar seus relacionamentos, buscar hobbies que lhe 
 Dessa forma, a psicologia positiva é um campo com um enorme potencial para melhorar a vida das pessoas. À primeira vista, pode parecer que a psicologia positiva é o estudo dos perpetuamente felizes, mas qualquer coisa além de um olhar superficial mostrará a você que o campo é uma rica exploração de tudo o que torna a vida boa.
 
 **Se você quiser se manter atualizado sobre as novidades da psicologia, [dê uma olhada no meu perfil no Instagram!](https://www.instagram.com/dryuribusin/) [@dryuribusin](https://www.instagram.com/dryuribusin/)**
-
-

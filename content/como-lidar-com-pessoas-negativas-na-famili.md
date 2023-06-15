@@ -15,14 +15,6 @@ date: 2022-11-23T18:07:17.171Z
 draft: false
 ---
 
-
-
-
-
-
-
-
-
 Eles estão por toda a parte, inclusive em nossas famílias. As pessoas negativas reclamam constantemente, distorcem conquistas dos outros e fazem frequentes comentários ofensivos sobre tudo e todos.
 
 Além disso, eles possuem [comportamentos tóxicos](https://yuribusin.com.br/relacionamento-toxico-entenda-se-voce-esta-em-um/), têm atitudes pessimistas e tentam limitar o potencial dos outros. Toda essa negatividade também pode ser contagiosa, gerando padrões de pensamentos negativos nas pessoas ao redor.
@@ -59,5 +51,3 @@ Seguir essas dicas nem sempre é algo fácil, principalmente quando não estamos
 
 **Se precisar de ajuda de um psicólogo nesse processo, busque sempre a [terapia cognitivo comportamental](https://yuribusin.com.br/).\*\***\
 Me siga no Instagram [@dryuribusin](https://www.instagram.com/dryuribusin/)\*\*
-
-

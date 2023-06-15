@@ -10,14 +10,6 @@ date: 2020-09-20T22:26:53.841Z
 draft: false
 ---
 
-
-
-
-
-
-
-
-
 Você sabia que uma pessoa com **Inteligência Emocional (IE)** elevada supera aquela que tem um Quociente de Inteligência (QI) alto?
 
 A propósito, um estudo elaborado pela Capgemini Research Institute apontou que no âmbito profissional, as empresas irão buscar com mais afinco funcionários com uma [inteligência emocional](https://yuribusin.com.br/desenvolver-inteligencia-emocional/) forte nos próximos cinco anos.
@@ -55,5 +47,3 @@ Por fim, a busca de um profissional qualificado tende a auxiliar de maneira efic
 Consideração: Mudanças não acontecem da noite para o dia. Mas saiba que a partir de um treino diário e cauteloso, o cérebro pode ser treinado para ter **comportamentos emocionalmente saudáveis**.
 
 **A inteligência emocional proporciona qualidade de vida, seja pessoal ou profissional. Aposte nela e obtenha resultados reais. Precisando de ajuda? [Consulte um psicólogo entrando em contato](https://yuribusin.com.br/contato/)!**
-
-

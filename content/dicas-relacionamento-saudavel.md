@@ -11,14 +11,6 @@ date: 2020-09-25T17:07:44.716Z
 draft: false
 ---
 
-
-
-
-
-
-
-
-
 Manter um **relacionamento saudável** requer esforço, flexibilidade e maturidade. Por isso, é preciso abrir algumas concessões e sair da própria arrogância. Você está lidando com outro alguém, outras ideias, outras perspectivas e outras histórias. O vínculo afetivo, bem como a convivência passam por percalços e [inseguranças](https://yuribusin.com.br/5-dicas-para-vencer-a-inseguranca-no-relacionamento/).
 
 Relacionar-se é bom. É importante ter uma **relação saudável** com a solitude, com o próprio eu interno. No entanto, ter alguém pode ser muito prazeroso em todos os aspectos. É preciso saber lidar para que a relação seja profícua e não enfadonha ou torturante. Sem alongar, vamos às dicas!
@@ -62,5 +54,3 @@ Você ama seu parceiro ou ama somente seus desejos? Você o ama porque encontra 
 Uma relação afetiva que traz a confiança como sustento terá mais chances de ser duradoura. A confiança nunca é conquistada com gritos e absolutismo. Um relacionamento saudável tem equilíbrio e maturidade. A briga costuma soar interessante nas grandes histórias de amor do cinema, mas na vida real pode trazer consequências sérias.
 
 **Mas, se você acredita que o seu relacionamento não tem mais solução, experimente marcar uma [consulta com um psicólogo](https://yuribusin.com.br/contato/)!**
-
-

@@ -1,11 +1,11 @@
 ---
-title: "Qual a importância de fazermos metas de fim de ano?"
+title: 'Qual a importância de fazermos metas de fim de ano?'
 date: 2018-01-09
-image : "/blog/metas-para-final-de-ano.jpeg"
-categories: ["Cotidiano"]
-description: "Muitas pessoas estabelecem metas de fim de ano. No entanto, é comum que muitos desses objetivos sejam esquecidos ao longo dos meses e poucos são realmente.."
+image: '/blog/metas-para-final-de-ano.jpeg'
+categories: ['Cotidiano']
+description: 'Muitas pessoas estabelecem metas de fim de ano. No entanto, é comum que muitos desses objetivos sejam esquecidos ao longo dos meses e poucos são realmente..'
 draft: false
-type: "post"
+type: 'post'
 ---
 
 No fim do ano, muitas pessoas estabelecem metas para o ano que está por vir. No entanto, é comum que muitos desses objetivos sejam esquecidos ao longo dos meses e poucos são realmente realizados. Quase sempre eles ficam apenas no papel. Dessa forma, passa a ser fundamental melhorar a maneira como elaboramos essas metas de fim de ano, garantindo que elas realmente sejam realizadas.

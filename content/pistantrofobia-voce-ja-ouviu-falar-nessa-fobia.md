@@ -13,8 +13,6 @@ date: 2022-06-18T22:25:52.310Z
 draft: false
 ---
 
-
-
 Uma fobia pode ser considerada um tipo de transtorno de ansiedade que se apresenta na forma de um medo persistente, irracional e excessivo sobre algo. Pode ser medo de uma pessoa, atividade, situação, animal ou objeto.
 
 No caso da pistantrofobia, ela é a fobia de confiar nos outros, sendo caracterizada pelo medo de se machucar emocionalmente em um relacionamento romântico.
@@ -53,5 +51,3 @@ A ideia é modificar o comportamento, mudando como a pessoa vê determinada situ
 O tratamento para essa fobia pode ser bem-sucedido com tempo e trabalho. Aos poucos, o indivíduo pode aprender novas maneiras de confiar nos outros e entrar em um relacionamento saudável.
 
 Obter o tratamento certo e o suporte para uma fobia específica, como a pistantrofobia, não apenas ajuda a pessoa a aprender a confiar novamente nos outros, mas também é fundamental para a saúde geral dela.
-
-

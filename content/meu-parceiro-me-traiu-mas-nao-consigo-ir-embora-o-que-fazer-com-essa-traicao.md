@@ -10,8 +10,6 @@ date: 2022-07-26T03:00:07.603Z
 draft: false
 ---
 
-
-
 Traição é uma das coisas mais difíceis que alguém pode enfrentar. Geralmente, a pessoa traída é atingida por um turbilhão de emoções negativas, como raiva, decepção, tristeza e [ansiedade](https://yuribusin.com.br/ansiedade-sem-remedios/).
 
 Mesmo assim, para muita gente, é difícil simplesmente dar um fim ao relacionamento e ir embora.
@@ -45,5 +43,3 @@ Como o traidor tomou a decisão unilateralmente de lhe trair, cabe unicamente a 
 Além disso, não se apresse em ter que decidir sobre permanecer ou não no relacionamento. Leve o tempo que for preciso nessa decisão. E, o que decidir, será sempre a decisão correta.
 
 [Gostou deste artigo? Confira outros conteúdos que eu publico no meu perfil no Instagram.](https://www.instagram.com/dryuribusin/)
-
-

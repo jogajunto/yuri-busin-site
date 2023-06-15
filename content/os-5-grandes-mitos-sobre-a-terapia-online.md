@@ -13,14 +13,6 @@ date: 2021-08-11T13:20:06.654Z
 draft: false
 ---
 
-
-
-
-
-
-
-
-
 Muitos antes da emergência da [pandemia da Covid-19](https://yuribusin.com.br/como-manter-a-saude-mental-durante-a-pandemia/), a terapia online já era uma realidade. Ela permite que qualquer pessoa com acesso à internet possa cuidar da saúde mental por meio de atendimento psicológico e no conforto de sua casa.
 
 Uma sessão com um psicólogo pode acontecer em qualquer lugar, a qualquer hora. Isso facilita a vida do paciente, principalmente aqueles que têm um dia a dia corrido, evitando que eles tenham que se deslocar até um consultório. Isso significa menos estresse e mais economia.
@@ -68,5 +60,3 @@ A maioria dos notebooks, tablets e celulares fabricados nos últimos 10 anos tem
 Embora não seja obrigatório, um fone de ouvido pode te ajudar durante o atendimento online, permitindo escutar com mais clareza e atenção às orientações prestadas durante as consultas virtuais.
 
 **Dessa forma, se você tiver interesse em fazer uma terapia online, [entre em contato comigo](https://yuribusin.com.br/contato/) para agendar sua consulta online inicial.**
-
-

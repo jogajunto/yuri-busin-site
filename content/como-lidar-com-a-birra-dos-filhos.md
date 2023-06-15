@@ -12,14 +12,6 @@ date: 2022-06-07T12:38:40.032Z
 draft: false
 ---
 
-
-
-
-
-
-
-
-
 A birra é um comportamento comum entre crianças de 1 a 3 anos de idade. Geralmente, ela se manifesta na forma de choramingos, choros ou gritos. Porém, há também aqueles que costumam chutar, bater ou prender a respiração.
 
 Por mais que as birras tirem os pais do sério, elas são uma parte absolutamente normal e importante no desenvolvimento infantil. O comportamento é a maneira que elas demonstram que estão chateadas ou frustradas.
@@ -67,5 +59,3 @@ Tente identificar os gatilhos que podem levar a uma birra. Por exemplo, se a bir
 Finalmente, fale sobre emoções com a criança, nomeando o sentimento e quais as consequências dele.
 
 **Gostou deste artigo? Que tal acessar os conteúdos que publico no meu Instagram? [@dryuribusin](https://www.instagram.com/dryuribusin/) !**
-
-

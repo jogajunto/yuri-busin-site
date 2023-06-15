@@ -12,14 +12,6 @@ date: 2021-12-15T13:06:22.562Z
 draft: false
 ---
 
-
-
-
-
-
-
-
-
 Por mais que a palavra "desapego" tenha uma conotação negativa, que transmite a sensação de perda, há algo incrivelmente poderoso em abrir mão de coisas materiais, de pessoas e, até mesmo, de expectativas.
 
 Porém, não confunda desapego com não se importar. O desapego é apenas uma "faxina" que fazemos em nossa vida, tirando tudo aquilo que não tem mais utilidade ou não faz mais sentido.
@@ -57,5 +49,3 @@ O segredo é não nos apegar aos resultados esperados e apenas nos concentrar em
 Assim, quando alcançamos o desapego de coisas, pessoas e expectativas, alcançamos a verdadeira liberdade, passando a viver sem limitações, com menos estresse e com uma melhor saúde mental.
 
 **Você já seguiu o meu perfil no Instagram? [@dryuribusin](https://www.instagram.com/dryuribusin/) lá eu dou mais dicas de saúde mental como estas.**
-
-

@@ -13,14 +13,6 @@ date: 2020-11-25T20:40:41.545Z
 draft: false
 ---
 
-
-
-
-
-
-
-
-
 A pandemia do novo [coronavírus](https://yuribusin.com.br/yuri-busin-na-midia/coronavirus-ansiedade-tambem-prejudica-defesas-do-organismo/) nos trouxe uma nova forma de observar a vida: com mais **generosidade** e **empatia**. Afinal, quando estamos diante de uma pandemia precisamos do outro mais do que nunca. Por mais que fomos acometidos por uma tristeza incontornável, muitos estão mantendo a esperança de sermos condecorados por dias melhores.
 
 A tristeza é inevitável em um cenário como esse. A sensação de vazio, solidão, o emprego que esvaiu-se, a expectativa de engatar um relacionamento que declinou, dentre outras coisas. Mas como lidar com tudo isso? A sabedoria popular nos ensinou que só não há saída para morte. Pois é, mas até o luto experienciamos.
@@ -54,5 +46,3 @@ Pedir ajuda é sinal de coragem. Conforme já foi pontuado, é necessário um tr
 Sentir tristeza, sobretudo em decorrência dos acontecimentos atuais é absolutamente normal. Mas entender que será preciso dar voz a esses sentimentos para superá-los é peça-chave para uma vida melhor.
 
 **E então, ficou interessado em fazer uma terapia à distância para tratar a tristeza? [Experimente marcando a sua primeira consulta](https://yuribusin.com.br/contato/)!**
-
-

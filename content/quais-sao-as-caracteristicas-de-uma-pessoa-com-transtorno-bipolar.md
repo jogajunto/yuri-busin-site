@@ -10,8 +10,6 @@ date: 2022-07-13T23:16:17.401Z
 draft: false
 ---
 
-
-
 O transtorno bipolar é uma condição de [saúde mental](https://yuribusin.com.br/7-habitos-boa-saude-mental/) em que uma pessoa possui alterações de mania, humor e [depressão ](/diferenca-estresse-ansiedade-depressao/)de forma intermitente. Essas experiências podem durar de muitas semanas a muitos meses, impactando negativamente na qualidade de vida da pessoa.
 
 Os altos e baixos no humor acabam provocando alterações de [sono](/por-que-uma-pessoa-com-insonia-deve-procurar-um-psicologo/), energia, pensamentos e comportamentos. As pessoas passam a ter períodos em que se sentem excessivamente felizes e outros muito tristes e sem esperança.
@@ -65,5 +63,3 @@ Geralmente, a terapia cognitiva comportamental é o suficiente para que o pacien
 Infelizmente, a condição é crônica e requer que o paciente faça um acompanhamento ao longo da vida. Por outro lado, com bons cuidados médicos, psicoterapia, mudanças no estilo de vida e o apoio de amigos e familiares – a pessoa pode se sentir melhor e ter uma vida normal e feliz.
 
 **Para conhecer mais do meu trabalho e como posso lhe ajudar, [confira o meu perfil no Instagram](https://www.instagram.com/dryuribusin/).**
-
-

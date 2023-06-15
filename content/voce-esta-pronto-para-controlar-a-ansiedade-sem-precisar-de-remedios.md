@@ -12,14 +12,6 @@ date: 2021-08-11T13:24:43.016Z
 draft: false
 ---
 
-
-
-
-
-
-
-
-
 Os sintomas da [ansiedade](https://yuribusin.com.br/terapia-para-ansiedade/) podem ser debilitantes. São noites sem dormir, confusão de pensamentos e ataques de pânico do nada. Muita gente acaba lançando mão de medicamentos para conseguir controlar a ansiedade.
 
 Infelizmente, os remédios não são a cura definitiva. Por mais que eles ajudem a minimizar os sintomas de ansiedade, o problema ainda estará lá.
@@ -61,5 +53,3 @@ A premissa básica da terapia é que são os seus pensamentos (e não os eventos
 Dessa forma, você aprenderá como mudar a maneira de pensar, possibilitando que você mude a maneira como se sente e tendo uma vida saudável.
 
 **[E então, que tal agendar agora a sua visita ao psicólogo e começar a aprender a controlar a ansiedade?](https://yuribusin.com.br/contato/)**
-
-

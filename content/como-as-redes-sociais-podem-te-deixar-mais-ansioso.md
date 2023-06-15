@@ -12,14 +12,6 @@ date: 2020-11-25T20:36:25.035Z
 draft: false
 ---
 
-
-
-
-
-
-
-
-
 É indiscutível, o mundo contemporâneo é o mundo das **redes sociais**. Mas será que essa acessibilidade indiscriminada propiciada pelo mundo virtual não pode desencadear danos? Pode sim!
 
 As mídias sociais desempenham um papel importante no que tange à informação rápida, comunicação plural, aprendizado, entretenimento, dentre outras coisas.

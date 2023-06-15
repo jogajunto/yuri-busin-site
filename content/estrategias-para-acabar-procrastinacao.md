@@ -1,13 +1,12 @@
 ---
-title: "Estratégias para acabar com a procrastinação"
+title: 'Estratégias para acabar com a procrastinação'
 date: 2018-07-19
-image : "/blog/loic-djim-69263-unsplash.jpg"
-categories: ["Cotidiano"]
-description: "A procrastinação é muito comum de acontecer com as pessoas de tempos em tempos. Às vezes, são coisas simples, como organizar os arquivos no computador..."
+image: '/blog/loic-djim-69263-unsplash.jpg'
+categories: ['Cotidiano']
+description: 'A procrastinação é muito comum de acontecer com as pessoas de tempos em tempos. Às vezes, são coisas simples, como organizar os arquivos no computador...'
 draft: false
-type: "post"
+type: 'post'
 ---
-
 
 A **procrastinação** é o adiamento de alguma ação, muito comum de acontecer de tempos em tempos. Às vezes, procrastinamos em relação a coisas simples, como organizar os arquivos no computador, lavar o carro ou arrumar o armário. Muitas vezes, deixamos de fazer coisas importantes para nosso desenvolvimento pessoal e que exigem tempo e comprometimento, mas onde corremos o risco de falhar ou de parecer tolos ou até mesmo nos sentir emocionalmente feridos.
 
@@ -30,9 +29,7 @@ Vamos analisar. Quem convive com esse tipo de comportamento – de deixar muita 
 
 Antes de falarmos sobre as estratégias, que tal assistir a esse vídeo, para entender melhor a procrastinação?
 
-
 {{< youtube-embed title="Saúde em dois minutos | Transtorno Bipolar" id="ibZncifCWnY" >}}
-
 
 ## **Estratégias para reduzir a procrastinação**
 

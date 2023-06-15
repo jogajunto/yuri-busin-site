@@ -1,20 +1,19 @@
 ---
-title: "Quais são as principais formas de tratamento da depressão"
+title: 'Quais são as principais formas de tratamento da depressão'
 date: 2018-12-11
-image : "/blog/tratamento-depress_o.jpeg"
-categories: ["Cotidiano"]
-description: "Quando você está deprimido, pode parecer que você nunca sairá dessa condição. "
+image: '/blog/tratamento-depress_o.jpeg'
+categories: ['Cotidiano']
+description: 'Quando você está deprimido, pode parecer que você nunca sairá dessa condição. '
 draft: false
-type: "post"
+type: 'post'
 ---
-
 
 Quando você está deprimido, pode parecer que você nunca sairá dessa condição. No entanto, se isto está impedido de você viver a vida que deseja, não hesite em procurar ajuda, por meio de um tratamento da depressão.
 Assim como não há duas pessoas afetadas exatamente da mesma maneira pela condição, não há um único tratamento que cure a depressão. O que funciona para uma pessoa pode não funcionar para outra.
 No entanto, até mesmo a depressão mais grave é tratável. Por isso, aprender sobre suas opções de tratamento o ajudará a decidir qual abordagem é a adequada para você.
 Neste artigo, você conhecerá as melhores maneiras de tratar a depressão e como e adaptá-la às suas necessidades.
 Vamos lá?
- 
+
 ## **A necessidade de mudanças no estilo de vida**
 
 Independentemente do método escolhido, o tratamento tem mais efeito quando você faz mudanças no seu estilo de vida. Às vezes, essas mudanças podem ser tudo que você precisa. Mesmo que você precise de outro tratamento, adotar um novo estilo de vida pode ajudar a diminuir a depressão mais rapidamente e impedir que ela volte no futuro.
@@ -25,7 +24,7 @@ O melhor de tudo é que você não precisa treinar para uma maratona para colher
 
 Comer também é importante para manter a saúde mental. Comer refeições pequenas, equilibradas e saudáveis ao longo do dia vai ajudá-lo a manter a energia elevada e a minimizar as alterações de humor.
 
-O sono também tem um forte efeito no humor. Quando você não dorme o suficiente, seus [sintomas de depressão](/8-sintomas-de-depressao-que-voce-precisa-reconhecer/) serão piores. A privação do sono exacerba a irritabilidade, o mau-humor, a tristeza e a fadiga. 
+O sono também tem um forte efeito no humor. Quando você não dorme o suficiente, seus [sintomas de depressão](/8-sintomas-de-depressao-que-voce-precisa-reconhecer/) serão piores. A privação do sono exacerba a irritabilidade, o mau-humor, a tristeza e a fadiga.
 
 ## **Os tipos de tratamento da depressão**
 
@@ -33,7 +32,7 @@ Da terapia à medicação, existem muitos tratamentos eficazes que podem ajudá-
 
 Atualmente, existe uma gama de tratamentos eficazes e profissionais de saúde que podem ajudá-lo a se recuperar da depressão. Quanto mais grave a depressão, mais intensivo será o tratamento necessário. O importante é encontrar o tratamento certo e o profissional de saúde adequado às suas necessidades.
 
-Veja alguns deles! 
+Veja alguns deles!
 
 ### **Psicoterapia individual**
 
@@ -45,7 +44,7 @@ A terapia ajuda a trabalhar a causa de sua depressão, ajudando-o a entender por
 
 Com isso, o psicólogo ensina como superar pensamentos negativos e ser capaz de desafiar sentimentos sem esperança. O que você aprende na terapia lhe dá habilidades e discernimento para se sentir melhor e ajudar a evitar que a depressão volte.
 
-Caso não se sinta confortável para ir até uma clínica, você pode fazer a [terapia online](/psicologo-online/), com a ajuda de um computador ou smartphone. Da mesma forma que a terapia presencial, você também terá uma série de sessões semanais e receberá o apoio necessário de um profissional de saúde, mesmo a distância. 
+Caso não se sinta confortável para ir até uma clínica, você pode fazer a [terapia online](/psicologo-online/), com a ajuda de um computador ou smartphone. Da mesma forma que a terapia presencial, você também terá uma série de sessões semanais e receberá o apoio necessário de um profissional de saúde, mesmo a distância.
 
 ### **Terapia de grupo**
 
@@ -55,7 +54,7 @@ Na terapia individual, você está construindo um relacionamento forte com um ps
 
 Já na terapia de grupo, ouvir os colegas, passando pelas mesmas dificuldades, ajuda a validar suas experiências e a construir a autoestima. Muitas vezes, os membros do grupo estão em diferentes pontos de sua depressão, então você pode obter dicas de alguém que tenha trabalhado em um problema desafiador.
 
-Além de oferecer inspiração e ideias, a participação em terapia de grupo também pode ajudar a aumentar suas atividades sociais, um ponto fundamental para superar a depressão. 
+Além de oferecer inspiração e ideias, a participação em terapia de grupo também pode ajudar a aumentar suas atividades sociais, um ponto fundamental para superar a depressão.
 
 ### **Medicamentos**
 
@@ -65,6 +64,6 @@ Pessoas com formas mais graves de depressão ([transtorno bipolar](/o-que-e-uma-
 
 Embora a medicação possa aliviar os sintomas da depressão, geralmente não é adequada para uso a longo prazo. Outros tratamentos, como os exercícios físicos e a terapia cognitiva comportamental, podem ser tão eficazes quanto a medicação, muitas vezes até mais, pois, não vêm com efeitos colaterais indesejados dos remédios.
 
-Todos esses tratamentos da depressão levam tempo e, às vezes, podem parecer muito lentos. Isso é absolutamente normal. Geralmente, a recuperação tem seus altos e baixos. No entanto, com o tempo, as coisas vão melhorando e você poderá voltar a aproveitar a vida da melhor forma. 
+Todos esses tratamentos da depressão levam tempo e, às vezes, podem parecer muito lentos. Isso é absolutamente normal. Geralmente, a recuperação tem seus altos e baixos. No entanto, com o tempo, as coisas vão melhorando e você poderá voltar a aproveitar a vida da melhor forma.
 
 **E você, já conhecia os principais métodos de tratamento da depressão? Gostaria de conversar com um psicólogo para decidir qual o melhor tratamento para o seu caso? Entre em** **[contato](/contato/)** **comigo e agende uma visita!**

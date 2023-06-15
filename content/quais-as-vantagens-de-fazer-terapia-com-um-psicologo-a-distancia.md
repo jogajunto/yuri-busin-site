@@ -1,11 +1,11 @@
 ---
-title: "Quais as vantagens de fazer terapia à distância?"
+title: 'Quais as vantagens de fazer terapia à distância?'
 date: 2019-04-26
-image : "/blog/homem-fazendo-uma-videochamada-para-o-seu-psic_logo-a-dist_ncia.jpg"
-categories: ["Saúde"]
-description: "A popularização da internet proporcionou uma série de facilidades. Entre elas, contar com a ajuda de um psicólogo a distância. Leia mais sobre aqui!"
+image: '/blog/homem-fazendo-uma-videochamada-para-o-seu-psic_logo-a-dist_ncia.jpg'
+categories: ['Saúde']
+description: 'A popularização da internet proporcionou uma série de facilidades. Entre elas, contar com a ajuda de um psicólogo a distância. Leia mais sobre aqui!'
 draft: false
-type: "post"
+type: 'post'
 ---
 
 A popularização da internet proporcionou uma série de facilidades para a vida cotidiana. Entre elas, está a oportunidade de uma pessoa buscar por serviços de saúde mental, contando com a ajuda de um psicólogo a distância.

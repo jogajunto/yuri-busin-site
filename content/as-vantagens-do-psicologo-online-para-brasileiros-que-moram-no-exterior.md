@@ -1,11 +1,11 @@
 ---
-title: "Vantagens do psicólogo online para quem mora no exterior"
+title: 'Vantagens do psicólogo online para quem mora no exterior'
 date: 2019-09-22
-image : "/blog/brasileiros-que-moram-no-exterior-tem-a-conveni_ncia-do-psicologo-online.jpg"
-categories: ["Cotidiano"]
-description: "A natureza flexível da psicoterapia online beneficia pacientes e psicólogos. Saiba o porquê lendo este artigo!"
+image: '/blog/brasileiros-que-moram-no-exterior-tem-a-conveni_ncia-do-psicologo-online.jpg'
+categories: ['Cotidiano']
+description: 'A natureza flexível da psicoterapia online beneficia pacientes e psicólogos. Saiba o porquê lendo este artigo!'
 draft: false
-type: "post"
+type: 'post'
 ---
 
 O **aconselhamento remoto** está se tornando cada vez mais popular, principalmente, para aqueles que viajam muito ou brasileiros que moram no exterior. A tecnologia tem permitido que pessoas continuem a ser atendidos por seus [psicólogos clínicos](/pra-que-serve-um-psicologo-clinico/) de confiança, mesmo que eles estejam do outro lado do mundo.
@@ -28,7 +28,7 @@ Se você está em um local onde a terapia tradicional é limitada, a terapia onl
 
 Conforme aumenta a conscientização sobre os problemas de saúde mental, cada vez mais pessoas buscam a ajuda de que precisam. A **facilidade e conveniência** de agendar uma consulta online e conversar com um terapeuta a partir da privacidade de sua própria casa – ou onde quer que esteja – é um grande atrativo para os pacientes.
 
-A [psicoterapia](/quanto-tempo-dura-psicoterapia/) funciona em parte porque os psicólogos garantem que os clientes tenham um espaço privado e seguro para compartilhar histórias, pensamentos ou emoções pessoais e, muitas vezes, difíceis. 
+A [psicoterapia](/quanto-tempo-dura-psicoterapia/) funciona em parte porque os psicólogos garantem que os clientes tenham um espaço privado e seguro para compartilhar histórias, pensamentos ou emoções pessoais e, muitas vezes, difíceis.
 
 É um desafio logístico manter uma terapia semanal para quem está viajando pelo mundo ou morando no exterior. Por isso, nestes casos, o consultório online é a única opção de ajuda, principalmente se a pessoa precisa de terapia mais intensiva.
 

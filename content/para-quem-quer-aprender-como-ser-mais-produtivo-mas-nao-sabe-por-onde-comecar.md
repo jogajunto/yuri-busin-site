@@ -12,14 +12,6 @@ date: 2021-06-23T15:43:39.989Z
 draft: false
 ---
 
-
-
-
-
-
-
-
-
 Antes de você se aventurar em como ser mais produtivo, a primeira coisa que é preciso entender é que você precisa ser gentil com você mesmo e com seus erros.
 
 Por mais que você queria maximizar a sua produtividade, todos nós temos um limite, tanto físico quanto mental.
@@ -97,5 +89,3 @@ Além disso, [ao deixar a vida sedentária](https://yuribusin.com.br/os-riscos-d
 Se você não tem tempo para academia, experimente praticar corrida logo pela manhã, fazer alguns polichinelos ou apenas caminhar até o local de trabalho.
 
 **No entanto, se mesmo após essas dicas, você ainda sente que poderia ser mais produtivo, [experimente marcar uma consulta com um psicólogo](https://yuribusin.com.br/contato/). Pode ser que essa desmotivação no trabalho tenha origem em outro fator psicológico.**
-
-

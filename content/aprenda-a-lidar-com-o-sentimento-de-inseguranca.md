@@ -12,14 +12,6 @@ date: 2021-10-13T15:21:27.146Z
 draft: false
 ---
 
-
-
-
-
-
-
-
-
 Todo mundo se sente um pouco inseguro às vezes. Esse sentimento de inadequação é comum, porém, em excesso, ele pode gerar problemas nos relacionamentos, no trabalho, assim como na vida cotidiana como um todo.
 
 Essa [insegurança](https://yuribusin.com.br/5-dicas-para-vencer-a-inseguranca-no-relacionamento/) pode ser desencadeada por ansiedades, medos ou qualquer acontecimento que foge ao controle da pessoa.
@@ -63,5 +55,3 @@ Aproveite ainda o seu tempo livre para fazer coisas que tragam alegria e felicid
 Todo mundo lida com a insegurança em algum nível, mas se não for controlada, ela pode ter um grande impacto no seu dia a dia. Portanto, não hesite em procurar um psicólogo se achar que precisa de ajuda profissional.
 
 **Para receber mais dicas de bem-estar, experimente seguir o meu perfil no Instagram [@dryuribusin](https://www.instagram.com/dryuribusin/).**
-
-

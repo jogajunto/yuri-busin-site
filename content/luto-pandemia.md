@@ -11,14 +11,6 @@ date: 2020-09-25T17:06:02.769Z
 draft: false
 ---
 
-
-
-
-
-
-
-
-
 Estamos diante de um cenário catastrófico. Milhares de mortes por dia e a incerteza indeclinável do amanhã. Tudo isso traz uma tristeza angustiante e, ao mesmo tempo, uma ansiedade inevitável. E ainda podemos perder alguém que amamos e, sim, vamos ter que lidar com o [luto](https://yuribusin.com.br/5-dicas-para-superar-o-luto/) na pandemia, essa é a realidade.
 
 A morte traz uma dor plural — um sentimento de impotência diante dela, a tristeza óbvia e a revolta. Todos esses sentimentos são recorrentes, mas é preciso **reflexão e autocontrole** para não padecer. A pandemia instaurada no mundo inteiro nos trouxe outra forma de viver, mas deixou o seu rastro de infelicidade por todos os cantos.
@@ -48,5 +40,3 @@ Escolher as pessoas certas para estar perto será um excelente antídoto contra 
 O luto na pandemia é algo real e cada vez mais constante. Não se culpe, tenha equilíbrio e entenda que não temos o controle de tudo, somente de nossas ações. O ideal é **enfrentar a dor** mesmo que ela pareça insuportável. A saudade sempre virá à tona, mas a certeza de um novo dia é algo que deve nos reconfortar.
 
 **Para encontrar conforto na psicoterapia, estou à disposição. [Fale comigo!](https://yuribusin.com.br/contato/)**
-
-

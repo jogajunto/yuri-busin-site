@@ -1,13 +1,12 @@
 ---
-title: "As emoções dizem muito sobre nós"
+title: 'As emoções dizem muito sobre nós'
 date: 2015-09-16
-image : "/blog/emocoes.jpg"
-categories: ["Cotidiano"]
-description: "O que são emoções? Assunto complicado, muito discutido desde o principio da nossa existência. Tantas músicas, pinturas, livros, falam dessa tal de emoções."
+image: '/blog/emocoes.jpg'
+categories: ['Cotidiano']
+description: 'O que são emoções? Assunto complicado, muito discutido desde o principio da nossa existência. Tantas músicas, pinturas, livros, falam dessa tal de emoções.'
 draft: false
-type: "post"
+type: 'post'
 ---
-
 
 O que são **emoções**? Assunto complicado, muito discutido desde o principio da nossa existência. Tantas músicas, pinturas, livros, falam dessa tal de emoções. Todos sentimos, todos tentamos não senti-las ao mesmo tempo, mas do meu ponto de vista é aquilo que une os seres humanos, criando nossos laços e interações, significando acontecimentos do cotidiano.
 

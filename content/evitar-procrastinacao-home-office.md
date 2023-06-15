@@ -11,14 +11,6 @@ date: 2020-09-25T17:14:30.206Z
 draft: false
 ---
 
-
-
-
-
-
-
-
-
 Como fazer para evitar a procrastinação no home office? Você sente que sempre está com as tarefas e atraso ou demora para entregar? Saiba que esta é uma situação mais comum do que você imagina.
 
 Com o **período de quarentena**, muitas pessoas passaram a trabalhar em casa, exercendo suas funções de forma online. Assim, o [home office](https://www.google.com/url?client=internal-element-cse&cx=013413282715532661870:5z8llcwtwhy&q=https://yuribusin.com.br/como-trabalhar-em-casa-de-maneira-saudavel/&sa=U&ved=2ahUKEwjR4bzokOHrAhXqH7kGHRg4CkYQFjABegQIARAC&usg=AOvVaw2XKCuIGwO2G7LigXaY6o63) se tornou uma realidade para milhares de brasileiros.
@@ -64,5 +56,3 @@ E não esqueça dos intervalos para as suas refeições e necessidades. E respei
 Com essas dicas básicas você consegue evitar a procrastinação no home office e assim mantém a produtividade na sua rotina profissional e também a sua [saúde mental](https://yuribusin.com.br/12-dicas-saude-mental-quarentena/).
 
 **Você faz trabalho home office? Precisa de aconselhamento psicológico para melhorar sua produtividade? [Entre em contato!](https://yuribusin.com.br/contato/)**
-
-

@@ -10,14 +10,6 @@ date: 2020-09-20T22:31:37.131Z
 draft: false
 ---
 
-
-
-
-
-
-
-
-
 Buscar um [psicólogo clínico](https://yuribusin.com.br/pra-que-serve-um-psicologo-clinico/) remete a diversas dúvidas. Dentre elas, será que é permitido levar um acompanhante na consulta?
 
 Antes de mais nada, é importante saber como funciona a terapia e ter em mente que para ela ser eficaz, é preciso comprometimento de ambas as partes. O profissional está ali para lhe ajudar a lidar com as suas questões.
@@ -55,5 +47,3 @@ Além disso, é válido lembrar que **consultas psicológicas** são livres de o
 Portanto, quer saber a melhor opção para você? Não deixe de falar com o psicólogo. Identifique os benefícios e malefícios no seu caso e veja se é válido ou não levar um acompanhante na consulta.
 
 **E então, está preparado para participar da sua primeira consulta? [Agende agora mesmo](https://yuribusin.com.br/contato/)!**
-
-

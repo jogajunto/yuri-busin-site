@@ -1,13 +1,12 @@
 ---
-title: "Homens também podem chorar"
+title: 'Homens também podem chorar'
 date: 2015-09-28
-image : "/blog/homens.jpg"
-categories: ["Cotidiano"]
-description:   "Já pararam para pensar que é muito difícil, homens confessarem que sofrem? Que choram? Que ficam tristes? Angustiados?"
+image: '/blog/homens.jpg'
+categories: ['Cotidiano']
+description: 'Já pararam para pensar que é muito difícil, homens confessarem que sofrem? Que choram? Que ficam tristes? Angustiados?'
 draft: false
-type: "post"
+type: 'post'
 ---
-
 
 Já pararam para pensar que é muito difícil, homens confessarem que sofrem? Que choram? Que ficam tristes? Angustiados? Mas na realidade o homem sofre tanto quanto qualquer pessoa, velho ou novo, bonito ou feio, rico ou pobre, o homem é passível de sofrer.
 

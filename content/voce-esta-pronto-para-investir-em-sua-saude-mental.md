@@ -12,14 +12,6 @@ date: 2021-08-11T13:18:39.947Z
 draft: false
 ---
 
-
-
-
-
-
-
-
-
 A importância de cuidar da saúde mental tem se tornado um tema bastante comum e cada vez mais aceito por todos, principalmente em tempos de [pandemia](https://yuribusin.com.br/como-manter-a-saude-mental-durante-a-pandemia/).
 
 Priorizar o autocuidado pode ser transformador, no sentido que essa prática ajuda a reduzir o estresse da vida adulta, evitando que a pessoa desenvolva transtornos de humor, como a ansiedade, a depressão ou outras doenças mentais.
@@ -71,5 +63,3 @@ Uma ida ao psicólogo pode agilizar esse processo de autocuidado, ajudando a eli
 O objetivo é usar a terapia como uma oportunidade para avaliar, planejar e se preparar para promover mudanças positivas na sua vida.
 
 **Por isso, se você está disposto a dar este passo, cuidar mais da sua saúde mental e ter uma melhor qualidade de vida, [entre em contato comigo](https://yuribusin.com.br/contato/). Diante da pandemia, também estou atendendo de forma remota e online.**
-
-

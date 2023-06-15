@@ -10,8 +10,6 @@ date: 2022-08-08T02:56:19.214Z
 draft: false
 ---
 
-
-
 Todo mundo sonha ser uma pessoa “super produtiva”, sendo capaz de acordar cedo, se exercitar, comer alimentos saudáveis, ir bem nos estudos, concluir tarefas do trabalho no menor tempo possível e ainda [manter bons relacionamentos](https://yuribusin.com.br/7-habitos-prejudicam-relacionamento-amoroso/). Porém, a ciência aponta que muita gente confunde a força de vontade com o poder do hábito.
 
 Segundo pesquisadores da Duke University, os hábitos são responsáveis ​​por cerca de [40% de nossos comportamentos em um determinado dia](https://web.archive.org/web/20110526144503/http://dornsife.usc.edu/wendywood/research/documents/Neal.Wood.Quinn.2006.pdf). Portanto, boa parte do que você faz hoje rapidamente e sem esforço vem, na verdade, de uma série de hábitos pré-estabelecidos.
@@ -45,5 +43,3 @@ Ter apoio social é um grande impulso na motivação para construir um novo háb
 Bons hábitos são contagiosos, portanto, procure pessoas que estão um pouco à sua frente na curva de aprendizado. Além de fazer novas amizades, você agregará mais valor ao seu novo hábito.
 
 [Para mais dicas como essas, confira o meu perfil no Instagram.](https://www.instagram.com/dryuribusin/)
-
-

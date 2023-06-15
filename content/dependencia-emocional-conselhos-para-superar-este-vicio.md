@@ -1,11 +1,11 @@
 ---
-title: "Dependência emocional: conselhos para superar este vício"
+title: 'Dependência emocional: conselhos para superar este vício'
 date: 2020-04-27
-image : "/blog/depend_ncia-emocional-conselhos-para-superar-este-v_cio.jpg"
-categories: ["Cotidiano"]
-description: "Nem todas as relações ocorrem de forma saudável. Saiba o que é dependência emocional clicando aqui!"
+image: '/blog/depend_ncia-emocional-conselhos-para-superar-este-v_cio.jpg'
+categories: ['Cotidiano']
+description: 'Nem todas as relações ocorrem de forma saudável. Saiba o que é dependência emocional clicando aqui!'
 draft: false
-type: "post"
+type: 'post'
 ---
 
 O ser humano é naturalmente **sociável** e partilhar momentos da vida com outras pessoas faz parte do desenvolvimento pessoal do indivíduo. Contudo, nem todas as relações ocorrem de forma saudável e quando nos envolvemos em [relacionamentos tóxicos](/relacionamento-toxico-entenda-se-voce-esta-em-um/), consequências nocivas podem ser geradas. Uma delas é a dependência emocional.

@@ -1,13 +1,12 @@
 ---
-title: "Como lidar com haters na internet?"
+title: 'Como lidar com haters na internet?'
 date: 2018-04-17
-image : "/blog/homem-gritando-computador.jpg"
-categories: ["Cotidiano"]
-description: "Atualmente, diversos casos de problemas psicológicos estão sendo relacionados com o mau uso da internet. Os discursos de ódio, haters na internet..."
+image: '/blog/homem-gritando-computador.jpg'
+categories: ['Cotidiano']
+description: 'Atualmente, diversos casos de problemas psicológicos estão sendo relacionados com o mau uso da internet. Os discursos de ódio, haters na internet...'
 draft: false
-type: "post"
+type: 'post'
 ---
-
 
 Atualmente, diversos casos de problemas psicológicos estão sendo relacionados com o mau uso da internet. Os [discursos de ódio](https://www.infoescola.com/direito/discurso-de-odio/) nas redes sociais (haters na internet) têm se tornado cada vez mais comuns e podem fazer com que uma pessoa se sinta menosprezada, principalmente quando esse discurso é dirigida a ela.
 
@@ -29,7 +28,7 @@ Por isso, aprender como lidar com os haters é compreender que o único propósi
 
 Falar sobre esse assunto nos dias atuais é tão importante que fui convidado para uma reportagem especial do Fantástico. Nela eu explico justamente que o ideal é não responder ao hater, porque o rebuliço causado por uma resposta reforça a necessidade de o hater continuar fazendo aquilo, pois ele começa a sentir que tem poder.
 
-Para conferir  a reportagem na íntegra, acesse [Haters, o exército invisível que dissemina ódio na internet e não poupa ninguém de seus ataques](https://g1.globo.com/fantastico/noticia/2021/09/05/haters-o-exercito-invisivel-que-dissemina-odio-na-internet-e-nao-poupa-ninguem-de-seus-ataques.ghtml).
+Para conferir a reportagem na íntegra, acesse [Haters, o exército invisível que dissemina ódio na internet e não poupa ninguém de seus ataques](https://g1.globo.com/fantastico/noticia/2021/09/05/haters-o-exercito-invisivel-que-dissemina-odio-na-internet-e-nao-poupa-ninguem-de-seus-ataques.ghtml).
 
 [![Haters, o exército invisível que dissemina ódio na internet e não poupa ninguém de seus ataques](/blog/haters-o-exercito-invisivel-que-dissemina-odio-na-internet-e-nao-poupa-ninguem-de-seus-ataques.jpg)](https://g1.globo.com/fantastico/noticia/2021/09/05/haters-o-exercito-invisivel-que-dissemina-odio-na-internet-e-nao-poupa-ninguem-de-seus-ataques.ghtml)
 

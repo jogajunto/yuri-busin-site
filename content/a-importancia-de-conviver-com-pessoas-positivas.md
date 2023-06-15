@@ -12,14 +12,6 @@ date: 2022-03-14T11:57:27.024Z
 draft: false
 ---
 
-
-
-
-
-
-
-
-
 Ter uma mentalidade positiva significa ter uma atitude otimista até mesmo quando as coisas vão mal.
 
 Ao pensar de maneira positiva, sua mente deixa de gastar energia com [pensamentos negativos](https://yuribusin.com.br/como-se-livrar-de-pensamentos-negativos/), que podem facilmente virar uma grande bola de neve. Automaticamente, você também para de culpar a si mesmo ou aos outros sobre os acontecimentos da vida. E, o mais importante, você terá total controle de suas emoções e tentará sempre tirar uma lição valiosa toda vez que enfrentar algum contratempo.
@@ -61,5 +53,3 @@ Ser grato o ajudará a atrair mais pessoas positivas em sua vida e reforçará v
 Por isso, se você tende a ter uma perspectiva negativa do mundo, não espere se tornar um otimista da noite para o dia. Mas, com a prática, você conseguirá suprimir a autocrítica e adicionar mais autoaceitação na sua vida.
 
 **Gostou deste artigo. [Que tal seguir o meu perfil no Instagram para mais dicas de positividade?](https://www.instagram.com/dryuribusin/) [@dryuribusin ](https://www.instagram.com/dryuribusin/)**
-
-

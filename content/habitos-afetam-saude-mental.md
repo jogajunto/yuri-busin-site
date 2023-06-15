@@ -11,14 +11,6 @@ date: 2020-09-25T17:16:33.861Z
 draft: false
 ---
 
-
-
-
-
-
-
-
-
 A nossa **saúde mental** está muito ligada a atitudes de nosso cotidiano, sabia? Ao longo dos anos, vamos adquirindo hábitos que acabam internalizando em nossa mente.
 
 Mas sem que percebamos, alguns hábitos podem afetar negativamente a nossa [saúde mental](https://www.google.com/url?client=internal-element-cse&cx=013413282715532661870:5z8llcwtwhy&q=https://yuribusin.com.br/os-riscos-do-sedentarismo-para-a-saude-mental/&sa=U&ved=2ahUKEwiZp_qtmuLrAhUTILkGHWoiD3MQFjAAegQIBRAC&usg=AOvVaw3ILgRmjwuN32ztly8_xRi6). Atitudes aparentemente simples podem dar margem para que frustrações, estresse, ansiedade e depressão de formem em nossa mente e consequentemente prejudiquem a saúde.
@@ -64,5 +56,3 @@ Um parceiro que prejudica sua autoconfiança e sempre o acusa de ser responsáve
 Não leve a vida tão a sério. Quem faz isso perde a paixão em viver. Ficar envergonhado em uma situação embaraçosa não deve ser uma opção. Que tal tentar rir de si mesmo? Um sorriso é muito melhor, pois ajuda na melhoria de sua saúde mental.
 
 **Se você tem um ou mais desses hábitos, abandone imediatamente e evite repeti-los em seu cotidiano. Um bom hábito é cuidar da sua saúde mental com a ajuda de um psicólogo. [Marque agora mesmo a sua consulta](https://yuribusin.com.br/contato/).**
-
-

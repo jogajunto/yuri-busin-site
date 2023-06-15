@@ -15,14 +15,6 @@ date: 2022-11-23T18:03:26.306Z
 draft: false
 ---
 
-
-
-
-
-
-
-
-
 Encontrar um tempo livre para praticar hobbies nem sempre é algo fácil. Porém, diante da importância deles para a nossa saúde mental, é fundamental achar um tempo na agenda para colocá-los em prática.
 
 Entre os benefícios dos hobbies estão a redução do estresse, melhoria do humor, desenvolvimento de novas habilidades, reforço da autoestima, assim como criar novas conexões.
@@ -68,5 +60,3 @@ Você pode expressar como está se sentindo no presente e, no futuro, reler essa
 Além disso, você pode buscar ajuda de um [psicólogo cognitivo comportamental](https://yuribusin.com.br/).
 
 **Para mais dicas de saúde mental, me siga no Instagram [@dryuribusin](https://www.instagram.com/dryuribusin/) !**
-
-

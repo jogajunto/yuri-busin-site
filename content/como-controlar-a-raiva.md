@@ -1,11 +1,11 @@
 ---
-title: "Como controlar a raiva?"
+title: 'Como controlar a raiva?'
 date: 2019-03-15
-image : "/blog/Como-controlar-a-raiva.jpeg"
-categories: ["Saúde"]
-description: "Vou apresentar os benefícios de controlar a raiva, além de dar dicas de como praticar a resiliência e manter a calma diante dos acontecimentos. Vamos lá?"
+image: '/blog/Como-controlar-a-raiva.jpeg'
+categories: ['Saúde']
+description: 'Vou apresentar os benefícios de controlar a raiva, além de dar dicas de como praticar a resiliência e manter a calma diante dos acontecimentos. Vamos lá?'
 draft: false
-type: "post"
+type: 'post'
 ---
 
 Como qualquer outra emoção humana, a raiva é normal e até saudável no cotidiano. Porém, a raiva descontrolada tem o potencial de prejudicar a saúde e também os relacionamentos. Assim, saber como controlar a raiva e ter uma resposta mais leve diante de um problema ou frustração é uma habilidade útil que proporciona mais [inteligência emocional](/desenvolver-inteligencia-emocional/) para o indivíduo.
@@ -14,8 +14,6 @@ Embora uma reação explosiva possa aliviar a dor momentânea, ela raramente 
 
 Por isso, neste artigo, vamos apresentar os benefícios de controlar a raiva, além de dar dicas de como praticar a resiliência e manter a calma diante dos acontecimentos. Vamos lá?
 
- 
-
 ## Os perigos do temperamento explosivo
 
 O temperamento explosivo consiste no comportamento impulsivo de ser agressivo ou violento, incluindo explosões verbais raivosas, nas quais alguém reage de maneira desproporcional a uma determinada situação.
@@ -23,8 +21,6 @@ O temperamento explosivo consiste no comportamento impulsivo de ser agressivo ou
 É comum expressar raiva no trânsito, ao perder um familiar ou sofrer alguma injustiça. No entanto, a raiva em excesso causa sofrimento e afeta negativamente seus relacionamentos, trabalho e escola, além de ter consequências legais e financeiras.
 
 Além disso, quando alguém apresenta alta irritabilidade, repentina agressividade e é cronicamente zangado, pode ser sinal que o indivíduo sofre do transtorno explosivo intermitente, o que requer tratamento com um [psicólogo](/pra-que-serve-um-psicologo-clinico/).
-
- 
 
 ## Dicas práticas de como controlar a raiva
 

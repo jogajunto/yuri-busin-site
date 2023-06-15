@@ -1,13 +1,12 @@
 ---
-title: "Será que o smartphone atrapalha durante o estudo?"
+title: 'Será que o smartphone atrapalha durante o estudo?'
 date: 2018-07-17
-image : "/blog/william-iven-19843-unsplash.jpg"
-categories: ["Cotidiano"]
-description: "É muito comum entre os adolescentes estarem conectados em suas redes sociais durante as horas de estudo. Será que o smartphone atrapalha durante o estudo?"
+image: '/blog/william-iven-19843-unsplash.jpg'
+categories: ['Cotidiano']
+description: 'É muito comum entre os adolescentes estarem conectados em suas redes sociais durante as horas de estudo. Será que o smartphone atrapalha durante o estudo?'
 draft: false
-type: "post"
+type: 'post'
 ---
-
 
 Durante o dia a dia dos **adolescentes** é muito comum eles estarem **conectados** aos seus smartphones boa parte do tempo. Mas será que usar o smartphone atrapalha durante o estudo?
 

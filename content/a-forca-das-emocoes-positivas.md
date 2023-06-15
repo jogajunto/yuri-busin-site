@@ -1,11 +1,11 @@
 ---
-title: "A força das emoções positivas"
+title: 'A força das emoções positivas'
 date: 2020-01-31
-image : "/blog/homem-com-emo__es-positivas.jpg"
-categories: ["Cotidiano"]
-description: "Neste artigo, apresento os benefícios de cultivar as emoções positivas para uma melhor qualidade de vida. Confira!"
+image: '/blog/homem-com-emo__es-positivas.jpg'
+categories: ['Cotidiano']
+description: 'Neste artigo, apresento os benefícios de cultivar as emoções positivas para uma melhor qualidade de vida. Confira!'
 draft: false
-type: "post"
+type: 'post'
 ---
 
 Sentir [emoções](/como-controlar-suas-emocoes/) positivas e negativas é uma parte natural do ser humano. Podemos usar a palavra “negativo” para descrever emoções difíceis, mas isso não significa que essas emoções sejam ruins ou que não devemos tê-las.

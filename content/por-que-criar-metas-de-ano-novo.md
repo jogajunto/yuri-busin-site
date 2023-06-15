@@ -11,14 +11,6 @@ date: 2020-12-24T12:44:28.641Z
 draft: false
 ---
 
-
-
-
-
-
-
-
-
 O [ano novo](https://yuribusin.com.br/como-alcancar-as-resolucoes-de-ano-novo-saiba-como-a-psicologia-pode-te-ajudar/) propicia o desejo de iniciar coisas novas, contudo, isto deve ser feito com planejamento e reflexão. Não adianta fazer uma longa lista com várias ideias e depois não implementá-las devidamente.
 
 **Criar metas de ano novo** é um modo eficaz para mudar de vida de um jeito possível e gradativo.
@@ -70,5 +62,3 @@ Aventuras e programas repentinos também são **bem-vindos**. Mas entenda que a 
 O planejamento vem para conferir bem-estar e consolidar sonhos. Ainda, traz a oportunidade de reflexão e evolução.
 
 **Que tal incluir nas suas metas o desenvolvimento do seu autoconhecimento por meio da [terapia com um psicólogo](https://yuribusin.com.br/contato/)?**
-
-

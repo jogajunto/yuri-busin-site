@@ -1,19 +1,18 @@
 ---
-title: "Como controlar suas emoções"
+title: 'Como controlar suas emoções'
 date: 2018-11-15
-image : "/blog/controle-emocional.jpg"
-categories: ["Saúde"]
-description: "Nesse artigo, você aprenderá o que são as emoções e conhecerá quais são as principais dicas para regulá-las. Vamos lá?"
+image: '/blog/controle-emocional.jpg'
+categories: ['Saúde']
+description: 'Nesse artigo, você aprenderá o que são as emoções e conhecerá quais são as principais dicas para regulá-las. Vamos lá?'
 draft: false
-type: "post"
+type: 'post'
 ---
-
 
 As emoções são poderosas. Elas podem determinar como você interage com as pessoas, quanto dinheiro gasta, como lida com os desafios ou usa seu tempo. Ao descobrir como controlar suas emoções você conseguirá se tornar mais forte mentalmente.
 
 Felizmente, qualquer um pode aprender a regular suas emoções. Assim como qualquer outra habilidade, gerenciar as suas emoções requer apenas prática e dedicação.
 
-Nesse artigo, você aprenderá o que são as emoções e conhecerá quais são as principais dicas para regulá-las. Vamos lá? 
+Nesse artigo, você aprenderá o que são as emoções e conhecerá quais são as principais dicas para regulá-las. Vamos lá?
 
 ## O que são emoções
 
@@ -27,7 +26,7 @@ Rir quando os outros estão rindo é um exemplo de uma reação apropriada que a
 
 Você pode expressar sua frustração de outras maneiras que permitem liberar esses sentimentos de raiva ou, em vez disso, tentar encontrar uma maneira de se acalmar.
 
-A [instabilidade emocional](/instabilidade-emocional/) afeta não apenas a sua vida, mas o modo como você é percebido pelas pessoas ao seu redor. 
+A [instabilidade emocional](/instabilidade-emocional/) afeta não apenas a sua vida, mas o modo como você é percebido pelas pessoas ao seu redor.
 
 ## A importância de saber controlar suas emoções
 
@@ -45,13 +44,13 @@ Você não precisa se sentir bem o tempo todo. Assim como a alegria, a tristeza 
 
 O autocontrole emocional não é tão difícil de alcançar quanto as pessoas pensam. Ele requer apenas um pouco de esforço e de tempo.
 
-A cada tentativa de controlar suas emoções lhe dará uma visão mais clara da vida e lhe ensinará que você tem a escolha de se sentir bem ou não. Para isso, basta apenas seguir alguns passos simples! 
+A cada tentativa de controlar suas emoções lhe dará uma visão mais clara da vida e lhe ensinará que você tem a escolha de se sentir bem ou não. Para isso, basta apenas seguir alguns passos simples!
 
 ### Sorria para você mesmo
 
 É fisiologicamente impossível ter sentimentos ruins se você está sorrindo. Por isso, na próxima vez que estiver se sentindo triste ou com raiva, sorria para você mesmo!
 
-Olhe para um espelho e mantenha um sorriso até que ele se torne genuíno. Parece um exercício bobo, mas um sorriso genuíno ilumina seu rosto, uma ação física que vai fazer você se sentir melhor. 
+Olhe para um espelho e mantenha um sorriso até que ele se torne genuíno. Parece um exercício bobo, mas um sorriso genuíno ilumina seu rosto, uma ação física que vai fazer você se sentir melhor.
 
 ### Medite sempre que possível
 
@@ -59,19 +58,19 @@ A prática da meditação ajuda a controlar as suas emoções porque tira seu fo
 
 Apenas feche os olhos e concentre-se em sua respiração pelo tempo que for necessário para se acalmar. Sinta a inspiração e a expiração. Contar suas respirações também ajudam a limpar a mente.
 
-Este pequeno intervalo lhe dará tempo para reunir seus pensamentos e talvez ver a situação sob um ponto de vista diferente. 
+Este pequeno intervalo lhe dará tempo para reunir seus pensamentos e talvez ver a situação sob um ponto de vista diferente.
 
 ### Identifique o que gerou a emoção
 
 Ao enfrentar uma emoção negativa pergunte a si mesmo qual foi a sua origem. Procure os gatilhos que podem ter contribuído para seus sentimentos. Entender de onde essas emoções surgem e o que as evoca é um componente crucial para ajudá-lo a começar o controle emocional.
 
-Aprofundar-se nessa investigação ajudará você a perceber seus próprios sinais, de modo a entender melhor a si mesmo e criar suas habilidades de enfrentamento personalizadas. 
+Aprofundar-se nessa investigação ajudará você a perceber seus próprios sinais, de modo a entender melhor a si mesmo e criar suas habilidades de enfrentamento personalizadas.
 
 ### Escute as outras pessoas
 
 Apenas escutar a voz do seu “crítico interior” fará que você colecione sentimentos de angústia, tristeza e raiva. Em situações sociais, principalmente em conflitos, muitas vezes as pessoas transmitem a sua própria narrativa mais alta que a dos outros.
 
-Colocar-nos em silêncio enquanto presta atenção no que a outra pessoa está falando pode ser uma prática delicada de [empatia](/empatia-voce-sabe-lidar-com-a-diversidade/) e ajudará a ampliar as suas perspectivas. 
+Colocar-nos em silêncio enquanto presta atenção no que a outra pessoa está falando pode ser uma prática delicada de [empatia](/empatia-voce-sabe-lidar-com-a-diversidade/) e ajudará a ampliar as suas perspectivas.
 
 ### Faça algo que ama
 
@@ -81,6 +80,6 @@ Você será mais feliz e capaz de lidar com as amarras das emoções quando esti
 
 Vale a pena aprender o autocontrole, mesmo que seja apenas para que você possa responder racionalmente em situações difíceis e não permitir que seus pensamentos o arrastem para o desespero e a [depressão](/8-sintomas-de-depressao-que-voce-precisa-reconhecer/).
 
-As emoções podem dominar sua vida, mas você também tem o poder de controlar suas emoções. Assim, você constrói uma vida mais feliz quando se está no controle! 
+As emoções podem dominar sua vida, mas você também tem o poder de controlar suas emoções. Assim, você constrói uma vida mais feliz quando se está no controle!
 
 **E você, tem enfrentado dificuldades em como controlar suas emoções? A terapia cognitiva comportamental é uma grande aliada nessa situação. Saiba mais sobre ela, lendo** [este artigo](/como-funciona-a-terapia-cognitiva-comportamental/)**!**

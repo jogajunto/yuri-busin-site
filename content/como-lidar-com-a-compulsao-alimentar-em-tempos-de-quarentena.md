@@ -12,14 +12,6 @@ date: 2020-08-13T16:12:19.420Z
 draft: false
 ---
 
-
-
-
-
-
-
-
-
 _Com tudo que vem acontecendo com o novo coronavírus, o impacto psicológico, financeiro e social vem se agravando e pode comprometer a condição de saúde de todos. Mas existem técnicas para evitar isso._
 
 O novo coronavírus trouxe um novo cenário ao mundo, em que todos se encontraram em isolamento social.
@@ -46,21 +38,11 @@ Muito cuidado em começar dietas restritivas. Isso porque as dietas restritivas,
 
 Nessa fase o ponto principal é o autocuidado, tanto com a alimentação quanto com seu estado emocional. Preste atenção no seu corpo e nos sinais que ele te dá.
 
-
-
-
-
-
-
-
-
 - Está atacando a geladeira de madrugada?
 - Está comendo em quantidades exageradas e fora dos horários?
 - Está usando comidas com alto nível calórico como fuga de estresse?
 - Está se alimentando muito rápido e com muita frequência?
 - Ou ingerindo alimentos gelados durante as refeições por não ter paciência de esquentá-la?
-
-
 
 Responda as questões com sinceridade, estas são formas do seu corpo mostrar que algo não está caminhando bem.
 
@@ -91,5 +73,3 @@ Porém, o mais importante nesse momento é cuidar do seu emocional e lembrar que
 Pois bem, é por meio da alimentação que você irá fortalecer a sua imunidade, então é preciso escolher bem o que irá ingerir nesse momento e evitar o famoso "comer emocional".
 
 _Conteúdo produzido por Giulia Vaz. Editado pela nossa redação._
-
-

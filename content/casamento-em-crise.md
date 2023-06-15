@@ -1,11 +1,11 @@
 ---
-title: "Como lidar com as diferenças em um casamento?"
+title: 'Como lidar com as diferenças em um casamento?'
 date: 2019-03-15
-image : "/blog/Casamento-em-crise.jpeg"
-categories: ["Cotidiano"]
-description: "Vou apresentar os motivos mais comuns de um relacionamento em crise e dar dicas para ter sucesso no casamento. Continue a leitura!"
+image: '/blog/Casamento-em-crise.jpeg'
+categories: ['Cotidiano']
+description: 'Vou apresentar os motivos mais comuns de um relacionamento em crise e dar dicas para ter sucesso no casamento. Continue a leitura!'
 draft: false
-type: "post"
+type: 'post'
 ---
 
 Geralmente, um casamento em crise tem início quando um estresse ou conflito mal resolvido faz com que o nível de [ansiedade](/como-e-feito-o-tratamento-da-ansiedade/) se torne intenso demais para o casal conseguir administrar. Como resultado, a raiva, o ressentimento e a frustração se tornam habituais no relacionamento.
@@ -16,8 +16,6 @@ Como qualquer relacionamento, o casamento exige compromisso, dedicação e tra
 
 É o que você vai aprender neste artigo. Vou apresentar os motivos mais comuns de um relacionamento em crise e dar dicas para ter sucesso no casamento. Continue a leitura!
 
- 
-
 ## Os problemas mais comuns de um relacionamento em crise
 
 O conflito é comum a todos os casamentos. O casal acaba discordando sobre muitas questões, como trabalho, ciúmes, mal-entendidos, família, filhos, expectativas, sexo. Por isso, não pense que você é o único casal a ter problemas.
@@ -25,8 +23,6 @@ O conflito é comum a todos os casamentos. O casal acaba discordando sobre muit
 Às vezes, os desentendimentos em um casamento começam por causa das ações de um dos cônjuges. Pode ser uma infidelidade, uma má administração financeira ou fazer más escolhas. Essas cicatrizes na vida do casal não devem ser vistas como negativas, mas sim com experiências positivas, para que com o aprendizado elas não sejam repetidas.
 
 É muito importante praticar todos os dias o [perdão](/como-perdoar-alguem-que-te-magoou/) e a gratidão durante o casamento. É natural ficar com raiva, frustrado ou querer culpar o erro do cônjuge indefinidamente, mas esse rancor só minará a relação. É preciso reparar esses danos, tanto na prática quanto emocionalmente. E se vocês estiverem trabalhando em equipe, o trabalho será muito mais fácil.
-
- 
 
 ## As principais dicas para salvar um casamento em crise
 

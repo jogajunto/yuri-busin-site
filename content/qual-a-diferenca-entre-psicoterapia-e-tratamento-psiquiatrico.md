@@ -11,14 +11,6 @@ date: 2020-10-23T12:16:17.279Z
 draft: false
 ---
 
-
-
-
-
-
-
-
-
 A [saúde mental](https://yuribusin.com.br/7-habitos-boa-saude-mental/) tem diversos tipos de tratamento, que inclui a psicoterapia e o tratamento psiquiátrico. Apesar da semelhança dos nomes e ambas atuarem na mesma área, elas apresentam diferenças em suas atividades
 
 Essa dúvida é comum entre muitos pacientes que iniciam algum tipo de **tratamento psicológico**. Muitos confundem os papéis do psicólogo e do psiquiatra, ambos profissionais com formação para atuar na saúde mental.
@@ -56,5 +48,3 @@ Ou seja, o tratamento psicológico atua exatamente na subjetividade do ser human
 Portanto, um tratamento psicológico bem orientado pode atenuar esses problemas e melhorar a **qualidade de vida** do paciente de forma mais duradoura, para que ele possa vencer os traumas e transtornos psicológicos, sem a dependência de remédios.
 
 **Portanto, se você estiver sentindo desconforto emocional e mental, procure ajuda. [Entre em contato agora mesmo](https://yuribusin.com.br/contato/) e tenha um atendimento qualificado com um profissional que vai orientar que tipo de tratamento é ideal para você. Não deixe de buscar ajuda.**
-
-

@@ -1,11 +1,11 @@
 ---
-title: "Pra que serve um psicólogo clínico?"
+title: 'Pra que serve um psicólogo clínico?'
 date: 2017-09-29
-image : "/blog/Dia-do-Psic_logo.jpg"
-categories: ["Cotidiano"]
-description: "O psicólogo online é uma prática de psicoterapia por meio das ferramentas atuais, no caso a internet."
+image: '/blog/Dia-do-Psic_logo.jpg'
+categories: ['Cotidiano']
+description: 'O psicólogo online é uma prática de psicoterapia por meio das ferramentas atuais, no caso a internet.'
 draft: false
-type: "post"
+type: 'post'
 ---
 
 ## Tudo bem buscar ajuda
@@ -38,9 +38,7 @@ Além disso, o psicólogo que atua com essa abordagem irá trazer diversos tipos
 
 ## Se eu procurar um psicólogo, eu sou louco?
 
-
 {{< youtube-embed title="Saúde em dois minutos | Transtorno Bipolar" id="z3EVDZ2t9cg" >}}
-
 
 Alborghetti é um grande personagem da cultura brasileira e é sempre lembrado quando alguém está ensandecido, louco de raiva, “pistola”.
 

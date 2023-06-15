@@ -1,11 +1,11 @@
 ---
-title: "Como praticar a resiliência no dia a dia?"
+title: 'Como praticar a resiliência no dia a dia?'
 date: 2019-06-13
-image : "/blog/homem-com-os-bra_os-abertos-sobre-a-montanha-que-sabe-como-praticar-a-resili_ncia.jpg"
-categories: ["Cotidiano"]
-description: "Ser resiliente significa ser capaz de se adaptar e se recuperar quando algo difícil acontece. Quer aprender como fazer isso? Então leia este post!"
+image: '/blog/homem-com-os-bra_os-abertos-sobre-a-montanha-que-sabe-como-praticar-a-resili_ncia.jpg'
+categories: ['Cotidiano']
+description: 'Ser resiliente significa ser capaz de se adaptar e se recuperar quando algo difícil acontece. Quer aprender como fazer isso? Então leia este post!'
 draft: false
-type: "post"
+type: 'post'
 ---
 
 Ser resiliente significa ser capaz de se adaptar e se **recuperar quando algo difícil acontece**, como um trauma ou uma experiência dolorosa. Aquelas pessoas que sabem como praticar a resiliência não ficam muito tempo lamentando o [fracasso](/como-superar-o-sentimento-de-fracasso/). Elas reconhecem a situação, aprendem com seus erros e depois **seguem em frente**.

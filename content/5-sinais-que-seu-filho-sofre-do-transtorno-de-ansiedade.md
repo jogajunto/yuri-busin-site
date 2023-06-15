@@ -1,11 +1,11 @@
 ---
-title: "5 sinais que seu filho sofre do transtorno de ansiedade"
+title: '5 sinais que seu filho sofre do transtorno de ansiedade'
 date: 2017-10-15
-image : "/blog/A5D18D08-5619-4020-982E-694150234FC0.jpeg"
-categories: ["Cotidiano"]
-description: "Filho ansiedade?O transtorno de ansiedade está se tornando cada vez mais comum, principalmente na vida de crianças e jovens. Segundo estudo publicado..."
+image: '/blog/A5D18D08-5619-4020-982E-694150234FC0.jpeg'
+categories: ['Cotidiano']
+description: 'Filho ansiedade?O transtorno de ansiedade está se tornando cada vez mais comum, principalmente na vida de crianças e jovens. Segundo estudo publicado...'
 draft: false
-type: "post"
+type: 'post'
 ---
 
 O transtorno de ansiedade está se tornando cada vez mais comum, principalmente na vida de crianças e jovens. Segundo estudo publicado no [Psychology Today](https://www.psychologytoday.com/blog/theory-knowledge/201402/the-college-student-mental-health-crisis), o professor de psicologia Gregg Henriques, da James Madison University, apontou que entre um quarto e um terço dos estudantes universitários satisfaz os critérios de um diagnóstico de ansiedade ou depressão.

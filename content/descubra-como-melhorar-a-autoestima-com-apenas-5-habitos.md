@@ -12,14 +12,6 @@ date: 2021-08-11T13:22:33.270Z
 draft: false
 ---
 
-
-
-
-
-
-
-
-
 A [autoestima](https://yuribusin.com.br/como-aumentar-a-autoestima/) é algo volátil. Tem dias que nos sentimos confiantes, dispostos e aptos a fazer qualquer coisa que venha à cabeça. Outras vezes, precisamos de alguns conselhos sobre como nos sentirmos melhor conosco mesmos.
 
 Para diminuir essa flutuação, temos que fazer um esforço consciente para corrigir nossos pensamentos para nos sentirmos bem com nós mesmos.
@@ -79,5 +71,3 @@ Pessoas com autoestima elevada estão plenamente conscientes de seus defeitos, e
 Por isso, se esforce pela excelência, mas não pela ilusória perfeição, e desfrute da sensação de saber que está fazendo o seu melhor.
 
 **Gostou destas dicas de como melhorar a autoestima? Se quiser receber um feedback mais personalizado, experimente** **[passar por uma consulta comigo](https://yuribusin.com.br/contato/). Ficarei feliz em ajudar você na sua jornada de autoconhecimento.**
-
-

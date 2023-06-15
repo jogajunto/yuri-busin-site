@@ -11,14 +11,6 @@ date: 2020-10-20T11:53:32.042Z
 draft: false
 ---
 
-
-
-
-
-
-
-
-
 Geralmente, quem deseja **emagrecer** passa por um processo longo que nem sempre é fácil. São dietas, remédios, adoção de uma rotina de atividades físicas, entre outros hábitos, mas que muitas vezes são abandonados ao longo do caminho.
 
 Isso pode acabar gerando uma série de transtornos à [saúde mental](https://yuribusin.com.br/12-dicas-saude-mental-quarentena/), como baixa autoestima, ansiedade e sentimentos de inferioridade devido ao resultado não alcançado.
@@ -62,5 +54,3 @@ Emagrecer depressa é uma promessa dos tratamentos “milagrosos”, mas que nun
 Então, se você decidiu aderir à psicoterapia para um **emagrecimento saudável**, não deixe de consultar um profissional especializado, que indicará a melhor forma de tratar o seu caso.
 
 **Para marcar a sua consulta e resolver de uma vez por todas o dilema de como emagrecer, [clique aqui](https://yuribusin.com.br/contato/)!**
-
-

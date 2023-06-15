@@ -12,14 +12,6 @@ date: 2022-06-07T12:46:56.937Z
 draft: false
 ---
 
-
-
-
-
-
-
-
-
 O transtorno depressivo persistente, também chamado de distimia, é um diagnóstico relativamente novo que se caracteriza por uma depressão leve, mas persistente.
 
 Como os outros tipos de [depressão](https://yuribusin.com.br/8-sintomas-de-depressao-que-voce-precisa-reconhecer/), as pessoas com distimia podem experimentar sentimentos de profunda tristeza e desesperança. Embora esses sintomas estejam presentes em todas as formas de depressão, na distimia eles podem persistir por muitos anos.
@@ -82,5 +74,3 @@ Mesmo pequenas mudanças podem fazer a diferença no humor e mentalidade da pess
 **[Se você acredita que sofre de distimia, entre em contato comigo](https://instagram.com/dryuribusin).**
 
 **Me siga no Instagram [@dryuribusin](https://instagram.com/dryuribusin).**
-
-

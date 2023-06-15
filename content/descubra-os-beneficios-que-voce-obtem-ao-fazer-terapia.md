@@ -13,14 +13,6 @@ date: 2021-06-23T15:38:21.438Z
 draft: false
 ---
 
-
-
-
-
-
-
-
-
 Existem muitos motivos que podem motivar uma pessoa a [fazer terapia](https://www.google.com/url?client=internal-element-cse&cx=013413282715532661870:5z8llcwtwhy&q=https://yuribusin.com.br/quais-os-beneficios-da-terapia-cognitiva-comportamental/&sa=U&ved=2ahUKEwjrkZy-uKLxAhUUqJUCHSo9BngQFjAAegQIBBAC&usg=AOvVaw2-sEhUiKV-7DvbA3StGyKo).
 
 Na lista estão crises em relacionamentos ou no trabalho, um longo período de ansiedade ou depressão, bem como a experiência de se lidar com uma grande transição de vida.
@@ -88,5 +80,3 @@ Diante da imparcialidade do psicólogo, você poderá explorar padrões de pensa
 Além disso, você receberá aconselhamento para desenvolver estratégias de enfrentamento para diferentes situações.
 
 **E então, está preparado para colher os benefícios de fazer terapia com um psicólogo e obter uma melhor qualidade de vida? [Marque agora mesmo a sua consulta](https://yuribusin.com.br/contato/).**
-
-

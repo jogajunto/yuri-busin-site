@@ -1,11 +1,11 @@
 ---
-title: "O que é a dismorfofobia e as suas consequências"
+title: 'O que é a dismorfofobia e as suas consequências'
 date: 2020-04-27
-image : "/blog/o-que-_-a-dismorfofobia-e-as-suas-consequ_ncias.jpg"
-categories: ["Cotidiano"]
-description: "Esse distúrbio não escolhe raça, cor e nem sexo. Saiba mais sobre ele clicando aqui!"
+image: '/blog/o-que-_-a-dismorfofobia-e-as-suas-consequ_ncias.jpg'
+categories: ['Cotidiano']
+description: 'Esse distúrbio não escolhe raça, cor e nem sexo. Saiba mais sobre ele clicando aqui!'
 draft: false
-type: "post"
+type: 'post'
 ---
 
 Você sabia que, aproximadamente, 2% da população brasileira sofre de **dismorfofobia**? Esse transtorno dismórfico corporal (TDC) nada mais é do que uma percepção distorcida que a pessoa tem da sua imagem ao olhar no espelho.

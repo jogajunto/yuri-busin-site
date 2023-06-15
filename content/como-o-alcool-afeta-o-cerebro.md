@@ -1,11 +1,11 @@
 ---
-title: "Como o álcool afeta o cérebro?"
+title: 'Como o álcool afeta o cérebro?'
 date: 2020-03-23
-image : "/blog/como-o-_lcool-afeta-o-c_rebro.jpg"
-categories: ["Cotidiano"]
-description: "Para saber mais detalhes sobre como as bebidas alcoólicas podem afetar o seu cérebro, continue a leitura!"
+image: '/blog/como-o-_lcool-afeta-o-c_rebro.jpg'
+categories: ['Cotidiano']
+description: 'Para saber mais detalhes sobre como as bebidas alcoólicas podem afetar o seu cérebro, continue a leitura!'
 draft: false
-type: "post"
+type: 'post'
 ---
 
 Dificuldade para caminhar, visão turva, fala arrastada, tempos de reação lentos, memória prejudicada. Sem dúvidas, o álcool afeta o [cérebro](/entendendo-o-cerebro-para-sair-bem-nas-fotos/).
@@ -38,7 +38,7 @@ Já em 0,25 mg/l tem início a intoxicação do organismo por álcool, com todas
 
 ## **Quais os efeitos para a saúde mental?**
 
-O **uso constante do álcool** pode causar danos duradouros ao cérebro, levando a problemas de saúde mental, como depressão e ansiedade. 
+O **uso constante do álcool** pode causar danos duradouros ao cérebro, levando a problemas de saúde mental, como depressão e ansiedade.
 
 Acontece que o hábito de beber ajuda a aliviar temporariamente justamente os sentimentos de depressão e ansiedade. Com isso, as pessoas costumam utilizar as bebidas como uma forma de **automedicação**, na tentativa de se animar, o que pode levar à dependência e ao [vício](/drogas-e-seus-vicios-sociais/).
 

@@ -10,8 +10,6 @@ date: 2022-06-27T22:39:14.585Z
 draft: false
 ---
 
-
-
 Muita gente não sabe, mas enxaqueca não é uma simples dor de cabeça. Ela é uma doença neurológica séria que pode, até mesmo, deixar uma pessoa acamada por vários dias.
 
 Geralmente, o movimento, a luz ou o som são grandes gatilhos para gerar os sintomas da enxaqueca nas pessoas que sofrem da condição, o que inclui dor, cansaço, náusea, irritabilidade, formigamento, dormência, entre outros.
@@ -43,5 +41,3 @@ Portanto, além do tratamento neurológico, é importante que o paciente também
 O psicólogo clínico também ajudará o paciente a lidar com o impacto emocional de viver com a condição de dor de cabeça. O objetivo aqui é identificar fatores que possam servir como alvos de tratamento para diminuir a frequência da enxaqueca, além de reduzir a incapacidade relacionada à doença.
 
 [Se você está procurando ajuda para amenizar e prevenir a enxaqueca, entre em contato comigo, por meio do meu Instagram.](https://www.instagram.com/dryuribusin/)
-
-

@@ -12,14 +12,6 @@ date: 2021-10-19T14:27:45.303Z
 draft: false
 ---
 
-
-
-
-
-
-
-
-
 Os humanos são criaturas sociais e, portanto, são propensos a buscar formas de socializar, principalmente quando o assunto é relacionamento amoroso.
 
 A busca por um companheiro está enraizada em nossa cultura e é reforçada constantemente e ao extremo por nossos amigos e familiares, assim como na TV, no cinema ou nas redes sociais. É quase uma obrigação social você ter um namorado ou marido.
@@ -55,5 +47,3 @@ Dessa forma, aproveite esse tempo solteira para ser egoísta e fazer o que é im
 Não há problema em se concentrar em si mesmo. Embora você possa se sentir pressionada a estar em um relacionamento amoroso, não está perdendo seu tempo ao se dedicar a si mesmo.
 
 **Se você quer ficar por dentro de mais dicas de bem-estar como estas, experimente seguir agora mesmo o meu perfil no Instagram [@dryuribusin](https://www.instagram.com/dryuribusin/)!**
-
-

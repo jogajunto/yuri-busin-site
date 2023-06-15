@@ -12,14 +12,6 @@ date: 2022-03-14T11:59:55.089Z
 draft: false
 ---
 
-
-
-
-
-
-
-
-
 É comum as pessoas dizerem que a inveja tem um lado positivo, argumentando que ela pode ser um impulso para ter motivação para progredir. Ou seja, se alguém tem uma casa maior ou um conjunto de roupas mais bonitas, sentir inveja poderia - em tese - ajudar alguém a se motivar para preencher essa lacuna.
 
 A verdade é que sentir inveja pela aparência, talentos, relacionamentos e contas bancárias de outras pessoas não oferece nenhuma contribuição positiva para nossas vidas.
@@ -59,5 +51,3 @@ Além disso, experimente passar algum tempo com pessoas gratas. A gratidão é a
 Com o tempo, você será uma pessoa genuína, grata e feliz, ao ponto de comemorar o sucesso de outras pessoas sem qualquer sentimento de inveja.
 
 [Se gostou deste texto, siga o meu perfil no Instagram para mais conteúdos como este!](https://www.instagram.com/dryuribusin/) [@dryuribusin](https://www.instagram.com/dryuribusin/)
-
-

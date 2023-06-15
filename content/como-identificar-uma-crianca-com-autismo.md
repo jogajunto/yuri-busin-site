@@ -11,14 +11,6 @@ date: 2020-11-25T20:38:47.734Z
 draft: false
 ---
 
-
-
-
-
-
-
-
-
 Quando falamos de crianças com autismo falamos também de heterogeneidade. Como assim?
 
 Explico! É preciso, já de antemão, deixar claro que nem todas as crianças irão se comportar de forma similar. Cada uma se expressará por meio de sua complexidade. Por isso, o diagnóstico preciso deverá ser **sempre feito por um psicólogo**.

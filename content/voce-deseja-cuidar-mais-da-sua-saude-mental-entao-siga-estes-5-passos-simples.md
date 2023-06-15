@@ -11,14 +11,6 @@ date: 2021-07-20T12:11:36.739Z
 draft: false
 ---
 
-
-
-
-
-
-
-
-
 Assim como a saúde física, também é preciso cuidar da [saúde mental](https://yuribusin.com.br/os-riscos-do-sedentarismo-para-a-saude-mental/).
 
 Muita gente está disposta a pagar caro para ter uma boa aparência ou apresentar um bom porte físico, mas não investem em resolver uma falta de autoestima ou reduzir o estresse do dia a dia.
@@ -90,5 +82,3 @@ O profissional estará apto a te escutar sem qualquer julgamento e aconselhar na
 Seja no modelo presencial ou online, não deixe de procurar a terapia quando você achar que sua saúde mental não vai bem.
 
 **Por isso, se você gostaria de dar um impulso na sua saúde mental, não deixe de marcar uma consulta comigo, [clicando aqui](https://yuribusin.com.br/contato/).**
-
-

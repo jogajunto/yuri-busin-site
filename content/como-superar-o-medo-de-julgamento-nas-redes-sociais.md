@@ -13,14 +13,6 @@ date: 2022-12-06T12:37:40.252Z
 draft: false
 ---
 
-
-
-
-
-
-
-
-
 Você já se sentiu insegura ao falar sobre o que faz da vida? Ou preocupada que todos pensem que você é uma fraude?
 
 É normal se preocupar com o que as pessoas pensam de você e como elas o vêem, porque, no fundo, queremos pertencer a um determinado grupo. Afinal, somos criaturas sociais.
@@ -50,5 +42,3 @@ Entenda: você não pode (e não precisa) ser uma presença importante e transfo
 Não se leve muito a sério, seja mais voluntário para novidades e aja com humildade. Com isso, você colherá mais felicidade, segurança e sucesso em sua vida.
 
 **Para mais dicas de saúde mental, visite o meu perfil no Instagram, [@dryuribusin](https://www.instagram.com/dryuribusin/) !**
-
-

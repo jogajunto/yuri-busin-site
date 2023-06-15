@@ -1,11 +1,11 @@
 ---
-title: "Como lidar com a chantagem emocional?"
+title: 'Como lidar com a chantagem emocional?'
 date: 2020-01-16
-image : "/blog/casal-contra-luz-com-parceiro-fazendo-chantagem-emocional.jpg"
-categories: ["Cotidiano"]
-description: "Neste artigo, você vai entender mais sobre esse padrão tóxico de manipulação e como lidar com a chantagem emocional."
+image: '/blog/casal-contra-luz-com-parceiro-fazendo-chantagem-emocional.jpg'
+categories: ['Cotidiano']
+description: 'Neste artigo, você vai entender mais sobre esse padrão tóxico de manipulação e como lidar com a chantagem emocional.'
 draft: false
-type: "post"
+type: 'post'
 ---
 
 A chantagem emocional tem a ver com **manipulação**. É uma forma poderosa de envolver uma pessoa numa esfera de medo, obrigação e culpa.

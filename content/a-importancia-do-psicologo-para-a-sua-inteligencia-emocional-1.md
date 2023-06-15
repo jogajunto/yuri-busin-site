@@ -11,14 +11,6 @@ date: 2020-12-24T12:35:09.515Z
 draft: false
 ---
 
-
-
-
-
-
-
-
-
 Na inteligência é a mesma coisa: existe a inteligência mais objetiva, a mais subjetiva, artística e, claro, a [inteligência emocional](https://yuribusin.com.br/desenvolver-inteligencia-emocional/).
 
 Mas é possível desenvolver essa ferramenta importante com treinos e reflexão? Sim, mas será necessária uma mudança de dentro para fora.
@@ -74,5 +66,3 @@ Por fim, desenvolver inteligência emocional, principalmente com a ajuda de um p
 Problemas como ansiedade podem diminuir, a comunicação ficará melhor e os relacionamentos mais fáceis. E, claro, as metas serão alcançadas com mais tranquilidade, felicidade e menos cobrança.
 
 **E você, está precisando de ajuda psicológica para melhorar a sua inteligência emocional? [Marque agora a sua consulta](https://yuribusin.com.br/contato/).**
-
-

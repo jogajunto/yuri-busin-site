@@ -12,14 +12,6 @@ date: 2021-06-23T15:41:50.926Z
 draft: false
 ---
 
-
-
-
-
-
-
-
-
 A [pandemia da Covid-19](https://yuribusin.com.br/como-lidar-com-a-histeria-coletiva-por-conta-da-covid-19/) gerou um grande efeito negativo na vida das pessoas.
 
 Durante a crise sanitária, todos tiveram que adotar novos hábitos, mas nada se compara ao desafio de viver isolado e solitário, algo com potencial para aumentar os sintomas de estresse e ansiedade.
@@ -81,5 +73,3 @@ Se você está sentindo sintomas de depressão procure ajuda profissional.
 E, mesmo que você não esteja enfrentando um transtorno mental,  o psicólogo pode lhe auxiliar a lidar com a pandemia da melhor forma possível.
 
 **E então, que tal experimentar a terapia online, afastando o perigo de uma depressão na pandemia. [Marque a sua consulta clicando aqui](https://yuribusin.com.br/contato/).**
-
-

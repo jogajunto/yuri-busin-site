@@ -12,14 +12,6 @@ date: 2021-02-24T12:24:14.313Z
 draft: false
 ---
 
-
-
-
-
-
-
-
-
 Muitas pessoas enfrentam nervosismo, agitação, tensão, dor no peito e estresse de forma crônica e nem suspeitam que precisam de **tratamento para a ansiedade**.
 
 Na verdade, a ansiedade é uma resposta natural a eventos estressantes da vida, como perdas de entes queridos, mudanças de carreira ou problemas financeiros, por exemplo.
@@ -73,5 +65,3 @@ Pesquisas demonstraram que este tratamento também pode ser utilizado por quem s
 Dessa forma, a terapia com psicólogo como tratamento para ansiedade é a maneira mais eficaz de resolver a situação e ter uma melhor qualidade de vida.
 
 **Portanto, se você quer controlar uma crise de ansiedade, parar de pensamentos preocupantes e vencer seus medos, [entre em contato e veja como a terapia pode ajudar](https://yuribusin.com.br/contato/).**
-
-

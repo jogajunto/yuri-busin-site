@@ -1,11 +1,11 @@
 ---
-title: "Devo tomar uma decisão baseada na emoção ou na razão?"
+title: 'Devo tomar uma decisão baseada na emoção ou na razão?'
 date: 2018-11-13
-image : "/blog/tomar-uma-decis_o-baseada-na-emo__o-ou-na-raz_o.jpeg"
-categories: ["Cotidiano"]
-description: "Neste artigo, você conhecerá mais sobre o antagonismo entre os pensamentos lógico e emocional e como deve tomar suas decisões. Vamos lá?"
+image: '/blog/tomar-uma-decis_o-baseada-na-emo__o-ou-na-raz_o.jpeg'
+categories: ['Cotidiano']
+description: 'Neste artigo, você conhecerá mais sobre o antagonismo entre os pensamentos lógico e emocional e como deve tomar suas decisões. Vamos lá?'
 draft: false
-type: "post"
+type: 'post'
 ---
 
 O debate entre tomar uma decisão baseada na emoção ou na razão é antigo. Platão descreveu a emoção e a razão como dois cavalos nos puxando em direções opostas.
@@ -15,8 +15,6 @@ Muitas vezes a tomada de decisão parece uma grande aposta. Ao decidir sobre met
 Por outro lado, pensar demais, analisando estrategicamente cada ponto de nossos objetivos futuros pode fazer com que você fique inerte em sua posição atual, com [medo do fracasso](/como-superar-o-sentimento-de-fracasso/) e impedindo de você se arriscar. Por isso, é fundamental que possamos avaliar os riscos que valem a pena — e as emoções podem nos ajudar a fazer esses julgamentos.
 
 Por isso, neste artigo, você conhecerá mais sobre o antagonismo entre os pensamentos lógico e emocional e como deve tomar suas decisões. Vamos lá?
-
- 
 
 ## As diferenças entre os pensamentos lógico e emocional
 
@@ -32,11 +30,7 @@ No pensamento emocional você não precisa considerar todos os fatores. O céreb
 
 Por isso, muitas vezes essas decisões emocionais são ocultadas por preconceitos pessoais. E se é apenas um preconceito, você não deve deixar esse fator afetar sua tomada de decisão.
 
- 
-
 ## E então, você deve tomar uma decisão com base na emoção ou na razão?
-
- 
 
 Use ambos! Por quê? Porque tanto a lógica quanto as emoções têm os seus prós e contras.
 
@@ -51,7 +45,5 @@ Quando se trata de assuntos como amizades, relacionamentos ou qualquer coisa que
 Mas para a maioria das outras situações, em que os ganhos emocionais não são muito importantes, como no cenário profissional, por exemplo, dê prioridade à lógica, mas também considere as suas emoções.
 
 De fato, sem emoção, os humanos seriam incapazes de tomar qualquer decisão. O mesmo vale para a lógica. As emoções podem ser imprevisíveis, pessoais e frustrantes, mas, seja na emoção ou não razão, elas são mais poderosas quando trabalhadas em conjunto.
-
- 
 
 **E então, como você tem tomado suas decisões? Pela emoção ou na razão? Compartilhe sua mensagem nos comentários e até a próxima!**

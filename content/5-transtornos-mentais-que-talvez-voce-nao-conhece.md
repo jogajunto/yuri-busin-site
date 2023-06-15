@@ -1,11 +1,11 @@
 ---
-title: "5 transtornos mentais que, talvez, você não conhece"
+title: '5 transtornos mentais que, talvez, você não conhece'
 date: 2019-06-24
-image : "/blog/menino-com-a-m_o-no-rosto-sofrendo-de-transtornos-mentais.jpg"
-categories: ["Saúde"]
-description: "Neste artigo, trago exemplos de doenças que não são muito conhecidas do público, mas que afetam a qualidade de vida de uma pessoa. Acompanhe a lista!"
+image: '/blog/menino-com-a-m_o-no-rosto-sofrendo-de-transtornos-mentais.jpg'
+categories: ['Saúde']
+description: 'Neste artigo, trago exemplos de doenças que não são muito conhecidas do público, mas que afetam a qualidade de vida de uma pessoa. Acompanhe a lista!'
 draft: false
-type: "post"
+type: 'post'
 ---
 
 Segundo a Organização Mundial da Saúde (OMS), [23 milhões de brasileiros](http://www.brasil.gov.br/noticias/saude/2010/06/transtornos-mentais-atingem-23-milhoes-de-pessoas-no-brasil) apresentam os sintomas de algum tipo de transtorno mental. Embora apenas uma pequena porcentagem dessas pessoas seja forçada a viver com transtornos mentais mais raros, todos precisam de um tratamento adequado.

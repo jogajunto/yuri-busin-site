@@ -13,14 +13,6 @@ date: 2021-12-22T10:45:24.733Z
 draft: false
 ---
 
-
-
-
-
-
-
-
-
 O transtorno da compulsão alimentar é uma condição bastante comum, no qual o indivíduo experimenta episódios de consumo de grandes quantidades de alimentos. Geralmente, esse transtorno também vem acompanhado da sensação de perda de controle durante a compulsão, além da culpa e da vergonha.
 
 Os riscos deste transtorno vão muito além da obesidade. A pessoa pode desenvolver diabetes, doenças cardíacas, alterações na vesícula biliar, entre outros.
@@ -64,5 +56,3 @@ Embora as dicas acima possam ser úteis, muitas vezes é necessário um plano de
 A [terapia cognitivo-comportamental](https://yuribusin.com.br/como-funciona-a-terapia-cognitiva-comportamental/), a forma mais eficaz de terapia, explora a conexão entre seus pensamentos, sentimentos e padrões alimentares e, em seguida, desenvolve estratégias para modificar seu comportamento e resolver o problema de uma vez por todas.
 
 **Tem Instagram? Que tal seguir o meu perfil no Instagram [@dryuribusin](https://www.instagram.com/dryuribusin/) e receber mais dicas de psicologia?**
-
-

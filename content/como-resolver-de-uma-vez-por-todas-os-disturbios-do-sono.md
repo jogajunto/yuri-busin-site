@@ -13,14 +13,6 @@ date: 2022-06-07T12:42:19.139Z
 draft: false
 ---
 
-
-
-
-
-
-
-
-
 Todos os dias, milhões de pessoas sofrem de distúrbios do sono. As razões para isso são muitas: trabalho, tarefas domésticas, bebês, preocupações, festas, televisão tarde da noite ou [uso excessivo do celular](https://yuribusin.com.br/como-o-uso-excessivo-do-celular-pode-afetar-sua-vida-negativamente/) são apenas alguns exemplos.
 
 Independentemente do motivo, a perda de sono afeta a vida das pessoas não apenas fisicamente, mas também mentalmente. Sem dormir adequadamente, a pessoa sofre com alterações de humor, energia, memória e concentração.
@@ -72,5 +64,3 @@ Se mesmo depois dessas dicas você ainda enfrenta problemas para dormir, conside
 Além disso, a terapia pode fornecer informações adequadas sobre higiene do sono, ajudar a definir metas razoáveis para conseguir dormir, entre outras coisas.
 
 **Se tiver interesse em marcar uma consulta, entre em contato comigo por meio do meu perfil no Instagram [@dryuribusin](https://www.instagram.com/dryuribusin/). Será um prazer ajudá-lo.**
-
-

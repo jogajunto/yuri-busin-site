@@ -1,11 +1,11 @@
 ---
-title: "Ansiedade social: o que é e como pode te prejudicar"
+title: 'Ansiedade social: o que é e como pode te prejudicar'
 date: 2019-09-27
-image : "/blog/menina-escondida-sofrendo-de-ansiedade-social.jpg"
-categories: ["Cotidiano"]
-description: "É possível aprender a se sentir confortável em interações sociais e recuperar o controle sobre sua vida. Continue a leitura para saber como!"
+image: '/blog/menina-escondida-sofrendo-de-ansiedade-social.jpg'
+categories: ['Cotidiano']
+description: 'É possível aprender a se sentir confortável em interações sociais e recuperar o controle sobre sua vida. Continue a leitura para saber como!'
 draft: false
-type: "post"
+type: 'post'
 ---
 
 É muito comum que as pessoas fiquem **nervosas ou constrangidas** de vez em quando, como ao fazer um discurso ou passar por uma entrevista de emprego. Mas o transtorno de ansiedade social, também conhecida como fobia social, é mais do que apenas uma timidez temporária.

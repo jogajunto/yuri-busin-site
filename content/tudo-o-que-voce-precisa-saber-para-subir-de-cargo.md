@@ -11,14 +11,6 @@ date: 2021-07-20T12:09:11.615Z
 draft: false
 ---
 
-
-
-
-
-
-
-
-
 Se você já está no mesmo emprego há algum tempo, talvez esteja na hora de pensar na possibilidade de **subir de cargo**.
 
 Muitos esperam que a sonhada promoção de carreira venha de forma automática, presumindo que a empresa vai oferecê-la como uma forma de bônus por tantos anos de trabalho.
@@ -82,5 +74,3 @@ Além disso, seu desempenho profissional deve mostrar que você já domina sua f
 É difícil, mas você precisa estar continuamente **motivado** para manter o esforço necessário para permanecer na direção certa para a almejada promoção.
 
 **Porém, se você está tendo dificuldade para lidar com a pressão ou não está precisando de ajuda para melhorar as suas habilidades sociais, [experimente marcar uma consulta comigo](https://yuribusin.com.br/contato/).**
-
-

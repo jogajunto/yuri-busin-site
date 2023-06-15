@@ -12,14 +12,6 @@ date: 2020-10-23T12:10:47.932Z
 draft: false
 ---
 
-
-
-
-
-
-
-
-
 A técnica do **mindfulness**, também conhecida como "atenção plena", já se tornou tendência entre executivos, empresários, palestrantes, estudantes e personalidades. Ela é conhecida por ajudar a executar plenamente as suas atividades. Mas afinal do que se trata?
 
 Para você compreender melhor, mindfulness  é um dos estágios naturais de nossa mente. Assim, a técnica é uma **meditação** que ajuda a mente a ficar 100% focada em determinado objetivo.
@@ -88,5 +80,3 @@ Por absorver tantas informações ao longo do dia, o cérebro precisa de pausas 
 Como você pode ver, a técnica mindfulness é uma grande fonte de **benefícios** para a sua concentração e saúde mental. Com essas dicas, esperamos ter ajudado você a entender melhor a técnica para praticá-la!
 
 **Agora, se você quer potencializar o seu mindfulness por meio da Psicologia da Atenção Plena, [marque agora mesmo uma consulta](https://yuribusin.com.br/contato/)**
-
-

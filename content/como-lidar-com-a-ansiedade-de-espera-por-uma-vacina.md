@@ -11,14 +11,6 @@ date: 2021-02-24T12:18:31.308Z
 draft: false
 ---
 
-
-
-
-
-
-
-
-
 Após quase um ano de espera por uma **vacina**, o mundo começa a imunizar a população para conter a pandemia da Covid-19.
 
 Para alguns, principalmente profissionais de saúde e idosos, a vacina para o novo coronavírus já foi aplicada, enquanto para outros ainda existe uma longa lista de espera, podendo se prolongar por meses pela frente.
@@ -104,5 +96,3 @@ Por mais que muitas pessoas estejam preocupadas com a saúde física durante a q
 Portanto, reconheça a maneira como você se sente agora e, se precisar, **busque ajuda**.
 
 **Para aconselhamento psicológico online, você pode me encontrar [clicando aqui!](https://yuribusin.com.br/contato/)**
-
-

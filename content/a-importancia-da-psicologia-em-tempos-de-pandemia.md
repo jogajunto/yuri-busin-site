@@ -10,8 +10,6 @@ date: 2022-06-21T21:23:01.895Z
 draft: false
 ---
 
-
-
 Em tempos de medo e incerteza, quando as pessoas sentem suas existências ameaçadas, muitos acreditam que a [saúde mental](https://yuribusin.com.br/os-riscos-do-sedentarismo-para-a-saude-mental/) não é uma prioridade.
 
 A verdade é que a chave para sobreviver a esta pandemia e tudo o que ela implica a curto, médio e longo prazo, está na alfabetização em saúde mental.
@@ -49,5 +47,3 @@ Os psicanalistas e [psicólogos comportamentais](https://yuribusin.com.br/) pode
 Por isso, se queremos reconstruir a nossa sociedade no pós-pandemia, a minha esperança é que possamos continuar a nos unir como sociedade e manter nosso esforço pelo bem-estar mental de todos.
 
 [Para acompanhar o meu trabalho, siga o meu perfil no Instagram!](https://www.instagram.com/dryuribusin/)
-
-

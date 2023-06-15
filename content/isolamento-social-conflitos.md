@@ -13,14 +13,6 @@ date: 2020-09-25T17:09:05.910Z
 draft: false
 ---
 
-
-
-
-
-
-
-
-
 Com a chegada do [Covid-19](https://yuribusin.com.br/12-dicas-saude-mental-quarentena/), uma nova realidade se instalou nas casas pelo mundo afora. Por conta do isolamento social é comum que o convívio seja mais intenso e, consequentemente, as famílias tenham de resolver conflitos constantemente.
 
 Uma prova viva de que não é fácil é o dado recente dos Cartórios. De acordo com essas Instituições, os registros de divórcios aumentaram 18,7% devido à pandemia.
@@ -58,5 +50,3 @@ O que também pode auxiliar em tempos de [quarentena](https://yuribusin.com.br/c
 Tudo tem o lado bom e, às vezes, ser obrigado a resolver conflitos de última hora traz mais benefícios do que se imagina. Veja o que é eficaz com os seus bens maiores e tenha em mente que tudo vai passar.
 
 **[Marque agora mesmo a sua consulta](https://yuribusin.com.br/contato/) e comece a resolver os seus conflitos durante o isolamento social.**
-
-

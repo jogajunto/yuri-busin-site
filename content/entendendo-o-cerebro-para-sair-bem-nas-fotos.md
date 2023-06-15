@@ -1,11 +1,11 @@
 ---
-title: "Entendendo o cérebro para sair bem nas fotos!"
+title: 'Entendendo o cérebro para sair bem nas fotos!'
 date: 2015-10-02
-image : "/blog/ImageResizer.net-ew3kikhep9wuof5.jpg"
-categories: ["Cotidiano"]
-description:   "Um dos temas mais recorrentes na nossa vida são as emoções, difíceis de serem controladas, mas sempre nos fazem sentir vivo. "
+image: '/blog/ImageResizer.net-ew3kikhep9wuof5.jpg'
+categories: ['Cotidiano']
+description: 'Um dos temas mais recorrentes na nossa vida são as emoções, difíceis de serem controladas, mas sempre nos fazem sentir vivo. '
 draft: false
-type: "post"
+type: 'post'
 ---
 
 Melhores ângulos em uma foto ou filmagem pode ser uma questão científica, vocês já pararam para reparar que geralmente os apresentadores de talk shows ficam do lado direito da tela, como por exemplo Jô Soares? Hummm, vamos começar do básico:

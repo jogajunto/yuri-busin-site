@@ -1,11 +1,11 @@
 ---
-title: "Tristeza ou depressão? Como diferenciar uma da outra?"
+title: 'Tristeza ou depressão? Como diferenciar uma da outra?'
 date: 2019-09-24
-image : "/blog/mulher-chorando-em-d_vida-se-_-tristeza-ou-depress_o.jpg"
-categories: ["Cotidiano"]
-description: "Neste artigo, você descobrirá o que está por trás dos conceitos e como separar facilmente tristeza e depressão. Confira!"
+image: '/blog/mulher-chorando-em-d_vida-se-_-tristeza-ou-depress_o.jpg'
+categories: ['Cotidiano']
+description: 'Neste artigo, você descobrirá o que está por trás dos conceitos e como separar facilmente tristeza e depressão. Confira!'
 draft: false
-type: "post"
+type: 'post'
 ---
 
 Sentimentos de tristeza, desespero e solidão são emoções normais que todos os seres humanos experimentam em algum momento de suas vidas. No entanto, para muitos, é difícil reconhecer se alguém está apenas triste ou, na verdade, está com depressão. Tristeza ou [depressão](/8-sintomas-de-depressao-que-voce-precisa-reconhecer/) são confundidas a todo momento, mesmo que haja **sintomas distintos entre elas**.
@@ -42,7 +42,7 @@ Na **depressão moderada**, o humor é baixo e consistente ao longo do dia, embo
 
 Normalmente, indivíduos tristes tendem a aceitar ajuda e apoio de outros, enquanto pessoas com depressão se afastam e se isolam. Segundo [pesquisa do Ibope](https://veja.abril.com.br/saude/brasileiro-ainda-sabe-pouco-sobre-depressao-revela-ibope/), mais da metade das pessoas entre 24 e 35 anos teriam vergonha de revelar o diagnóstico para seus familiares.
 
-Além disso, os depressivos podem experimentar sentimentos de desesperança, autopunitivos e até [suicidas](/prevencao-ao-suicidio-como-o-psicologo-pode-ajudar/). 
+Além disso, os depressivos podem experimentar sentimentos de desesperança, autopunitivos e até [suicidas](/prevencao-ao-suicidio-como-o-psicologo-pode-ajudar/).
 
 Concluindo, sentimentos de desespero, solidão e infelicidade geral são confundidas erroneamente entre tristeza ou depressão. É importante avaliar as diferenças acima e perceber que a depressão é uma doença grave que precisa ser tratada adequadamente, enquanto a tristeza é apenas um período emocional que passará com o tempo.
 

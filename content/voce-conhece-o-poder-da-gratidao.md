@@ -1,11 +1,11 @@
 ---
-title: "Você conhece o poder da gratidão?"
+title: 'Você conhece o poder da gratidão?'
 date: 2019-06-04
-image : "/blog/pessoa-com-os-bra_os-abertos-acreditando-no-poder-da-gratid_o.jpg"
-categories: ["Cotidiano"]
-description: "O poder da gratidão é uma das melhores maneiras para encontrar sucesso, satisfação e felicidade nos dias atuais. Para saber mais, leia meu mais novo artigo!"
+image: '/blog/pessoa-com-os-bra_os-abertos-acreditando-no-poder-da-gratid_o.jpg'
+categories: ['Cotidiano']
+description: 'O poder da gratidão é uma das melhores maneiras para encontrar sucesso, satisfação e felicidade nos dias atuais. Para saber mais, leia meu mais novo artigo!'
 draft: false
-type: "post"
+type: 'post'
 ---
 
 O **poder da gratidão** é uma das melhores maneiras para encontrar sucesso, satisfação e felicidade nos dias atuais. Quando se aprende a apreciar a vida, em todos os seus aspectos, é possível fazer uma reflexão sobre quem a pessoa é, o que é importante em sua jornada e o que a motiva a levantar da cama todos os dias.

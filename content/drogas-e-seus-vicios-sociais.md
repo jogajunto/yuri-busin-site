@@ -1,13 +1,12 @@
 ---
-title: "Drogas e seus vícios sociais"
+title: 'Drogas e seus vícios sociais'
 date: 2015-09-16
-image : "/blog/drogas.jpg"
-categories: ["Cotidiano"]
-description: "Na atualidade, existem muitas pesquisas sobre as drogas, como elas agem no corpo, como elas modificam as estruturas cerebrais, como elas viciam..."
+image: '/blog/drogas.jpg'
+categories: ['Cotidiano']
+description: 'Na atualidade, existem muitas pesquisas sobre as drogas, como elas agem no corpo, como elas modificam as estruturas cerebrais, como elas viciam...'
 draft: false
-type: "post"
+type: 'post'
 ---
-
 
 Na atualidade, existem muitas pesquisas sobre as drogas, como elas agem no corpo, como elas modificam as estruturas cerebrais, como elas viciam, etc. Mas algumas pesquisas levam em conta o usuário, o qual é um dos mais prejudicados na situação, se não for o maior prejudicado (lembrando que familiares sempre sofrem juntos).
 
@@ -32,7 +31,5 @@ Esta dinâmica contempla as alterações causadas pelas drogas e, em diversos ca
 As drogas na sociedade não são algo novo e não serão extintas, sendo assim, entender melhor as dinâmicas inicias, assim como as dependências químicas e sociais, pode ser uma melhor forma de prevenção para que não se desenvolvam mais dependências químicas.
 
 Na atualidade a negação de vícios é muito forte, ouve-se com muita frequência as frases “isso não vicia”, o que pode ser o inicio de uma dependência, afinal, é importante lembrar: todo vício começou com um uso eventual.
-
- 
 
 Que tal buscar ajuda? Entre em [contato](/contato/)!

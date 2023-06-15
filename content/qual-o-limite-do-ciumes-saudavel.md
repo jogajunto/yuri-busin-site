@@ -1,11 +1,11 @@
 ---
-title: "Qual o limite do ciúmes saudável?"
+title: 'Qual o limite do ciúmes saudável?'
 date: 2018-03-04
-image : "/blog/casal-ciumes-qual-limite-do-ciumes.jpg"
-categories: ["Cotidiano"]
-description: "Em alguns casos, ela pode ser um dos principais motivos para diminuir a qualidade da relação e levá-la ao seu término."
+image: '/blog/casal-ciumes-qual-limite-do-ciumes.jpg'
+categories: ['Cotidiano']
+description: 'Em alguns casos, ela pode ser um dos principais motivos para diminuir a qualidade da relação e levá-la ao seu término.'
 draft: false
-type: "post"
+type: 'post'
 ---
 
 A insegurança pode trazer diversos problemas dentro de um relacionamento. Em alguns casos, ela pode ser um dos principais motivos para diminuir a qualidade da relação e levá-la ao seu término. Afinal, um parceiro inseguro pode ter comportamentos negativos que deterioram a convivência a dois.

@@ -1,11 +1,11 @@
 ---
-title: "Empatia: Você sabe lidar com a diversidade?"
+title: 'Empatia: Você sabe lidar com a diversidade?'
 date: 2018-03-11
-image : "/blog/empatia_maos_juntas.jpg"
-categories: ["Cotidiano"]
-description: "A empatia pode nos auxiliar a enfrentar diferentes situações, principalmente com aquelas consideradas adversas, que fogem ao nosso controle."
+image: '/blog/empatia_maos_juntas.jpg'
+categories: ['Cotidiano']
+description: 'A empatia pode nos auxiliar a enfrentar diferentes situações, principalmente com aquelas consideradas adversas, que fogem ao nosso controle.'
 draft: false
-type: "post"
+type: 'post'
 ---
 
 A empatia pode nos auxiliar a enfrentar diferentes situações, principalmente com aquelas consideradas adversas, que fogem ao nosso controle. Assim, é possível afirmar que com a empatia é possível lidar com a diversidade. Mas será que estamos fazendo isso no nosso dia a dia?

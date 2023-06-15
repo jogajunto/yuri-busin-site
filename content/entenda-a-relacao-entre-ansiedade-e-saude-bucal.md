@@ -12,14 +12,6 @@ date: 2020-11-09T12:19:50.270Z
 draft: false
 ---
 
-
-
-
-
-
-
-
-
 Quando falamos em saúde bucal, ainda é muito difícil relacionar-mos a nossa saúde emocional, que tem início na nossa infância e acompanha por toda a vida.
 
 Mas é importante lembrar que é através da boca que nos alimentamos, nos comunicamos e adquirimos diversos comportamentos, como ações de tensão. Justamente por isso que as nossas emoções podem impactar diretamente na nossa saúde bucal.

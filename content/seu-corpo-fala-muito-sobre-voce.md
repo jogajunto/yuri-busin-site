@@ -1,11 +1,11 @@
 ---
-title: "Seu corpo diz muito sobre você!"
+title: 'Seu corpo diz muito sobre você!'
 date: 2016-04-05
-image : "/blog/homem-de-terno-com-os-bra_os-cruzados-a-importancia-da-linguagem-corporal.jpg"
-categories: ["Cotidiano"]
-description: "Você sabia que seu corpo diz muito sobre você? Que tal entender um pouco mais sobre isso, leia aqui algumas dicas!"
+image: '/blog/homem-de-terno-com-os-bra_os-cruzados-a-importancia-da-linguagem-corporal.jpg'
+categories: ['Cotidiano']
+description: 'Você sabia que seu corpo diz muito sobre você? Que tal entender um pouco mais sobre isso, leia aqui algumas dicas!'
 draft: false
-type: "post"
+type: 'post'
 ---
 
 Uma das melhores formas de criar empatia e conexão com as pessoas são a linguagem corporal. Se alguém interpreta erroneamente sua expressão corporal isso pode gerar consequências negativas nas suas relações interpessoais.

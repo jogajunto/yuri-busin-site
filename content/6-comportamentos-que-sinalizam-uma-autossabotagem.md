@@ -13,14 +13,6 @@ date: 2022-12-30T16:31:26.256Z
 draft: false
 ---
 
-
-
-
-
-
-
-
-
 Pode ser difícil de acreditar, mas a maioria das pessoas – mesmo aquelas consideradas autoconfiantes – passam por momentos de [autossabotagem](https://yuribusin.com.br/como-evitar-a-autossabotagem/).
 
 Por exemplo, ao fazer a inscrição na academia e nunca usá-la ou planejar fazer uma tarefa mais cedo, mas adiar a execução até o último minuto, são consideradas formas de autossabotagem.
@@ -66,5 +58,3 @@ Não deixe mais que sua autossabotagem atrapalhe mais a sua vida, busque ajuda d
 **Caso precise de ajuda para superar a autossabotagem, [fale comigo clicando aqui!](https://www.instagram.com/dryuribusin/)**
 
 **_[Instagram @dryuribusin](https://www.instagram.com/dryuribusin/)_**
-
-

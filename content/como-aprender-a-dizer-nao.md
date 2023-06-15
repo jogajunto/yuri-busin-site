@@ -53,5 +53,3 @@ A ideia aqui é viver a sua vida por você e não por mais ninguém. Não deixe 
 Conheça os seus compromissos e o quão valioso é o seu precioso tempo. Então, quando alguém lhe pedir para dedicar parte do seu tempo a um novo compromisso, você saberá que simplesmente não pode fazê-lo.
 
 **Para mais dicas de saúde mental, confira o meu perfil no Instagram [@dryuribusin](https://www.instagram.com/dryuribusin/).**
-
-

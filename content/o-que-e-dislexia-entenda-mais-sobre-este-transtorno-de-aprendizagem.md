@@ -13,14 +13,6 @@ date: 2021-11-08T18:17:56.232Z
 draft: false
 ---
 
-
-
-
-
-
-
-
-
 A dislexia é um transtorno de aprendizagem em que a pessoa apresenta uma deficiência de leitura ocasionada pela dificuldade de identificar os sons da fala e como eles se relacionam com as letras e palavras.
 
 É válido ressaltar que essa condição não tem nada a ver com problemas de visão ou inteligência. Na verdade, grandes nomes da história como Leonardo da Vinci, Vincent Van Gogh e Albert Einstein, por exemplo, eram disléxicos.
@@ -67,5 +59,3 @@ Muitas vezes, simples mudanças no estilo de vida ou de tratamentos, ajudam com 
 Por isso, por mais que a dislexia possa parecer frustrante, ela não impede uma pessoa de levar uma vida plena e bem-sucedida.
 
 **Portanto, se você tem mais dúvidas sobre a dislexia, entre em contato comigo pelo meu perfil no Instagram [@dryuribusin](https://www.instagram.com/dryuribusin/).**
-
-

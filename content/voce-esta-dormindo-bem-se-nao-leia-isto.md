@@ -13,14 +13,6 @@ date: 2021-10-31T14:09:43.685Z
 draft: false
 ---
 
-
-
-
-
-
-
-
-
 Dormir e ter uma boa noite de descanso é fundamental para se manter saudável e alerta durante o dia. Geralmente, um adulto precisa de 6 a 8 horas de sono. Porém, cada vez mais as pessoas têm dormido menos ou tendo dificuldade para dormir.
 
 O [estresse](https://yuribusin.com.br/5-maneiras-de-se-controlar-o-estresse/), maus hábitos e a vida corrida do cotidiano têm contribuído para noite mal dormidas, o que se traduz em irritação durante o dia, problemas de memória, além de depressão.
@@ -76,5 +68,3 @@ Muitas vezes, os problemas do sono são motivados pelo estresse, ansiedade ou an
 Por isso, se as dicas acima não o ajudaram a melhorar o sono, experimente marcar uma consulta com um [psicólogo clínico](https://yuribusin.com.br/pra-que-serve-um-psicologo-clinico/). Ele te ajudará a identificar possíveis distúrbios, assim como indicar outras práticas personalizadas que podem lhe ajudar a dormir melhor.
 
 **Para mais conteúdos como este, siga o meu perfil no Instagram [@dryuribusin](https://www.instagram.com/dryuribusin/).**
-
-

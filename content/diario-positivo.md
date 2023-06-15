@@ -1,11 +1,11 @@
 ---
-title: "Buscando significados em seu dia a dia?"
+title: 'Buscando significados em seu dia a dia?'
 date: 2020-03-29
-image : "/blog/essentialiving-pjeM49KIEik-unsplash-scaled.jpg"
-categories: ["Cotidiano"]
-description: "Se o fato de refletir sobre as coisas boas da vida produz muitos benefícios, por que fazemos pouco? A solução é o Diário Positivo, leia como fazer o seu!"
+image: '/blog/essentialiving-pjeM49KIEik-unsplash-scaled.jpg'
+categories: ['Cotidiano']
+description: 'Se o fato de refletir sobre as coisas boas da vida produz muitos benefícios, por que fazemos pouco? A solução é o Diário Positivo, leia como fazer o seu!'
 draft: false
-type: "post"
+type: 'post'
 ---
 
 Normalmente, quando olhamos para o passado e observamos o horizonte de eventos que transformaram as nossas vidas, lembramos mais dos desafios encarados, das dores, das tristezas e menos daqueles pequenos prazeres da vida, como aquele sopro de vento com cheiro de chuva matinal, aquele arrepio nas costas depois de uma massagem no pé, aquela gargalhada no telefone com sua melhor amiga… É necessário refletir sobre tudo, incluindo as coisas boas.
@@ -108,5 +108,3 @@ Outras coisas
 O Diário positivo é um instrumento para a prática da gratidão, [aqui neste post](/voce-conhece-o-poder-da-gratidao/) comento mais sobre como exercitá-la.
 
 Se você se interessou e quer se aprofundar mais no assunto, entre em contato, vamos marcar uma consulta. **Tudo bem buscar ajuda!**
-
- 

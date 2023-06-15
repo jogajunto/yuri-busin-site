@@ -1,11 +1,11 @@
 ---
-title: "Quais os principais sintomas da dependência emocional?"
+title: 'Quais os principais sintomas da dependência emocional?'
 date: 2018-01-29
-image : "/blog/dependencia_emocional.jpg"
-categories: ["Cotidiano"]
-description: "A dependência emocional está cada vez mais comum nos relacionamentos atuais. De maneira geral, ela pode ser vista como a dependência no parceiro em se..."
+image: '/blog/dependencia_emocional.jpg'
+categories: ['Cotidiano']
+description: 'A dependência emocional está cada vez mais comum nos relacionamentos atuais. De maneira geral, ela pode ser vista como a dependência no parceiro em se...'
 draft: false
-type: "post"
+type: 'post'
 ---
 
 A **dependência emocional** está cada vez mais comum nos **relacionamentos** atuais. De maneira geral, ela pode ser vista como a dependência no parceiro em se sentir feliz, tomar decisões e lidar com as situações do dia a dia.

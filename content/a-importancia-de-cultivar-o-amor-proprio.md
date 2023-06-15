@@ -1,13 +1,12 @@
 ---
-title: "A importância de cultivar o amor próprio"
+title: 'A importância de cultivar o amor próprio'
 date: 2018-07-13
-image : "/blog/amor_proprio.jpg"
-categories: ["Cotidiano"]
-description: "É muito comum ouvir sobre o amor próprio e que se deve amar a si mesmo, mas a maioria das pessoas ainda não tem ideia do que isso significa. Entenda."
+image: '/blog/amor_proprio.jpg'
+categories: ['Cotidiano']
+description: 'É muito comum ouvir sobre o amor próprio e que se deve amar a si mesmo, mas a maioria das pessoas ainda não tem ideia do que isso significa. Entenda.'
 draft: false
-type: "post"
+type: 'post'
 ---
-
 
 É muito comum ouvir sobre o amor-próprio e que se deve amar a si mesmo, mas a maioria das pessoas ainda não tem ideia do que isso significa. Em resumo, o amor-próprio é o modo de relacionar-se consigo mesmo, sem que haja qualquer punição por algum erro que você tenha cometido.
 

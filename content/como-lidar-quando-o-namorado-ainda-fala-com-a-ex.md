@@ -11,8 +11,6 @@ date: 2021-02-24T12:26:13.439Z
 draft: false
 ---
 
-
-
 Você está incomodada ou insegura porque descobriu que seu namorado ou marido ainda fala com a ex de vez em quando?
 
 Bom, eu lhe digo, misturar vínculos emocionais anteriores com um atual namoro **nem sempre dá certo**, principalmente se o parceiro tem sentimentos não resolvidos pela ex.
@@ -66,5 +64,3 @@ Você não precisa ensinar a pessoa que **você merece respeito**. Isso é a bas
 Se você quer um relacionamento duradouro, o seu parceiro já tem que ter **maturidade emocional** suficiente para saber que para preservar a saúde do relacionamento atual é preciso se livrar de relações do passado, assim como outros hábitos negativos.
 
 **Caso precise de ajuda para resolver a questão ou superar um relacionamento, experimente conversar com um psicólogo. Fale comigo, [clicando aqui!](https://yuribusin.com.br/contato/)**
-
-

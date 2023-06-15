@@ -12,14 +12,6 @@ date: 2021-06-23T15:39:36.603Z
 draft: false
 ---
 
-
-
-
-
-
-
-
-
 Todos nós temos bons e maus hábitos. No entanto, nem sempre percebemos quando nossas pequenas ações (ou inações) estão [afetando negativamente nossos relacionamentos amorosos](https://yuribusin.com.br/5-comportamentos-que-dificultam-o-relacionamento-amoroso/).
 
 Um namoro ou casamento não se resume a apenas uma caixa de chocolates no "Dia dos Namorados".
@@ -107,5 +99,3 @@ Em vez disso, aposte no desenvolvimento da sua vida pessoal, cultivando bons há
 Quanto mais você fizer isso se sentirá mais segura de si mesmo, o que refletirá naturalmente e positivamente no seu relacionamento amoroso, sem que você precise fazer qualquer tipo de esforço.
 
 **Agora, se você está tendo dificuldades para erradicar um ou mais hábitos ruins e está preocupada com o seu relacionamento amoroso, [experimente marcar uma consulta comigo](https://yuribusin.com.br/contato/). Terei o prazer em lhe ajudar.**
-
-

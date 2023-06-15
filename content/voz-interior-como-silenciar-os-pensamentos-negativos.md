@@ -8,7 +8,7 @@ slug: voz-interior-como-silenciar-os-pensamentos-negativos
 categories:
   - Cotidiano
 type: blog
-image: borderline-personalidade.jpg
+image: /blog/borderline-personalidade.jpg
 date: 2022-04-15T11:00:40.282Z
 draft: false
 ---

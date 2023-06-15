@@ -1,5 +1,5 @@
 {{ define "main" }}
-	{{ $paginator := .Paginate (where .Site.Pages "Type" "blog") }}
+	{{ $paginator := .Paginate (where .Site.RegularPages "Type" "blog") }}
 
 	{{ if eq .Paginator.PageNumber 1 }}
 		<section class="section blog">

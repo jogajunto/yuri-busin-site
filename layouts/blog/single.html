@@ -19,16 +19,7 @@
 							<p class="label-md">{{ .ReadingTime }} minuto{{ if (ne .ReadingTime 1) }}s{{ end }}</p>
 						</div>
 					</div>
-					{{ $image := resources.Get (printf "images/%s" .Params.image) }}
-					{{ with $image }}
-						<picture class="article__image">
-							<source media="(min-width: 768px)" srcset="{{ ($image.Fill "1440x800 webp").RelPermalink }}" width="1440" height="800" />
-							<img src="{{ ($image.Fill "768x1024 webp").RelPermalink }}" alt="{{ .Title }}" loading="lazy" width="768" height="1024" />
-						</picture>
-					{{ end }}
-
-          
-
+					{{ partial "background-image.html" (dict "image" .Params.image "class" "article__image" "alt" .Title) }}
 				</div>
 			</div>
 		</div>

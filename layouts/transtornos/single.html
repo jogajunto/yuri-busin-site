@@ -1,7 +1,7 @@
 {{ define "main" }}
 	<section>
 		<div class="section section--line subpage-hero">
-			{{ partial "background-image.html" (dict "image" .Params.image) }}
+			{{ partial "background-image.html" (dict "image" .Params.image "alt" .Title) }}
 			<div class="container container--sm">
 				<div class="stack-lg">
 					<img src="{{ .Params.icon }}" alt="{{ .Title }}" />

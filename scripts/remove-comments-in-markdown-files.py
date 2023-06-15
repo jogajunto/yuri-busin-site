@@ -1,3 +1,7 @@
+# This scripts removes all comments from Markdown files in a directory.
+# Comments are usually added to Markdown when the user copies and pastes content from a Google Doc.
+# Comments does not impact the rendered HTML, but it does make the Markdown files harder to read.
+
 import os
 import re
 

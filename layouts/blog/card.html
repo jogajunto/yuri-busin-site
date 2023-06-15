@@ -7,7 +7,9 @@
 	</header>
 	<section class="card__body">
 		<div class="stack-sm">
-			<span class="tag tag--negative">{{ .Params.category }}</span>
+			{{ range .Params.categories }}
+				<span class="tag tag--negative">{{ . }}</span>
+			{{ end }}
 			<h2 class="heading heading--sm">{{ .Title }}</h2>
 		</div>
 	</section>

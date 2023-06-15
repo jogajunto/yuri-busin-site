@@ -5,7 +5,9 @@
 				<div class="stack-lg">
 					<div class="article__title">
 						<div class="stack-sm">
-							<span class="tag tag--negative">{{ .Params.Category }}</span>
+							{{ range .Params.categories }}
+								<span class="tag tag--negative">{{ . }}</span>
+							{{ end }}
 							<h1 class="display display--lg">{{ .Title }}</h1>
 						</div>
 					</div>

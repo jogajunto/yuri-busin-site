@@ -7,7 +7,7 @@ slug: instabilidade-emocional
 categories:
   - Saúde
 type: blog
-image: instabilidade_emocional.jpeg
+image: instabilidade_emocional.jpg
 date: 2018-10-09
 draft: false
 ---

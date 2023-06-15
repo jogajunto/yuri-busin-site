@@ -1,7 +1,7 @@
 ---
 title: 'Dicas para evitar a procrastinação'
 date: 2017-10-22
-image: '/blog/82165C1E-2E03-42E8-9FB0-50A51B32131C.jpeg'
+image: '82165C1E-2E03-42E8-9FB0-50A51B32131C.jpeg'
 categories: ['Cotidiano']
 description: 'A procrastinação está cada vez mais presente no nosso cotidiano. Afinal, vivemos numa sociedade repleta de estímulos que facilmente nos tiram do foco...'
 draft: false

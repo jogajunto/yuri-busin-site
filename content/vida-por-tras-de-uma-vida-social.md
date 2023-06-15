@@ -1,7 +1,7 @@
 ---
 title: 'A vida social, por trás de uma vida virtual'
 date: 2016-09-26
-image: '/blog/A-vida-social-por-tr_s-de-uma-vida-virtual.jpg'
+image: 'A-vida-social-por-tr_s-de-uma-vida-virtual.jpg'
 categories: ['Cotidiano']
 description: 'Esse comportamento de se comparar com os outros é muito comum na vida cotidiana, mas o que está por trás de uma vida virtual?'
 draft: false

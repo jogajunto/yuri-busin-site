@@ -1,7 +1,7 @@
 ---
 title: 'Em tempos de amores líquidos, como superar a insegurança?'
 date: 2018-05-06
-image: '/blog/mulher_insegura.jpg'
+image: 'mulher_insegura.jpg'
 categories: ['Cotidiano']
 description: 'Os relacionamentos amorosos atuais estão cada vez mais superficiais e passageiros, fazendo com que as pessoas tenham cada vez menos chance...'
 draft: false

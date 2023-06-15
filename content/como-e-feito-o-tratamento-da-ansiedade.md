@@ -1,7 +1,7 @@
 ---
 title: 'Como é feito o tratamento da ansiedade?'
 date: 2018-12-11
-image: '/blog/tratamento-ansiedade.jpeg'
+image: 'tratamento-ansiedade.jpeg'
 categories: ['Saúde']
 description: 'Neste artigo, você vai conhecer o que é a ansiedade e quais são os tratamentos recomendados. Continue lendo!'
 draft: false

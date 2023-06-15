@@ -1,7 +1,7 @@
 ---
 title: 'Como evitar a autossabotagem'
 date: 2018-05-22
-image: '/blog/auto-sabotagem.jpg'
+image: 'auto-sabotagem.jpg'
 categories: ['Saúde']
 description: 'A autossabotagem é qualquer ação que atrapalhe o alcance de uma determinada meta ou objetivo. Sabe aquela dieta que deveria ter começado na segunda-feira...'
 draft: false

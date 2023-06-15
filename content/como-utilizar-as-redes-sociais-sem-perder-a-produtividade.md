@@ -1,7 +1,7 @@
 ---
 title: 'Como utilizar as redes sociais sem perder a produtividade'
 date: 2018-07-04
-image: '/blog/4471ED93-E914-4310-BA91-5A79CC7DE450.png'
+image: '4471ED93-E914-4310-BA91-5A79CC7DE450.png'
 categories: ['Cotidiano']
 description: 'As redes sociais são ferramentas para fazer as pessoas se comunicarem e interagirem. Entretanto, redes sociais e produtividade nem sempre caminham juntas.'
 draft: false

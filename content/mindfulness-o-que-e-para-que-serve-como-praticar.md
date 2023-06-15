@@ -1,7 +1,7 @@
 ---
 title: 'Mindfulness: O que é? Para que serve? Como praticar?'
 date: 2019-06-18
-image: '/blog/lesly-juarez-307974-unsplash.jpg'
+image: 'lesly-juarez-307974-unsplash.jpg'
 categories: ['Cotidiano']
 description: 'O Mindfulness é a habilidade de conseguir focar sua atenção no momento presente, sem distrações. Tal técnica vem crescendo gradativamente ao longo do tempo.'
 draft: false

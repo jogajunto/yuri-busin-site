@@ -1,7 +1,7 @@
 ---
 title: 'Dinheiro compra felicidade?'
 date: 2015-09-17
-image: '/blog/dinheiro-compra-felicidade.jpg'
+image: 'dinheiro-compra-felicidade.jpg'
 categories: ['Cotidiano']
 description: 'Será que dinheiro compra felicidade é verdade? “Não trás felicidade, mas é possível compra-la!” – ditado popular A frase dita'
 draft: false

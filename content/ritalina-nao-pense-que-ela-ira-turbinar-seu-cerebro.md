@@ -1,7 +1,7 @@
 ---
 title: 'Ritalina - não pense que ela irá turbinar seu cérebro'
 date: 2015-10-19
-image: '/blog/frasco-de-rem_dio-sobre-a-mesa-os-mitos-da-ritalina.jpg'
+image: 'frasco-de-rem_dio-sobre-a-mesa-os-mitos-da-ritalina.jpg'
 categories: ['Cotidiano']
 description: 'Nos dias atuais, a Ritalina é um dos medicamentos mais controversos que existem. Na internet, muitos mitos sobre ele são disseminados como sendo ...'
 draft: false

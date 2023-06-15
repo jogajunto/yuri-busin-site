@@ -1,7 +1,7 @@
 ---
 title: 'Seu corpo diz muito sobre você!'
 date: 2016-04-05
-image: '/blog/homem-de-terno-com-os-bra_os-cruzados-a-importancia-da-linguagem-corporal.jpg'
+image: 'homem-de-terno-com-os-bra_os-cruzados-a-importancia-da-linguagem-corporal.jpg'
 categories: ['Cotidiano']
 description: 'Você sabia que seu corpo diz muito sobre você? Que tal entender um pouco mais sobre isso, leia aqui algumas dicas!'
 draft: false

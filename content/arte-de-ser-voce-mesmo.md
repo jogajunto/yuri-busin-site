@@ -1,7 +1,7 @@
 ---
 title: 'A arte de ser você mesmo'
 date: 2017-09-24
-image: '/blog/o-FELIZ-COM-O-CORPO-facebook.jpg'
+image: 'o-FELIZ-COM-O-CORPO-facebook.jpg'
 categories: ['Cotidiano']
 description: 'O convívio social é algo fundamental na vida de qualquer pessoa, porém, também existe a necessidade de que ocorram momentos de introspecção, para refle...'
 draft: false

@@ -1,7 +1,7 @@
 ---
 title: '5 sinais que seu amor é patológico'
 date: 2018-02-08
-image: '/blog/o-amor-patologico-e-seu-tratamentodr-yuri-busin-770x314.jpg'
+image: 'o-amor-patologico-e-seu-tratamentodr-yuri-busin-770x314.jpg'
 categories: ['Cotidiano']
 description: 'Mas, em certa medida, os relacionamentos podem se tornar destrutivos, trazendo problemas em longo prazo, quando o amor é patológico...'
 draft: false

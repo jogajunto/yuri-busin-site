@@ -1,7 +1,7 @@
 ---
 title: 'Devo tomar uma decisão baseada na emoção ou na razão?'
 date: 2018-11-13
-image: '/blog/tomar-uma-decis_o-baseada-na-emo__o-ou-na-raz_o.jpeg'
+image: 'tomar-uma-decis_o-baseada-na-emo__o-ou-na-raz_o.jpeg'
 categories: ['Cotidiano']
 description: 'Neste artigo, você conhecerá mais sobre o antagonismo entre os pensamentos lógico e emocional e como deve tomar suas decisões. Vamos lá?'
 draft: false

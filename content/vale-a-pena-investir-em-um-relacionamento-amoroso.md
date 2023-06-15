@@ -7,7 +7,7 @@ slug: vale-a-pena-investir-em-um-relacionamento-amoroso
 categories:
   - Cotidiano
 type: blog
-image: vale-a-pena-investir-em-um-relacionamento-amoroso-.jpg
+image: vale-a-pena-investir-em-um-relacionamento-amoroso.jpg
 date: 2021-10-19T14:27:45.303Z
 draft: false
 ---

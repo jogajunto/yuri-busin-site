@@ -1,7 +1,7 @@
 ---
 title: 'Como funciona o atendimento do Psicólogo Online?'
 date: 2020-04-09
-image: '/blog/yuri-psicologo-virtural-v2-1.jpg'
+image: 'yuri-psicologo-virtural-v2-1.jpg'
 categories: ['Cotidiano']
 description: 'Nem todos podem se deslocar até um consultório para um tratamento psicológico. Por isso o psicólogo online pode ser uma ótima solução...Entenda mais como...'
 draft: false

@@ -1,7 +1,7 @@
 ---
 title: 'Tristeza ou depressão? Como diferenciar uma da outra?'
 date: 2019-09-24
-image: '/blog/mulher-chorando-em-d_vida-se-_-tristeza-ou-depress_o.jpg'
+image: 'mulher-chorando-em-d_vida-se-_-tristeza-ou-depress_o.jpg'
 categories: ['Cotidiano']
 description: 'Neste artigo, você descobrirá o que está por trás dos conceitos e como separar facilmente tristeza e depressão. Confira!'
 draft: false

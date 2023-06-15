@@ -1,7 +1,7 @@
 ---
 title: 'Como aumentar a autoestima'
 date: 2018-04-02
-image: '/blog/como_aumentar_sua_auto_estima.jpg'
+image: 'como_aumentar_sua_auto_estima.jpg'
 categories: ['Cotidiano']
 description: 'A baixa autoestima está relacionada a uma série de doenças como depressão, transtornos alimentares e outros. Saiba como superar esse problema.'
 draft: false

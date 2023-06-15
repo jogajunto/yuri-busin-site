@@ -1,7 +1,7 @@
 ---
 title: 'Como vencer a dependência emocional?'
 date: 2017-12-03
-image: '/blog/casal-algemado-dependencia-emocional.jpg'
+image: 'casal-algemado-dependencia-emocional.jpg'
 categories: ['Cotidiano']
 description: 'A dependência emocional ocorre por diversos fatores e está se tornando cada vez mais comum nos relacionamentos atuais. Em certo ponto, essa dependência po..'
 draft: false

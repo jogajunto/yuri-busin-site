@@ -1,7 +1,7 @@
 ---
 title: 'Como desenvolver inteligência emocional?'
 date: 2018-11-14
-image: '/blog/intelig_ncia_emocional.jpeg'
+image: 'intelig_ncia_emocional.jpeg'
 categories: ['Saúde']
 description: 'Por isso, se você busca desenvolver sua inteligência emocional, continue lendo este artigo! Vamos lá?'
 draft: false

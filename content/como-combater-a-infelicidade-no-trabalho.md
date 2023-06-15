@@ -1,7 +1,7 @@
 ---
 title: 'Como combater a infelicidade no trabalho?'
 date: 2019-05-20
-image: '/blog/homem-de-terno-com-infelicidade-no-trabalho.jpg'
+image: 'homem-de-terno-com-infelicidade-no-trabalho.jpg'
 categories: ['Cotidiano']
 description: 'Você se sente desvalorizado pelo seu chefe? Gostaria de aumentar sua motivação no trabalho? Para saber como, leia este artigo!'
 draft: false

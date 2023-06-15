@@ -1,7 +1,7 @@
 ---
 title: 'Moda Rivotril - Vícios em remédios'
 date: 2015-09-17
-image: '/blog/moda-rivotril.jpg'
+image: 'moda-rivotril.jpg'
 categories: ['Cotidiano']
 description: 'O uso abusivo pode causar dependência sobre o medicamento utilizado e isso é uma preocupação no Brasil e também em outros países.Como por exemplo o Rivotril'
 draft: false

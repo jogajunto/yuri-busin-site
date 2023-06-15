@@ -1,7 +1,7 @@
 ---
 title: 'Síndrome do Pânico, entenda melhor!'
 date: 2015-09-16
-image: '/blog/sindrome-do-panico.jpg'
+image: 'sindrome-do-panico.jpg'
 categories: ['Cotidiano']
 description: 'Medo de perder o controle, sensação de estar prestes a morrer, sudorese (suor excessivo), formigamento nas mãos...podem ser sintomas da Síndrome do Pânico'
 draft: false

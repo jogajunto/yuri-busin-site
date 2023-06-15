@@ -1,7 +1,7 @@
 ---
 title: 'Como lidar com a chantagem emocional?'
 date: 2020-01-16
-image: '/blog/casal-contra-luz-com-parceiro-fazendo-chantagem-emocional.jpg'
+image: 'casal-contra-luz-com-parceiro-fazendo-chantagem-emocional.jpg'
 categories: ['Cotidiano']
 description: 'Neste artigo, você vai entender mais sobre esse padrão tóxico de manipulação e como lidar com a chantagem emocional.'
 draft: false

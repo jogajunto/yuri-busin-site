@@ -1,7 +1,7 @@
 ---
 title: 'O que esperar de um atendimento psicológico?'
 date: 2019-04-26
-image: '/blog/consult_rio-de-atendimento-psicol_gico.jpg'
+image: 'consult_rio-de-atendimento-psicol_gico.jpg'
 categories: ['Cotidiano']
 description: 'Se você está considerando procurar um atendimento psicológico, você já fez a parte difícil: reconheceu que precisa melhorar sua saúde mental! Saiba mais...'
 draft: false

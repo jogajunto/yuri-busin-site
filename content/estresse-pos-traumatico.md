@@ -1,7 +1,7 @@
 ---
 title: 'Estresse pós-traumático. Sintomas, causas e riscos'
 date: 2018-09-05
-image: '/blog/joshua-sortino-431615-unsplash.jpg'
+image: 'joshua-sortino-431615-unsplash.jpg'
 categories: ['Saúde']
 description: 'Nesse artigo, você conhecerá mais sobre esse transtorno, seus sintomas e como superar um evento traumático. Vamos lá?'
 draft: false

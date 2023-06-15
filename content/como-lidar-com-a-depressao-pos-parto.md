@@ -1,7 +1,7 @@
 ---
 title: 'Como lidar com a depressão pós-parto?'
 date: 2020-05-07
-image: '/blog/como-lidar-com-a-depress_o-p_s-parto.jpg'
+image: 'como-lidar-com-a-depress_o-p_s-parto.jpg'
 categories: ['Cotidiano']
 description: 'A chegada de um bebê na família remete a um momento de felicidade. Em contrapartida, nem sempre é esse o cenário.'
 draft: false

@@ -1,7 +1,7 @@
 ---
 title: 'Deficit de atenção e Hiperatividade em adultos'
 date: 2015-10-19
-image: '/blog/ImageResizer.net-txhw9y35dy5e7zd.jpg'
+image: 'ImageResizer.net-txhw9y35dy5e7zd.jpg'
 categories: ['Cotidiano']
 description: 'O TDAH é uma sigla que corresponde ao transtorno de déficit de atenção e hiperatividade. O transtorno pode também ser encontrado em adultos...'
 draft: false

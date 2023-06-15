@@ -1,7 +1,7 @@
 ---
 title: 'As emoções dizem muito sobre nós'
 date: 2015-09-16
-image: '/blog/emocoes.jpg'
+image: 'emocoes.jpg'
 categories: ['Cotidiano']
 description: 'O que são emoções? Assunto complicado, muito discutido desde o principio da nossa existência. Tantas músicas, pinturas, livros, falam dessa tal de emoções.'
 draft: false

@@ -1,7 +1,7 @@
 ---
 title: 'Os 7 hábitos que te impedem de crescer no trabalho'
 date: 2017-10-08
-image: '/blog/law_post_10-compressor.jpg'
+image: 'law_post_10-compressor.jpg'
 categories: ['Cotidiano']
 description: 'Alguns hábitos são considerados bons, no entanto, muitos deles podem influenciar negativamente o seu desenvolvimento, limitando você crescer no trabalho'
 draft: false

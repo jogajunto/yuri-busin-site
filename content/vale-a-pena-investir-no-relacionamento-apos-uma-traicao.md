@@ -8,7 +8,7 @@ slug: vale-a-pena-investir-relacionamento-apos-traicao
 categories:
   - Cotidiano
 type: blog
-image: vale-a-pena-investir-no-relacionamento-apoos-uma-traicao-.jpg
+image: vale-a-pena-investir-no-relacionamento-apos-uma-traicao-.jpg
 date: 2021-12-25T10:37:10.761Z
 draft: false
 ---

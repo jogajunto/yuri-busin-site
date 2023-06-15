@@ -1,7 +1,7 @@
 ---
 title: '🎗 Prevenção ao suicídio: como o psicólogo pode ajudar'
 date: 2019-09-16
-image: '/blog/homem-a-beira-do-precip_cio-preven__o-ao-suicidio.jpg'
+image: 'homem-a-beira-do-precip_cio-preven__o-ao-suicidio.jpg'
 categories: ['Cotidiano']
 description: 'neste artigo, apresento a importância dos psicólogos para ajudar as pessoas que lutam com pensamentos suicidas todos os dias. Continue para saber mais!'
 draft: false

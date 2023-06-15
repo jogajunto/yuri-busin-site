@@ -1,7 +1,7 @@
 ---
 title: 'Como vencer a insônia sem o uso de remédios?'
 date: 2020-03-23
-image: '/blog/como-vencer-a-ins_nia-sem-o-uso-de-rem_dios.jpg'
+image: 'como-vencer-a-ins_nia-sem-o-uso-de-rem_dios.jpg'
 categories: ['Cotidiano']
 description: 'A falta de sono pode gerar cansaço, baixa energia e dificuldades de concentração, atenção e memória. Saiba como resolver este problema!'
 draft: false

@@ -1,7 +1,7 @@
 ---
 title: 'O que fazer para diminuir a insônia?'
 date: 2018-07-28
-image: '/blog/alexandra-gorn-471463-unsplash.jpg'
+image: 'alexandra-gorn-471463-unsplash.jpg'
 categories: ['Saúde']
 description: 'Buscando no Google de madrugada sobre insônia? Calma... você não está sozinho. A Psicologia ensina sobre como melhorar seu sono com poucas mud...'
 draft: false

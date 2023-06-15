@@ -1,7 +1,7 @@
 ---
 title: '5 sinais que seu filho sofre do transtorno de ansiedade'
 date: 2017-10-15
-image: '/blog/A5D18D08-5619-4020-982E-694150234FC0.jpeg'
+image: 'A5D18D08-5619-4020-982E-694150234FC0.jpeg'
 categories: ['Cotidiano']
 description: 'Filho ansiedade?O transtorno de ansiedade está se tornando cada vez mais comum, principalmente na vida de crianças e jovens. Segundo estudo publicado...'
 draft: false

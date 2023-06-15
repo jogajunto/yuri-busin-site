@@ -1,7 +1,7 @@
 ---
 title: 'Como controlar a raiva?'
 date: 2019-03-15
-image: '/blog/Como-controlar-a-raiva.jpeg'
+image: 'Como-controlar-a-raiva.jpeg'
 categories: ['Saúde']
 description: 'Vou apresentar os benefícios de controlar a raiva, além de dar dicas de como praticar a resiliência e manter a calma diante dos acontecimentos. Vamos lá?'
 draft: false

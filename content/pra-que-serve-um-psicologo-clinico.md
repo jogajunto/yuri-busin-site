@@ -1,7 +1,7 @@
 ---
 title: 'Pra que serve um psicólogo clínico?'
 date: 2017-09-29
-image: '/blog/Dia-do-Psic_logo.jpg'
+image: 'Dia-do-Psic_logo.jpg'
 categories: ['Cotidiano']
 description: 'O psicólogo online é uma prática de psicoterapia por meio das ferramentas atuais, no caso a internet.'
 draft: false

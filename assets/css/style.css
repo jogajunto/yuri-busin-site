@@ -31,15 +31,14 @@
 @import 'components/rich-text';
 @import 'components/youtube-embed';
 
-@import 'layout/header';
-@import 'layout/footer';
-
-@import 'layout/container';
-@import 'layout/article';
-@import 'layout/grid';
-@import 'layout/feed';
-@import 'layout/section';
-@import 'layout/stack';
+@import 'layouts/header';
+@import 'layouts/footer';
+@import 'layouts/container';
+@import 'layouts/article';
+@import 'layouts/grid';
+@import 'layouts/feed';
+@import 'layouts/section';
+@import 'layouts/stack';
 
 @import 'sections/hero';
 @import 'sections/subpage-hero';

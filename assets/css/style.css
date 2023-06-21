@@ -28,6 +28,7 @@
 @import 'components/image';
 @import 'components/icon-with-label';
 @import 'components/pagination';
+@import 'components/form';
 @import 'components/rich-text';
 @import 'components/youtube-embed';
 
@@ -44,6 +45,7 @@
 @import 'sections/subpage-hero';
 
 @import 'sections/blog';
+@import 'sections/contato';
 @import 'sections/eventos-e-publicacoes';
 @import 'sections/politica-de-privacidade';
 @import 'sections/pronto-para-a-mudanca';

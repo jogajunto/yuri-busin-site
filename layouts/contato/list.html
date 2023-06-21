@@ -1,0 +1,101 @@
+{{ define "main" }}
+	<section class="section contato">
+		<div class="container">
+			<div class="grid grid--reverse align-middle">
+				<div class="stack-md">
+					<h1 class="display display--lg">Contato</h1>
+					<p class="text-xl text-light">A primeira consulta não é cobrada. Ela tem como objetivo entender o que está acontecendo e explicar como funciona o tratamento. Agende sua consulta.</p>
+				</div>
+				<div class="stack-lg">
+					<picture class="image-fill-height image-fill-height--left">
+						<img src="/images/contato.webp" alt="Dr. Yuri Busin sentado em uma poltrona com as pernas cruzadas e olhando para a câmera" />
+					</picture>
+				</div>
+			</div>
+		</div>
+	</section>
+
+	<section class="section section--padding-top">
+		<div class="container container--lg">
+			<div class="stack-lg">
+				<div class="grid">
+					<div class="stack-sm">
+						<h2 class="heading heading--sm">Agende um horário</h2>
+						<ul class="stack-xs">
+							<li>Por <a href="{{ .Site.Params.whatsApp }}">Whatsapp</a></li>
+							<li>Por <a href="tel:{{ .Site.Params.whatsApp }}">Telefone (11) 4116-8926</a></li>
+							<li>Por <a href="">Formulário de contato</a></li>
+						</ul>
+					</div>
+					<div class="stack-sm">
+						<h2 class="heading heading--sm">Atendimento</h2>
+						<div class="stack-xs">
+							<p>Segunda a Sexta: 8h00 - 22h00</p>
+							<p>Sábado: Fechado</p>
+							<p>Domingo: Fechado</p>
+						</div>
+					</div>
+				</div>
+				<div class="grid">
+					<div class="stack-sm">
+						<h2 class="heading heading--sm">Endereço do consultório:</h2>
+						<p>
+							R. Voluntários da Pátria, 2468 - Cj 214 <br />
+							Santana, São Paulo <br />
+							SP, 02401-000
+						</p>
+					</div>
+					<div class="stack-sm">
+						<h2 class="heading heading--sm">🔴 Não aceito convênio</h2>
+						<p>Mas não se preocupe! Saiba <a href="/como-solicitar-seu-reembolso-de-terapia/">como solicitar o reembolso ao seu plano de saúde</a>.</p>
+					</div>
+				</div>
+				<div class="stack-md">
+					<h2 class="heading heading--sm">Formulário de contato</h2>
+					<form class="form" action="https://formcarry.com/s/f9X3QBjIMeJ-" method="POST" enctype="multipart/form-data" accept-charset="UTF-8">
+						<fieldset class="form-fieldset">
+							<div class="form-field form-field--half">
+								<label class="visually-hidden" for="name">Nome:</label>
+								<input class="input" type="text" name="Nome" id="name" required="" placeholder="Nome*" />
+							</div>
+							<div class="form-field form-field--half">
+								<label class="visually-hidden" for="lastname">Sobrenome:</label>
+								<input class="input" type="text" name="Sobrenome" id="lastname" required="" placeholder="Sobrenome*" />
+							</div>
+							<div class="form-field form-field--half">
+								<label class="visually-hidden" for="email">E-mail:</label>
+								<input class="input" type="email" name="E-mail" id="email" required="" placeholder="E-mail*" />
+							</div>
+							<div class="form-field form-field--half">
+								<label class="visually-hidden" for="phone">Telefone ou celular:</label>
+								<input class="input" type="tel" name="Telefone" required="phone" placeholder="Telefone ou celular*" />
+							</div>
+							<div class="form-field">
+								<label class="visually-hidden" for="subject">Selecione seu interesse:</label>
+								<select class="input" name="Assunto" id="subject" required="">
+									<option selected="" disabled="">Selecione seu interesse:</option>
+									<option value="Atendimento presencial">Atendimento presencial</option>
+									<option value="Atendimento Online">Atendimento online</option>
+									<option value="Dúvidas">Dúvidas</option>
+									<option value="Outros">Outros</option>
+								</select>
+							</div>
+							<div class="form-field">
+								<label class="visually-hidden" for="message">Deixe sua mensagem ou dúvida:</label>
+								<textarea class="input" name="Mensagem" placeholder="Deixe sua mensagem..." required=""></textarea>
+							</div>
+							<div class="form-field text-center">
+								<input class="checkbox" type="checkbox" name="Newsletter" id="checkbox" checked="" />
+								<label for="checkbox">Quero receber artigos, novidades e dicas em meu e-mail</label>
+							</div>
+						</fieldset>
+						<footer class="form-footer">
+							<input type="hidden" name="_gotcha" />
+							<button class="button button--green" type="submit">Enviar</button>
+						</footer>
+					</form>
+				</div>
+			</div>
+		</div>
+	</section>
+{{ end }}

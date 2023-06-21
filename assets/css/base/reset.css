@@ -24,7 +24,7 @@
 }
 
 /* Remove border and set sensible defaults for backgrounds, on all elements except fieldset progress and meter */
-*:where(:not(fieldset, progress, meter)) {
+*:where(:not(progress, meter)) {
 	border-width: 0;
 	border-style: solid;
 	background-origin: border-box;
@@ -101,6 +101,7 @@ a {
 /* More readable underline style for anchor tags without a class. This could be set on anchor tags globally, but it can cause conflicts. */
 a:not([class]) {
 	text-decoration-skip-ink: auto;
+	text-decoration: underline;
 }
 
 /* Make it clear that interactive elements are interactive */

@@ -4,7 +4,7 @@
 	/* ============================================= */
 
 	--content-on-light-primary: rgba(0, 0, 0, 1);
-	--content-on-light-secondary: rgba(40, 40, 40, 0.800000011920929);
+	--content-on-light-secondary: rgba(40, 40, 40, 0.8);
 	--content-on-light-disabled: rgba(40, 40, 40, 0.5);
 
 	--content-on-dark-primary: rgba(255, 255, 255, 1);
@@ -55,7 +55,7 @@
 	--overline-md: 1rem; /* Equivalent to 16px */
 	--overline-sm: 0.75rem; /* Equivalent to 12px */
 	--label-lg: 1.25rem; /* Equivalent to 20px */
-	--label-md: 1rem; /* Equivalent to 16px */
+	--label-md: 1.125rem; /* Equivalent to 18px */
 	--label-sm: 0.88rem; /* Equivalent to 14px */
 	--label-xs: 0.62rem; /* Equivalent to 10px */
 
@@ -100,5 +100,7 @@
 		--display-lg: clamp(2.5rem, 6.5vw, 5rem);
 		--display-md: clamp(2.5rem, 6.5vw, 4rem);
 		--display-sm: clamp(2.5rem, 6.5vw, 3rem);
+
+		--paragraph-xl: 1.25rem; /* Equivalent to 28px */
 	}
 }

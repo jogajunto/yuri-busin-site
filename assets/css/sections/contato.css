@@ -1,0 +1,17 @@
+.contato {
+	background: var(--gradient-1);
+	padding-bottom: 0;
+	text-align: center;
+}
+
+@media (--desktop) {
+	.contato {
+		padding-top: var(--spacing-xxxl);
+		padding-bottom: var(--spacing-xxxl);
+		text-align: left;
+	}
+
+	.contato .image-fill-height--left {
+		transform: translateX(-32rem);
+	}
+}

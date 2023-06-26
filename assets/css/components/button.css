@@ -1,7 +1,7 @@
 .button {
 	border-radius: var(--radius-md);
 	border-style: solid;
-	border-width: 2px;
+	border-width: 1px;
 	display: inline-flex;
 	gap: 0.5em;
 	align-items: center;
@@ -29,7 +29,19 @@
 	color: var(--content-on-light-primary);
 }
 
-.button--negative {
+.button--outline {
+	background: transparent;
+	border-color: var(--content-on-dark-primary);
+	color: var(--content-on-dark-primary);
+}
+
+.button--outline:hover {
+	background: var(--green-700);
+	border-color: var(--green-700);
+	color: var(--content-on-light-primary);
+}
+
+.button--line {
 	background: transparent;
 	border-top-color: transparent;
 	border-left-color: transparent;
@@ -39,7 +51,7 @@
 	color: var(--content-on-dark-primary);
 }
 
-.button--negative:hover {
+.button--line:hover {
 	border-radius: var(--radius-md);
 	border-color: var(--green-700);
 	color: var(--content-on-dark-secondary);

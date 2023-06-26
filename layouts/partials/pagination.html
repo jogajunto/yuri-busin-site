@@ -2,8 +2,8 @@
 {{ if $paginator }}
 	{{ if gt $paginator.TotalPages 1 }}
 		<nav class="pagination" aria-label="Navegação entre páginas">
-			<a href="{{ if $paginator.HasPrev }}{{ $paginator.Prev.URL }}{{ end }}" class="button button--negative" rel="prev" title="Voltar para a página anterior" {{ if not $paginator.HasPrev }}disabled{{ end }}>Anterior</a>
-			<a href="{{ if $paginator.HasNext }}{{ $paginator.Next.URL }}{{ end }}" class="button button--negative" rel="next" title="Avançar para a próxima página" {{ if not $paginator.HasNext }}disabled{{ end }}>Próxima</a>
+			<a href="{{ if $paginator.HasPrev }}{{ $paginator.Prev.URL }}{{ end }}" class="button button--line" rel="prev" title="Voltar para a página anterior" {{ if not $paginator.HasPrev }}disabled{{ end }}>Anterior</a>
+			<a href="{{ if $paginator.HasNext }}{{ $paginator.Next.URL }}{{ end }}" class="button button--line" rel="next" title="Avançar para a próxima página" {{ if not $paginator.HasNext }}disabled{{ end }}>Próxima</a>
 		</nav>
 	{{ end }}
 {{ end }}

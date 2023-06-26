@@ -1,14 +1,14 @@
-<div class="transtornos-item box">
-	<img class="transtornos-item__icon" src="{{ .Params.icon }}" alt="Ícone {{ .Title }}" loading="lazy" width="102" height="102" />
-	<div class="transtornos-item__content">
-		<div class="transtornos-item__description">
-			<div class="stack-sm">
-				<h3 class="heading heading--sm">{{ .Params.name }}</h3>
-				<p>{{ .Description }}</p>
-			</div>
+<div class="box transtornos-card">
+	<figure class="transtornos-card__figure">
+		<img src="{{ .Params.icon }}" alt="Ícone {{ .Title }}" loading="lazy" width="102" height="102" />
+	</figure>
+	<div class="transtornos-card__content">
+		<div class="stack-sm">
+			<h3 class="heading heading--sm">{{ .Params.name }}</h3>
+			<p>{{ .Description }}</p>
 		</div>
-		<div class="transtornos-item__action">
-			<a class="button button--negative" href="{{ .Permalink }}">Ver mais</a>
+		<div class="stack-sm text-right">
+			<a class="button button--outline" href="{{ .Permalink }}">Ver mais</a>
 		</div>
 	</div>
 </div>

@@ -21,6 +21,7 @@
 @import 'components/card';
 @import 'components/button';
 @import 'components/box';
+@import 'components/line';
 @import 'components/list';
 @import 'components/social';
 @import 'components/tag';
@@ -47,6 +48,8 @@
 @import 'sections/blog';
 @import 'sections/contato';
 @import 'sections/eventos-e-publicacoes';
+@import 'sections/imprensa';
+@import 'sections/obrigado-pelo-contato';
 @import 'sections/politica-de-privacidade';
 @import 'sections/pronto-para-a-mudanca';
 @import 'sections/publicacoes-em-destaque';

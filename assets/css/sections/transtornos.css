@@ -1,33 +1,36 @@
-.transtornos-feed {
-	display: grid;
-	grid-template-columns: repeat(auto-fit, minmax(24rem, 1fr));
-	grid-gap: var(--spacing-md);
+.transtornos {
 }
 
-.transtornos-item {
-	align-items: flex-start;
+.transtornos-card {
+	display: flex;
 	flex-wrap: wrap;
+	align-items: flex-start;
 	gap: var(--spacing-xs) var(--spacing-md);
-  display: flex;
-  /* Make all items the same height */
+
+	/* Make all items the same height */
 	height: 100%;
 }
 
-.transtornos-item > * {
+.transtornos-card > * {
 	flex: 1;
 }
 
-.transtornos-item__icon {
-  flex-basis: 100%;
-	max-width: 6.375rem;
-  margin: 0;
+.transtornos-card__figure {
+	max-width: 6.25rem;
+	flex-basis: 6.25rem;
 }
 
-.transtornos-item__content {
-  /* Wrap columns when there's enough space to the content */
-	flex-basis: 280px;
+.transtornos-card__figure > img {
+	width: 100%;
+	margin: 0;
+}
+
+.transtornos-card__content {
+	/* Wrap columns when there's enough space to the content */
+	flex-basis: 17.5rem;
 	align-self: stretch;
-  /* Make the button be at the bottom */
+
+	/* Make the button be at the bottom */
 	display: grid;
 	align-content: space-between;
 	grid-gap: var(--spacing-md);

@@ -1,15 +1,14 @@
 {{ define "main" }}
-	<section class="section subpage-hero">
-		<picture class="subpage-hero-background">
-			<img src="/images/background.jpg" alt="Homem sentado com a mão na cabeça" />
-		</picture>
+	<section class="section subpage-hero subpage-hero--center">
 		<div class="container container--sm">
-			<div class="box text-center stack-sm">
+			<div class="text-center stack-sm">
 				<h1 class="display display--sm">Ops, parece que algo deu errado nesta busca...</h1>
-				<p class="text-lg">A página que você pesquisou não foi encontrada ou não existe. Clique aqui para voltar a página inicial ou entre em contato comigo.</p>
+				<p class="text-lg">
+					A página que você pesquisou não foi encontrada ou não existe. <br />
+					Volte a <a href="/">página inicial</a> ou <a href="/contato/">entre em contato</a> comigo.
+				</p>
 			</div>
 		</div>
+		{{ partial "line.html" }}
 	</section>
-
-	{{ partial "call-to-action.html" . }}
 {{ end }}

@@ -45,7 +45,7 @@
 	--heading-sm: 1.5rem; /* Equivalent to 24px */
 	--heading--xs: 1.12rem; /* Equivalent to 18px */
 
-	--paragraph-xl: 1.75rem; /* Equivalent to 28px */
+	--paragraph-xl: 1.5rem; /* Equivalent to 28px */
 	--paragraph-lg: 1.25rem; /* Equivalent to 20px */
 	--paragraph-md: 1rem; /* Equivalent to 16px */
 	--paragraph-sm: 0.75rem; /* Equivalent to 12px */
@@ -92,6 +92,15 @@
 	--radius-md: 0.5rem; /* Equivalent to 8px */
 	--radius-sm: 0.25rem; /* Equivalent to 4px */
 	--radius-xs: 0.125rem; /* Equivalent to 2px */
+
+	/* ============================================= */
+	/* Z-index */
+	/* ============================================= */
+
+	--z-index-background: -4;
+	--z-index-line: -3;
+	--z-index-image: -2;
+	--z-index-overlay: -1;
 }
 
 @media (--phone), (--tablet) {

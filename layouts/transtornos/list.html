@@ -1,23 +1,17 @@
 {{ define "main" }}
 	<section class="section transtornos">
 		<div class="stack-xl">
-			<div class="container container--xs">
+			<div class="container container--md">
 				<div class="stack-sm text-center">
-					<h1 class="display display--lg">Transtornos</h1>
+					<h1 class="display display--md">Principais áreas de atuação e tipos de transtornos</h1>
 					<p class="text-xl">Entenda quais são os principais tipos de transtornos e como funcionam.</p>
 				</div>
 			</div>
 			<div class="container">
-				<div class="stack-lg">
-					<div class="stack-sm text-center">
-						<h2 class="overline overline--md">Tipos de transtornos</h2>
-						<p class="heading heading--md">Principais áreas de atuação e tipos de transtornos</p>
-					</div>
-					<div class="transtornos-feed">
-						{{ range sort .Page.RegularPages ".Params.name" }}
-							{{ .Render "card" }}
-						{{ end }}
-					</div>
+				<div class="feed feed--lg">
+					{{ range sort .Page.RegularPages ".Params.name" }}
+						{{ .Render "card" }}
+					{{ end }}
 				</div>
 			</div>
 			<div class="container container--xs">

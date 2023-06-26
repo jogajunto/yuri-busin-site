@@ -1,14 +1,13 @@
 .subpage-hero {
 	min-height: 100vh;
 
-	/* Align content to center */
+	/* Align content to the bottom by default */
 	display: grid;
-	align-content: center;
-	align-content: end;
+	align-content: flex-end;
+}
 
-	/* Make content be above the background and the gradient */
-	position: relative;
-	z-index: 0;
+.subpage-hero--center {
+	align-content: center;
 }
 
 .subpage-hero-background {
@@ -19,7 +18,7 @@
 	position: absolute;
 	left: 0;
 	right: 0;
-	z-index: -2;
+	z-index: var(--z-index-background);
 }
 
 .subpage-hero-background::before {

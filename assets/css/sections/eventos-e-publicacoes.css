@@ -1,6 +1,10 @@
+.eventos-e-publicacoes .container > .grid {
+	gap: var(--spacing-xxl);
+}
+
 @media (--desktop) {
 	.eventos-e-publicacoes .container > .grid {
-		grid-template-columns: 4fr 2fr;
+		grid-template-columns: 2fr 1fr;
 	}
 
 	.eventos-e-publicacoes .container > .grid > :first-child {

@@ -1,5 +1,5 @@
 .contato {
-	background: var(--gradient-1);
+	background: var(--surface-dark-1);
 	padding-bottom: 0;
 	text-align: center;
 }
@@ -11,7 +11,15 @@
 		text-align: left;
 	}
 
-	.contato .image-fill-height--left {
-		transform: translateX(-32rem);
+	.contato::before {
+		/* Add a gradient from the bottom to the top to improve readability */
+		content: '';
+		background: linear-gradient(0deg, var(--surface-dark-background) 0%, rgba(0, 0, 0, 0) 100%);
+		width: 100%;
+		height: 50%;
+		position: absolute;
+		left: 0;
+		bottom: 0;
+		z-index: var(--z-index-overlay);
 	}
 }

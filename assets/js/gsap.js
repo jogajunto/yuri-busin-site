@@ -22,7 +22,7 @@ if (scenesElement) {
 		scrollTrigger: {
 			trigger: '.scenes__items',
 			pin: '.scenes',
-			start: 'center center',
+			start: 'top top',
 			end: `+=${scenesHeight}`,
 			scrub: 0.75,
 		},

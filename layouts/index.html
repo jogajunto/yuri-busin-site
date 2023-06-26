@@ -92,13 +92,49 @@
 	<section class="section imprensa">
 		<div class="stack-xl text-center">
 			<h2 class="display display--md">Imprensa</h2>
-			<p>LOGO LOGO LOGO LOGO</p>
+			<ul class="imprensa__list">
+				<li class="imprensa__list__item">
+					<a class="imprensa__list__link" href="https://cbn.globoradio.globo.com/media/audio/265394/vozes-em-debate-relacionamentos-toxicos.htm" target="_blank" rel="noopener">
+						{{ partial "svg.html" (dict "class" "imprensa__list__logo" "viewBox" "0 0 101 70" "src" "/vectors/logo-cbn.svg" ) }}
+					</a>
+				</li>
+				<li class="imprensa__list__item">
+					<a class="imprensa__list__link" href="https://g1.globo.com/fantastico/noticia/2021/09/05/haters-o-exercito-invisivel-que-dissemina-odio-na-internet-e-nao-poupa-ninguem-de-seus-ataques.ghtml" target="_blank" rel="noopener">
+						{{ partial "svg.html" (dict "class" "imprensa__list__logo" "viewBox" "0 0 90 70" "src" "/vectors/logo-fantastico.svg" ) }}
+					</a>
+				</li>
+				<li class="imprensa__list__item">
+					<a class="imprensa__list__link" href="https://super.abril.com.br/saude/gordofobia-faz-tao-mal-a-saude-quanto-o-excesso-de-peso/" target="_blank" rel="noopener">
+						{{ partial "svg.html" (dict "class" "imprensa__list__logo" "viewBox" "0 0 118 70" "src" "/vectors/logo-super-interessante.svg" ) }}
+					</a>
+				</li>
+				<li class="imprensa__list__item">
+					<a class="imprensa__list__link" href="https://www1.folha.uol.com.br/equilibrioesaude/2018/01/1947407-especialistas-dao-dicas-de-como-cumprir-as-promessas-de-ano-novo.shtml" target="_blank" rel="noopener">
+						{{ partial "svg.html" (dict "class" "imprensa__list__logo" "viewBox" "0 0 182 70" "src" "/vectors/logo-folha-sp.svg" ) }}
+					</a>
+				</li>
+				<li class="imprensa__list__item">
+					<a class="imprensa__list__link" href="https://www.uol.com.br/tilt/ultimas-noticias/redacao/2016/04/11/por-que-fechamos-os-olhos-durante-um-beijo-razao-nao-e-romantica.htm" target="_blank" rel="noopener">
+						{{ partial "svg.html" (dict "class" "imprensa__list__logo" "viewBox" "0 0 92 70" "src" "/vectors/logo-uol.svg" ) }}
+					</a>
+				</li>
+				<li class="imprensa__list__item">
+					<a class="imprensa__list__link" href="https://g1.globo.com/fantastico/podcast/isso-esta-acontecendo/noticia/2021/05/22/isso-esta-acontecendo-de-onde-vem-tanto-odio-podcast-investiga-a-mente-dos-haters-ouca-agora.ghtml" target="_blank" rel="noopener">
+						{{ partial "svg.html" (dict "class" "imprensa__list__logo" "viewBox" "0 0 54 70" "src" "/vectors/logo-g1.svg" ) }}
+					</a>
+				</li>
+				<li class="imprensa__list__item">
+					<a class="imprensa__list__link" href="https://vejasp.abril.com.br/cidades/psicologos-internet/" target="_blank" rel="noopener">
+						{{ partial "svg.html" (dict "class" "imprensa__list__logo" "viewBox" "0 0 98 70" "src" "/vectors/logo-veja.svg" ) }}
+					</a>
+				</li>
+			</ul>
 		</div>
 	</section>
 
 	<section class="section eventos-e-publicacoes">
 		<div class="container">
-			<div class="grid" style="--gapX: var(--spacing-xxl)">
+			<div class="grid">
 				<div class="stack-lg">
 					<h2 class="heading heading--md">Eventos</h2>
 					<div class="grid" style="--gap: var(--spacing-md)">
@@ -119,7 +155,7 @@
 						<li><a href="">Trabalhos científicos publicados</a></li>
 						<li><a href="">Pesquisa compulsão por smartphones</a></li>
 					</ul>
-					<a class="button button--negative" href="/blog/">Ver mais</a>
+					<a class="button button--line" href="/blog/">Ver mais</a>
 				</div>
 			</div>
 		</div>

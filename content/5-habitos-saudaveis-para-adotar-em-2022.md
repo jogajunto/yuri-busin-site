@@ -5,8 +5,7 @@ description: Separei algumas dicas de hábitos saudáveis para você aplicar em
   um deles e assim que ele estiver integrado à sua rotina, experimente começar
   um novo hábito.
 slug: 5-habitos-saudaveis-para-adotar-2022
-categories:
-  - Cotidiano
+category: Cotidiano
 type: blog
 image: 5-habitos-saudaveis-para-adotar-em-2022.jpg
 date: 2022-01-13T23:28:11.402Z

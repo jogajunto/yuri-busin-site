@@ -4,8 +4,7 @@ description: Uma fobia pode ser considerada um tipo de transtorno de ansiedade
   que se apresenta na forma de um medo persistente, irracional e excessivo sobre
   algo. Saiba mais sobre essa fobia aqui!
 slug: o-que-e-pistantrofobia
-categories:
-  - Cotidiano
+category: Cotidiano
   - Saúde
 type: blog
 image: pistantrofobia-o-que-e.jpg

@@ -4,8 +4,7 @@ description: o hábito de pensar positivo pode ser conseguido com pequenos
   ajustes na rotina, como, por exemplo, se afastar de relacionamentos tóxicos e
   manter pessoas positivas por perto.
 slug: a-importancia-de-conviver-com-pessoas-positivas
-categories:
-  - Cotidiano
+category: Cotidiano
 type: blog
 image: a-importancia-de-conviver-com-pessoas-positivas.jpg
 date: 2022-03-14T11:57:27.024Z

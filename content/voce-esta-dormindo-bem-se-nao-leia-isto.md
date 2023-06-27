@@ -5,8 +5,7 @@ description: Dormir e ter uma boa noite de descanso é fundamental para se mante
   de sono. Porém, cada vez mais as pessoas têm dormido menos ou tendo
   dificuldade para dormir.
 slug: como-dormir-melhor
-categories:
-  - Cotidiano
+category: Cotidiano
 type: blog
 image: como-vencer-a-ins_nia-sem-o-uso-de-rem_dios.jpg
 date: 2021-10-31T14:09:43.685Z

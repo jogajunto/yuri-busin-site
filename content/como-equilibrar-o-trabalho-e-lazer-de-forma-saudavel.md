@@ -5,8 +5,7 @@ description: Equilibrar a vida profissional e pessoal pode ser desafiador.
   desejo de sucesso profissional pode nos levar a deixar de lado nosso próprio
   bem-estar.
 slug: como-equilibrar-o-trabalho-e-lazer-de-forma-saudavel
-categories:
-  - Cotidiano
+category: Cotidiano
 type: blog
 image: como-equilibrar-o-trabalho-e-lazer-de-forma-saudavel.jpg
 date: 2022-11-28T12:09:23.844Z

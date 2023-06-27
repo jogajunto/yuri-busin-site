@@ -2,7 +2,7 @@
 title: '5 transtornos mentais que, talvez, você não conhece'
 date: 2019-06-24
 image: 'menino-com-a-m_o-no-rosto-sofrendo-de-transtornos-mentais.jpg'
-categories: ['Saúde']
+category: Saúde
 description: 'Neste artigo, trago exemplos de doenças que não são muito conhecidas do público, mas que afetam a qualidade de vida de uma pessoa. Acompanhe a lista!'
 draft: false
 type: blog

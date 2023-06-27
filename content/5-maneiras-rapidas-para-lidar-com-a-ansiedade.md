@@ -3,8 +3,7 @@ title: 5 maneiras rápidas para lidar com a ansiedade
 description: A ansiedade também pode levar a outros problemas ou hábitos que
   podem piorar a saúde física e mental. Por isso, aqui estão cinco maneiras
   sadias de lidar com a situação.
-categories:
-  - Saúde
+category: Saúde
   - Cotidiano
 type: blog
 image: como-evitar-a-ansiedade-psicologo-comportamental.jpg

@@ -3,8 +3,7 @@ title: Como aliviar o stress rapidamente?
 description: 'Com o atual estilo de vida, em que as pessoas têm uma rotina
   corrida, muitas ainda não sabem como aliviar o stress. '
 slug: aliviar-stress-rapidamente
-categories:
-  - Cotidiano
+category: Cotidiano
 type: blog
 image: aliviar-stress.jpg
 date: 2020-07-06T23:31:35.611Z

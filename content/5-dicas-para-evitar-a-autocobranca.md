@@ -2,8 +2,7 @@
 title: 5 dicas para evitar a autocobrança
 description: Neste artigo, apresento o que é a autocobrança, porque ela ocorre,
   e quais são os prejuízos para a vida das pessoas.
-categories:
-  - Saúde
+category: Saúde
 type: blog
 image: homem-triste-sofrendo-com-a-autocobran_a.jpg
 date: 2019-08-07

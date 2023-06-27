@@ -5,8 +5,7 @@ description: Seja você a pessoa que ficou com o coração partido ou quem decid
   ninguém. Os rompimentos machucam e o luto pode levar mais tempo do que a
   maioria gostaria de admitir.
 slug: como-superar-termino-de-um-namoro
-categories:
-  - Cotidiano
+category: Cotidiano
 type: blog
 image: como-superar-o-termino-de-um-namoro.jpg
 date: 2022-09-08T17:11:50.552Z

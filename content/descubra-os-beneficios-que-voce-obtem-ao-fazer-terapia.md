@@ -5,8 +5,7 @@ description: Existem muitos motivos que podem motivar uma pessoa a fazer
   período de ansiedade ou depressão, bem como a experiência de se lidar com uma
   grande transição de vida.
 slug: beneficios-fazer-terapia
-categories:
-  - Cotidiano
+category: Cotidiano
 type: blog
 image: beneficio_terapia.jpg
 date: 2021-06-23T15:38:21.438Z

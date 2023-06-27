@@ -2,8 +2,7 @@
 title: Sinais que seu filho precisa de um psicólogo
 description: Como saber se seu filho está realmente lutando com algo mais sério?
   Quando procurar um psicólogo? Saiba mais neste artigo!.
-categories:
-  - Cotidiano
+category: Cotidiano
 type: blog
 image: menina-com-m_os-no-rosto-com-sinais-de-que-precisa-de-um-psicologo.jpg
 date: 2019-08-26

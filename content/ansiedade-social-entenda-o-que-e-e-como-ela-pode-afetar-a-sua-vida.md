@@ -4,8 +4,7 @@ description: Se a resposta for “sim” para uma ou mais dessas perguntas, talv
   você esteja sofrendo de ansiedade, principalmente, se esses sentimentos estão
   dificultando as suas tarefas diárias.
 slug: ansiedade-social-entenda-o-que-e
-categories:
-  - Cotidiano
+category: Cotidiano
 type: blog
 image: ansiedade-social.jpg
 date: 2021-05-10T11:19:19.439Z

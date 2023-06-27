@@ -3,8 +3,7 @@ title: 5 dicas para vencer a insegurança no relacionamento
 description: A insegurança pode trazer diversos problemas dentro de um
   relacionamento. Em alguns casos, ela pode ser um dos principais motivos para
   diminuir a qualida...
-categories:
-  - Cotidiano
+category: Cotidiano
 type: blog
 image: inseguran_a-no-relacionamento-830x450.jpg
 date: 2018-04-02

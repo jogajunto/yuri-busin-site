@@ -3,8 +3,7 @@ title: Como um psicólogo pode me ajudar a emagrecer?
 description: Quem deseja emagrecer passa por um processo longo que nem sempre é
   fácil. São dietas, remédios, adoção de uma rotina de atividades físicas...
 slug: Quer-saber-como-emagrecer?-Saiba-como-psicólogo-pode-ajudar
-categories:
-  - Cotidiano
+category: Cotidiano
 type: blog
 image: emagrescer.jpg
 date: 2020-10-20T11:53:32.042Z

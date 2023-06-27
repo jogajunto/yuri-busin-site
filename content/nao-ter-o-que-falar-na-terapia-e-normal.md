@@ -3,8 +3,7 @@ title: Não ter o que falar na terapia é normal?
 description: Está com receio de se abrir com o terapeuta e acha que pode ser
   algo chato para a sua sessão? Isso é normal. Entenda como superar esse
   bloqueio mental.
-categories:
-  - Cotidiano
+category: Cotidiano
 type: blog
 image: nao-ter-o-que-falar-na-terapia.jpg
 date: 2022-08-31T22:38:58.164Z

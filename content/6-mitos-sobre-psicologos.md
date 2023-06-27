@@ -2,7 +2,7 @@
 title: 'Entenda os 6 mitos sobre psicólogos'
 date: 2019-07-18
 image: 'psicologo-em-seu-consultorio-desmitificando-os-principais-mitos-sobre-psicologos.jpg'
-categories: ['Saúde']
+category: Saúde
 description: 'Neste artigo, pretendo desmistificar os seis principais mitos sobre psicólogos e ajudar as pessoas a procurar tratamento. Clique para saber mais!'
 draft: false
 type: blog

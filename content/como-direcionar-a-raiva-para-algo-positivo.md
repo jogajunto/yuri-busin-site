@@ -5,8 +5,7 @@ description: Para muitas pessoas, a
   é uma emoção difícil de se processar.  Enquanto uns externam essa emoção por
   meio de explosões violentas, outros acabam tentando reprimir esse sentimento.
 slug: como-direcionar-raiva-algo-positivo
-categories:
-  - Cotidiano
+category: Cotidiano
 type: blog
 image: raiva.jpg
 date: 2021-05-24T11:16:59.768Z

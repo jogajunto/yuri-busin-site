@@ -5,8 +5,7 @@ description: O ciúme não é algo sobre o qual temos muito controle. Na verdade
   ou outro da vida. Porém, ele deixa de ser algo natural quando ele se apresenta
   em excesso.
 slug: 4-coisas-que-ninguem-nunca-falou-sobre-ciume
-categories:
-  - Cotidiano
+category: Cotidiano
 type: blog
 image: casal-contra-luz-com-parceiro-fazendo-chantagem-emocional.jpg
 date: 2021-11-17T17:27:47.160Z

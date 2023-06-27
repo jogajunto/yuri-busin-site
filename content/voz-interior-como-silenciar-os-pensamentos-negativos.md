@@ -5,8 +5,7 @@ description: Quando a vida não está saindo como o planejado, é fácil entrar 
   pensamentos hipotéticos e desastrosos, impulsionados pelo medo e pela
   preocupação.
 slug: voz-interior-como-silenciar-os-pensamentos-negativos
-categories:
-  - Cotidiano
+category: Cotidiano
 type: blog
 image: borderline-personalidade.jpg
 date: 2022-04-15T11:00:40.282Z

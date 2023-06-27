@@ -3,8 +3,7 @@ title: Como funciona a terapia cognitiva comportamental?
 description: A terapia cognitiva comportamental (TCC) é um tipo de tratamento
   psicoterapêutico que auxilia os pacientes a entender os sentimentos e
   pensamentos que...
-categories:
-  - Cotidiano
+category: Cotidiano
 type: blog
 image: terapia_comportamental_cognitiva.jpeg
 date: 2018-07-12

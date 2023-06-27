@@ -2,8 +2,7 @@
 title: O que é e como tratar o transtorno dissociativo-conversivo
 description: Compreender sobre experiências dissociativas não é uma tarefa
   simples, portanto, continue a leitura!
-categories:
-  - Cotidiano
+category: Cotidiano
 type: blog
 image: o-que-_-e-como-tratar-o-transtorno-dissociativo-conversivo.jpg
 date: 2020-04-21

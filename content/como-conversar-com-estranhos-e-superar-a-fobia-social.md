@@ -2,8 +2,7 @@
 title: Como conversar com estranhos e superar a fobia social?
 description: Se você quer aprender a se aproximar de alguém e iniciar novos
   contatos, leia este artigo!
-categories:
-  - Cotidiano
+category: Cotidiano
 type: blog
 image: como-conversar-com-estranhos-e-superar-a-fobia-social.jpg
 date: 2020-03-23

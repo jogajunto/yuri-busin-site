@@ -2,8 +2,7 @@
 title: Como segredos e mentiras destroem relacionamentos
 description: Neste artigo, apresento os benefícios de ser honesto com seu
   parceiro, evitando segredos e mentiras. Clique e saiba mais!
-categories:
-  - Cotidiano
+category: Cotidiano
 type: blog
 image: casal-de-namorados-preocupados-sementiras-destroem-relacionamentos.jpg
 date: 2019-07-18

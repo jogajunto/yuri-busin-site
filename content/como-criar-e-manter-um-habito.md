@@ -2,8 +2,7 @@
 title: Como criar e manter um hábito
 description: Quer criar um hábito para começar a se organizar melhor e não sabe
   como? Confira aqui dicas de como ser mais produtivo!
-categories:
-  - Cotidiano
+category: Cotidiano
 type: blog
 image: como-criar-um-habito.jpg
 date: 2022-08-08T02:56:19.214Z

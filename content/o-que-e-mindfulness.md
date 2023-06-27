@@ -4,8 +4,7 @@ description: A técnica do **mindfulness**, também conhecida como "atenção
   plena", já se tornou tendência entre executivos, empresários, palestrantes,
   estudantes e personalidades. Ela é conhecida por ajudar a executar
 slug: o-que-e-mindfulness
-categories:
-  - Cotidiano
+category: Cotidiano
 type: blog
 image: mindfullness.jpg
 date: 2020-10-23T12:10:47.932Z

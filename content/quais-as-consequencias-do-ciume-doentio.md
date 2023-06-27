@@ -2,8 +2,7 @@
 title: 'Quais as consequências do ciúme doentio?'
 date: 2020-01-29
 image: 'consequencias-do-ciume-doentio.jpg'
-categories:
-  - Cotidiano
+category: Cotidiano
 description: 'Se você realmente deseja mudar suas emoções e erradicar o comportamento ciumento, continue a leitura!'
 draft: false
 type: blog

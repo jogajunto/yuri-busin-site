@@ -2,8 +2,7 @@
 title: O que é transtorno de personalidade narcisista?
 description: Se você está vivendo com esse distúrbio ou conhece alguém com esses
   sintomas, continue a leitura para saber mais!
-categories:
-  - Saúde
+category: Saúde
 type: blog
 image: homem-com-transtorno-de-personalidade-narcisista-olhando-no-espelho.jpg
 date: 2019-08-07

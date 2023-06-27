@@ -3,8 +3,7 @@ title: Quem deve fazer terapia com psicólogo?
 description: Está com dúvidas se precisa começar um tratamento com psicólogo ou
   conhece alguém que talvez precise e não tem certeza? Confira aqui para quem
   ela é recomendada.
-categories:
-  - Cotidiano
+category: Cotidiano
 type: blog
 image: para-quem-e-indicada-a-terapia.jpg
 date: 2022-08-26T22:28:12.743Z

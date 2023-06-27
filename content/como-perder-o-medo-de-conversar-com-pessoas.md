@@ -3,8 +3,7 @@ title: Como perder o medo de conversar com pessoas?
 description: Por isso, se você está tentando ser alguém mais social, mas o medo
   está o controlando, continue a leitura e saiba como conversar mais com os
   outros.
-categories:
-  - Saúde
+category: Saúde
 type: blog
 image: homem-com-vergonha-com-medo-de-conversar-com-pessoas.jpg
 date: 2019-04-06

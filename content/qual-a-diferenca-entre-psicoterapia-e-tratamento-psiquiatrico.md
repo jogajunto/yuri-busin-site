@@ -3,8 +3,7 @@ title: Qual a diferença entre psicoterapia e tratamento psiquiátrico?
 description: A tem diversos tipos de tratamento, que inclui a psicoterapia e o
   tratamento psiquiátrico. Apesar da semelhança dos nomes
 slug: qual-diferenca-psicoterapia-tratamento-psiquiatrico
-categories:
-  - Cotidiano
+category: Cotidiano
 type: blog
 image: robina-weermeijer-3kgf9r_0ohs-unsplash-1-.jpg
 date: 2020-10-23T12:16:17.279Z

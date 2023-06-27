@@ -1,8 +1,7 @@
 ---
 title: Agorafobia? O que é e seus principais sintomas
 description: A agorafobia pode ser definida como um medo de estar em situações onde a fuga pode ser difícil ou que a ajuda não estaria disponível se as coisas derem...
-categories:
-  - Saúde
+category: Saúde
 type: blog
 image: thomas-lefebvre-20957-unsplash.jpg
 date: 2018-09-05T16:13:19.420Z

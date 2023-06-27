@@ -4,8 +4,7 @@ description: Antes de você se aventurar em como ser mais produtivo, a primeira
   coisa que é preciso entender é que você precisa ser gentil com você mesmo e
   com seus erros.
 slug: quer-ser-mais-produtivo-nao-sabe-por-onde-comecar
-categories:
-  - Cotidiano
+category: Cotidiano
 type: blog
 image: ser-produtivo.jpg
 date: 2021-06-23T15:43:39.989Z

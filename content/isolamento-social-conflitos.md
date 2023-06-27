@@ -5,8 +5,7 @@ description: Com a chegada do
   nova realidade se instalou nas casas pelo mundo afora. Por conta do isolamento
   social é comum que o convívio seja mais intenso e, consequentemente, as
   famílias tenham de resolver conflitos constantemente.
-categories:
-  - Cotidiano
+category: Cotidiano
 type: blog
 image: isolado.jpg
 date: 2020-09-25T17:09:05.910Z

@@ -4,8 +4,7 @@ description: É comum que as pessoas enfrentem mudanças repentinas de humor,
   afinal, a vida é cheia de altos e baixos. No entanto, há uma grande diferença
   entre experimentar emoções e ter uma instabilidade emocional
 slug: instabilidade-emocional
-categories:
-  - Saúde
+category: Saúde
 type: blog
 image: instabilidade_emocional.jpg
 date: 2018-10-09

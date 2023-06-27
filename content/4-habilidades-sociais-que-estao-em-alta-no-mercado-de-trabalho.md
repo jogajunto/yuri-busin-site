@@ -6,8 +6,7 @@ description: Cada vez mais as habilidades sociais têm se tornado essenciais no
   ajudará a atingir seus objetivos de carreira, mas também a contribuir para o
   crescimento do negócio, além de ter um bom desempenho no ambiente de trabalho.
 slug: 4-habilidades-sociais-em-alta-no-mercado
-categories:
-  - Cotidiano
+category: Cotidiano
 type: blog
 image: 4-habilidades-sociais-que-estao-em-alta-no-mercado-de-trabalho.jpg
 date: 2021-09-13T16:24:48.522Z

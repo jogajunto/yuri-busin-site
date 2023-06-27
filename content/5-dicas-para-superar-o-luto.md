@@ -2,8 +2,7 @@
 title: 5 dicas para superar o luto
 description: Aqui estão 5 pequenas ações que você pode realizar todos os dias
   para ajudar a se mover em direção a superação.
-categories:
-  - Cotidiano
+category: Cotidiano
 type: blog
 image: 5-dicas-para-superar-o-luto.jpg
 date: 2019-11-29

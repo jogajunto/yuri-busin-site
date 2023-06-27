@@ -4,8 +4,7 @@ description: É muito comum que um relacionamento esfrie com o tempo.  Às vezes
   um namoro ou casamento pode ser exaustivo, principalmente quando ele cai na
   rotina.
 slug: O-que-fazer-quando-o-relacionamento-esfria
-categories:
-  - Cotidiano
+category: Cotidiano
 type: blog
 image: relacionamento_esfria.jpg
 date: 2021-02-24T12:21:55.599Z

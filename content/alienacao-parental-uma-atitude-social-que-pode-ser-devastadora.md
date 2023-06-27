@@ -3,8 +3,7 @@ title: Alienação Parental pode ser devastadora
 description: Em muitos casos de separação de casais que possuem filhos ocorre
   uma atitude denominada de Alienação Parental, isso consiste na tentativa do
   pai ou da mãe..
-categories:
-  - Cotidiano
+category: Cotidiano
 type: blog
 image: ImageResizer.net-g8q7ryu7m2w31vm.jpg
 date: 2015-09-29

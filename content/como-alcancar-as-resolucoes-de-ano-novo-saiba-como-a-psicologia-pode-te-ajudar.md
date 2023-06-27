@@ -1,8 +1,7 @@
 ---
 title: Psicologia ajuda a alcançar as resoluções de ano novo
 description: Como alcançar as resoluções de ano novo? Saiba como a Psicologia pode te ajudar
-categories:
-  - Cotidiano
+category: Cotidiano
 type: blog
 image: resolu__es-de-ano-novo.jpg
 date: 2019-12-17

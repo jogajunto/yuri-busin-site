@@ -3,8 +3,7 @@ title: Como estimular a dopamina
 description: A dopamina é uma substância química do cérebro que desempenha um
   papel importante na regulação de várias funções, mas você sabe como
   estimula-la?
-categories:
-  - Cotidiano
+category: Cotidiano
 type: blog
 image: como-estimular-dopamina-psicologia-comportamental.jpg
 date: 2022-08-23T22:19:50.923Z

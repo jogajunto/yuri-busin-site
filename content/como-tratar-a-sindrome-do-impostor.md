@@ -5,8 +5,7 @@ description: 'Eu não pertenço aqui”. “Eu sou uma fraude”. “Em algum mo
   esses sentimentos de dúvida e inadequação em algum momento da vida. Esses
   sentimentos têm um nome: a síndrome do impostor.'
 slug: como-tratar-a-sindrome-do-impostor
-categories:
-  - Cotidiano
+category: Cotidiano
 type: blog
 image: como-tratar-a-sindrome-do-impostor.jpg
 date: 2022-11-04T15:05:14.183Z

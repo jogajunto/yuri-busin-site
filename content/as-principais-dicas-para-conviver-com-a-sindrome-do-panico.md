@@ -3,8 +3,7 @@ title: As principais dicas para conviver com a síndrome do pânico
 description: A síndrome do pânico (TP) é um problema mais comum do que
   imaginamos. Caracterizada por ataques recorrentes de medo e pânico...
 slug: principais-dicas-sindrome-panico
-categories:
-  - Cotidiano
+category: Cotidiano
 type: blog
 image: panico.jpg
 date: 2020-12-24T12:32:58.316Z

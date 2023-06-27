@@ -3,8 +3,7 @@ title: Como saber se um relacionamento chegou ao fim?
 description: É muito comum os recém-solteiros afirmarem que deveriam ter
   terminado um antigo relacionamento mais cedo.
 slug: como-saber-se-relacionamento-chegou-ao-fim
-categories:
-  - Cotidiano
+category: Cotidiano
 type: blog
 image: relacionamento_fim.jpg
 date: 2021-05-24T11:31:34.154Z

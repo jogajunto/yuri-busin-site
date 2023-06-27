@@ -5,8 +5,7 @@ description: O transtorno da compulsão alimentar é uma condição bastante com
   alimentos. Geralmente, esse transtorno também vem acompanhado da sensação de
   perda de controle durante a compulsão, além da culpa e da vergonha.
 slug: como-diminuir-compulsao-alimentar
-categories:
-  - Cotidiano
+category: Cotidiano
 type: blog
 image: como-diminuir-a-compulsao-alimentar-.jpg
 date: 2021-12-22T10:45:24.733Z

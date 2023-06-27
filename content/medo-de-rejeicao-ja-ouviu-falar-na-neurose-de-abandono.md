@@ -4,8 +4,7 @@ description: A neurose do abandono pode ser entendida como aquele indivíduo que
   tem um medo exagerado de que pessoas próximas vão rejeitá-lo ou simplesmente
   irem embora e deixá-lo sozinho.
 slug: medo-rejeicao-abandono
-categories:
-  - Cotidiano
+category: Cotidiano
 type: blog
 image: rejeicao.jpg
 date: 2021-05-10T11:21:46.713Z

@@ -2,8 +2,7 @@
 title: Como perdoar alguém que te magoou
 description: Preparei este artigo com algumas dicas de como você pode praticar a
   resiliência e tirar um aprendizado de algo que te machucou.
-categories:
-  - Cotidiano
+category: Cotidiano
 type: blog
 image: evan-kirby-101570-unsplash.jpg
 date: 2019-01-30

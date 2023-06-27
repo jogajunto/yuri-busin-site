@@ -2,8 +2,7 @@
 title: 'A caixinha do nada: como os homens se desligam do mundo'
 description: Os dias passam, os anos se vão, e a discussão entre as diferenças
   entre homens e mulheres permanece. Como os homens se desligam do mundo?
-categories:
-  - Cotidiano
+category: Cotidiano
 type: blog
 image: homem-sentado-na-nuvem-com-notebook-o-homem-na-caixinha-do-nada.jpg
 date: 2015-09-17

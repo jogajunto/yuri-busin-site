@@ -3,8 +3,7 @@ title: Qual a diferença entre estar sozinha e se sentir solitária?
 description: Há uma grande diferença entre estar sozinha e se sentir solitária e
   essas duas condições tem consequências distintas. Por isso, é fundamental
   perceber...
-categories:
-  - Cotidiano
+category: Cotidiano
 type: blog
 image: solid_o_Qual-a-diferen_a-entre-estar-sozinha-e-se-sentir-sozinha.jpg
 date: 2017-12-17

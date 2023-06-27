@@ -1,8 +1,7 @@
 ---
 title: 'Atendimento online: alternativa durante a pandemia'
 description: Quer saber mais sobre terapia online? Continue lendo este artigo.
-categories:
-  - Cotidiano
+category: Cotidiano
 type: blog
 image: atendimento-online-alternativa-durante-a-pandemia.jpg
 date: 2020-06-02T16:12:19.420Z

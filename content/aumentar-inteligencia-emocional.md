@@ -2,8 +2,7 @@
 title: Maneiras de aumentar a sua inteligência emocional
 description: Você sabia que uma pessoa com Inteligência Emocional (IE) elevada
   supera aquela que tem um Quociente de Inteligência (QI) alto?
-categories:
-  - Cotidiano
+category: Cotidiano
 type: blog
 image: maneiras-de-aumentar-a-sua-inteligencia-emocional.jpg
 date: 2020-09-20T22:26:53.841Z

@@ -5,8 +5,7 @@ description: A autossabotagem é perigosa, pois ela corrói a sua autoconfiança
   fracassada de fazer algo que deseja, você "prova" a si mesmo que não pode ou
   não deve fazê-lo.
 slug: 6-comportamentos-que-sinalizam-uma-autossabotagem
-categories:
-  - Cotidiano
+category: Cotidiano
 type: blog
 image: 6-comportamentos-que-sinalizam-uma-autossabotagem.jpg
 date: 2022-12-30T16:31:26.256Z

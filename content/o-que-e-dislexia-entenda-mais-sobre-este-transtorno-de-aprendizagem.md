@@ -5,8 +5,7 @@ description: A dislexia é um transtorno de aprendizagem em que a pessoa
   identificar os sons da fala e como eles se relacionam com as letras e
   palavras.
 slug: o-que-e-dislexia
-categories:
-  - Cotidiano
+category: Cotidiano
 type: blog
 image: dislexia-entenda-mais-sobre-este-transtorno-de-aprendizagem.jpg
 date: 2021-11-08T18:17:56.232Z

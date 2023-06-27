@@ -4,8 +4,7 @@ description: Os sintomas da ansiedade, confusão de pensamentos e ataques de
   pânico do nada. Muita gente acaba lançando mão de medicamentos para conseguir
   controlar a ansiedade.
 slug: ansiedade-sem-remedios
-categories:
-  - Cotidiano
+category: Cotidiano
 type: blog
 image: ansiedade-sem-remedios.jpg
 date: 2021-08-11T13:24:43.016Z

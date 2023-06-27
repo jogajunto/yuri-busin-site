@@ -1,8 +1,7 @@
 ---
 title: 5 maneiras de controlar o estresse
 description: O estresse está cada vez mais presente na vida das pessoas e pode trazer graves consequências. É fundamental encontrar maneiras para controlar o estresse...
-categories:
-  - Cotidiano
+category: Cotidiano
 type: blog
 image: 5-maneiras-de-se-livrar-do-stress.jpg
 date: 2018-01-29T16:13:19.420Z

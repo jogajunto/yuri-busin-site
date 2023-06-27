@@ -4,8 +4,7 @@ description: Muitas pessoas enfrentam nervosismo, agitação, tensão, dor no pe
   e estresse de forma crônica e nem suspeitam que precisam de **tratamento para
   a ansiedade**.
 slug: tratamento-ansiedade-melhor
-categories:
-  - Cotidiano
+category: Cotidiano
 type: blog
 image: melhor_tratamento_ansiedade.jpg
 date: 2021-02-24T12:24:14.313Z

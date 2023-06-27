@@ -4,8 +4,7 @@ description: Ao longo de nossas vidas aprendemos a lição de que a paciência �
   uma virtude. É comum ouvirmos que o controle da impaciência resultará em menos
   estresse e maior aproveitamento da vida.
 slug: paciencia-versus-impaciencia-como-equilibrar-essa-balanca
-categories:
-  - Cotidiano
+category: Cotidiano
 type: blog
 image: paciencia-versus-impaciencia-como-equilibrar-essa-balanca.jpg
 date: 2022-10-25T11:05:18.796Z

@@ -3,8 +3,7 @@ title: Como ter mais disciplina em 2023 e alcançar os seus objetivos
 description: Mais um fim de ano se aproxima, e, com ele, as pessoas já começam a
   planejar uma série de metas e objetivos para o vindouro 2023.
 slug: como-ter-mais-disciplina-em-2023-e-alcancar-os-seus-objetivos
-categories:
-  - Cotidiano
+category: Cotidiano
 type: blog
 image: como-ter-mais-disciplina-em-2023-e-alcancar-os-seus-objetivos.jpg
 date: 2022-12-15T12:29:01.501Z

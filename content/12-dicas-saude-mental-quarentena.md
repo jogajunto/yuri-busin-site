@@ -3,8 +3,7 @@ title: Como cuidar da saúde mental na quarentena?
 description: Sabemos que estamos em tempos difíceis, então como não surtar no
   meio deste caos? Eu separei 12 dicas de como cuidar da sua saúde mental na
   quarentena!
-categories:
-  - Cotidiano
+category: Cotidiano
 type: blog
 image: matt-duncan-IUY_3DvM__w-unsplash-scaled.jpg
 date: 2020-03-29

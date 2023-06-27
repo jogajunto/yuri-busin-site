@@ -3,8 +3,7 @@ title: Como acabar com a preguiça?
 description: A procrastinação - um nome bonito para "preguiça" - é algo comum a
   todos e tem origem na maneira como os nossos cérebros funcionam.
 slug: como-acabar-preguica
-categories:
-  - Cotidiano
+category: Cotidiano
 type: blog
 image: preguica.jpg
 date: 2021-05-10T11:16:22.737Z

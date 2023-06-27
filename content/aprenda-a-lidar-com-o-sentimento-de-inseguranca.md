@@ -4,8 +4,7 @@ description: Todo mundo se sente um pouco inseguro às vezes. Esse sentimento de
   inadequação é comum, porém, em excesso, ele pode gerar problemas nos
   relacionamentos, no trabalho, assim como na vida cotidiana como um todo.
 slug: aprenda-a-lidar-com-inseguranca
-categories:
-  - Cotidiano
+category: Cotidiano
 type: blog
 image: aprenda-a-lidar-com-inseguranca.jpg
 date: 2021-10-13T15:21:27.146Z

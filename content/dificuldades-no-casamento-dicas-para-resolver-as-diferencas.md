@@ -2,8 +2,7 @@
 title: Como resolver as diferenças no casamento?
 description: Neste artigo, você vai conhecer as fontes mais comuns de estresse e
   problemas conjugais, bem como resolvê-los. Confira!
-categories:
-  - Cotidiano
+category: Cotidiano
 type: blog
 image: dificuldades-no-casamento.jpeg
 date: 2019-03-11

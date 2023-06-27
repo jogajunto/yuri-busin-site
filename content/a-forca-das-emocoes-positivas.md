@@ -2,8 +2,7 @@
 title: 'A força das emoções positivas'
 date: 2020-01-31
 image: 'homem-com-emo__es-positivas.jpg'
-categories:
-  - Cotidiano
+category: Cotidiano
 description: 'Neste artigo, apresento os benefícios de cultivar as emoções positivas para uma melhor qualidade de vida. Confira!'
 draft: false
 type: blog

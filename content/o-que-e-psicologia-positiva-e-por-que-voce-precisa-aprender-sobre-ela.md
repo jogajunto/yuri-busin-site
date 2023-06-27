@@ -4,8 +4,7 @@ description: A psicologia positiva é um ramo recente da psicologia que busca se
   concentrar em como ajudar as pessoas a prosperarem e ter uma vida mais
   saudável e feliz.
 slug: o-que-e-psicologia-positiva
-categories:
-  - Cotidiano
+category: Cotidiano
 type: blog
 image: o-que-e-psicologia-positiva-e-por-que-voce-precisa-aprender-sobre-ela-.jpg
 date: 2022-04-03T12:35:28.137Z

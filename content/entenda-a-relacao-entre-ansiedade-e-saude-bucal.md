@@ -4,8 +4,7 @@ description: Quando falamos em saúde bucal, ainda é muito difícil relacionar-
   a nossa saúde emocional, que tem início na nossa infância e acompanha por toda
   a vida.
 slug: relacao-entre-ansiedade-saude-bucal
-categories:
-  - Cotidiano
+category: Cotidiano
 type: blog
 image: alexander-krivitskiy-ks2uijdbmqy-unsplash-1-.jpg
 date: 2020-11-09T12:19:50.270Z

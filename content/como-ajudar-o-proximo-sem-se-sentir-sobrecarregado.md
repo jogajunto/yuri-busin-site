@@ -2,8 +2,7 @@
 title: Como ajudar o próximo sem se sentir sobrecarregado?
 description: É importante fazer algo pelo outro sim, mas sem abrir mão de si mesmo.
 slug: como-ajudar-proximo-sem-se-sentir-sobrecarregado
-categories:
-  - Cotidiano
+category: Cotidiano
 type: blog
 image: ajudar-proximo.jpg
 date: 2021-01-25T16:33:03.925Z

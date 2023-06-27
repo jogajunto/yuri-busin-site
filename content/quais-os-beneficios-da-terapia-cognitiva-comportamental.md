@@ -2,7 +2,7 @@
 title: 'Quais os benefícios da terapia cognitiva comportamental?'
 date: 2019-03-15
 image: 'benef_cios-da-terapia-cognitiva-comportamental.jpeg'
-categories: ['Saúde']
+category: Saúde
 description: 'No entanto, existem muitos outros benefícios. E é isso que você verá nesse artigo! Vamos lá?'
 draft: false
 type: blog

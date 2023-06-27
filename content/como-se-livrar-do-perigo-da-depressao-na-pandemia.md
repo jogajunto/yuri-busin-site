@@ -4,8 +4,7 @@ description: Durante a crise sanitária, todos tiveram que adotar novos hábitos
   mas nada se compara ao desafio de viver isolado e solitário, algo com
   potencial para aumentar os sintomas de estresse e ansiedade.
 slug: depressao-pandemia-como-se-livrar
-categories:
-  - Cotidiano
+category: Cotidiano
 type: blog
 image: depressao-pandemia.jpg
 date: 2021-06-23T15:41:50.926Z

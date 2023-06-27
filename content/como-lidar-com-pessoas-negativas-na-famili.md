@@ -7,8 +7,7 @@ description: Eles estão por toda a parte, inclusive em nossas famílias. As
   potencial dos outros. Toda essa negatividade também pode ser contagiosa,
   gerando padrões de pensamentos negativos nas pessoas ao redor.
 slug: como-lidar-com-pessoas-negativas-na-familia
-categories:
-  - Cotidiano
+category: Cotidiano
 type: blog
 image: como-lidar-com-pessoas-negativas-na-familia.jpg
 date: 2022-11-23T18:07:17.171Z

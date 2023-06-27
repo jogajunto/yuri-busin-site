@@ -3,8 +3,7 @@ title: 6 dicas para ter um relacionamento saudável
 description: Manter um **relacionamento saudável** requer esforço, flexibilidade
   e maturidade. Por isso, é preciso abrir algumas concessões e sair da própria
   arrogância.
-categories:
-  - Cotidiano
+category: Cotidiano
 type: blog
 image: relacionamento-saudavel.jpg
 date: 2020-09-25T17:07:44.716Z

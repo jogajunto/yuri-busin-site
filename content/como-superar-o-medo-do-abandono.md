@@ -4,8 +4,7 @@ description: Superar o medo do abandono não é simples. Mas segundo especialist
   é possível vencer essa barreira, buscando o autoconhecimento. Apesar de ficar
   solitário ser um estado natural entre os seres humanos...
 slug: medo-abandono
-categories:
-  - Cotidiano
+category: Cotidiano
 type: blog
 image: medo_abandono.jpg
 date: 2020-08-12T13:15:45.148Z

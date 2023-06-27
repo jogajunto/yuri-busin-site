@@ -2,8 +2,7 @@
 title: Como lidar com críticas
 description: Se você tem enfrentado dificuldades para lidar com as críticas,
   continue lendo este artigo!
-categories:
-  - Cotidiano
+category: Cotidiano
 type: blog
 image: lacie-slezak-128106-unsplash.jpg
 date: 2019-01-14

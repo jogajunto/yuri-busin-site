@@ -3,8 +3,7 @@ title: Os perigos da automutilação
 description: Lidar com dores emocionais nem sempre é fácil. Infelizmente, a
   consequência dessa dificuldade pode ser a automutilação.
 slug: perigos-automutilacao
-categories:
-  - Cotidiano
+category: Cotidiano
 type: blog
 image: automutilacao.jpg
 date: 2020-07-06T23:41:00.385Z

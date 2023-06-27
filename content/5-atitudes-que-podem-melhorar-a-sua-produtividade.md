@@ -5,8 +5,7 @@ description: A internet está cheia de artigos e vídeos explorando diferentes
   procrastinação. Entretanto, a maioria das pessoas falha em colocar as dicas
   aprendidas.
 slug: 5-atitudes-que-podem-melhorar-a-sua-produtividade
-categories:
-  - Cotidiano
+category: Cotidiano
 type: blog
 image: 5-atitudes-que-podem-estar-sabotando-a-sua-produtividade.jpg
 date: 2022-01-05T10:40:12.136Z

@@ -3,8 +3,7 @@ title: Como evitar a procrastinação no home office?
 description: Com o período de quarentena, muitas pessoas passaram a trabalhar em
   casa, exercendo suas funções de forma online. Assim, o home office se tornou
   uma realidade para milhares de brasileiros.
-categories:
-  - Cotidiano
+category: Cotidiano
 type: blog
 image: home-oficce.jpg
 date: 2020-09-25T17:14:30.206Z

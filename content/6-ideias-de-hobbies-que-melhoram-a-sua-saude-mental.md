@@ -7,8 +7,7 @@ description: Encontrar um tempo livre para praticar hobbies nem sempre é algo
   desenvolvimento de novas habilidades, reforço da autoestima, assim como criar
   novas conexões
 slug: 6-ideias-de-hobbies-que-melhoram-a-sua-saude-mental
-categories:
-  - Cotidiano
+category: Cotidiano
 type: blog
 image: 6-ideias-de-hobbies-que-melhoram-a-sua-saude-mental.jpg
 date: 2022-11-23T18:03:26.306Z

@@ -2,8 +2,7 @@
 title: '5 técnicas de gerenciamento do tempo'
 date: 2020-01-29
 image: 'usando-um-rel_gio-para-gerenciamento-de-tempo.jpg'
-categories:
-  - Cotidiano
+category: Cotidiano
 description: 'Se você se vê cansado e frustrado por não conseguir completar suas tarefas diárias, confira a lista de ideias de gerenciamento de tempo neste artigo.'
 draft: false
 type: blog

@@ -3,8 +3,7 @@ title: Como ter compaixão? Veja como praticar no seu dia a dia
 description: É possível desenvolver a compaixão? Esta virtude faz com que você
   seja envolvido com o sofrimento alheio e deseja reverter essa situação.
 slug: como-ter-compaixao
-categories:
-  - Cotidiano
+category: Cotidiano
 type: blog
 image: compaixao.jpg
 date: 2020-08-12T18:36:19.229Z

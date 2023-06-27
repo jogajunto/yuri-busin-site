@@ -3,8 +3,7 @@ title: Seu companheiro precisa de ajuda emocional?
 description: É difícil ver alguém com quem você se preocupa passando por algum
   problema, leia um pouco mais sobre como buscar ajuda emocional para alguém
   querido.
-categories:
-  - Cotidiano
+category: Cotidiano
 type: blog
 image: ajuda-emocional.jpeg
 date: 2018-12-11T16:13:19.420Z

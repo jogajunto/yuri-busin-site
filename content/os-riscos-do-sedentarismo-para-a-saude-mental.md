@@ -3,8 +3,7 @@ title: Os riscos do sedentarismo para a saúde mental
 description: Todo mundo conhece os riscos do sedentarismo para a saúde do corpo,
   mas poucos sabem que o exercício ajuda a melhorar a saúde mental. Clique para
   ler!
-categories:
-  - Cotidiano
+category: Cotidiano
 type: blog
 image: pessoa-assistindo-televis_o-sem-se-preocupar-com-os-riscos-do-sedentarismo.jpg
 date: 2019-05-14

@@ -3,8 +3,7 @@ title: Psicólogo Online
 description: Psicólogo online é uma prática de psicoterapia por meio das ferramentas atuais, no caso a internet.
 image: psicologo-online.jpg
 date: 2023-04-01
-categories:
-  - Psicologia
+category: Psicologia
 featured: true
 type: blog
 ---

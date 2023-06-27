@@ -3,8 +3,7 @@ title: 5 graves distúrbios disfarçados de vício no celular
 description: Os debates e críticas acerca do uso excessivo ou mesmo vício no
   celular e smartphone têm se tornado constantes na mídia e na internet.
   Afirmações de que...
-categories:
-  - Cotidiano
+category: Cotidiano
 type: blog
 image: 25639995005_fdef5615f5_o.jpg
 date: 2018-04-17

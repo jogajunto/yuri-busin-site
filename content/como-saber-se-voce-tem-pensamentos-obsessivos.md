@@ -6,8 +6,7 @@ description: Os pensamentos obsessivos são padrões de pensamentos – carregad
   pensamentos, isso só acaba levando a mais angústia e
   [ansiedade](https://yuribusin.com.br/ansiedade-sem-remedios/).
 slug: como-saber-se-voce-tem-pensamentos-obsessivos
-categories:
-  - Cotidiano
+category: Cotidiano
 type: blog
 image: como-saber-se-voce-tem-pensamentos-obsessivos.jpg
 date: 2022-10-10T12:14:41.793Z

@@ -4,8 +4,7 @@ description: Um termo muito abordado nos últimos anos, mas que ainda gera
   dúvidas em muitas pessoas, e também dificuldade de o encerrar. Afinal, essa
   situação pode ser muito difícil para quem a vive.
 slug: Por-que-encerrar-um-relacionamento-abusivo?
-categories:
-  - Cotidiano
+category: Cotidiano
 type: blog
 image: relacionamento_abusivo_2.jpg
 date: 2020-10-20T11:57:24.649Z

@@ -2,8 +2,7 @@
 title: 8 técnicas para lidar com a rejeição
 description: É possível aprender a lidar com a rejeição e dar a volta por cima,
   a partir de várias técnicas. Confira o artigo!
-categories:
-  - Cotidiano
+category: Cotidiano
 type: blog
 image: 8-t_cnicas-para-lidar-com-a-rejei__o.jpg
 date: 2020-05-07

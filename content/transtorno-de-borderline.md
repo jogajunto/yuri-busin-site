@@ -3,8 +3,7 @@ title: Quais as diferenças entre transtorno bipolar e Borderline?
 description: Porém, para algumas pessoas, a alteração é tão extrema que pode ser
   um sinal de uma condição mais grave, como o transtorno de borderline ou o
   transtorno bipolar, ambos caracterizados por grandes mudanças de humor.
-categories:
-  - Saúde
+category: Saúde
 type: blog
 image: borderline-personalidade.jpg
 date: 2018-09-26

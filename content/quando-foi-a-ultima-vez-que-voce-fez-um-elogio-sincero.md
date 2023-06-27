@@ -3,8 +3,7 @@ title: Quando foi a última vez que você fez um elogio sincero?
 description: Elogiar os outros - sem que seja com o intuito de se beneficiar de
   algo - não é algo comum. E, infelizmente, aceitar elogios é ainda mais raro.
 slug: quando-foi-a-ultima-vez-que-voce-fez-um-elogio-sincero
-categories:
-  - Cotidiano
+category: Cotidiano
 type: blog
 image: jacqueline-munguia-1pawjicd60c-unsplash-1-.jpg
 date: 2022-03-29T16:21:36.439Z

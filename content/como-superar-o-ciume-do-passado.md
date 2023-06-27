@@ -2,8 +2,7 @@
 title: Como superar o ciúme do passado?
 description: Se você está disposto a acabar com o seu ciúme do passado de uma
   vez por todas, continue a leitura!
-categories:
-  - Cotidiano
+category: Cotidiano
 type: blog
 image: como-superar-o-ci_me-do-passado.jpg
 date: 2020-03-23

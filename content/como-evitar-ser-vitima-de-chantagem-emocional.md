@@ -4,8 +4,7 @@ description: A chantagem emocional consiste em um tipo de manipulação em que u
   pessoa aproveita dos sentimentos do outro como uma forma de controlar o seu
   comportamento ou persuadi-lo a ver as coisas sob o ponto de vista dela.
 slug: como-evitar-ser-vitima-de-chantagem-emocional
-categories:
-  - Cotidiano
+category: Cotidiano
 type: blog
 image: como-evitar-ser-vitima-de-chantagem-emocional.jpg
 date: 2022-09-27T16:56:44.198Z

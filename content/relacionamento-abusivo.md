@@ -2,8 +2,7 @@
 title: Relacionamento Abusivo - Por que as pessoas insistem neles
 description: Entenda um pouco mais sobre um relacionamento abusivo e o por que
   algumas pessoas insistem eu manter esse relacionamento...
-categories:
-  - Cotidiano
+category: Cotidiano
 type: blog
 image: relacionamento_abusivo.jpg
 date: 2018-08-18

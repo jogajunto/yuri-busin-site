@@ -6,8 +6,7 @@ description: A terapia cognitiva comportamental, por exemplo, visa entender por
   cognitivos que podem motivar uma pessoa a ganhar peso, além de auxiliar nas
   alterações que precisam ser feitas para que isso não aconteça.
 slug: como-a-psicologia-pode-ajudar-uma-pessoa-a-emagrecer
-categories:
-  - Cotidiano
+category: Cotidiano
 type: blog
 image: como-a-psicologia-pode-ajudar-uma-pessoa-a-emagrecer.jpg
 date: 2022-11-11T16:34:44.319Z

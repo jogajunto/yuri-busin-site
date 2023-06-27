@@ -2,8 +2,7 @@
 title: 'Como um psicólogo pode ajudar a parar de fumar?'
 date: 2020-03-03
 image: 'fumante-com-o-desejo-de-parar-de-fumar.jpg'
-categories:
-  - Cotidiano
+category: Cotidiano
 description: 'Neste artigo, você vai descobrir como um psicólogo clínico pode ajudar a acabar com o hábito do fumo. Vamos lá?   '
 draft: false
 type: blog

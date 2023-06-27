@@ -2,8 +2,7 @@
 title: O poder da reflexão diária
 description: Se você deseja sair do modo reativo, continue a leitura e saiba as
   vantagens da reflexão diária.
-categories:
-  - Cotidiano
+category: Cotidiano
 type: blog
 image: homem-fazendo-sua-reflex_o-di_ria.jpg
 date: 2020-01-29

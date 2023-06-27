@@ -5,8 +5,7 @@ description: A [fobia
   basicamente a uma doença mental crônica na qual as interações sociais suscitam
   certa ansiedade irracional.
 slug: o-que-e-fobia-social
-categories:
-  - Cotidiano
+category: Cotidiano
 type: blog
 image: fobia-social.jpg
 date: 2021-01-25T16:28:29.209Z

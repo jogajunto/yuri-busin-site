@@ -1,8 +1,7 @@
 ---
 title: 'A importância da conversa durante a quarentena'
 description: Ficar confinado em casa, sem ver as pessoas do dia a dia, traz consequências. Sentir solidão é uma delas. Leia mais aqui!
-categories:
-  - Cotidiano
+category: Cotidiano
 type: blog
 image: a-importancia-da-conversa-durante-a-quarentena.jpg
 date: 2020-06-05T16:13:19.420Z

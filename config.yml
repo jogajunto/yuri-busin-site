@@ -6,8 +6,14 @@ defaultContentLanguage: pt-br
 # Build settings
 enableRobotsTXT: yes
 disableHugoGeneratorInject: yes
-disableKinds: ['taxonomy', 'taxonomyTerm']
 paginate: 6
+removePathAccents: true
+
+taxonomies:
+  category: category
+
+permalinks:
+  category: '/blog/categoria/:slug/'
 
 params:
   whatsApp: 'https://wa.me/5511999646940'

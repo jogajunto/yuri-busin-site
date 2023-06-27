@@ -2,8 +2,7 @@
 title: 'Transtorno Obsessivo Compulsivo (TOC)'
 date: 2015-09-16
 image: 'toc.jpg'
-categories:
-  - Cotidiano
+category: Cotidiano
 description: 'Este transtorno, que por diversas vezes é utilizado como piada, tem como característica principal a obsessão e a repetição incessante de algum ritual, tal fato faz com que as pessoas sofram muito.'
 draft: false
 type: blog

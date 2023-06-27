@@ -3,8 +3,7 @@ title: Como lidar com pessoas com transtorno de ansiedade?
 description: De maneira geral, quem possui um transtorno de ansiedade sofre por
   causa de pensamentos sobre ...Mas como lidar com pessoas com transtorno de
   ansiedade?
-categories:
-  - Cotidiano
+category: Cotidiano
 type: blog
 image: A75E1BAD-39A7-4EF1-BBDE-86C3AB8499EC.jpeg
 date: 2017-11-04

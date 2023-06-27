@@ -2,8 +2,7 @@
 title: 'Enxaqueca: Como identificar e como curá-la?'
 description: Está com uma enxaqueca há muitos dias e não sabe o que fazer para
   curá-la? Confira aqui algumas dicas que podem te ajudar.
-categories:
-  - Cotidiano
+category: Cotidiano
 type: blog
 image: como-resolver-enxaqueca-psicologo-comportamental.jpg
 date: 2022-06-27T22:39:14.585Z

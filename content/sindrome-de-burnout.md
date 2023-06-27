@@ -3,8 +3,7 @@ title: Síndrome de Burnout [com infográfico]
 description: Conheça a origem do termo, saiba em qual dos 10 estágios o paciente
   pode estar experimentando a síndrome de Burnout e entenda melhor como
   enfrentar essa...
-categories:
-  - Cotidiano
+category: Cotidiano
 type: blog
 image: blog-yuri-burnout.jpg
 date: 2018-07-12

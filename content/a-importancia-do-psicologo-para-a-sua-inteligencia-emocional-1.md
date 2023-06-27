@@ -3,8 +3,7 @@ title: A importância do psicólogo para a sua inteligência emocional
 description: 'Na inteligência é a mesma coisa: existe a inteligência mais
   objetiva, a mais subjetiva, artística e, claro, a inteligência emocional.'
 slug: psicologo-para-sua-inteligencia-emocional
-categories:
-  - Cotidiano
+category: Cotidiano
 type: blog
 image: inteligencia-emocional-2.jpg
 date: 2020-12-24T12:35:09.515Z

@@ -1,0 +1,20 @@
+{{ define "main" }}
+	<section class="section" id="publicacoes">
+		<div class="container">
+			<div class="stack-lg">
+				<div class="text-center">
+					<div class="stack-xs">
+						<p class="overline overline--sm">Página {{ .Paginator.PageNumber }} de {{ .Paginator.TotalPages }}</p>
+						<h1 class="display display--sm">{{ .Title }}</h1>
+					</div>
+				</div>
+				<div class="feed">
+					{{ range .Paginator.Pages }}
+						{{ .Render "card" }}
+					{{ end }}
+				</div>
+				{{ partial "pagination.html" . }}
+			</div>
+		</div>
+	</section>
+{{ end }}

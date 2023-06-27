@@ -5,8 +5,7 @@ description: O ciúme retroativo é um tipo de ciúme que se manifesta em relaç
   eventos ou situações que ocorreram no passado, mesmo que não tenham relação
   com o presente.
 slug: oque-e-ciume-retroativo
-categories:
-  - Cotidiano
+category: Cotidiano
 type: blog
 image: relacionamento_fim.jpg
 date: 2022-12-06T12:59:14.375Z

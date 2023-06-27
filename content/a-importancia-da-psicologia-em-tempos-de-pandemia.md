@@ -2,8 +2,7 @@
 title: A importância da psicologia em tempos de pandemia
 description: Entenda como a psicologia e o atendimento com um profissional
   qualificado pode ajudar na vida de muitas pessoas.
-categories:
-  - Cotidiano
+category: Cotidiano
 type: blog
 image: psicologia-ajuda-na-pandemia-covid-19.jpg
 date: 2022-06-21T21:23:01.895Z

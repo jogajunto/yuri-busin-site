@@ -3,8 +3,7 @@ title: Como diferenciar estresse, ansiedade e depressão?
 description: De acordo com a Organização Mundial da Saúde, transtornos mentais
   comuns, como estresse, ansiedade e depressão, atingem mais de 20 milhões de
   brasileiros.
-categories:
-  - Cotidiano
+category: Cotidiano
 type: blog
 image: como-diferenciar-estresse-ansiedade-e-depressao.jpg
 date: 2020-09-20T22:35:20.227Z

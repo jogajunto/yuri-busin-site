@@ -3,8 +3,7 @@ title: Como lidar quando o namorado ainda fala com a ex?
 description: Você está incomodada ou insegura porque descobriu que seu namorado
   ou marido ainda fala com a ex de vez em quando?
 slug: ''
-categories:
-  - Cotidiano
+category: Cotidiano
 type: blog
 image: namorado_fala_ex.jpg
 date: 2021-02-24T12:26:13.439Z

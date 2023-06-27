@@ -5,8 +5,7 @@ description: 'Todos os dias, milhões de pessoas sofrem de distúrbios do sono. 
   preocupações, festas, televisão tarde da noite ou uso excessivo do celular são
   apenas alguns exemplos.'
 slug: como-resolver-de-uma-vez-por-todas-os-disturbios-do-sono
-categories:
-  - Cotidiano
+category: Cotidiano
 type: blog
 image: como-resolver-de-uma-vez-por-todas-os-disturbios-do-sono.jpg
 date: 2022-06-07T12:42:19.139Z

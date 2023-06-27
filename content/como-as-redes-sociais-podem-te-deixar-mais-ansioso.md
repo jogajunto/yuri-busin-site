@@ -4,8 +4,7 @@ description: É indiscutível, o mundo contemporâneo é o mundo das **redes
   sociais**. Mas será que essa acessibilidade indiscriminada propiciada pelo
   mundo virtual não pode desencadear danos? Pode sim!
 slug: como-as-redes-sociais-podem-deixar-ansioso
-categories:
-  - Cotidiano
+category: Cotidiano
 type: blog
 image: redes-sociais.jpg
 date: 2020-11-25T20:36:25.035Z

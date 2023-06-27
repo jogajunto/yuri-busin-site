@@ -3,8 +3,9 @@
 	border-style: solid;
 	border-width: 1px;
 	display: inline-block;
-	padding: 0.25em 0.5em;
 	font-size: var(--label-sm);
+	padding: 0.25em 0.5em;
+	text-decoration: none;
 }
 
 .tag--positive {

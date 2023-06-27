@@ -2,7 +2,7 @@
 title: '8 dicas de como lidar com situações estressantes'
 date: 2019-04-11
 image: 'homem-segurando-jornal-em-chamas-tentando-lidar-com-situa__es-estressantes.jpg'
-categories: ['Saúde']
+category: Saúde
 description: 'O estresse prolongado pode ter efeitos significativos na saúde mental, provocando ansiedade e até mesmo depressão. Leia mais sobre aqui!'
 draft: false
 type: blog

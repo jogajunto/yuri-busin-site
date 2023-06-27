@@ -3,8 +3,7 @@ title: Como tornar uma discussão mais positiva
 description: Quando uma discussão começa a azedar, seja qual for a causa do
   desentendimento, a tensão resultante geralmente dificulta a comunicação.
 slug: como-tornar-uma-discussao-mais-positiva
-categories:
-  - Cotidiano
+category: Cotidiano
 type: blog
 image: como-tornar-uma-discussao-mais-positiva.jpg
 date: 2022-09-16T12:44:21.633Z

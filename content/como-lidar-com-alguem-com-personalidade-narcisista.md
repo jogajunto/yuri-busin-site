@@ -4,8 +4,7 @@ description: A personalidade narcisista é um transtorno de personalidade comum
   caracterizado por um padrão de grandiosidade, necessidade de admiração e falta
   de empatia.
 slug: como-lidar-com-alguem-com-personalidade-narcisista
-categories:
-  - Cotidiano
+category: Cotidiano
 type: blog
 image: como_lidar_com-alguem-com-personalidade-narcisista.jpg
 date: 2023-03-14T12:05:49.015Z

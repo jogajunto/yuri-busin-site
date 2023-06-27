@@ -3,8 +3,7 @@ title: Veja 6 hábitos que afetam negativamente a sua saúde mental
 description: A nossa **saúde mental** está muito ligada a atitudes de nosso
   cotidiano, sabia? Ao longo dos anos, vamos adquirindo hábitos que acabam
   internalizando em nossa mente.
-categories:
-  - Cotidiano
+category: Cotidiano
 type: blog
 image: saude-mental.jpg
 date: 2020-09-25T17:16:33.861Z

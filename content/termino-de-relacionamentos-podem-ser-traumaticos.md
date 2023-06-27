@@ -2,8 +2,7 @@
 title: 'Término de relacionamentos podem ser traumáticos'
 date: 2016-01-26
 image: 'casal-nos-trilhos-tristes-superando-o-termino-do-relacionamento.jpg'
-categories:
-  - Cotidiano
+category: Cotidiano
 description: 'É muito comum vermos uma pessoa sofrendo pelo término de relacionamento. Para muitos, é uma dor muito grande que as fazem sofrer por muito tempo, até...'
 draft: false
 type: blog

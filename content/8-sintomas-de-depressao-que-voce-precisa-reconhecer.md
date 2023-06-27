@@ -3,8 +3,7 @@ title: 11 sintomas de depressão que você precisa conhecer
 description: É muito comum experimentar tristeza por algum acontecimento da
   vida. Entretanto, isso nem sempre significa necessariamente que você sofre de
   depressão...
-categories:
-  - Saúde
+category: Saúde
 type: blog
 image: 8_sintomas_de_depressa_o.jpg
 date: 2018-05-22

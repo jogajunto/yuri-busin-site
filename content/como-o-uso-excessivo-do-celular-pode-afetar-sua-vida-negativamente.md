@@ -2,8 +2,7 @@
 title: 'Como o uso excessivo do celular pode te prejudicar'
 date: 2019-07-03
 image: 'v_rias-pessoas-utilizando-smartphones-sem-se-preocupar-com-o-uso-excessivo-do-celular.jpg'
-categories:
-  - Cotidiano
+category: Cotidiano
 description: 'Neste artigo, exploro como o celular está modificando a cultura moderna e quais os riscos do seu uso excessivo. Clique e leia!'
 draft: false
 type: blog

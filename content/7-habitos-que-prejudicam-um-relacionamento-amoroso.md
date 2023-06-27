@@ -4,8 +4,7 @@ description: Todos nós temos bons e maus hábitos. No entanto, nem sempre
   percebemos quando nossas pequenas ações (ou inações) estão afetando
   negativamente nossos relacionamentos amorosos
 slug: 7-habitos-prejudicam-relacionamento-amoroso
-categories:
-  - Cotidiano
+category: Cotidiano
 type: blog
 image: 7-habitos-prejudicam-relacionamento.jpg
 date: 2021-06-23T15:39:36.603Z

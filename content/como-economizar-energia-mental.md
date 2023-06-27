@@ -2,8 +2,7 @@
 title: Como economizar energia mental?
 description: Como economizar energia mental?
 slug: como-economizar-energia-mental
-categories:
-  - Cotidiano
+category: Cotidiano
 type: blog
 image: mulher-saltando-sabendo-como-economizar-energia-mental.jpg
 date: 2020-01-31

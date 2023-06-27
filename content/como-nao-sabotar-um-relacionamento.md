@@ -4,8 +4,7 @@ description: É muito comum a autossabotagem, quando alguém está ativamente e
   inconscientemente tentando arruinar o próprio relacionamento amoroso. Alguns
   fazem isso, até mesmo, de forma consciente.
 slug: como-nao-sabotar-um-relacionamento
-categories:
-  - Cotidiano
+category: Cotidiano
 type: blog
 image: como-nao-sabotar-um-relacionamento.jpg
 date: 2022-05-16T16:06:51.548Z

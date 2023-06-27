@@ -3,8 +3,7 @@ title: 5 comportamentos que dificultam o relacionamento
 description: Neste artigo, você vai conhecer os 5 principais comportamentos
   tóxicos que podem estar deteriorando o seu relacionamento, sem ao menos você
   perceber.
-categories:
-  - Cotidiano
+category: Cotidiano
 type: blog
 image: casal-de-m_os-dados-sob-o-por-do-sol-refletindo-sobre-comportamentos-que-dificultam-o-relacionamento.jpg
 date: 2019-08-26

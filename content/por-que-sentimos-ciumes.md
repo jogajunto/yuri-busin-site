@@ -4,8 +4,7 @@ description: O que significa **sentir ciúmes**? É difícil racionalizar um
   sentimento subjetivo. Encontrar uma razão objetiva para o ciúme é uma tarefa
   árdua, mas vamos pensar juntos.
 slug: por-que-sentimos-ciumes
-categories:
-  - Cotidiano
+category: Cotidiano
 type: blog
 image: ciume-do-passado.jpg
 date: 2020-11-25T20:35:10.862Z

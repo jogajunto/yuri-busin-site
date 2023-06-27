@@ -3,8 +3,7 @@ title: 'Filofobia: o que é e como pode te prejudicar'
 description: Você acha desconfortável a ideia de ter uma vida amorosa? Se a
   resposta for sim, vou explicar o que é a filofobia. Clique aqui para saber
   mais!
-categories:
-  - Cotidiano
+category: Cotidiano
 type: blog
 image: um-cora__o-na-areia-para-aqueles-que-sofrem-de-filofobia-o-medo-de-se-apaixonar.jpg
 date: 2019-05-06

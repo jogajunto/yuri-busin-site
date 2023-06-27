@@ -3,8 +3,7 @@ title: Qual é a diferença entre ser introvertido e ser tímido?
 description: Embora eles possam ter características semelhantes, a timidez e a
   introversão não são a mesma coisa. Alguém que é introvertido, pode não ser
   tímido...
-categories:
-  - Cotidiano
+category: Cotidiano
 type: blog
 image: travis-jones-573238-unsplash.jpg
 date: 2018-07-13

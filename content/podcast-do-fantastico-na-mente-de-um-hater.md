@@ -1,8 +1,7 @@
 ---
 title: 'Podcast do Fantástico: Na mente de um hater'
 description: De olho nessa tendência, já existe o chamado mercado do ódio, que tem produzido filmes e séries para serem odiados.
-categories:
-  - Cotidiano
+category: Cotidiano
 type: blog
 image: na-mente-de-um-hater.jpg
 date: 2021-07-19

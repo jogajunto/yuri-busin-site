@@ -5,8 +5,7 @@ description: Muitos antes da emergência da pandemia da Covid-19, a terapia
   internet possa cuidar da saúde mental por meio de atendimento psicológico e no
   conforto de sua casa.
 slug: 5-mitos-terapia-online
-categories:
-  - Cotidiano
+category: Cotidiano
 type: blog
 image: 5-mitos-terapia-online.jpg
 date: 2021-08-11T13:20:06.654Z

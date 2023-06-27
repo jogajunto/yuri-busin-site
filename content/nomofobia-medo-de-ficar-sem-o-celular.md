@@ -2,8 +2,7 @@
 title: 'Nomofobia - Medo de ficar sem o celular'
 date: 2015-10-02
 image: 'ImageResizer.net-1yglctbvddskx5s.jpg'
-categories:
-  - Cotidiano
+category: Cotidiano
 description: 'A “nomofobia” consiste na angustia de não estar com o celular próximo, fazendo a pessoa sentir sintomas como angustia, ansiedade, desamparo, impotência...'
 draft: false
 type: blog

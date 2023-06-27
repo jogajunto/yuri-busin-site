@@ -2,8 +2,7 @@
 title: Podcast da CBN sobre relacionamento abusivo e tóxico
 description: Um bate-papo com a jornalista Gabriela Viana e a psicóloga Ciça
   Maia, conversando sobre ciúmes retroativo, relacionamentos tóxicos e abusivos.
-categories:
-  - Cotidiano
+category: Cotidiano
 type: blog
 image: jonathan-sharp-E0rsKheWqmk-unsplash.jpg
 date: 2019-06-27

@@ -3,8 +3,7 @@ title: 6 motivos para fazer terapia
 description: Medo de ir ao psicólogo é algo muito mais comum do que as pessoas
   imaginam. Na verdade, esse medo é perfeitamente compreensível. Se pensarmos
   bem..
-categories:
-  - Cotidiano
+category: Cotidiano
 type: blog
 image: blog-yuri-medo-de-psicologo.jpg
 date: 2018-07-12

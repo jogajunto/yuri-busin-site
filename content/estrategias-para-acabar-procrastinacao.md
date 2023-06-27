@@ -2,8 +2,7 @@
 title: 'Estratégias para acabar com a procrastinação'
 date: 2018-07-19
 image: 'loic-djim-69263-unsplash.jpg'
-categories:
-  - Cotidiano
+category: Cotidiano
 description: 'A procrastinação é muito comum de acontecer com as pessoas de tempos em tempos. Às vezes, são coisas simples, como organizar os arquivos no computador...'
 draft: false
 type: blog

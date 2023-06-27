@@ -3,8 +3,7 @@ title: O que fazer diante de um relacionamento sem reciprocidade?
 description: Um relacionamento sem reciprocidade sempre traz sofrimento, e é
   preciso ter em mente que não vale a pena o desgaste.
 slug: relacionamento-sem-reciprocidade
-categories:
-  - Cotidiano
+category: Cotidiano
 type: blog
 image: relacionamento-sem-reciprocidade.jpg
 date: 2021-01-25T16:23:09.205Z

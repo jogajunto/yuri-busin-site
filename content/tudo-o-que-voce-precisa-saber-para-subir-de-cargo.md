@@ -3,8 +3,7 @@ title: Tudo o que você precisa saber para subir de cargo
 description: Se você já está no mesmo emprego há algum tempo, talvez esteja na
   hora de pensar na possibilidade de subir de cargo.
 slug: tudo-que-voce-precisa-para-subir-de-cargo
-categories:
-  - Cotidiano
+category: Cotidiano
 type: blog
 image: subir_cargo.jpg
 date: 2021-07-20T12:09:11.615Z

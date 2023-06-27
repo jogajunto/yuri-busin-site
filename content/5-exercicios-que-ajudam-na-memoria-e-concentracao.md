@@ -2,8 +2,7 @@
 title: 5 exercícios que ajudam na memória e concentração
 description: Sentiu que está com problemas de memória ou pra se concentrar?
   Confira aqui dicas que podem te ajudar a melhorar nesses pontos!
-categories:
-  - Cotidiano
+category: Cotidiano
 type: blog
 image: meditacao-psicologia-comportamental.jpg
 date: 2022-06-23T22:26:25.775Z

@@ -4,8 +4,7 @@ description: Passar um tempo solteiro pode ser incrivelmente bom para a sua
   saúde mental. É nesse momento que você aprende coisas sobre si mesmo que o
   ajudarão pelo resto de sua vida, assim como em relacionamentos futuros.
 slug: vale-a-pena-investir-em-um-relacionamento-amoroso
-categories:
-  - Cotidiano
+category: Cotidiano
 type: blog
 image: vale-a-pena-investir-em-um-relacionamento-amoroso.jpg
 date: 2021-10-19T14:27:45.303Z

@@ -3,8 +3,7 @@ title: 3 dicas para quem está acomodado sair da zona de conforto
 description: A zona de conforto não é necessariamente um lugar ou local em que
   ficamos. Na verdade, ela pode ser compreendida como um conjunto de
   comportamentos que...
-categories:
-  - Cotidiano
+category: Cotidiano
 type: blog
 image: zona-de-conforto-1.jpg
 date: 2017-11-11

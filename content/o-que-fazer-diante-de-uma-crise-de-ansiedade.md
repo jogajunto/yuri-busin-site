@@ -2,8 +2,7 @@
 title: 'O que fazer diante de uma crise de ansiedade?'
 date: 2019-10-23
 image: 'mulher-deitada-no-ch_o-tendo-uma-crise-de-ansiedade.jpg'
-categories:
-  - Cotidiano
+category: Cotidiano
 description: 'Estima-se que 9% da população convivem com o transtorno de ansiedade.Se você é uma delas, continue a leitura!'
 draft: false
 type: blog

@@ -2,8 +2,7 @@
 title: Como é desenvolvida uma fobia?
 description: Já ouviu falar sobre fobia e não faz ideia como ela é desenvolvida?
   Confira aqui as causas e como é o tratamento desse transtorno.
-categories:
-  - Cotidiano
+category: Cotidiano
 type: blog
 image: fobia-psicologo-comportamental.jpg
 date: 2022-08-04T01:43:12.005Z

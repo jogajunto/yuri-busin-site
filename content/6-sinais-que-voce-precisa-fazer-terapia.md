@@ -5,8 +5,7 @@ description: Todo mundo experimenta estresse, ansiedade ou outras formas de
   nos recuperar por conta própria. Porém, às vezes, podemos precisar da ajuda
   extra!
 slug: 7-sinais-que-voce-precisa-fazer-terapia
-categories:
-  - Cotidiano
+category: Cotidiano
 type: blog
 image: 6-sinais-que-voce-precisa-fazer-terapia.jpg
 date: 2022-09-01T17:01:26.440Z

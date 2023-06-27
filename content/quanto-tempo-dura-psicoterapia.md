@@ -5,8 +5,7 @@ description: Ao longo de uma psicoterapia, você obviamente aborda muitos
   tempo indeterminado, mas, em algum momento, o paciente precisa desenvolver o
   suporte psicológico necessário para deixar seu terapeuta e viver sua própria
   vida.
-categories:
-  - Cotidiano
+category: Cotidiano
 type: blog
 image: Quanto-tempo-dura-a-psicoterapia.jpeg
 date: 2018-11-26

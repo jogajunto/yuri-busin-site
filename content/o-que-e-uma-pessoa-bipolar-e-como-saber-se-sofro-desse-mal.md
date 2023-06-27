@@ -3,8 +3,7 @@ title: 'Transtorno bipolar: o que é?'
 description: O transtorno bipolar é considerado um transtorno mental relacionado
   com a modificação de humor, podendo ter características, sintomas e critérios
   distintos.
-categories:
-  - Cotidiano
+category: Cotidiano
 type: blog
 image: what-is-bipolar-depression-1.jpg
 date: 2017-11-26

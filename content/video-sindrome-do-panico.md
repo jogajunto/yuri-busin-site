@@ -2,7 +2,7 @@
 title: '[Vídeo] Síndrome do Pânico'
 date: 2018-11-13
 image: sindrome-do-panico-unsplash.jpg
-categories: ['Saúde']
+category: Saúde
 description: 'Veja aqui um vídeo de 2 minutos sobre Síndrome do Pânico:'
 draft: false
 type: blog

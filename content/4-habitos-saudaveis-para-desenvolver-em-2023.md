@@ -4,8 +4,7 @@ description: De forma geral, nossas vidas são construídas a partir de uma sér
   de pequenos hábitos que executamos todos os dias. Muitos deles, fazemos sem
   nem ao menos nos darmos conta que o fazemos regularmente.
 slug: 4-habitos-saudaveis-para-desenvolver-em-2023
-categories:
-  - Cotidiano
+category: Cotidiano
 type: blog
 image: 4-habitos-saudaveis-para-desenvolver-em-2023.jpg
 date: 2022-12-27T12:30:01.983Z

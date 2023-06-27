@@ -2,8 +2,7 @@
 title: 'Como o álcool afeta o cérebro?'
 date: 2020-03-23
 image: 'como-o-_lcool-afeta-o-c_rebro.jpg'
-categories:
-  - Cotidiano
+category: Cotidiano
 description: 'Para saber mais detalhes sobre como as bebidas alcoólicas podem afetar o seu cérebro, continue a leitura!'
 draft: false
 type: blog

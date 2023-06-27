@@ -4,8 +4,7 @@ description: O autocuidado é definido como um conjunto de estratégias que
   promovem o funcionamento saudável do organismo e melhoram o bem-estar de uma
   pessoa.
 slug: 5-formas-praticas-de-promover-o-autocuidado
-categories:
-  - Cotidiano
+category: Cotidiano
 type: blog
 image: 5-formas-praticas-de-promover-o-autocuidado.jpg
 date: 2022-04-03T12:37:34.685Z

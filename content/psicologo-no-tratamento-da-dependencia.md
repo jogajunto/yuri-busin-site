@@ -4,8 +4,7 @@ description: A dependência afeta muitos aspectos da vida, como finanças,
   relacionamentos e o trabalho.Se você está passando por esse problema, continue
   a leitura.
 slug: psicologo-no-tratamento-da-dependencia-quimica
-categories:
-  - Cotidiano
+category: Cotidiano
 type: blog
 image: import_ncia-do-psic_logo-no-tratamento-da-depend_ncia-qu_mica.jpg
 date: 2019-11-26

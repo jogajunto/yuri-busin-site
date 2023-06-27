@@ -3,8 +3,7 @@ title: 'Autossabotagem: como identificar e evitá-la?'
 description: Você pratica a autossabotagem? A resposta pode ser sim ou não.
   Porém, inconscientemente podemos praticá-la por puro medo.
 slug: autossabotagem-como-identificar
-categories:
-  - Cotidiano
+category: Cotidiano
 type: blog
 image: autossabotagem_como_identificar.jpg
 date: 2020-12-24T12:41:06.544Z

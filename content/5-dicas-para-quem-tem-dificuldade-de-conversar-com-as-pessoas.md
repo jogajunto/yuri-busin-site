@@ -3,8 +3,7 @@ title: Você tem dificuldade de conversar com as pessoas?
 description: Em alguns casos podemos sentir uma maior dificuldade de conversar
   com as pessoas, principalmente, quando não as conhecemos muito bem. Existem
   diversos ...
-categories:
-  - Cotidiano
+category: Cotidiano
 type: blog
 image: como-conversar-melhor-com-as-pessoas.jpg
 date: 2018-05-06

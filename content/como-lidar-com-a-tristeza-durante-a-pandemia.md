@@ -5,8 +5,7 @@ description: 'A pandemia do novo coronavírus nos trouxe uma nova forma de
   diante de uma pandemia precisamos do outro mais do que nunca. Por mais que
   fomos '
 slug: tristeza-durante-pandemia
-categories:
-  - Cotidiano
+category: Cotidiano
 type: blog
 image: tristeza-pandemia.jpg
 date: 2020-11-25T20:40:41.545Z

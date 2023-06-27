@@ -4,8 +4,7 @@ description: A mudança é um constante inevitável na vida das pessoas. Por mai
   que algumas delas estejam sob nosso controle, a maioria das vezes elas não
   estão.
 slug: como-lidar-com-mudanca
-categories:
-  - Cotidiano
+category: Cotidiano
 type: blog
 image: como-lidar-com-a-mudanca.jpg
 date: 2022-05-16T15:59:23.882Z

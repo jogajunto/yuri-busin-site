@@ -4,8 +4,7 @@ description: Uma vez que você decidiu que quer terminar o relacionamento, é
   importante dar a si mesmo um tempo para pensar sobre o que você quer dizer
   antes de realmente falar ao seu companheiro.
 slug: quer-terminar-namoro
-categories:
-  - Cotidiano
+category: Cotidiano
 type: blog
 image: termino-namoro-leia-antes.jpg
 date: 2021-07-20T12:14:27.329Z

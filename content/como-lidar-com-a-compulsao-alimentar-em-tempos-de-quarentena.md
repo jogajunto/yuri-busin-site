@@ -4,8 +4,7 @@ description: Com tudo que vem acontecendo com o novo coronavírus, o impacto
   psicológico, financeiro e social vem se agravando e pode comprometer a
   condição de saúde de todos. Mas existem técnicas para evitar isso.
 slug: compulsao-alimentar-quarentena
-categories:
-  - Cotidiano
+category: Cotidiano
 type: blog
 image: brooke-lark-08boynh_r_e-unsplash-1-.jpg
 date: 2020-08-13T16:12:19.420Z

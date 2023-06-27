@@ -2,8 +2,7 @@
 title: Como lidar com a compulsão alimentar
 description: Já ouviu falar sobre a compulsão alimentar ou conhece alguém que
   sofre desse mal? Saiba o que é e como tratar.
-categories:
-  - Cotidiano
+category: Cotidiano
 type: blog
 image: compulsao-por-comida.jpg
 date: 2022-08-18T23:03:26.120Z

@@ -2,8 +2,7 @@
 title: Como perder a vergonha de falar com psicólogo?
 description: Que tal superar de vez a vergonha de falar com psicólogo? Para
   saber mais, leia o artigo e saiba os benefícios da psicoterapia!
-categories:
-  - Cotidiano
+category: Cotidiano
 type: blog
 image: homem-no-escuro-com-medo-de-conversar-com-psicologo.jpg
 date: 2019-05-20

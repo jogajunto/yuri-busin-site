@@ -5,8 +5,7 @@ description: Você já se sentiu insegura ao falar sobre o que faz da vida? Ou
   o que as pessoas pensam de você e como elas o vêem, porque, no fundo, queremos
   pertencer a um determinado grupo. Afinal, somos criaturas sociais.
 slug: como-superar-medo-julgamento-redes-sociais
-categories:
-  - Cotidiano
+category: Cotidiano
 type: blog
 image: como-superar-medo-julgamento-redes-sociais.jpg
 date: 2022-12-06T12:37:40.252Z

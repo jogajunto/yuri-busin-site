@@ -4,8 +4,7 @@ description: A autoestima é algo volátil. Tem dias que nos sentimos confiantes
   dispostos e aptos a fazer qualquer coisa que venha à cabeça. Outras vezes,
   precisamos de alguns conselhos sobre como nos sentirmos melhor conosco mesmos.
 slug: como-melhorar-autoestima
-categories:
-  - Cotidiano
+category: Cotidiano
 type: blog
 image: melhorar-autoestima.jpg
 date: 2021-08-11T13:22:33.270Z

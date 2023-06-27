@@ -2,8 +2,7 @@
 title: '[Vídeo] Transtorno de Ansiedade Generalizado'
 date: 2018-10-26
 image: 'maxresdefault.jpg'
-categories:
-  - Cotidiano
+category: Cotidiano
 description: 'Entenda em 2 minutos o que é o transtorno de ansiedade generalizado, sintomas e tratamentos.'
 draft: false
 type: blog

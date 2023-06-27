@@ -3,8 +3,7 @@ title: O que é escuta ativa?
 description: Manter um diálogo eficiente e é importante desenvolver a escuta
   ativa. Mas você sabe o porquê? Simples, por meio dela conseguimos transmitir
   informações de maneira mais clara e abrangente.
-categories:
-  - Cotidiano
+category: Cotidiano
 type: blog
 image: escuta-ativa.jpg
 date: 2020-09-25T20:19:45.198Z

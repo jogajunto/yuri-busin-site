@@ -2,8 +2,7 @@
 title: O que é transtorno de somatização?
 description: Por isso, nesse artigo, você vai conhecer mais sobre o transtorno
   de somatização, os principais sintomas e as formas de tratamento.
-categories:
-  - Cotidiano
+category: Cotidiano
 type: blog
 image: transtorno-de-somatiza__o.jpeg
 date: 2019-03-11

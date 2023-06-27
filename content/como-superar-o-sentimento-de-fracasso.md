@@ -2,8 +2,7 @@
 title: Como superar o sentimento de fracasso
 description: Superar o medo do fracasso é fundamental para se atingir o sucesso.
   Todos os dias, as pessoas aprendem com inúmeros contratempos.
-categories:
-  - Cotidiano
+category: Cotidiano
 type: blog
 image: louis-hansel-342635-unsplash.jpg
 date: 2018-07-15

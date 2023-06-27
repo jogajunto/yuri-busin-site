@@ -4,8 +4,7 @@ description: Felizmente, com o tempo e dedicação, é possível controlar a
   ansiedade. Entretanto, a pessoa pode colocar tudo a perder se continuar a
   cometer os mesmos erros que fazem aumentar a ansiedade.
 slug: 4-erros-comuns-que-todo-ansioso-ja-cometeu
-categories:
-  - Cotidiano
+category: Cotidiano
 type: blog
 image: 4-erros-comuns-que-todo-ansioso-ja-cometeu.jpg
 date: 2021-09-13T16:23:18.761Z

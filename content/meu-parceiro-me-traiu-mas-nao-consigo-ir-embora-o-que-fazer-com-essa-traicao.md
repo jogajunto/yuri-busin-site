@@ -2,8 +2,7 @@
 title: Fui traída, mas não consigo ir embora. O que fazer?
 description: Foi traída e não consegue se desprender do relacionamento abusivo?
   Entenda aqui como lidar com essa situação e dar a volta por cima.
-categories:
-  - Cotidiano
+category: Cotidiano
 type: blog
 image: como-lidar-com-traicao-psicologo-comportamental.jpg
 date: 2022-07-26T03:00:07.603Z

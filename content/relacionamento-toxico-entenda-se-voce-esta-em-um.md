@@ -3,8 +3,7 @@ title: 'Relacionamento tóxico: Entenda se você está em um'
 description: Na atualidade, os relacionamentos tóxicos estão cada vez mais
   comuns e as pessoas estão ficando presas em relações que não são saudáveis...
   leia 6 dicas...
-categories:
-  - Cotidiano
+category: Cotidiano
 type: blog
 image: relacionamento-toxico.jpg
 date: 2018-01-31

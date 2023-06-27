@@ -2,7 +2,7 @@
 title: 'Como se livrar de pensamentos negativos'
 date: 2019-04-06
 image: 'menina-na-janela-tentando-se-livrar-de-pensamentos-negativos.jpg'
-categories: ['Saúde']
+category: Saúde
 description: 'Por isso, para ter uma melhor saúde física e mental, aqui estão algumas dicas de como se livrar de pensamentos negativos. Confira!'
 draft: false
 type: blog

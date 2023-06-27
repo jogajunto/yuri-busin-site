@@ -3,8 +3,7 @@ title: O que é apego emocional?
 description: Você sabe o que é apego emocional? Já se sentiu com muito medo de
   perder alguém? Entenda um pouco sobre o que é apego emocional.
 slug: apego-emocional
-categories:
-  - Cotidiano
+category: Cotidiano
 type: blog
 image: download.jpg
 date: 2020-08-10T10:50:41.192Z

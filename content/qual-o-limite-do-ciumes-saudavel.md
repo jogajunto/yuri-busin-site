@@ -2,8 +2,7 @@
 title: 'Qual o limite do ciúmes saudável?'
 date: 2018-03-04
 image: 'casal-ciumes-qual-limite-do-ciumes.jpg'
-categories:
-  - Cotidiano
+category: Cotidiano
 description: 'Em alguns casos, ela pode ser um dos principais motivos para diminuir a qualidade da relação e levá-la ao seu término.'
 draft: false
 type: blog

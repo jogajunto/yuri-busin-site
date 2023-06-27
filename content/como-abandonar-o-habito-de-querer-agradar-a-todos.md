@@ -3,8 +3,7 @@ title: Como abandonar o hábito de querer agradar a todos
 description: o hábito de agradar as pessoas envolve colocar as necessidades dos
   outros à frente das suas, apenas como uma forma de obter a aprovação alheia.
 slug: como-abandonar-o-habito-de-querer-agradar-todos
-categories:
-  - Cotidiano
+category: Cotidiano
 type: blog
 image: como-abandonar-o-habito-de-querer-agradar-todos.jpg
 date: 2021-12-22T10:49:37.949Z

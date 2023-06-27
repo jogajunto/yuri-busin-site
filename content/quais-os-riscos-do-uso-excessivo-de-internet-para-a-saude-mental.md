@@ -5,8 +5,7 @@ description: A tecnologia dos smartphones já fazem parte de nosso cotidiano.
   sociais. Mas você sabia que o uso excessivo da internet pode ser perigoso para
   a saúde mental?
 slug: riscos-uso-internet
-categories:
-  - Cotidiano
+category: Cotidiano
 type: blog
 image: imagem1.png
 date: 2020-07-06T23:22:12.431Z

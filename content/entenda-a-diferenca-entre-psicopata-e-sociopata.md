@@ -2,8 +2,7 @@
 title: Qual é a diferença entre psicopata e sociopata?
 description: A diferença entre os 2 vai te surpreender. Quer mesmo saber? Além
   de descobrir, saiba quais são os psicopatas e sociopatas famosos do cinema!
-categories:
-  - Cotidiano
+category: Cotidiano
 type: blog
 image: blog-yuri-psicopatas-vs-psicopatas.jpg
 date: 2018-05-02

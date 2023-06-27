@@ -2,8 +2,7 @@
 title: Como lidar com a insônia
 description: Está com problemas com o seu sono e não sabe o que fazer? Confira
   aqui as dicas que temos pra você dormir melhor!
-categories:
-  - Cotidiano
+category: Cotidiano
 type: blog
 image: como-tratar-insonia-psicologo-comportamental.jpg
 date: 2022-06-25T23:55:35.794Z

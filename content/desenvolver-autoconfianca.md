@@ -3,8 +3,7 @@ title: A importância de desenvolver a autoconfiança
 description: Você tem autoconfiança? Sabia que esta é uma habilidade que pode
   ser desenvolvida? E isso é a base para ter **sucesso em todas as áreas da
   vida**, seja no pessoal ou profissional?
-categories:
-  - Cotidiano
+category: Cotidiano
 type: blog
 image: autoconfiaca.jpg
 date: 2020-09-25T20:28:30.769Z

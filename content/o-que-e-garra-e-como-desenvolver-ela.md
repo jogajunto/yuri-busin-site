@@ -5,8 +5,7 @@ description: É muito comum as pessoas buscarem “fórmulas milagrosas” para
   que falta para que elas atinjam os seus objetivos mais rapidamente – e sem o
   risco de qualquer autossabotagem.
 slug: o-que-e-garra-e-como-desenvolver
-categories:
-  - Cotidiano
+category: Cotidiano
 type: blog
 image: o-que-e-garra-e-como-desenvolver.jpg
 date: 2022-11-25T18:09:01.022Z

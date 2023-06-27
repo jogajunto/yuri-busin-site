@@ -4,8 +4,7 @@ description: Se essa timidez começou a incomodá-lo ou você acredita que esse
   comportamento está te impedindo de fazer alguma coisa, talvez seja hora de
   fazer algo.
 slug: 4-exercicios-para-perder-timidez
-categories:
-  - Cotidiano
+category: Cotidiano
 type: blog
 image: timidez.jpg
 date: 2021-07-20T12:16:58.528Z

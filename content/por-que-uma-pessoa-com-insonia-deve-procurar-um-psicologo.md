@@ -2,8 +2,7 @@
 title: Por que uma pessoa com insônia deve procurar um psicólogo?
 description: Está ou conhece alguém que tem insônia e quer ajuda de um
   profissional? Saiba como um psicólogo comportamental consegue te ajudar.
-categories:
-  - Cotidiano
+category: Cotidiano
 type: blog
 image: como-tratar-da-insonia.jpg
 date: 2022-07-20T02:27:49.988Z

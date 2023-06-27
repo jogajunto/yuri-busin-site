@@ -2,8 +2,7 @@
 title: Posso levar um acompanhante na consulta com um psicólogo?
 description: Buscar um psicólogo clínico remete a diversas dúvidas. Dentre elas,
   será que é permitido levar um acompanhante na consulta?
-categories:
-  - Cotidiano
+category: Cotidiano
 type: blog
 image: acompanhante-na-consulta-com-um-psicologo-1.jpg
 date: 2020-09-20T22:31:37.131Z

@@ -4,8 +4,7 @@ description: Não confunda desapego com não se importar. O desapego é apenas u
   "faxina" que fazemos em nossa vida, tirando tudo aquilo que não tem mais
   utilidade ou não faz mais sentido.
 slug: praticando-desapego-em-2022
-categories:
-  - Cotidiano
+category: Cotidiano
 type: blog
 image: praticando-o-desapego-em-2022.jpg
 date: 2021-12-15T13:06:22.562Z

@@ -1,8 +1,7 @@
 ---
 title: 'Os riscos do isolamento social'
 description: Ficar muito tempo sozinho é chato, mas você sabe o que isso pode causar? Caso não saiba, é melhor ler este texto até o final.
-categories:
-  - Cotidiano
+category: Cotidiano
 type: blog
 image: os-riscos-do-isolamento-social.jpg
 date: 2020-06-05T16:12:19.420Z

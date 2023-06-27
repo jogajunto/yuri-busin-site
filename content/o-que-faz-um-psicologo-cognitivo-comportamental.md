@@ -4,8 +4,7 @@ description: Um psicólogo cognitivo comportamental é um profissional que utili
   técnicas e abordagens da psicologia cognitiva e comportamental para ajudar as
   pessoas a lidar com problemas emocionais e comportamentais.
 slug: psicologo-cognitivo-comportamental-online
-categories:
-  - Cotidiano
+category: Cotidiano
 type: blog
 image: homem-com-emo__es-positivas.jpg
 date: 2022-12-06T13:13:53.783Z

@@ -3,8 +3,7 @@ title: Quais os cuidados a serem tomados ao fazer terapia online?
 description: Já pensou em fazer terapia online? Algumas dicas de como ter um
   melhor aproveitamento da sua sessão
 slug: cuidados-terapia-online
-categories:
-  - Cotidiano
+category: Cotidiano
 type: blog
 image: cuidados-terapia-online.jpg
 date: 2021-05-24T11:19:23.436Z

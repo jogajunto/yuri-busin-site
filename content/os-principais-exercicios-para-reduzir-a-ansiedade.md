@@ -4,8 +4,7 @@ description: Se você está lidando com tensões e preocupações regulares, lut
   contra crises de estresse ou sofrendo de ataques de pânico, talvez seja hora
   de começar a aprender e praticar algumas técnicas para reduzir a ansiedade.
 slug: os-principais-exercicios-para-reduzir-ansiedade
-categories:
-  - Cotidiano
+category: Cotidiano
 type: blog
 image: os-principais-exercicios-para-reduzir-ansiedade.jpg
 date: 2021-12-15T13:16:25.616Z

@@ -2,8 +2,7 @@
 title: Quais as características de uma pessoa com transtorno bipolar?
 description: Está suspeitando que alguém próximo sofre de transtorno bipolar e
   quer saber as principais características? Confira aqui as mais comuns.
-categories:
-  - Cotidiano
+category: Cotidiano
 type: blog
 image: como-identificar-pessoa-bipolar.jpg
 date: 2022-07-13T23:16:17.401Z

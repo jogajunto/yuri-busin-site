@@ -3,8 +3,7 @@ title: 'Inteligência emocional: você sabe o que é?'
 description: Você já ouviu falar sobre inteligência emocional? Entenda aqui como
   ela pode ser positiva para a sua vida e como conseguir atingir essa
   maturidade.
-categories:
-  - Cotidiano
+category: Cotidiano
 type: blog
 image: o-que-e-inteligencia-emocional-psicologo-comportamental.jpg
 date: 2022-07-29T03:09:36.853Z

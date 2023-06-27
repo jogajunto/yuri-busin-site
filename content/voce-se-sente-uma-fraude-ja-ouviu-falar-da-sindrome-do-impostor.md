@@ -4,8 +4,7 @@ description: A síndrome do impostor é caracterizada por uma experiência inter
   de acreditar que você não é tão **competente** quanto os outros pensam que
   você é.
 slug: sindrome-impostor
-categories:
-  - Cotidiano
+category: Cotidiano
 type: blog
 image: sindrome-do-impostor.jpg
 date: 2021-05-10T11:15:17.563Z

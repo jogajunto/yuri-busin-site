@@ -4,8 +4,7 @@ description: A terapia cognitivo-comportamental (TCC) é um tratamento eficaz
   para a ansiedade. O tratamento geralmente inclui identificar e mudar padrões
   de pensamento e comportamento disfuncionais relacionados à ansiedade.
 slug: como-e-o-tratamento-para-ansiedade-na-terapia-cognitivo-comportamental
-categories:
-  - Cotidiano
+category: Cotidiano
 type: blog
 image: como-e-o-tratamento-para-ansiedade-na-terapia-cognitivo-comportamental.jpg
 date: 2023-01-11T18:27:19.601Z

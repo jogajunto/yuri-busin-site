@@ -4,8 +4,7 @@ description: 'Mas como enfrentar novamente o mundo, após se acostumar a ficar e
   casa e a se distanciar socialmente dos outros há mais de um ano?  Pensando
   nisso, resolvi escrever esse artigo apresentando algumas dicas práticas. '
 slug: retomar-rotina-depois-pandemia
-categories:
-  - Cotidiano
+category: Cotidiano
 type: blog
 image: como_retomar_rotina.jpg
 date: 2021-05-24T11:14:53.169Z

@@ -2,8 +2,7 @@
 title: 'Como lidar com as diferenças em um casamento?'
 date: 2019-03-15
 image: 'Casamento-em-crise.jpeg'
-categories:
-  - Cotidiano
+category: Cotidiano
 description: 'Vou apresentar os motivos mais comuns de um relacionamento em crise e dar dicas para ter sucesso no casamento. Continue a leitura!'
 draft: false
 type: blog

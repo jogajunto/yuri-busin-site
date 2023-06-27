@@ -3,8 +3,7 @@ title: O que é um sociopata?
 description: A sociopatia pode ser considerada um problema real hoje em dia.
   Segundo Martha Stout, psicóloga de Harvard e da autora do livro ‘The Sociopath
   Next Door’, uma a cada 25 pessoas é sociopata.
-categories:
-  - Cotidiano
+category: Cotidiano
 type: blog
 image: o-que-_-um-sociopata.jpg
 date: 2020-04-15

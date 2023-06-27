@@ -2,8 +2,7 @@
 title: Como superar o medo de altura?
 description: Se você luta contra o medo de altura, a ponto de dificultar a sua
   vida diária, não se preocupe, é possível vencê-la! Confira no post de hoje!
-categories:
-  - Cotidiano
+category: Cotidiano
 type: blog
 image: menina-saltando-entre-pedras-superando-o-medo-de-altura.jpg
 date: 2019-11-21

@@ -4,8 +4,7 @@ description: Muitas pessoas têm dificuldade em dizer “não” aos amigos ou c
   de trabalho quando os mesmos aparecem com pedidos de ajuda para realizar
   determinadas tarefas.
 slug: como-aprender-a-dizer-nao
-categories:
-  - Cotidiano
+category: Cotidiano
 type: blog
 image: como-aprender-a-dizer-nao-.jpg
 date: 2022-04-23T13:31:59.286Z

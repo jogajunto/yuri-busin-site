@@ -2,8 +2,7 @@
 title: 'A importância de cultivar o amor próprio'
 date: 2018-07-13
 image: 'amor_proprio.jpg'
-categories:
-  - Cotidiano
+category: Cotidiano
 description: 'É muito comum ouvir sobre o amor próprio e que se deve amar a si mesmo, mas a maioria das pessoas ainda não tem ideia do que isso significa. Entenda.'
 draft: false
 type: blog

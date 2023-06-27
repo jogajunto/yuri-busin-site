@@ -3,8 +3,7 @@ title: O que é FoMO e como ele pode afetar nossa vida?
 description: O FoMO é uma condição que tem se tornado cada vez mais comum,
   trazendo sofrimento e dificuldades para o dia a dia das pessoas. A sigla FoMO
   significa...
-categories:
-  - Cotidiano
+category: Cotidiano
 type: blog
 image: fear-of-missing-out.jpg
 date: 2018-04-11

@@ -5,8 +5,7 @@ description: A insegurança está presente em várias áreas de nossas vidas,
   seguros de si. Podemos ficar inseguros sobre nossa aparência, nossa altura,
   como soa nossa voz, entre muitos outros aspectos.
 slug: o-que-fazer-para-ser-menos-inseguro
-categories:
-  - Cotidiano
+category: Cotidiano
 type: blog
 image: o_que-fazer-para-ser-menos-inseguro.jpg
 date: 2022-12-30T16:24:58.895Z

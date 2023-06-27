@@ -2,8 +2,7 @@
 title: 'Como identificar um transtorno alimentar?'
 date: 2018-02-21
 image: mulher-mao-amarrada-como-identificar-transtornos-alimentares.jpg
-categories:
-  - Cotidiano
+category: Cotidiano
 description: 'O transtorno alimentar está relacionado com dificuldades com a comida e o ato de comer, com o peso ou com a própria imagem corporal, alterando o comportamento da pessoa.'
 draft: false
 type: blog

@@ -3,8 +3,7 @@ title: 5 passos simples para melhorar sua saúde mental
 description: Assim como a saúde física, também é preciso cuidar da saúde mental.
   Veja 5 passos simples!
 slug: 5-passos-simples-para-melhorar-saude-mental
-categories:
-  - Cotidiano
+category: Cotidiano
 type: blog
 image: saude-mental-5-dicas.jpg
 date: 2021-07-20T12:11:36.739Z

@@ -4,8 +4,7 @@ description: A importância de cuidar da saúde mental tem se tornado um tema
   bastante comum e cada vez mais aceito por todos, principalmente em tempos de
   pandemia.
 slug: investir-saude-mental
-categories:
-  - Cotidiano
+category: Cotidiano
 type: blog
 image: investir-saude-mental.jpg
 date: 2021-08-11T13:18:39.947Z

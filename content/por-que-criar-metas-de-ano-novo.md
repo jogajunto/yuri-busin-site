@@ -3,8 +3,7 @@ title: Por que criar metas de ano novo?
 description: O ano novo propicia o desejo de iniciar coisas novas, contudo, isto
   deve ser feito com planejamento e reflexão.
 slug: Por-que-criar-metas-de-ano-novo
-categories:
-  - Cotidiano
+category: Cotidiano
 type: blog
 image: criar_metas_final_de_ano.jpg
 date: 2020-12-24T12:44:28.641Z

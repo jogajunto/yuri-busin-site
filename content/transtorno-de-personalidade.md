@@ -3,8 +3,7 @@ title: Quais transtornos de personalidade são mais comuns hoje?
 description: Os transtornos de personalidade estão cada vez mais comuns no
   cotidiano, porém, ainda não se fala muito a respeito deles. De maneira geral,
   o transtorno de
-categories:
-  - Cotidiano
+category: Cotidiano
 type: blog
 image: transtorno_de_personalidade_mulher_com_diferentes_emocoes.jpg
 date: 2017-12-10

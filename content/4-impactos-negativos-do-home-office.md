@@ -4,8 +4,7 @@ description: Por mais que trabalhar remotamente já era uma realidade antes da
   pandemia, muita gente foi pega de surpresa e teve que se acostumar com a nova
   realidade de trabalhar a partir de casa.
 slug: impactos-negativos-home-office
-categories:
-  - Cotidiano
+category: Cotidiano
 type: blog
 image: 4-impactos-negativos-do-home-office.jpg
 date: 2021-09-13T16:26:55.215Z

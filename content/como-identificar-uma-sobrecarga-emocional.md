@@ -4,8 +4,7 @@ description: Com as atividades exaustivas do cotidiano é muito comum a
   reclamação de sobrecarga emocional.  Podemos ficar sobrecarregados
   fisicamente, no campo psíquico, ou até nas duas esferas...
 slug: sobrecarga-emocional
-categories:
-  - Cotidiano
+category: Cotidiano
 type: blog
 image: sobrecarga_emocional.jpg
 date: 2021-01-25T16:20:57.494Z

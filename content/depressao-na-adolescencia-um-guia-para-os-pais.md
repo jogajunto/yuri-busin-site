@@ -4,8 +4,7 @@ description: Ser adolescente não é uma tarefa fácil e implica em mudanças qu
   naturalmente, podem causar conflitos. São fatores externos e internos que
   mexem diretamente com o autoconhecimento e a autoaceitação.
 slug: depressao-adolescencia
-categories:
-  - Cotidiano
+category: Cotidiano
 type: blog
 image: depressao-adolescente.jpg
 date: 2020-07-06T23:38:24.383Z

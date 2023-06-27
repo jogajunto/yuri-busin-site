@@ -5,8 +5,7 @@ description: Às vezes pode ser muito difícil enfrentar um fracasso, aceitá-lo
   nesse momento, mas é importante entender que nem sempre as coisas saem da
   maneira como planejamos
 slug: como-lidar-com-a-derrota-e-seguir-em-frente
-categories:
-  - Cotidiano
+category: Cotidiano
 type: blog
 image: como-lidar-com-a-derrota-e-seguir-em-frente.jpg
 date: 2022-11-25T18:00:53.127Z

@@ -2,8 +2,7 @@
 title: 'Dependência emocional: conselhos para superar este vício'
 date: 2020-04-27
 image: 'depend_ncia-emocional-conselhos-para-superar-este-v_cio.jpg'
-categories:
-  - Cotidiano
+category: Cotidiano
 description: 'Nem todas as relações ocorrem de forma saudável. Saiba o que é dependência emocional clicando aqui!'
 draft: false
 type: blog

@@ -5,8 +5,7 @@ description: A ortorexia nada mais é do que uma obsessão perturbadora por adot
   nutritivos seja algo bom, a compulsão pode prejudicar o bem-estar do
   indivíduo.
 slug: o-que-ortorexia-e-como-reduzir-essa-obsessao
-categories:
-  - Cotidiano
+category: Cotidiano
 type: blog
 image: o-que-ortorexia-e-como-reduzir-essa-obsessao.jpg
 date: 2022-06-02T15:31:40.353Z

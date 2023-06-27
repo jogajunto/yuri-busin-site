@@ -2,7 +2,7 @@
 title: 'Como controlar suas emoções'
 date: 2018-11-15
 image: 'controle-emocional.jpg'
-categories: ['Saúde']
+category: Saúde
 description: 'Nesse artigo, você aprenderá o que são as emoções e conhecerá quais são as principais dicas para regulá-las. Vamos lá?'
 draft: false
 type: blog

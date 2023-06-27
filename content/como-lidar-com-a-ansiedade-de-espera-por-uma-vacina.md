@@ -3,8 +3,7 @@ title: Como lidar com a ansiedade de espera por uma vacina?
 description: Após quase um ano de espera por uma vacina, o mundo começa a
   imunizar a população para conter a pandemia da Covid-19.
 slug: ansiedade-espera-por-uma-vacina
-categories:
-  - Cotidiano
+category: Cotidiano
 type: blog
 image: ansiedade_vacina.jpg
 date: 2021-02-24T12:18:31.308Z

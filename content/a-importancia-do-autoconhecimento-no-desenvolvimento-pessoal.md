@@ -3,8 +3,7 @@ title: A importância do autoconhecimento no desenvolvimento pessoal
 description: Ficou interessado em como desenvolver o seu autoconhecimento?
   Então, continue a leitura!
 slug: autoconhecimento-no-desenvolvimento-pessoal
-categories:
-  - Cotidiano
+category: Cotidiano
 type: blog
 image: mulher-meditando-sabendo-da-import_ncia-do-autoconhecimento.jpg
 date: 2019-10-23

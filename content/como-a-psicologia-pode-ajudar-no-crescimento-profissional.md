@@ -4,8 +4,7 @@ description: De forma geral, o crescimento profissional exige um planejamento
   cuidadoso e habilidades que podem não ser óbvias para as pessoas que estão no
   início de suas carreiras.
 slug: como-psicologia-pode-ajudar-no-crescimento-profissional
-categories:
-  - Cotidiano
+category: Cotidiano
 type: blog
 image: como-a-psicologia-pode-ajudar-no-crescimento-profissional-.jpg
 date: 2021-09-13T16:28:39.376Z

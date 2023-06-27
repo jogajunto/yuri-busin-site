@@ -4,8 +4,7 @@ description: Apresento a importância de desapegar de coisas e pessoas, além do
   benefícios de estar disposto a deixar sua zona de conforto e fazer mudanças em
   sua vida.
 slug: voce-sofre-de-apego-emocional
-categories:
-  - Cotidiano
+category: Cotidiano
 type: blog
 image: apego-emocional.jpeg
 date: 2019-02-12

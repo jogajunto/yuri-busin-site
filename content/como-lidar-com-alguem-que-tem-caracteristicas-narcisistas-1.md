@@ -2,8 +2,7 @@
 title: Como lidar com alguém que tem características narcisistas
 description: Conhece alguém com características narcisistas e quer saber como
   lidar? Confira aqui dicas para agir com pessoas que tem esse transtorno.
-categories:
-  - Cotidiano
+category: Cotidiano
 type: blog
 image: como-lidar-com-pessoas-narcisistas-psicologo-comportamental.jpg
 date: 2022-07-22T18:32:32.367Z

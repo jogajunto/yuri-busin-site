@@ -2,8 +2,7 @@
 title: 'Déficit de Atenção em Adulto: Como saber se você tem TDAH'
 description: O TDAH, ou Déficit de atenção pode atingir pessoas de todas as
   idades. Entenda como identificar essa condição na vida adulta.
-categories:
-  - Cotidiano
+category: Cotidiano
 type: blog
 image: tdah-na-vida-adulta.jpg
 date: 2022-06-29T23:38:14.031Z

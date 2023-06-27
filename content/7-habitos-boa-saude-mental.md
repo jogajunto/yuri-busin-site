@@ -2,8 +2,7 @@
 title: '7 hábitos que ajudam a ter uma boa saúde mental'
 date: 2019-01-10
 image: 'boa-saude-mental.jpg'
-categories:
-  - Cotidiano
+category: Cotidiano
 description: 'Neste artigo, você conhecerá os principais hábitos para manter a mente saudável. Vamos lá?'
 draft: false
 type: blog

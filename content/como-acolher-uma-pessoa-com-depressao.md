@@ -4,8 +4,7 @@ description: 'A depressão é um assunto delicado e quando temos alguém próxim
   devemos acolher. Por isso, sempre faça perguntas sinceras e abertas como:
   "Como você se sente?" ou "O que posso fazer por você?".'
 slug: como-acolher-pessoa-com-depressao
-categories:
-  - Cotidiano
+category: Cotidiano
 type: blog
 image: aliviar-stress.jpg
 date: 2021-10-31T14:02:36.137Z

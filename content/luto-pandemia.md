@@ -3,8 +3,7 @@ title: Como superar o luto na pandemia?
 description: Estamos diante de um cenário catastrófico. Milhares de mortes por
   dia e a incerteza indeclinável do amanhã. Tudo isso traz uma tristeza
   angustiante e
-categories:
-  - Cotidiano
+category: Cotidiano
 type: blog
 image: luto.jpg
 date: 2020-09-25T17:06:02.769Z

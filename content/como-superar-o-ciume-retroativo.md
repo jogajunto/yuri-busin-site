@@ -3,8 +3,7 @@ title: Como superar o ciúme retroativo?
 description: Vasculhar o passado do outro pode se tornar uma obsessão, o que
   gera sofrimento, paranoia e insegurança. Descubra como a Psicologia explora o
   tema.
-categories:
-  - Cotidiano
+category: Cotidiano
 type: blog
 image: mulher-triste-sofrendo-com-ciume-retroativo.jpg
 date: 2019-06-10

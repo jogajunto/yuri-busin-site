@@ -4,8 +4,7 @@ description: Os pais alienadores encorajam e apoiam o desrespeito dos filhos
   para com o outro progenitor, chegando a recompensar os filhos por evitarem o
   contacto com o outro pai.
 slug: alienacao-parental-o-que-e-e-como-proteger-os-filhos
-categories:
-  - Cotidiano
+category: Cotidiano
 type: blog
 image: alienacao-parental-o-que-e-e-como-proteger-os-filhos.jpg
 date: 2022-09-06T17:06:04.849Z

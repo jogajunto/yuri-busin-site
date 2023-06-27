@@ -4,8 +4,7 @@ description: O transtorno depressivo persistente, também chamado de distimia, �
   um diagnóstico relativamente novo que se caracteriza por uma depressão leve,
   mas persistente.
 slug: voce-ja-ouviu-falar-na-distimia
-categories:
-  - Cotidiano
+category: Cotidiano
 type: blog
 image: voce-ja-ouviu-falar-na-distimia.jpg
 date: 2022-06-07T12:46:56.937Z

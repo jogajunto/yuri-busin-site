@@ -3,8 +3,7 @@ title: Como superar a síndrome do ninho vazio?
 description: É uma perda que todos os pais enfrentam, mas nem sempre ela deve
   ser sinônimo de tristeza. Ela também pode ser um novo começo. Duvida? Então,
   saiba mais!
-categories:
-  - Cotidiano
+category: Cotidiano
 type: blog
 image: sapatos-de-beb_-sobre-folhagens-pais-lidando-com-o-ninho-vazio.jpg
 date: 2019-09-24

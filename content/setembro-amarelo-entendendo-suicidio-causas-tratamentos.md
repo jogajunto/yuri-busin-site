@@ -3,8 +3,7 @@ title: Entendendo o Suicídio
 description: O suicídio é um assunto pouco discutido, porém, é de extrema
   importância entendermos um pouco mais sobre este tema, desmistificá-lo e
   conhecer tratamentos..
-categories:
-  - Saúde
+category: Saúde
 type: blog
 image: suicidio.jpg
 date: 2018-08-13

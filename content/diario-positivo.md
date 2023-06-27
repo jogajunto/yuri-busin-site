@@ -2,8 +2,7 @@
 title: 'Buscando significados em seu dia a dia?'
 date: 2020-03-29
 image: 'essentialiving-pjeM49KIEik-unsplash-scaled.jpg'
-categories:
-  - Cotidiano
+category: Cotidiano
 description: 'Se o fato de refletir sobre as coisas boas da vida produz muitos benefícios, por que fazemos pouco? A solução é o Diário Positivo, leia como fazer o seu!'
 draft: false
 type: blog

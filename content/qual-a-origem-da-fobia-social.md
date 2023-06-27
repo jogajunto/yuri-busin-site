@@ -2,8 +2,7 @@
 title: 'Qual a origem da fobia social?'
 date: 2020-01-22
 image: 'pessoa-com-fobia-social.jpg'
-categories:
-  - Cotidiano
+category: Cotidiano
 description: 'A fobia social pode afetar profundamente as relações pessoais. Para se livrar desse mal, continue a leitura e saiba como melhorar os seus relacionamentos!'
 draft: false
 type: blog

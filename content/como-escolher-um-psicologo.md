@@ -2,8 +2,7 @@
 title: Como escolher um psicólogo?
 description: Neste artigo, apresento as principais dicas de como escolher um
   psicólogo para resolver seus problemas emocionais.
-categories:
-  - Cotidiano
+category: Cotidiano
 type: blog
 image: rawpixel-600782-unsplash.jpg
 date: 2019-01-14

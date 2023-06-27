@@ -4,8 +4,7 @@ description: O “ghosting” tem se tornado um fenômeno cada vez mais comum no
   mundo moderno. Ele ocorre quando alguém com quem você está saindo ou com quem
   tem uma amizade desaparece de uma hora para a outra.
 slug: como-lidar-com-o-ghosting-nos-relacionamentos
-categories:
-  - Cotidiano
+category: Cotidiano
 type: blog
 image: como-lidar-com-o-ghosting-nos-relacionamentos.jpg
 date: 2022-09-22T21:14:43.259Z

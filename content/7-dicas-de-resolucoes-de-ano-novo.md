@@ -2,8 +2,7 @@
 title: '7 dicas de resoluções de ano novo'
 date: 2019-12-31
 image: 'resolu__es-de-ano-novo.jpg'
-categories:
-  - Cotidiano
+category: Cotidiano
 description: 'Neste artigo, você encontrará algumas dicas de resoluções que ajudarão você a crescer psicologicamente, emocionalmente ou socialmente. Vamos lá?'
 draft: false
 type: blog

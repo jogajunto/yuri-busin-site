@@ -4,8 +4,7 @@ description: A birra é um comportamento comum entre crianças de 1 a 3 anos de
   idade. Geralmente, ela se manifesta na forma de choramingos, choros ou gritos.
   Porém, há também aqueles que costumam chutar, bater ou prender a respiração.
 slug: como-lidar-com-a-birra-dos-filhos
-categories:
-  - Cotidiano
+category: Cotidiano
 type: blog
 image: como-lidar-com-a-birra-dos-filhos.jpg
 date: 2022-06-07T12:38:40.032Z

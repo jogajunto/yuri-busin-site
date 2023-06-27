@@ -2,8 +2,7 @@
 title: 'Como superar a infidelidade?'
 date: 2019-06-13
 image: 'mulher-andando-em-meio-a-natureza-pensativa-em-como-superar-a-infidelidade.jpg'
-categories:
-  - Cotidiano
+category: Cotidiano
 description: 'Quando você aprende a seguir em frente, é completamente possível que o relacionamento sobreviva mesmo após uma traição. Saiba como, neste artigo!'
 draft: false
 type: blog

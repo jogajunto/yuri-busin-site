@@ -5,8 +5,7 @@ description: o perfeccionismo não é trabalhar para atingir o resultado melhor
   passa a ter uma conversa interna negativa constante, gasta um tempo excessivo
   na execução de tarefas e compara-se o tempo todo com os outros.
 slug: por-que-perfeccionismo-e-um-problema
-categories:
-  - Cotidiano
+category: Cotidiano
 type: blog
 image: por-que-perfeccionismo-e-um-problema.jpg
 date: 2022-11-11T16:23:08.713Z

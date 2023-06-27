@@ -3,8 +3,7 @@ title: Como identificar uma criança com autismo?
 description: Quando falamos de crianças com autismo falamos também de
   heterogeneidade. Como assim? Explico! É preciso,
 slug: criança-autismo
-categories:
-  - Cotidiano
+category: Cotidiano
 type: blog
 image: autismo.jpg
 date: 2020-11-25T20:38:47.734Z

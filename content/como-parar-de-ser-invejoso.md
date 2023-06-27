@@ -4,8 +4,7 @@ description: É comum as pessoas dizerem que a inveja tem um lado positivo,
   argumentando que ela pode ser um impulso para ter motivação para progredir.
   Mas, será que isso ocorre dessa forma? Leia mais sobre isso neste post!
 slug: como-parar-de-ser-invejoso
-categories:
-  - Cotidiano
+category: Cotidiano
 type: blog
 image: como-parar-de-ser-invejoso-.jpg
 date: 2022-03-14T11:59:55.089Z

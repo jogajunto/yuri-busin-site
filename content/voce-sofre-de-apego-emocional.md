@@ -8,7 +8,7 @@ category: Cotidiano
 type: blog
 image: apego-emocional.jpeg
 date: 2019-02-12
-draft: falsenull
+draft: false
 ---
 
 O **apego emocional** pode ser definido como um forte vínculo com algo. As pessoas se ligam emocionalmente a objetos, hábitos e crenças. Assim, é muito comum se apegar aos seus pertences, a um local especial, rotinas do dia a dia ou até mesmo a uma pessoa que está dividindo uma vida.

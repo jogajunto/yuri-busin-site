@@ -1,5 +1,6 @@
 ---
 title: Política de Privacidade
+description: Informações a respeito do modo como tratamos, total ou parcialmente, de forma automatizada ou não, os dados pessoais dos usuários que acessam nosso site.
 ---
 
 A Política de Privacidade foi atualizada em **11/02/2020**.

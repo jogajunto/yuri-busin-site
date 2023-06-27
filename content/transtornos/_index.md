@@ -1,4 +1,4 @@
 ---
 title: Tipos de transtornos
-description: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam eu turpis molestie, dictum est.
+description: Entenda quais são os principais tipos de transtornos e como funcionam.
 ---

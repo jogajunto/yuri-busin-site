@@ -1,4 +1,4 @@
 ---
-title: 'Yuri Busin'
-description: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam eu turpis molestie, dictum est.
+title: Dr. Yuri Busin | Psicólogo Online | Terapia Cognitiva Comportamental
+description: Agende uma consulta por Whatsapp para realizar terapias de transtornos do humor, depressão, transtorno bipolar, ansiedade, estresse, TOC, síndromes de...
 ---

@@ -1,4 +1,4 @@
 ---
 title: Contato
-description: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam eu turpis molestie, dictum est.
+description: Entre em contato com o psicólogo Yuri Busin, mestre e doutor. Terapia Cognitiva comportamental, localizado na zona norte de SP.
 ---

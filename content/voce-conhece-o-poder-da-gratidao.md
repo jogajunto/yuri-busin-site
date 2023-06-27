@@ -2,7 +2,8 @@
 title: 'Você conhece o poder da gratidão?'
 date: 2019-06-04
 image: 'pessoa-com-os-bra_os-abertos-acreditando-no-poder-da-gratid_o.jpg'
-categories: ['Cotidiano']
+categories:
+  - Cotidiano
 description: 'O poder da gratidão é uma das melhores maneiras para encontrar sucesso, satisfação e felicidade nos dias atuais. Para saber mais, leia meu mais novo artigo!'
 draft: false
 type: blog

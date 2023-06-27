@@ -2,7 +2,8 @@
 title: 'Entendendo o cérebro para sair bem nas fotos!'
 date: 2015-10-02
 image: 'ImageResizer.net-ew3kikhep9wuof5.jpg'
-categories: ['Cotidiano']
+categories:
+  - Cotidiano
 description: 'Um dos temas mais recorrentes na nossa vida são as emoções, difíceis de serem controladas, mas sempre nos fazem sentir vivo. '
 draft: false
 type: blog

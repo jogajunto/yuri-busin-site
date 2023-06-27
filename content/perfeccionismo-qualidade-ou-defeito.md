@@ -2,7 +2,8 @@
 title: 'Perfeccionismo, qualidade ou defeito?'
 date: 2018-07-04
 image: '40422059-60E4-4C25-A579-EF3D61AE53E5.jpeg'
-categories: ['Cotidiano']
+categories:
+  - Cotidiano
 description: 'O perfeccionismo pode ser definido como a recusa em aceitar qualquer padrão que contenha quaisquer falhas ou defeitos...'
 draft: false
 type: blog

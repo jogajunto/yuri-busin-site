@@ -2,7 +2,8 @@
 title: 'Quando procurar um psicólogo?'
 date: 2020-03-03
 image: 'quando-procurar-um-psic_logo.jpg'
-categories: ['Cotidiano']
+categories:
+  - Cotidiano
 description: 'Aqui você encontra os principais sinais de que talvez seja hora de procurar um psicólogo.'
 draft: false
 type: blog

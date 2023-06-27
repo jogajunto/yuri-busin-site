@@ -2,7 +2,8 @@
 title: 'Os perigos da autocobrança'
 date: 2018-07-13
 image: 'nik-shuliahin-251237-unsplash.jpg'
-categories: ['Cotidiano']
+categories:
+  - Cotidiano
 description: 'A busca por resultados rápidos fazem a pessoa achar que a autocobrança é solução. Quando, na verdade, você pode estar sendo o seu pior inimigo.'
 draft: false
 type: blog

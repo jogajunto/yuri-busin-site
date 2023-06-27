@@ -2,7 +2,8 @@
 title: 'Como lidar com pessoas tóxicas no trabalho?'
 date: 2020-03-03
 image: 'homem-com-mascara-para-lidar-com-pessoas-t_xicas-no-trabalho.jpg'
-categories: ['Cotidiano']
+categories:
+  - Cotidiano
 description: 'Neste artigo, você aprenderá como gerenciar melhor as consequências da toxicidade de outras pessoas. Continue a leitura!'
 draft: false
 type: blog

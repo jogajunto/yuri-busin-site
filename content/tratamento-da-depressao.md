@@ -2,7 +2,8 @@
 title: 'Quais são as principais formas de tratamento da depressão'
 date: 2018-12-11
 image: 'tratamento-depress_o.jpeg'
-categories: ['Cotidiano']
+categories:
+  - Cotidiano
 description: 'Quando você está deprimido, pode parecer que você nunca sairá dessa condição. '
 draft: false
 type: blog

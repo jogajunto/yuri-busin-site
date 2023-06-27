@@ -2,7 +2,8 @@
 title: 'Como ser mais confiante?'
 date: 2019-10-23
 image: 'm_o-levantada-de-algu_m-se-perguntando-como-ser-mais-confiante.jpg'
-categories: ['Cotidiano']
+categories:
+  - Cotidiano
 description: 'Se você busca criar mais confiança em si mesmo, este artigo pode te ajudar. Continue a leitura!'
 draft: false
 type: blog

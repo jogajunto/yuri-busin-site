@@ -2,7 +2,8 @@
 title: 'Como se motivar para voltar a trabalhar após as férias'
 date: 2018-01-12
 image: 'motivacao-pos-ferias.jpg'
-categories: ['Cotidiano']
+categories:
+  - Cotidiano
 description: 'Voltar a trabalhar depois das férias pode ser uma tarefa difícil, principalmente se o tempo de descanso foi um pouco mais prolongado...'
 draft: false
 type: blog

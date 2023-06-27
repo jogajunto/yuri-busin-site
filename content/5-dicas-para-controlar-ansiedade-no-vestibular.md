@@ -2,7 +2,8 @@
 title: '5 dicas para controlar a ansiedade no vestibular'
 date: 2017-11-18
 image: 'gabarito.jpg'
-categories: ['Cotidiano']
+categories:
+  - Cotidiano
 description: 'A ansiedade pode atrapalhar significativamente a vida dos estudantes, tanto no momento da preparação, quanto durante as provas...Ansiedade no vestibular...'
 draft: false
 type: blog

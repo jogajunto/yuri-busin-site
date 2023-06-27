@@ -2,7 +2,8 @@
 title: 'Como trabalhar em casa de maneira saudável?'
 date: 2020-04-15
 image: 'como-trabalhar-em-casa-de-maneira-saud_vel.jpg'
-categories: ['Cotidiano']
+categories:
+  - Cotidiano
 description: 'Como trabalhar em casa de maneira saudável?'
 draft: false
 type: blog

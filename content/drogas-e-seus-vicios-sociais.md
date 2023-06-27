@@ -2,7 +2,8 @@
 title: 'Drogas e seus vícios sociais'
 date: 2015-09-16
 image: 'drogas.jpg'
-categories: ['Cotidiano']
+categories:
+  - Cotidiano
 description: 'Na atualidade, existem muitas pesquisas sobre as drogas, como elas agem no corpo, como elas modificam as estruturas cerebrais, como elas viciam...'
 draft: false
 type: blog

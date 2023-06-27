@@ -2,7 +2,8 @@
 title: 'Como superar o término de um namoro'
 date: 2018-04-11
 image: 'casal-nos-trilhos-tristes-superando-o-termino-do-relacionamento.jpg'
-categories: ['Cotidiano']
+categories:
+  - Cotidiano
 description: 'Superar o término de um namoro nem sempre é uma tarefa fácil. Por isso, passa a ser fundamental aprender algumas formas para lidar melhor com esse momento.'
 draft: false
 type: blog

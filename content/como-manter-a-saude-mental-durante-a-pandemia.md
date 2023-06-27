@@ -2,7 +2,8 @@
 title: 'Como manter a saúde mental durante a pandemia?'
 date: 2020-05-29
 image: 'como-manter-a-saude-mental-durante-a-pandemia.jpg'
-categories: ['Cotidiano']
+categories:
+  - Cotidiano
 description: 'e você não para um minuto de pensar que vai contrair a Covid-19 ou que vai perder alguém que ama, é melhor ler este artigo.'
 draft: false
 type: blog

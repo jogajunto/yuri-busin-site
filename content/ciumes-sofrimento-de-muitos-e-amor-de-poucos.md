@@ -2,7 +2,8 @@
 title: 'Ciúmes - Sofrimento de muitos e amor de poucos'
 date: 2015-11-19
 image: 'Captura-de-Tela-2015-11-19-_s-14.23.46.jpg'
-categories: ['Cotidiano']
+categories:
+  - Cotidiano
 description: 'É muito comum ouvirmos que não ter ciúmes do parceiro é sinal de não amar ele tanto assim, contudo isso não é uma afirmação real. Na realidade, o ciúmes...'
 draft: false
 type: blog

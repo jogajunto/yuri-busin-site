@@ -2,7 +2,8 @@
 title: '5 fobias estranhas que você nunca ouviu falar'
 date: 2020-03-03
 image: 'mulher-com-m_os-no-rosto-com-as-fobias-mais-estranhas.jpg'
-categories: ['Cotidiano']
+categories:
+  - Cotidiano
 description: 'Aqui está uma lista de cinco fobias surpreendentes e que são totalmente reais!'
 draft: false
 type: blog

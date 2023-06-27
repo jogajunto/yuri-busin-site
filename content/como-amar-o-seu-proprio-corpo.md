@@ -2,7 +2,8 @@
 title: 'Como amar o seu próprio corpo?'
 date: 2018-02-20
 image: 'mulher-espelho-coracao-como-amar-seu-proprio-corpo.jpg'
-categories: ['Cotidiano']
+categories:
+  - Cotidiano
 description: 'Muitas pessoas demonstram problemas em relação à própria imagem, como se a pessoa não conseguisse amar o seu próprio corpo...'
 draft: false
 type: blog

@@ -2,7 +2,8 @@
 title: 'Insegurança na cama'
 date: 2015-09-17
 image: 'inseguranca-na-cama.jpg'
-categories: ['Cotidiano']
+categories:
+  - Cotidiano
 description: 'É muito comum ouvir nos pequenos grupos de homens e mulheres a temática sexual: “ser bom na cama”, porém alguns homens podem ter uma insegurança na cama...'
 draft: false
 type: blog

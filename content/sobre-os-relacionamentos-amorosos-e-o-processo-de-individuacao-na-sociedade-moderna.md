@@ -2,7 +2,8 @@
 title: 'O processo de individuação na sociedade moderna'
 date: 2017-10-28
 image: '8C1C9C73-47D3-4467-9394-585149033D49.jpeg'
-categories: ['Cotidiano']
+categories:
+  - Cotidiano
 description: 'Os relacionamentos estão em constante transformação. A medida que as pessoas vão mudando seus comportamentos, novos relacionamentos amorosos aparecem...'
 draft: false
 type: blog

@@ -2,7 +2,8 @@
 title: 'Vantagens do psicólogo online para quem mora no exterior'
 date: 2019-09-22
 image: 'brasileiros-que-moram-no-exterior-tem-a-conveni_ncia-do-psicologo-online.jpg'
-categories: ['Cotidiano']
+categories:
+  - Cotidiano
 description: 'A natureza flexível da psicoterapia online beneficia pacientes e psicólogos. Saiba o porquê lendo este artigo!'
 draft: false
 type: blog

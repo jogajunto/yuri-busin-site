@@ -2,7 +2,8 @@
 title: 'Ansiedade, o mal do novo século!'
 date: 2015-09-16
 image: 'ansiedade.jpg'
-categories: ['Cotidiano']
+categories:
+  - Cotidiano
 description: 'Realmente, é muito difícil sentir-se assim, contudo o que não se costuma falar por ai, é que nem tudo é ansiedade, e que nem tudo é fora'
 draft: false
 type: blog

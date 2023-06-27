@@ -2,7 +2,8 @@
 title: 'Ansiedade social: o que é e como pode te prejudicar'
 date: 2019-09-27
 image: 'menina-escondida-sofrendo-de-ansiedade-social.jpg'
-categories: ['Cotidiano']
+categories:
+  - Cotidiano
 description: 'É possível aprender a se sentir confortável em interações sociais e recuperar o controle sobre sua vida. Continue a leitura para saber como!'
 draft: false
 type: blog

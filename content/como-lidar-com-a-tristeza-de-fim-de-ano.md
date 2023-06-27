@@ -2,7 +2,8 @@
 title: 'Como lidar com a tristeza de fim de ano?'
 date: 2018-12-22
 image: 'depress_o_final_de_ano.jpeg'
-categories: ['Cotidiano']
+categories:
+  - Cotidiano
 description: 'Neste artigo, você conhecerá alguns dos fatores de risco para a depressão de fim de ano e como você pode evitá-los. Vamos lá?'
 draft: false
 type: blog

@@ -2,7 +2,8 @@
 title: 'Como lidar com haters na internet?'
 date: 2018-04-17
 image: 'homem-gritando-computador.jpg'
-categories: ['Cotidiano']
+categories:
+  - Cotidiano
 description: 'Atualmente, diversos casos de problemas psicológicos estão sendo relacionados com o mau uso da internet. Os discursos de ódio, haters na internet...'
 draft: false
 type: blog

@@ -2,7 +2,8 @@
 title: 'O que é a dismorfofobia e as suas consequências'
 date: 2020-04-27
 image: 'o-que-_-a-dismorfofobia-e-as-suas-consequ_ncias.jpg'
-categories: ['Cotidiano']
+categories:
+  - Cotidiano
 description: 'Esse distúrbio não escolhe raça, cor e nem sexo. Saiba mais sobre ele clicando aqui!'
 draft: false
 type: blog

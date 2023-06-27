@@ -2,7 +2,8 @@
 title: 'Por que temos a necessidade de Mentir?'
 date: 2015-09-17
 image: 'verdades-e-mentiras.jpg'
-categories: ['Cotidiano']
+categories:
+  - Cotidiano
 description: 'Todos os dias nos deparamos com muitas pessoas, conversamos com diversas e mentimos para muitas delas...Mas porque temos a necessidade de mentir?'
 draft: false
 type: blog

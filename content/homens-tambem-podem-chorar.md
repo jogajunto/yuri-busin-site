@@ -2,7 +2,8 @@
 title: 'Homens também podem chorar'
 date: 2015-09-28
 image: 'homens.jpg'
-categories: ['Cotidiano']
+categories:
+  - Cotidiano
 description: 'Já pararam para pensar que é muito difícil, homens confessarem que sofrem? Que choram? Que ficam tristes? Angustiados?'
 draft: false
 type: blog

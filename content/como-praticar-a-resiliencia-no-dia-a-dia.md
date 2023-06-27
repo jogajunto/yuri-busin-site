@@ -2,7 +2,8 @@
 title: 'Como praticar a resiliência no dia a dia?'
 date: 2019-06-13
 image: 'homem-com-os-bra_os-abertos-sobre-a-montanha-que-sabe-como-praticar-a-resili_ncia.jpg'
-categories: ['Cotidiano']
+categories:
+  - Cotidiano
 description: 'Ser resiliente significa ser capaz de se adaptar e se recuperar quando algo difícil acontece. Quer aprender como fazer isso? Então leia este post!'
 draft: false
 type: blog

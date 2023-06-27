@@ -1,5 +1,30 @@
 {{ define "main" }}
-	{{ $paginator := .Paginate (where .Site.RegularPages "Type" "blog") }}
+	<!-- Get all posts. "Where" is necessary to filter the posts by type, as the single pages aren't in the "blog" folder -->
+	{{ $allPosts := where .Site.RegularPages "Type" "blog" }}
+
+
+	<!-- Get all featured posts -->
+	{{ $featuredPosts := where $allPosts "Params.featured" "==" true }}
+
+
+	<!-- Get all non-featured posts. It's not using "false" because some posts may not have the "featured" param -->
+	{{ $nonFeaturedPosts := where $allPosts "Params.featured" "!=" true }}
+
+
+	<!-- Get the first 2 featured posts -->
+	{{ $recentFeaturedPosts := $featuredPosts | first 2 }}
+
+
+	<!-- Get the rest of the featured posts -->
+	{{ $oldFeaturedPosts := $featuredPosts | after 2 }}
+
+
+	<!-- Get all non-featured posts and the featured posts that are not in the first 2 -->
+	{{ $recentPosts := union $nonFeaturedPosts $oldFeaturedPosts }}
+
+
+	<!-- Paginate the posts -->
+	{{ $paginator := .Paginate $recentPosts }}
 
 	{{ if eq .Paginator.PageNumber 1 }}
 		<section class="section blog">
@@ -8,6 +33,7 @@
 					<div class="stack-lg">
 						<h1 class="display display--lg">Blog</h1>
 						<p class="text-xl text-light">Lorem ipsum dolor sit amet consectetur adipisicing elit. Totam unde laudantium minima expedita, modi magni?</p>
+						<a class="button button--green" href="#publicacoes">Publicações mais recentes</a>
 					</div>
 					<div class="stack-lg">
 						<picture class="image-fill-height image-fill-height--left">
@@ -18,15 +44,14 @@
 			</div>
 		</section>
 
-		<section class="section publicacoes-em-destaque">
+		<section class="section publicacoes-em-destaque" id="publicacoes-em-destaque">
 			<div class="container">
 				<div class="stack-lg">
 					<div class="text-center">
 						<h2 class="heading heading--md">Publicações em destaque</h2>
 					</div>
-					{{ $featuredPosts := where .Site.RegularPages "Params.featured" "==" true }}
 					<div class="feed">
-						{{ range first 2 $featuredPosts }}
+						{{ range $recentFeaturedPosts }}
 							{{ .Render "card" }}
 						{{ end }}
 					</div>
@@ -49,9 +74,8 @@
 						{{ end }}
 					</div>
 				</div>
-				{{ $featuredPosts := where .Site.RegularPages "Params.featured" "==" true }}
 				<div class="feed">
-					{{ range .Paginator.Pages }}
+					{{ range $paginator.Pages }}
 						{{ .Render "card" }}
 					{{ end }}
 				</div>

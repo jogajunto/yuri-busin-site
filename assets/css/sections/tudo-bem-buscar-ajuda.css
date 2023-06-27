@@ -1,0 +1,38 @@
+.tudo-bem-buscar-ajuda {
+	position: relative;
+}
+
+.tudo-bem-buscar-ajuda picture {
+	position: relative;
+	margin-top: var(--spacing-xl);
+}
+
+.tudo-bem-buscar-ajuda picture::before {
+	content: '';
+	position: absolute;
+	top: 0;
+	left: 0;
+	width: 100%;
+	height: 100%;
+	background: var(--gradient-bottom-to-top);
+	z-index: 0;
+}
+
+@media (--desktop) {
+	.tudo-bem-buscar-ajuda picture {
+		height: 120%;
+		margin: auto;
+		position: absolute;
+		left: 0;
+		right: 0;
+		bottom: 0;
+		transform: translateX(-26rem);
+		z-index: -1;
+	}
+
+	.tudo-bem-buscar-ajuda picture img {
+		height: 100%;
+		object-fit: contain;
+		object-position: bottom;
+	}
+}

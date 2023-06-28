@@ -24,7 +24,7 @@
 						<h2 class="heading heading--sm">Agende um horário</h2>
 						<ul class="stack-xs">
 							<li>Por <a href="{{ .Site.Params.whatsApp }}">Whatsapp</a></li>
-							<li>Por <a href="tel:{{ .Site.Params.whatsApp }}">Telefone (11) 4116-8926</a></li>
+							<li>Por <a href="{{ .Site.Params.phone.link }}">Telefone {{ .Site.Params.phone.number }}</a></li>
 							<li>Por <a href="">Formulário de contato</a></li>
 						</ul>
 					</div>
@@ -40,11 +40,7 @@
 				<div class="grid">
 					<div class="stack-sm">
 						<h2 class="heading heading--sm">Endereço do consultório:</h2>
-						<p>
-							R. Voluntários da Pátria, 2468 - Cj 214 <br />
-							Santana, São Paulo <br />
-							SP, 02401-000
-						</p>
+						<p><a href="{{ .Site.Params.address.link }}" target="_blank" rel="noopener" title="Como chegar">{{ .Site.Params.address.formatted | safeHTML }}</a></p>
 					</div>
 					<div class="stack-sm">
 						<h2 class="heading heading--sm">🔴 Não aceito convênio</h2>
@@ -57,19 +53,19 @@
 						<fieldset class="form-fieldset">
 							<div class="form-field form-field--half">
 								<label class="visually-hidden" for="name">Nome:</label>
-								<input class="input" type="text" name="Nome" id="name" required="" placeholder="Nome*" />
+								<input class="input" type="text" name="Nome" id="name" placeholder="Nome*" required="" />
 							</div>
 							<div class="form-field form-field--half">
 								<label class="visually-hidden" for="lastname">Sobrenome:</label>
-								<input class="input" type="text" name="Sobrenome" id="lastname" required="" placeholder="Sobrenome*" />
+								<input class="input" type="text" name="Sobrenome" id="lastname" placeholder="Sobrenome*" required="" />
 							</div>
 							<div class="form-field form-field--half">
 								<label class="visually-hidden" for="email">E-mail:</label>
-								<input class="input" type="email" name="E-mail" id="email" required="" placeholder="E-mail*" />
+								<input class="input" type="email" name="E-mail" id="email" placeholder="E-mail*" required="" />
 							</div>
 							<div class="form-field form-field--half">
 								<label class="visually-hidden" for="phone">Telefone ou celular:</label>
-								<input class="input" type="tel" name="Telefone" required="phone" placeholder="Telefone ou celular*" />
+								<input class="input" type="tel" name="Telefone" id="phone" placeholder="Telefone ou celular*" required="" />
 							</div>
 							<div class="form-field">
 								<label class="visually-hidden" for="subject">Selecione seu interesse:</label>

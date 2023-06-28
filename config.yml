@@ -1,5 +1,5 @@
 # Site settings
-baseURL: 'https://yuri-busin-site.pages.dev/'
+baseURL: https://yuri-busin-site.pages.dev/
 title: 'Dr. Yuri Busin'
 defaultContentLanguage: pt-br
 
@@ -13,16 +13,24 @@ taxonomies:
   category: category
 
 permalinks:
-  category: '/blog/categoria/:slug/'
+  category: /blog/categoria/:slug/
 
 params:
   whatsApp: 'https://wa.me/5511999646940'
-  facebook: 'https://www.facebook.com/yuribusinpsicologo/'
-  instagram: 'https://www.instagram.com/dryuribusin/'
-  youtube: 'https://www.youtube.com/channel/UCcmQYl3OkMp3HmhRQs3mPHA'
-  email: 'contato@yuribusin.com.br'
-  phone: '551141168926'
-  googleMaps: 'https://goo.gl/maps/ChkZLjVBCgUBhVd86?coh=178572&entry=tt'
+  email:
+    address: contato@yuribusin.com.br
+    link: mailto:contato@yuribusin.com.br
+  phone:
+    number: (11) 4116-8926
+    link: 'tel:+551141168926'
+  address:
+    formatted: R. Voluntários da Pátria, 2468 - Cj - 214 <br> Santana, São Paulo - SP, 02401-000
+    link: https://goo.gl/maps/ChkZLjVBCgUBhVd86?coh=178572&entry=tt
+  social:
+    tikTok: https://www.tiktok.com/@dryuribusin
+    facebook: https://www.facebook.com/yuribusinpsicologo/
+    instagram: https://www.instagram.com/dryuribusin/
+    youtube: https://www.youtube.com/channel/UCcmQYl3OkMp3HmhRQs3mPHAs
 
 imaging:
   anchor: Smart

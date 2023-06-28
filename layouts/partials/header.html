@@ -9,7 +9,7 @@
 					{{ partial "svg.html" (dict "viewBox" "0 0 123 72" "src" "/vectors/logo-yuri-busin.svg" "class" "brand") }}
 				</a>
 				<div class="nav__cta">
-					<a class="button button--green button--sm" href="">Agendar consulta</a>
+					<a class="button button--green button--sm" href="{{ .Site.Params.whatsApp }}" target="_blank" rel="noopener">Agendar consulta</a>
 				</div>
 				<button class="nav__toggle" aria-haspopup="true" aria-expanded="false" title="Abrir/Fechar Menu">
 					{{ partial "svg.html" (dict "class" "nav__toggle__icon nav__toggle__icon--open" "viewBox" "0 0 24 24" "src" "/icons/menu.svg") }}

@@ -7,7 +7,7 @@
 						{{ partial "svg.html" (dict "viewBox" "0 0 123 72" "src" "/vectors/logo-yuri-busin.svg" "class" "brand") }}
 					</a>
 					<div class="stack-xs">
-						<p class="label-sm">© <time datetime="2006">{{ now.Format "2006" }}</time> Yuri Busin. Política de Privacidade</p>
+						<p class="label-sm">© <time datetime="2006">{{ now.Format "2006" }}</time> Yuri Busin. <a href="/politica-de-privacidade">Política de Privacidade</a></p>
 						<p class="label-sm">Criação do site por <a href="https://jogajunto.co/" target="_blank" rel="noopener">Jogajunto</a>.</p>
 					</div>
 				</div>
@@ -15,40 +15,38 @@
 			<div class="column column-6-at-desktop">
 				<div class="stack-md">
 					<p class="label-sm">
-						<a href="https://goo.gl/maps/TuEx32rL8a7tv4w2A?coh=178572&entry=tt" target="_blank" rel="noopener" title="Como chegar">
-							R. Voluntários da Pátria, 2468 - Cj - 214 <br />
-							Santana, São Paulo - SP, 02401-000
+						<a href="{{ .Site.Params.address.link }}" target="_blank" rel="noopener" title="Como chegar">
+							{{ .Site.Params.address.formatted | safeHTML }}
 						</a>
 					</p>
 					<div class="stack-xs">
-						<p class="label-sm">
-							<a href="mailto:{{ .Site.Params.email }}" title="Enviar um e-mail">{{ .Site.Params.email }}</a>
-						</p>
-						<p class="label-sm">
-							<a href="tel:+551141168926" title="Ligar">(11) 4116-8926</a>
-							|
-							<a href="{{ .Site.Params.whatsApp }}" title="Enviar mensagem via WhatsApp">WhatsApp</a>
-						</p>
+						<p class="label-sm"><a href="{{ .Site.Params.email.link }}" title="Enviar um e-mail">{{ .Site.Params.email.address }}</a></p>
+						<p class="label-sm"><a href="{{ .Site.Params.address.link }}" title="Ligar">{{ .Site.Params.phone.number }}</a> | <a href="{{ .Site.Params.whatsApp }}" title="Enviar mensagem via WhatsApp">WhatsApp</a></p>
 					</div>
 					<ul class="social">
 						<li class="social__item">
-							<a class="social__link" title="Instagram" href="{{ .Site.Params.instagram }}" rel="noopener" target="_blank">
+							<a class="social__link" title="Instagram" href="{{ .Site.Params.social.instagram }}" rel="noopener" target="_blank">
 								{{ partial "svg.html" (dict "viewBox" "0 0 24 24" "src" "/icons/social-instagram.svg" "class" "icon align-center") }}
 							</a>
 						</li>
 						<li class="social__item">
-							<a class="social__link" title="YouTube" href="{{ .Site.Params.youtube }}" rel="noopener" target="_blank">
+							<a class="social__link" title="YouTube" href="{{ .Site.Params.social.youtube }}" rel="noopener" target="_blank">
 								{{ partial "svg.html" (dict "viewBox" "0 0 24 24" "src" "/icons/social-linkedin.svg" "class" "icon align-center") }}
 							</a>
 						</li>
 						<li class="social__item">
-							<a class="social__link" title="Facebook" href="{{ .Site.Params.facebook }}" rel="noopener" target="_blank">
+							<a class="social__link" title="Facebook" href="{{ .Site.Params.social.facebook }}" rel="noopener" target="_blank">
 								{{ partial "svg.html" (dict "viewBox" "0 0 24 24" "src" "/icons/social-facebook.svg" "class" "icon align-center") }}
 							</a>
 						</li>
 						<li class="social__item">
-							<a class="social__link" title="WhatsApp" href="{{ .Site.Params.whatsApp }}" rel="noopener" target="_blank">
+							<a class="social__link" title="WhatsApp" href="{{ .Site.Params.social.whatsApp }}" rel="noopener" target="_blank">
 								{{ partial "svg.html" (dict "viewBox" "0 0 24 24" "src" "/icons/social-whatsapp.svg" "class" "icon align-center") }}
+							</a>
+						</li>
+						<li class="social__item">
+							<a class="social__link" title="TikTok" href="{{ .Site.Params.social.tikTok }}" rel="noopener" target="_blank">
+								{{ partial "svg.html" (dict "viewBox" "0 0 24 24" "src" "/icons/social-tiktok.svg" "class" "icon align-center") }}
 							</a>
 						</li>
 					</ul>

@@ -39,3 +39,10 @@
 		object-position: bottom;
 	}
 }
+
+@media (--phone) {
+	.image-square-at-phone {
+		aspect-ratio: 1 / 1;
+		object-fit: cover;
+	}
+}

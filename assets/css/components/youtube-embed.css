@@ -3,3 +3,9 @@
 	width: 100%;
 	aspect-ratio: 16 / 9;
 }
+
+@media (--phone) {
+	.youtube-embed {
+		aspect-ratio: 1 / 1;
+	}
+}

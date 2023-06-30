@@ -4,7 +4,7 @@ import Swiper, { A11y } from 'swiper';
 Swiper.use([A11y]);
 
 const swiperTranstornos = new Swiper('.swiper-transtornos', {
-	slidesPerView: 1.3,
+	slidesPerView: 1.1,
 	spaceBetween: 24,
 	centeredSlides: true,
 	centeredSlidesBounds: true,

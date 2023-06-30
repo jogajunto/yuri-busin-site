@@ -4,17 +4,27 @@ title: 'Dr. Yuri Busin'
 defaultContentLanguage: pt-br
 
 # Build settings
+paginate: 6
 enableRobotsTXT: yes
+removePathAccents: true
 disableHugoGeneratorInject: yes
 paginate: 6
 removePathAccents: true
 
+# Production environment settings
+environment:
+  HUGO_VERSION: "0.115.0"
+  NODE_VERSION: "18.16.1"
+
+# Taxonomies settings
 taxonomies:
   category: category
 
+# Permalinks settings
 permalinks:
-  category: /blog/categoria/:slug/
+  category: /categoria/:slug/
 
+# Custom params
 params:
   whatsApp: 'https://wa.me/5511999646940'
   email:
@@ -32,6 +42,7 @@ params:
     instagram: https://www.instagram.com/dryuribusin/
     youtube: https://www.youtube.com/channel/UCcmQYl3OkMp3HmhRQs3mPHAs
 
+# Image processing settings
 imaging:
   anchor: Smart
   bgColor: '#ffffff'

@@ -5,8 +5,10 @@
 	flex-wrap: wrap;
 	gap: var(--spacing-md);
 	width: 100%;
+
+	/* Make brand and toggle button be above the menu overlay */
 	position: relative;
-	z-index: 1;
+	z-index: calc(var(--z-index-menu-overlay) + 1);
 }
 
 .nav__cta {
@@ -18,26 +20,22 @@
 	height: 1.5rem;
 }
 
-.nav__brand {
-	display: block;
-}
-
 .nav__list {
+	background: rgba(0, 0, 0, 0.95);
+	height: 100vh;
+	transition: visibility 0.3s, opacity 0.3s ease-in-out;
+
 	position: absolute;
 	top: 0;
 	left: 0;
 	right: 0;
-	z-index: 0;
+	z-index: var(--z-index-menu-overlay);
 
 	display: grid;
 	justify-content: center;
 	align-content: center;
 	gap: var(--spacing-xxs);
 	flex-basis: 100%;
-
-	background: rgba(0, 0, 0, 0.95);
-	height: 100vh;
-	transition: visibility 0.3s, opacity 0.3s ease-in-out;
 }
 
 .nav__list__item {

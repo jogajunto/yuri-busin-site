@@ -32,6 +32,7 @@
 @import 'components/form';
 @import 'components/rich-text';
 @import 'components/youtube-embed';
+@import 'components/whatsapp-pin';
 
 @import 'layouts/header';
 @import 'layouts/footer';

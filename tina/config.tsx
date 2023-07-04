@@ -17,6 +17,7 @@ const schema = defineSchema({
 			defaultItem() {
 				return {
 					type: 'blog',
+					date: new Date().toISOString(),
 				};
 			},
 			ui: {
@@ -137,7 +138,6 @@ export default defineConfig({
 	branch,
 	clientId: 'cb764a65-3695-47c6-ab8b-54ecbe307262',
 	token: 'f084bfa5150a317d30cdb272479848860b04319d',
-
 	build: {
 		outputFolder: 'admin',
 		publicFolder: 'static',

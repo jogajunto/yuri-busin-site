@@ -1,5 +1,6 @@
 import React from 'react';
 import { defineConfig, defineSchema } from 'tinacms';
+import { validateIdYoutube } from './functions/validate';
 import TypeHiddenField from './components/typeHiddenField';
 
 // Your hosting provider likely exposes this as an environment variable
@@ -84,6 +85,55 @@ const schema = defineSchema({
 					label: 'Draft',
 					type: 'boolean',
 					description: 'Se marcado, o post não será publicado',
+				},
+				{
+					type: 'rich-text',
+					name: 'body',
+					label: 'Body',
+					isBody: true,
+					templates: [
+						{
+							name: 'YoutubeEmbed',
+							label: 'Youtube Embed',
+							match: {
+								start: '{{<',
+								end: '>}}',
+								name: 'youtube-embed',
+							},
+							fields: [
+								{
+									name: 'id',
+									label: 'ID ou Url',
+									type: 'string',
+									required: true,
+									ui: {
+										validate: (value?: string) => {
+											if (value && value.length === 11) {
+												const validate = validateIdYoutube(value);
+												if (!validate) {
+													return 'ID inválido';
+												}
+											} else {
+												return 'Informe um ID ou cole a URL do video';
+											}
+										},
+										parse: (value?: string) => {
+											const validate = validateIdYoutube(value);
+											if (validate) {
+												return validate;
+											}
+										},
+									},
+								},
+								{
+									name: 'title',
+									label: 'Title',
+									type: 'string',
+									required: true,
+								},
+							],
+						},
+					],
 				},
 			],
 		},

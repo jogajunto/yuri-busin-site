@@ -1,48 +1,87 @@
-.banner {
+.scenes {
+	counter-reset: scene;
+}
+
+.scenes__wrap,
+.scenes__items {
+	min-height: 100vh;
 	width: 100%;
-	height: 100vh;
-	background-color: red;
-	display: flex;
-	justify-content: center;
-	align-items: center;
+	position: relative;
 }
 
-p {
-	color: white;
-}
-
-.bg_black {
-	background-color: #000000;
-}
-
-.bg_green {
-	background-color: #7cfc00;
-}
-
-.bg_orange {
-	background-color: #ffa500;
-}
-
-.panel {
-	position: absolute;
+.scene {
+	min-height: 100vh;
 	width: 100%;
-	height: 100%;
-	top: 0;
-	left: 0;
+
 	display: flex;
+	align-items: flex-start;
 	justify-content: center;
-	align-items: center;
+	padding: var(--header-height) var(--side-spacing) !important;
 }
 
-.panel:not(.first) {
+/* Increment the counter for each item after the first. */
+/* So the first item will have a counter of 0, the second 1, etc. */
+.scene--intro:nth-child(n + 2) {
+	counter-increment: scene;
+}
+
+/* Hide the counter on the first item. */
+/* It was added to keep the counter width consistent. */
+.scene--intro:first-child .display::before {
 	opacity: 0;
-	visibility: hidden;
 }
 
-footer {
-	height: 320px;
-	background-color: pink;
-	display: flex;
-	justify-content: center;
-	align-items: center;
+.scene--intro .display {
+	--counter-width: 1.5em;
+
+	max-width: 20ch;
+	margin: auto;
+	position: relative;
+}
+
+.scene--intro .display:before {
+	content: counter(scene);
+	display: block;
+	border-radius: 100%;
+	border: 1px solid var(--surface-light-1);
+	font-weight: 300;
+	text-align: center;
+
+	width: var(--counter-width);
+	height: var(--counter-width);
+	line-height: var(--counter-width);
+	margin-bottom: var(--spacing-md);
+}
+
+.scene--content {
+	text-align: center;
+	position: relative !important;
+}
+
+.scene__inner {
+	width: 100%;
+}
+
+@media (--desktop) {
+	.scene {
+		align-items: center;
+	}
+
+	.scene__inner {
+		min-height: 20rem;
+	}
+
+	.scene__inner--intro .display {
+		padding-left: calc(var(--counter-width) + var(--spacing-md));
+	}
+
+	.scene__inner--intro .display:before {
+		position: absolute;
+		top: 0;
+		left: 0;
+	}
+
+	.scene--content {
+		text-align: right;
+	}
 }

@@ -147,7 +147,7 @@
 					<h2 class="heading heading--md">Publicações</h2>
 					<ul class="stack-sm">
 						{{ range first 5 (where .RegularPages "Params.category" "not in" "Saúde") }}
-							<li><a href="{{ .Permalink }}">{{ .Title }}</a></li>
+							<li><a class="link link--invisible" href="{{ .Permalink }}">{{ .Title }}</a></li>
 						{{ end }}
 					</ul>
 					<a class="button button--green" href="/blog/">Ver mais</a>

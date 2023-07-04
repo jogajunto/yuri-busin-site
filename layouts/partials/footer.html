@@ -7,21 +7,21 @@
 						{{ partial "svg.html" (dict "viewBox" "0 0 123 72" "src" "/vectors/logo-yuri-busin.svg" "class" "brand") }}
 					</a>
 					<div class="stack-xs">
-						<p class="label-sm">© <time datetime="2006">{{ now.Format "2006" }}</time> Yuri Busin. <a href="/politica-de-privacidade">Política de Privacidade</a></p>
-						<p class="label-sm">Criação do site por <a href="https://jogajunto.co/" target="_blank" rel="noopener">Jogajunto</a>.</p>
+						<p class="label-sm">© <time datetime="2006">{{ now.Format "2006" }}</time> Yuri Busin. <a class="link link--invisible" href="/politica-de-privacidade">Política de Privacidade</a></p>
+						<p class="label-sm">Criação do site por <a class="link link--invisible" href="https://jogajunto.co/" target="_blank" rel="noopener">Jogajunto</a>.</p>
 					</div>
 				</div>
 			</div>
 			<div class="column column-6-at-desktop">
 				<div class="stack-md">
 					<p class="label-sm">
-						<a href="{{ .Site.Params.address.link }}" target="_blank" rel="noopener" title="Como chegar">
+						<a class="link link--invisible" href="{{ .Site.Params.address.link }}" target="_blank" rel="noopener" title="Como chegar">
 							{{ .Site.Params.address.formatted | safeHTML }}
 						</a>
 					</p>
 					<div class="stack-xs">
-						<p class="label-sm"><a href="{{ .Site.Params.email.link }}" title="Enviar um e-mail">{{ .Site.Params.email.address }}</a></p>
-						<p class="label-sm"><a href="{{ .Site.Params.address.link }}" title="Ligar">{{ .Site.Params.phone.number }}</a> | <a href="{{ .Site.Params.whatsApp }}" title="Enviar mensagem via WhatsApp">WhatsApp</a></p>
+						<p class="label-sm"><a class="link link--invisible" href="{{ .Site.Params.email.link }}" title="Enviar um e-mail">{{ .Site.Params.email.address }}</a></p>
+						<p class="label-sm"><a class="link link--invisible" href="{{ .Site.Params.address.link }}" title="Ligar">{{ .Site.Params.phone.number }}</a> | <a class="link link--invisible" href="{{ .Site.Params.whatsApp }}" title="Enviar mensagem via WhatsApp">WhatsApp</a></p>
 					</div>
 					<ul class="social">
 						<li class="social__item">

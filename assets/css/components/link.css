@@ -1,0 +1,10 @@
+.link {
+}
+
+.link--invisible {
+	text-decoration: none;
+}
+
+.link--invisible:hover {
+	color: var(--green-700);
+}

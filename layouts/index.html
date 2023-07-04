@@ -138,24 +138,19 @@
 				<div class="stack-lg">
 					<h2 class="heading heading--md">Eventos</h2>
 					<div class="grid" style="--gap: var(--spacing-md)">
-						<div class="stack-sm">
-							<img class="image-radius-sm" src="/images/eventos-safe-experience.webp" alt="..." />
-							<h3 class="label-sm">Safe Experience</h3>
-						</div>
-						<div class="stack-sm">
-							<img class="image-radius-sm" src="/images/eventos-capacitacao-dialogo-positivo.webp" alt="..." />
-							<h3 class="label-sm">Capacitação Diálogo Positivo</h3>
-						</div>
+						{{ range first 2 (where .RegularPages "Params.category" "Saúde") }}
+							{{ .Render "card" }}
+						{{ end }}
 					</div>
 				</div>
 				<div class="stack-lg">
 					<h2 class="heading heading--md">Publicações</h2>
-					<ul class="list">
-						<li><a href="/blog/">Blog</a></li>
-						<li><a href="">Trabalhos científicos publicados</a></li>
-						<li><a href="">Pesquisa compulsão por smartphones</a></li>
+					<ul class="stack-sm">
+						{{ range first 5 (where .RegularPages "Params.category" "not in" "Saúde") }}
+							<li><a href="{{ .Permalink }}">{{ .Title }}</a></li>
+						{{ end }}
 					</ul>
-					<a class="button button--line" href="/blog/">Ver mais</a>
+					<a class="button button--green" href="/blog/">Ver mais</a>
 				</div>
 			</div>
 		</div>

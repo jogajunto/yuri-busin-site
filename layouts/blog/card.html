@@ -4,20 +4,19 @@
 		{{ with $image }}
 			<img src="{{ ($image.Fill "768x576 webp").RelPermalink }}" alt="{{ .Title }}" loading="lazy" width="768" height="576" />
 		{{ end }}
+		{{ with .Params.press }}
+			<span class="heading heading--sm">{{ . }}</span>
+		{{ end }}
 	</header>
 	<section class="card__body">
-		<div class="stack-sm">
+		<div class="stack-md">
 			{{ with .Params.category }}
-				<a class="tag tag--negative" href="{{ delimit (slice "/blog/categoria/" (urlize .) $.Site.Params.ugly) "" | relURL }}">{{ . }}</a>
+				<a class="tag tag--negative" href="{{ delimit (slice "/categoria/" (urlize .) $.Site.Params.ugly) "" | relURL }}">{{ . }}</a>
 			{{ end }}
 			<h2 class="heading heading--sm">{{ .Title }}</h2>
 		</div>
 	</section>
 	<footer class="card__footer">
-		<div class="icon-with-label">
-			{{ partial "svg.html" (dict "viewBox" "0 0 24 24" "src" "/icons/clock-circle.svg" "class" "icon") }}
-			<p class="label-md">{{ .ReadingTime }} minuto{{ if (ne .ReadingTime 1) }}s{{ end }}</p>
-		</div>
-		<a class="button button--green" href="{{ .RelPermalink }}">Ler</a>
+		<a href="{{ .RelPermalink }}" aria-label="Ler publicação"></a>
 	</footer>
 </article>

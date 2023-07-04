@@ -56,9 +56,16 @@ const lastFocusableElement = menuClickableElements[menuClickableElements.length 
 // Toggle menu dialog state
 const toggleMenuDialog = () => {
 	const isOpen = header.getAttribute('data-menu') === 'open';
-	header.setAttribute('data-menu', isOpen ? 'closed' : 'open');
-	menuToggle.setAttribute('aria-expanded', !isOpen);
-	document.body.classList.toggle('no-scroll', isOpen);
+
+	if (isOpen) {
+		document.body.classList.remove('no-scroll', isOpen);
+		header.setAttribute('data-menu', 'closed');
+		menuToggle.setAttribute('aria-expanded', false);
+	} else {
+		document.body.classList.add('no-scroll');
+		header.setAttribute('data-menu', 'open');
+		menuToggle.setAttribute('aria-expanded', true);
+	}
 };
 
 // Close menu dialog

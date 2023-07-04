@@ -23,3 +23,9 @@ a {
 a:hover {
 	color: var(--content-on-dark-secondary);
 }
+
+.no-scroll {
+	position: fixed;
+	overflow-y: scroll;
+	width: 100%;
+}

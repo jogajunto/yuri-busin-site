@@ -6,46 +6,39 @@
 import { gsap } from 'gsap';
 import { ScrollTrigger } from 'gsap/ScrollTrigger';
 
+// Register ScrollTrigger plugin
 gsap.registerPlugin(ScrollTrigger);
 
-// Scroll Scenes
-const scenes = gsap.utils.toArray('.scene');
+let sections = gsap.utils.toArray('.panel');
+let currentSection = sections[0];
 
-// Set scenes height
-const scenesHeight = (scenes.length - 1) * 100 + '%';
+gsap.defaults({ overwrite: 'auto', duration: 1.3 });
 
-// Scenes Timeline
-const scenesTimeline = gsap.timeline({
-	scrollTrigger: {
-		trigger: '.scenes__items',
-		pin: '.scenes',
-		start: 'top top',
-		end: `+=${scenesHeight}`,
-		scrub: 0.75,
-	},
+// stretch out the body height according to however many sections there are.
+gsap.set('body', { height: sections.length * 100 + '%' });
+
+// create a ScrollTrigger for each section
+sections.forEach((section, i) => {
+	ScrollTrigger.create({
+		// use dynamic scroll positions based on the window height (offset by half to make it feel natural)
+		trigger: '#test',
+		pin: true,
+		start: (self) => (i === 0 ? 'top top' : self.previous().end),
+		end: () => '+=' + innerHeight,
+		scrub: true,
+		markers: true,
+		toggleActions: 'restart none reverse reset',
+		// when a new section activates (from either direction), set the section accordingly.
+		onToggle: (self) => self.isActive && setSection(section),
+	});
 });
 
-// Set scenes wrapper to absolute
-gsap.set(scenes, { position: 'absolute', top: 0 });
+function setSection(newSection) {
+	if (newSection !== currentSection) {
+		gsap.timeline().to(currentSection, { autoAlpha: 0, duration: 0 });
 
-// ScrollTrigger for header pinning
-ScrollTrigger.create({
-	trigger: '.scenes',
-	start: 'top top',
-	endTrigger: '.scenes',
-	end: `+=${scenesHeight}`,
-	pin: 'header',
-});
+		gsap.timeline().to(newSection, { autoAlpha: 1, duration: 0 });
 
-// Loop over scenes
-scenes.forEach(function (elem, i) {
-	if (i != 0) {
-		// Scene Enter animations
-		scenesTimeline.from(elem.querySelector('.scene__inner'), { autoAlpha: 0 }, i);
+		currentSection = newSection;
 	}
-
-	// Scene Exit animations
-	if (i != scenes.length - 1) {
-		scenesTimeline.to(elem.querySelector('.scene__inner'), { autoAlpha: 0 }, i + 0.9);
-	}
-});
+}

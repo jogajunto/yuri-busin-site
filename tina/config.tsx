@@ -23,7 +23,6 @@ const schema = defineSchema({
 				filename: {
 					readonly: true,
 					slugify: (values) => {
-						// Parse slug
 						return `${values?.title
 							?.toLowerCase()
 							.replace(/ /g, '-')
@@ -47,8 +46,6 @@ const schema = defineSchema({
 					label: 'Descrição',
 					required: true,
 				},
-				// slug: tratamento-ansiedade-melhor
-				// category: Cotidiano
 				{
 					type: 'string',
 					name: 'category',
@@ -56,7 +53,6 @@ const schema = defineSchema({
 					options: ['Recrutamento e seleção', 'Carreira'],
 					required: true,
 				},
-				// type: blog
 				{
 					type: 'string',
 					name: 'type',
@@ -65,21 +61,18 @@ const schema = defineSchema({
 						component: TypeHiddenField,
 					},
 				},
-				// image: melhor_tratamento_ansiedade.jpg
 				{
 					type: 'image',
 					label: 'Imagem',
 					name: 'image',
 					required: true,
 				},
-				// date: 2021-02-24T12:24:14.313Z
 				{
 					label: 'Data de publicação',
 					name: 'date',
 					type: 'datetime',
 					required: true,
 				},
-				// draft: false
 				{
 					name: 'draft',
 					label: 'Draft',
@@ -142,8 +135,8 @@ const schema = defineSchema({
 
 export default defineConfig({
 	branch,
-	clientId: 'cb764a65-3695-47c6-ab8b-54ecbe307262', // Get this from tina.io
-	token: 'f084bfa5150a317d30cdb272479848860b04319d', // Get this from tina.io
+	clientId: 'cb764a65-3695-47c6-ab8b-54ecbe307262',
+	token: 'f084bfa5150a317d30cdb272479848860b04319d',
 
 	build: {
 		outputFolder: 'admin',

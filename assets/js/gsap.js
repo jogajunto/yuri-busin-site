@@ -49,7 +49,3 @@ scenes.forEach(function (elem, i) {
 		scenesTimeline.to(elem.querySelector('.scene__inner'), { autoAlpha: 0 }, i + 0.9);
 	}
 });
-
-// As first scene is already visible on page load, the second scene is taking more time to enter.
-// So we need to add a delay to the first scene exit animation.
-// scenesTimeline.to(scenes[0].querySelector('.scene__inner'), { autoAlpha: 0, duration: 0.5 }, 0.1);

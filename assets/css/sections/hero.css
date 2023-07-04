@@ -55,6 +55,7 @@
 
 .scene--content {
 	text-align: center;
+	position: relative !important;
 }
 
 .scene__inner {

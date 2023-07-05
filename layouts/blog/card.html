@@ -1,11 +1,18 @@
 <article class="card">
 	<header class="card__header">
-		{{ $image := resources.Get (printf "images/%s" .Params.image) }}
-		{{ with $image }}
-			<img src="{{ ($image.Fill "768x576 webp").RelPermalink }}" alt="{{ .Title }}" loading="lazy" width="768" height="576" />
-		{{ end }}
-		{{ with .Params.press }}
-			<span class="heading heading--sm">{{ . }}</span>
+		{{ if (in .Params.category "Imprensa") }}
+			<div class="stack-sm">
+				<p class="text-md text-right"><time datetime="{{ .Params.Date }}">{{ .Date.Format "01/02/2006" }}</time></p>
+			</div>
+			<div class="stack-sm">
+				<span class="text-md">Por:</span> <br />
+				<span class="text-lg text-bold color-on-dark-primary">{{ .Params.press }}</span>
+			</div>
+		{{ else }}
+			{{ $image := resources.Get (printf "images/%s" .Params.image) }}
+			{{ with $image }}
+				<img src="{{ ($image.Fill "768x576 webp").RelPermalink }}" alt="{{ .Title }}" loading="lazy" width="768" height="576" />
+			{{ end }}
 		{{ end }}
 	</header>
 	<section class="card__body">
@@ -17,6 +24,10 @@
 		</div>
 	</section>
 	<footer class="card__footer">
-		<a href="{{ .RelPermalink }}" aria-label="Ler publicação"></a>
+		{{ with .Params.link }}
+			<a href="{{ . }}" aria-label="Ler matéria" target="_blank" rel="noopener"></a>
+		{{ else }}
+			<a href="{{ .RelPermalink }}" aria-label="Ler publicação"></a>
+		{{ end }}
 	</footer>
 </article>

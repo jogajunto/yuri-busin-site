@@ -1,3 +1,19 @@
 .color-green {
 	color: var(--green-700);
 }
+
+.color-on-light-primary {
+	color: var(--content-on-light-primary);
+}
+
+.color-on-light-secondary {
+	color: var(--content-on-light-secondary);
+}
+
+.color-on-dark-primary {
+	color: var(--content-on-dark-primary);
+}
+
+.color-on-dark-secondary {
+	color: var(--content-on-dark-secondary);
+}

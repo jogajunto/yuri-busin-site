@@ -14,14 +14,16 @@
 }
 
 .card__header {
-	background: var(--gradient-2);
+	background: var(--surface-dark-2);
 	border-radius: var(--radius-lg) var(--radius-lg) 0 0;
 	overflow: hidden;
 	aspect-ratio: 4/3;
 	position: relative;
 
+	/* Make the name of the press channel at the bottom and the date at the top */
 	display: grid;
-	place-content: center;
+	align-content: space-between;
+	padding: var(--inner-spacing);
 }
 
 .card__header img {

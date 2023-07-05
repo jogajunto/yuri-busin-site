@@ -19,6 +19,20 @@
  * Elements style
  */
 
+.rich-text strong {
+	color: var(--content-on-dark-primary);
+	font-weight: 900;
+}
+
+.rich-text a {
+	color: var(--green-700);
+}
+
+.rich-text a:hover {
+	color: var(--green-800);
+	opacity: 1;
+}
+
 /* Lists (unordered and ordered) */
 
 .rich-text li {
@@ -116,11 +130,7 @@
 
 /* Headings */
 
-.rich-text h2,
-.rich-text h3,
-.rich-text h4,
-.rich-text h5,
-.rich-text h6 {
+.rich-text :is(h1, h2, h3, h4, h5, h6) {
 	color: var(--content-on-dark-primary);
 	font-weight: 900;
 }
@@ -137,9 +147,7 @@
 	letter-spacing: -0.5px;
 }
 
-.rich-text h4,
-.rich-text h5,
-.rich-text h6 {
+.rich-text :is(h4, h5, h6) {
 	font-size: var(--heading-sm);
 	line-height: 1.2;
 	letter-spacing: -0.5px;

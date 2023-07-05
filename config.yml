@@ -4,11 +4,10 @@ title: 'Dr. Yuri Busin'
 defaultContentLanguage: pt-br
 
 # Build settings
-paginate: 6
 enableRobotsTXT: yes
 removePathAccents: true
 disableHugoGeneratorInject: yes
-paginate: 6
+paginate: 9
 removePathAccents: true
 
 # Production environment settings

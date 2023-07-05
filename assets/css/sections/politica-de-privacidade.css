@@ -8,11 +8,12 @@
  */
 
 .politica-de-privacidade-content a {
-	text-decoration: underline;
+	color: var(--green-700);
 }
 
 .politica-de-privacidade-content a:hover {
 	color: var(--green-800);
+	opacity: 1;
 }
 
 .politica-de-privacidade-content h2,

@@ -21,14 +21,27 @@
 	z-index: var(--z-index-background);
 }
 
-.subpage-hero-background::before {
-	/* Add a gradient from the bottom to the top to improve readability */
+.subpage-hero-background::before,
+.subpage-hero-background::after {
+	/* Position the gradient that improves readability */
 	content: '';
-	background: var(--gradient-bottom-to-top);
 	width: 100%;
-	height: 100%;
 	position: absolute;
-	inset: 0;
+	left: 0;
+}
+
+.subpage-hero-background::before {
+	/* Add a gradient from the top to the bottom to improve menu readability */
+	background: var(--gradient-dark-to-transparent);
+	height: 30%;
+	top: 0;
+}
+
+.subpage-hero-background::after {
+	/* Add a gradient from the bottom to the top to improve title readability */
+	background: var(--gradient-transparent-to-dark);
+	height: 100%;
+	bottom: 0;
 }
 
 .subpage-hero-background img {

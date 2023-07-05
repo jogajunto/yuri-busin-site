@@ -1,11 +1,14 @@
 {{ define "main" }}
 	<section>
-		<div class="section subpage-hero subpage-hero--center">
+		<div class="section subpage-hero">
 			{{ partial "background-image.html" (dict "image" "politica-de-privacidade.jpg" "alt" "Homem sentado com a mão na cabeça") }}
 			<div class="container container--sm">
-				<div class="text-center stack-sm">
-					<h1 class="display display--sm">Política de Privacidade</h1>
-					<p class="text-lg">A Política de Privacidade foi atualizada em <time datetime="2023-06-07">07/06/2023</time>.</p>
+				<div class="text-center stack-lg">
+					<h1 class="display display--lg">Política de Privacidade</h1>
+					<div class="icon-with-label icon-with-label--center">
+						{{ partial "svg.html" (dict "viewBox" "0 0 24 24" "src" "/icons/calendar.svg" "class" "icon") }}
+						<p class="label-md">Atualizada em <time datetime="2023-06-07">07/06/2023</time></p>
+					</div>
 				</div>
 			</div>
 		</div>

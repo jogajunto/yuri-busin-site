@@ -3,8 +3,8 @@
 }
 
 .tudo-bem-buscar-ajuda picture {
-	position: relative;
 	margin-top: var(--spacing-xl);
+	position: relative;
 }
 
 .tudo-bem-buscar-ajuda picture::before {
@@ -14,7 +14,7 @@
 	left: 0;
 	width: 100%;
 	height: 100%;
-	background: var(--gradient-bottom-to-top);
+	background: var(--gradient-transparent-to-dark);
 	z-index: 0;
 }
 
@@ -26,8 +26,8 @@
 		left: 0;
 		right: 0;
 		bottom: 0;
-		transform: translateX(-26rem);
 		z-index: -1;
+		transform: translateX(-26rem);
 	}
 
 	.tudo-bem-buscar-ajuda picture img {

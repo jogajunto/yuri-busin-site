@@ -8,40 +8,48 @@
 	align-content: flex-end;
 	min-height: 100vh;
 	text-align: center;
+
 	/* As header is a absolute element, consider its height when calculating the padding */
 	padding: calc(var(--header-height) + var(--spacing-md)) var(--side-spacing) var(--spacing-xxl);
 }
 
+.article__header::after,
 .article__header::before {
-	/* Add a gradient from the bottom to the top to improve readability */
+	/* Position the gradient that improves readability */
 	content: '';
-	background: var(--gradient-bottom-to-top);
 	width: 100%;
-	height: 100%;
 	position: absolute;
-	inset: 0;
-	z-index: -1;
+	left: 0;
+	z-index: var(--z-index-overlay);
+}
+
+.article__header::after {
+	/* Add a gradient from the bottom to the top to improve title readability */
+	background: var(--gradient-transparent-to-dark);
+	height: 100%;
+	bottom: 0;
+}
+
+.article__header::before {
+	/* Add a gradient from the top to the bottom to improve menu readability */
+	background: var(--gradient-dark-to-transparent);
+	height: 50%;
+	top: 0;
 }
 
 .article__image {
-	/* Make the image cover the whole section */
 	margin: 0;
-	width: 100%;
-	height: 100%;
-	max-width: inherit;
-	object-fit: cover;
-	position: absolute;
-	top: 0;
-	left: 0;
-	z-index: -2;
 }
 
-.article__image img {
-	position: absolute;
+.article__image > img {
+	/* Make the image cover the whole section */
 	width: 100%;
 	height: 100%;
 	max-width: inherit;
 	object-fit: cover;
+	position: absolute;
+	inset: 0;
+	z-index: var(--z-index-background);
 }
 
 .article__info {
@@ -52,6 +60,7 @@
 
 .article__layout {
 	--sidebar-width: 8rem;
+	--content-width: 1fr;
 
 	display: grid;
 	align-items: flex-start;
@@ -60,20 +69,13 @@
 
 @media (--desktop) {
 	.article__layout {
-		grid-template-columns: var(--sidebar-width) 1fr var(--sidebar-width);
+		grid-template-columns: var(--sidebar-width) var(--content-width) var(--sidebar-width);
 	}
 }
 
 @media (--tablet) {
 	.article__layout {
-		grid-template-columns: var(--sidebar-width) 1fr;
-	}
-}
-
-@media (--phone) {
-	.article__share .social {
-		flex-direction: row;
-		justify-content: center;
+		grid-template-columns: var(--sidebar-width) var(--content-width);
 	}
 }
 
@@ -86,5 +88,13 @@
 		position: sticky;
 		top: var(--spacing-xl);
 		order: 1;
+	}
+}
+
+@media (--phone) {
+	.article__share > .social {
+		/* Switch from vertical to horizontal axis */
+		flex-direction: row;
+		justify-content: center;
 	}
 }

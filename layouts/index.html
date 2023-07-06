@@ -146,7 +146,7 @@
 				<div class="stack-lg">
 					<h2 class="heading heading--md">Publicações</h2>
 					<ul class="stack-sm">
-						{{ range first 5 (where .RegularPages "Params.category" "not in" "Saúde") }}
+						{{ range first 5 (where (where .RegularPages "Params.category" "!=" "Saude") "Params.category" "!=" "Imprensa") }}
 							<li><a class="link link--invisible" href="{{ .Permalink }}">{{ .Title }}</a></li>
 						{{ end }}
 					</ul>

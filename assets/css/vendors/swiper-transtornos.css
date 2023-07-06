@@ -1,0 +1,14 @@
+.swiper-transtornos {
+	padding: var(--spacing-xxs) var(--side-spacing);
+}
+
+.swiper-transtornos .swiper-slide {
+	/* Make sure slides have the same height */
+	height: auto;
+}
+
+@media (--phone), (--tablet) {
+	.swiper-transtornos {
+		padding: 0 var(--side-spacing);
+	}
+}

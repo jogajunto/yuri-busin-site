@@ -62,7 +62,7 @@
 
 .checkbox + label:before {
 	content: '';
-	border: 1px solid var(--green-700);
+	border: 1px solid var(--green);
 	display: inline-block;
 	vertical-align: text-top;
 	width: var(--size);
@@ -71,7 +71,7 @@
 }
 
 .checkbox:checked + label:before {
-	background: var(--green-700);
+	background: var(--green);
 }
 
 .checkbox:checked + label:after {
@@ -89,8 +89,8 @@
 }
 
 .checkbox:hover + label:before {
-	background: var(--green-800);
-	border-color: var(--green-800);
+	background: var(--green-hover);
+	border-color: var(--green-hover);
 }
 
 textarea.input {

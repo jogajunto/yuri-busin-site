@@ -4,3 +4,9 @@
 	border-radius: var(--radius-md);
 	border: 1px solid var(--surface-dark-stroke);
 }
+
+@media (--tablet), (--desktop) {
+	.box--large {
+		padding: var(--spacing-xl);
+	}
+}

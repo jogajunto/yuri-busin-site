@@ -13,19 +13,27 @@
 	transition: background 0.3s ease-in-out, color 0.3s ease-in-out, border-color 0.3s ease-in-out, border-radius 0.3s ease-in-out;
 }
 
+/*  */
+/*  */
+/*  */
+
 .button--sm {
 	font-size: var(--button-sm);
 }
 
+/*  */
+/*  */
+/*  */
+
 .button--green {
-	background: var(--green-700);
-	border-color: var(--green-700);
+	background: var(--green);
+	border-color: var(--green);
 	color: var(--content-on-light-primary);
 }
 
 .button--green:hover {
-	background: var(--green-800);
-	border-color: var(--green-800);
+	background: var(--green-hover);
+	border-color: var(--green-hover);
 	color: var(--content-on-light-primary);
 }
 
@@ -36,8 +44,8 @@
 }
 
 .button--outline:hover {
-	background: var(--green-700);
-	border-color: var(--green-700);
+	background: var(--green);
+	border-color: var(--green);
 	color: var(--content-on-light-primary);
 }
 
@@ -53,6 +61,50 @@
 
 .button--line:hover {
 	border-radius: var(--radius-md);
-	border-color: var(--green-700);
+	border-color: var(--green);
 	color: var(--content-on-dark-secondary);
+}
+
+/*  */
+/*  */
+/*  */
+
+.button--green-on-hover:hover {
+	background: var(--green);
+	border-color: var(--green);
+}
+
+.button--blue-on-hover:hover {
+	background: var(--blue);
+	border-color: var(--blue);
+}
+
+.button--cyan-on-hover:hover {
+	background: var(--cyan);
+	border-color: var(--cyan);
+}
+
+.button--orange-on-hover:hover {
+	background: var(--orange);
+	border-color: var(--orange);
+}
+
+.button--pink-on-hover:hover {
+	background: var(--pink);
+	border-color: var(--pink);
+}
+
+.button--purple-on-hover:hover {
+	background: var(--purple);
+	border-color: var(--purple);
+}
+
+.button--salmon-on-hover:hover {
+	background: var(--salmon);
+	border-color: var(--salmon);
+}
+
+.button--yellow-on-hover:hover {
+	background: var(--yellow);
+	border-color: var(--yellow);
 }

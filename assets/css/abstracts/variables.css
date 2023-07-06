@@ -21,15 +21,44 @@
 	--surface-dark-2: rgba(36, 36, 36, 1);
 	--surface-dark-stroke: rgba(255, 255, 255, 0.12);
 
-	--green-700: rgba(141, 198, 63, 1);
-	--green-800: rgba(113, 158, 50, 1);
-	--green-900: rgba(0, 0, 0, 1);
+	--green: rgba(141, 198, 63, 1);
+	--green-hover: rgba(170, 212, 111, 1);
+	--green-pressed: rgba(198, 226, 159, 1);
 
-	--whatsapp: #25d366;
-	--whatsapp-hover: #128c7e;
+	--blue: rgba(116, 171, 255, 1);
+	--blue-hover: rgba(151, 192, 255, 1);
+	--blue-pressed: rgba(185, 213, 255, 1);
+
+	--cyan: rgba(107, 220, 255, 1);
+	--cyan-hover: rgba(144, 229, 255, 1);
+	--cyan-pressed: rgba(181, 237, 255, 1);
+
+	--orange: rgba(243, 129, 65, 1);
+	--orange-hover: rgba(246, 161, 113, 1);
+	--orange-pressed: rgba(249, 192, 160, 1);
+
+	--pink: rgba(235, 104, 151, 1);
+	--pink-hover: rgba(240, 142, 177, 1);
+	--pink-pressed: rgba(245, 179, 203, 1);
+
+	--purple: rgba(219, 126, 231, 1);
+	--purple-hover: rgba(228, 158, 237, 1);
+	--purple-pressed: rgba(237, 190, 243, 1);
+
+	--salmon: rgba(236, 138, 142, 1);
+	--salmon-hover: rgba(241, 167, 170, 1);
+	--salmon-pressed: rgba(245, 196, 198, 1);
+
+	--yellow: rgba(236, 158, 41, 1);
+	--yellow-hover: rgba(241, 182, 95, 1);
+	--yellow-pressed: rgba(245, 206, 148, 1);
+
+	--whatsapp: rgba(37, 211, 102, 1);
+	--whatsapp-hover: rgba(18, 140, 126, 1);
 
 	--gradient-1: linear-gradient(180deg, rgba(255, 255, 255, 0) 0%, rgba(255, 255, 255, 0.16) 100%), var(--surface-dark-background);
 	--gradient-2: linear-gradient(0deg, rgba(255, 255, 255, 0) 0%, rgba(255, 255, 255, 0.16) 100%), var(--surface-dark-background);
+
 	--gradient-transparent-to-dark: linear-gradient(180deg, rgba(0, 0, 0, 0) 0%, var(--surface-dark-background) 100%);
 	--gradient-dark-to-transparent: linear-gradient(0deg, rgba(0, 0, 0, 0) 0%, var(--surface-dark-background) 100%);
 

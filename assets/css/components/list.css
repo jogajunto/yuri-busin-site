@@ -30,7 +30,7 @@
 
 .list--ordered > li&::before {
 	content: counter(ordered-list) '.';
-	color: var(--green-700);
+	color: var(--green);
 	font-weight: bold;
 	text-align: center;
 	width: var(--width);
@@ -46,7 +46,7 @@
 
 .list--unordered > li::before {
 	content: '';
-	background-color: var(--green-700);
+	background-color: var(--green);
 	width: 0.3em;
 	height: 0.3em;
 	border-radius: 50%;

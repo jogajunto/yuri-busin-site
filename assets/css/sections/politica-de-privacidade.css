@@ -8,11 +8,11 @@
  */
 
 .politica-de-privacidade-content a {
-	color: var(--green-700);
+	color: var(--green);
 }
 
 .politica-de-privacidade-content a:hover {
-	color: var(--green-800);
+	color: var(--green-hover);
 	opacity: 1;
 }
 
@@ -48,7 +48,7 @@
 .politica-de-privacidade-content > ol > li > h2::before,
 .politica-de-privacidade-content > ol > li > ol > li > h3::before,
 .politica-de-privacidade-content > ol > li > ol > li > ol > li > h4::before {
-	color: var(--green-700);
+	color: var(--green);
 	font-weight: 700;
 	margin-right: var(--spacing-xs);
 }
@@ -109,7 +109,7 @@
 	--size: 0.3em;
 
 	content: '';
-	background-color: var(--green-700);
+	background-color: var(--green);
 	border-radius: 50%;
 	width: var(--size);
 	height: var(--size);

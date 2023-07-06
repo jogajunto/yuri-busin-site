@@ -25,11 +25,11 @@
 }
 
 .rich-text a {
-	color: var(--green-700);
+	color: var(--green);
 }
 
 .rich-text a:hover {
-	color: var(--green-800);
+	color: var(--green-hover);
 	opacity: 1;
 }
 
@@ -63,7 +63,7 @@
 
 .rich-text ol > li::before {
 	content: counter(ordered-list) '.';
-	color: var(--green-700);
+	color: var(--green);
 	text-align: center;
 	width: var(--width);
 
@@ -78,7 +78,7 @@
 
 .rich-text ul > li::before {
 	content: '';
-	background-color: var(--green-700);
+	background-color: var(--green);
 	width: 0.3em;
 	height: 0.3em;
 	border-radius: 50%;
@@ -97,7 +97,7 @@
 
 .rich-text blockquote::before {
 	content: '“';
-	color: var(--green-700);
+	color: var(--green);
 	display: block;
 	font-size: var(--display-md);
 	line-height: 1;
@@ -125,7 +125,7 @@
 }
 
 .rich-text a:hover {
-	color: var(--green-800);
+	color: var(--green-hover);
 }
 
 /* Headings */

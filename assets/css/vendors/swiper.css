@@ -4,30 +4,4 @@
  */
 
 @import 'swiper/swiper-bundle.min';
-
-/**
- * Custom Styles
- * Slider: Transtornos
- */
-
-.swiper-transtornos {
-	padding: var(--spacing-xxs) var(--side-spacing);
-}
-
-.swiper-transtornos .swiper-slide {
-	/* Make sure slides have the same height */
-	height: auto;
-}
-
-@media (--phone), (--tablet) {
-	.swiper-transtornos {
-		padding: 0 var(--side-spacing);
-	}
-}
-
-@media (--tablet), (--desktop) {
-	.swiper-transtornos .swiper-slide {
-		/* min-width: 40ch; */
-		/* width: 30%; */
-	}
-}
+@import 'swiper-transtornos';

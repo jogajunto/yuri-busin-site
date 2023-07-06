@@ -1,5 +1,5 @@
 ---
-title: Psicólogo Online
+title: 'Psicólogo Online: Como funciona e como agendar sua primeira consulta'
 description: Psicólogo online é uma prática de psicoterapia por meio das ferramentas atuais, no caso a internet.
 image: psicologo-online.jpg
 date: 2023-04-01

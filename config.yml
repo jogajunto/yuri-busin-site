@@ -33,7 +33,7 @@ params:
     number: (11) 4116-8926
     link: 'tel:+551141168926'
   address:
-    formatted: R. Voluntários da Pátria, 2468 - Cj - 214 <br> Santana, São Paulo - SP, 02401-000
+    formatted: '<span style="max-width: 38ch">R. Voluntários da Pátria, 2468, Cj 214 - Santana São Paulo - SP, 02401-000</span>'
     link: https://goo.gl/maps/ChkZLjVBCgUBhVd86?coh=178572&entry=tt
   social:
     tikTok: https://www.tiktok.com/@dryuribusin

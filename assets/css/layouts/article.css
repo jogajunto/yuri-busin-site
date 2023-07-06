@@ -39,6 +39,7 @@
 
 .article__image {
 	margin: 0;
+	max-width: 100%;
 }
 
 .article__image > img {

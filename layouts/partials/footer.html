@@ -1,62 +1,135 @@
 <footer class="footer">
-	<div class="container">
-		<div class="grid align-bottom">
-			<div class="column column-6-at-desktop">
-				<div class="stack-md">
-					<a href="/" title="Página principal" aria-label="Voltar para a página principal">
-						{{ partial "svg.html" (dict "viewBox" "0 0 123 72" "src" "/vectors/logo-yuri-busin.svg" "class" "brand") }}
-					</a>
-					<div class="stack-xs">
-						<p class="label-sm">© <time datetime="2006">{{ now.Format "2006" }}</time> Yuri Busin. <a class="link link--invisible" href="/politica-de-privacidade">Política de Privacidade</a></p>
-						<p class="label-sm">Criação do site por <a class="link link--invisible" href="https://jogajunto.co/" target="_blank" rel="noopener">Jogajunto</a>.</p>
-					</div>
-				</div>
-			</div>
-			<div class="column column-6-at-desktop">
-				<div class="stack-md">
-					<p class="label-sm">
-						<a class="link link--invisible" href="{{ .Site.Params.address.link }}" target="_blank" rel="noopener" title="Como chegar">
-							{{ .Site.Params.address.formatted | safeHTML }}
-						</a>
-					</p>
-					<div class="stack-xs">
-						<p class="label-sm"><a class="link link--invisible" href="{{ .Site.Params.email.link }}" title="Enviar um e-mail">{{ .Site.Params.email.address }}</a></p>
-						<p class="label-sm"><a class="link link--invisible" href="{{ .Site.Params.address.link }}" title="Ligar">{{ .Site.Params.phone.number }}</a> | <a class="link link--invisible" href="{{ .Site.Params.whatsApp }}" title="Enviar mensagem via WhatsApp">WhatsApp</a></p>
-					</div>
-					<ul class="social">
-						<li class="social__item">
-							<a class="social__link" title="Instagram" href="{{ .Site.Params.social.instagram }}" rel="noopener" target="_blank">
-								{{ partial "svg.html" (dict "viewBox" "0 0 24 24" "src" "/icons/social-instagram.svg" "class" "icon align-center") }}
+	<div class="container container--fluid">
+		<div class="stack-xl">
+			<div class="footer__wrapper">
+				<nav class="footer__menu" aria-label="Menu de navegação">
+					<ul class="footer__menu__list">
+						<li class="label-md">
+							<a class="link link--invisible" href="/">Início</a>
+						</li>
+						<li class="label-md">
+							<a class="link link--invisible" href="/blog/">Blog</a>
+						</li>
+						<li class="label-md">
+							<a class="link link--invisible" href="/palestras-e-eventos/">Palestras e eventos</a>
+						</li>
+						<li class="label-md">
+							<a class="link link--invisible" href="/palestras-e-eventos/">Curso Ciúme Retroativo</a>
+						</li>
+						<li class="label-md">
+							<a class="link link--invisible" href="/perguntas-frequentes/">Perguntas frequentes</a>
+						</li>
+						<li class="label-md">
+							<a class="link link--invisible" href="/psicologo-online/">Psicólgo Online</a>
+						</li>
+						<li class="label-md">
+							<a class="link link--invisible" href="/transtornos/">Transtornos</a>
+						</li>
+						<li class="label-md">
+							<a class="link link--invisible" href="/como-solicitar-seu-reembolso-de-terapia/">Solicite reembolso</a>
+						</li>
+						<li class="label-md">
+							<a class="link link--invisible" href="/contato/">Contato</a>
+						</li>
+						<li class="label-md">
+							<a class="link link--invisible" href="/sobre-yuri-busin/">Sobre</a>
+						</li>
+						<li class="label-md">
+							<a class="link link--invisible" href="/equipe/">Equipe</a>
+						</li>
+						<li class="label-md">
+							<a class="link link--invisible" href="/imprensa/">Imprensa</a>
+						</li>
+					</ul>
+				</nav>
+				<nav class="footer__contact" aria-label="Contato">
+					<ul class="footer__contact__list">
+						<li class="label-md">
+							<a class="link link--invisible" href="{{ .Site.Params.address.link }}" title="Enviar um e-mail" target="_blank" rel="noopener">
+								<div class="icon-with-label icon-with-label--top">
+									{{ partial "svg.html" (dict "viewBox" "0 0 24 24" "src" "/icons/environment.svg" "class" "icon icon--sm") }}
+									{{ .Site.Params.address.formatted | safeHTML }}
+								</div>
 							</a>
 						</li>
-						<li class="social__item">
-							<a class="social__link" title="YouTube" href="{{ .Site.Params.social.youtube }}" rel="noopener" target="_blank">
-								{{ partial "svg.html" (dict "viewBox" "0 0 24 24" "src" "/icons/social-linkedin.svg" "class" "icon align-center") }}
+						<li class="label-md">
+							<a class="link link--invisible" href="{{ .Site.Params.email.link | safeURL }}" title="Enviar um e-mail" target="_blank" rel="noopener">
+								<div class="icon-with-label">
+									{{ partial "svg.html" (dict "viewBox" "0 0 24 24" "src" "/icons/mail.svg" "class" "icon icon--sm") }}
+									{{ .Site.Params.email.address }}
+								</div>
 							</a>
 						</li>
-						<li class="social__item">
-							<a class="social__link" title="Facebook" href="{{ .Site.Params.social.facebook }}" rel="noopener" target="_blank">
-								{{ partial "svg.html" (dict "viewBox" "0 0 24 24" "src" "/icons/social-facebook.svg" "class" "icon align-center") }}
+						<li class="label-md">
+							<a class="link link--invisible" href="{{ .Site.Params.phone.link | safeURL }}" title="Ligar" target="_blank" rel="noopener">
+								<div class="icon-with-label">
+									{{ partial "svg.html" (dict "viewBox" "0 0 24 24" "src" "/icons/phone.svg" "class" "icon icon--sm") }}
+									{{ .Site.Params.phone.number }}
+								</div>
 							</a>
 						</li>
-						<li class="social__item">
-							<a class="social__link" title="WhatsApp" href="{{ .Site.Params.social.whatsApp }}" rel="noopener" target="_blank">
-								{{ partial "svg.html" (dict "viewBox" "0 0 24 24" "src" "/icons/social-whatsapp.svg" "class" "icon align-center") }}
-							</a>
-						</li>
-						<li class="social__item">
-							<a class="social__link" title="TikTok" href="{{ .Site.Params.social.tikTok }}" rel="noopener" target="_blank">
-								{{ partial "svg.html" (dict "viewBox" "0 0 24 24" "src" "/icons/social-tiktok.svg" "class" "icon align-center") }}
+						<li class="label-md">
+							<a class="link link--invisible" href="{{ .Site.Params.whatsApp }}" title="Enviar mensagem via WhatsApp" target="_blank" rel="noopener">
+								<div class="icon-with-label">
+									{{ partial "svg.html" (dict "viewBox" "0 0 24 24" "src" "/icons/whatsapp.svg" "class" "icon icon--sm") }}
+									WhatsApp
+								</div>
 							</a>
 						</li>
 					</ul>
+				</nav>
+			</div>
+			<div class="footer__bottom">
+				<div class="footer__brand">
+					<a href="/" title="Página principal" aria-label="Voltar para a página principal">
+						{{ partial "svg.html" (dict "viewBox" "0 0 123 72" "src" "/vectors/logo-yuri-busin.svg" "class" "brand") }}
+					</a>
+				</div>
+				<div class="footer__extra">
+					<div class="stack-sm">
+						<div class="footer__social">
+							<ul class="social">
+								<li class="social__item">
+									<a class="social__link" title="Instagram" href="{{ .Site.Params.social.instagram }}" rel="noopener" target="_blank">
+										{{ partial "svg.html" (dict "viewBox" "0 0 24 24" "src" "/icons/instagram.svg" "class" "icon") }}
+									</a>
+								</li>
+								<li class="social__item">
+									<a class="social__link" title="YouTube" href="{{ .Site.Params.social.youtube }}" rel="noopener" target="_blank">
+										{{ partial "svg.html" (dict "viewBox" "0 0 24 24" "src" "/icons/youtube.svg" "class" "icon") }}
+									</a>
+								</li>
+								<li class="social__item">
+									<a class="social__link" title="Facebook" href="{{ .Site.Params.social.facebook }}" rel="noopener" target="_blank">
+										{{ partial "svg.html" (dict "viewBox" "0 0 24 24" "src" "/icons/facebook.svg" "class" "icon") }}
+									</a>
+								</li>
+								<li class="social__item">
+									<a class="social__link" title="WhatsApp" href="{{ .Site.Params.social.whatsApp }}" rel="noopener" target="_blank">
+										{{ partial "svg.html" (dict "viewBox" "0 0 24 24" "src" "/icons/whatsapp.svg" "class" "icon") }}
+									</a>
+								</li>
+								<li class="social__item">
+									<a class="social__link" title="TikTok" href="{{ .Site.Params.social.tikTok }}" rel="noopener" target="_blank">
+										{{ partial "svg.html" (dict "viewBox" "0 0 24 24" "src" "/icons/tiktok.svg" "class" "icon") }}
+									</a>
+								</li>
+							</ul>
+						</div>
+						<div class="footer__copyright">
+							<div class="stack-xs">
+								<p class="label-sm">© <time datetime="2006">{{ now.Format "2006" }}</time> Yuri Busin. Todos os direitos reservados.</p>
+								<p class="label-sm"><a class="link link--invisible" href="/politica-de-privacidade">Política de Privacidade </a>. Criação do site por <a class="link link--invisible" href="https://jogajunto.co/" target="_blank" rel="noopener">Jogajunto</a></p>
+							</div>
+						</div>
+					</div>
 				</div>
 			</div>
 		</div>
 	</div>
 	<div class="whatsapp-pin">
 		<a href="{{ .Site.Params.social.whatsApp }}" target="_blank" rel="noopener">
-			{{ partial "svg.html" (dict "viewBox" "0 0 24 24" "src" "/icons/social-whatsapp.svg") }}
+			{{ partial "svg.html" (dict "viewBox" "0 0 24 24" "src" "/icons/whatsapp.svg") }}
 		</a>
 	</div>
 	<div class="a11y">

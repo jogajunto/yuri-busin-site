@@ -4,6 +4,22 @@
 	gap: 0.5em;
 }
 
+.icon-with-label .icon {
+	flex-shrink: 0;
+}
+
+/*  */
+/*  */
+/*  */
+
 .icon-with-label--center {
 	justify-content: center;
+}
+
+.icon-with-label--top {
+	align-items: flex-start;
+}
+
+.icon-with-label--top .icon {
+	margin-top: 0.25rem;
 }

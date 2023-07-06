@@ -80,7 +80,7 @@
 	--heading-sm: 1.5rem; /* Equivalent to 24px */
 	--heading--xs: 1.12rem; /* Equivalent to 18px */
 
-	--paragraph-xl: 1.5rem; /* Equivalent to 28px */
+	--paragraph-xl: 1.375rem; /* Equivalent to 22px */
 	--paragraph-lg: 1.25rem; /* Equivalent to 20px */
 	--paragraph-md: 1rem; /* Equivalent to 16px */
 	--paragraph-sm: 0.75rem; /* Equivalent to 12px */
@@ -89,8 +89,9 @@
 	--button-sm: 0.875rem; /* Equivalent to 14px */
 	--overline-md: 1rem; /* Equivalent to 16px */
 	--overline-sm: 0.75rem; /* Equivalent to 12px */
+
 	--label-lg: 1.25rem; /* Equivalent to 20px */
-	--label-md: 1.125rem; /* Equivalent to 18px */
+	--label-md: 1rem; /* Equivalent to 18px */
 	--label-sm: 0.88rem; /* Equivalent to 14px */
 	--label-xs: 0.62rem; /* Equivalent to 10px */
 

@@ -2,6 +2,10 @@
 	border: 1px solid var(--surface-dark-stroke);
 }
 
+/*  */
+/*  */
+/*  */
+
 .image-radius-lg {
 	border-radius: var(--radius-lg);
 }
@@ -17,6 +21,10 @@
 .image-radius-xs {
 	border-radius: var(--radius-xs);
 }
+
+/*  */
+/*  */
+/*  */
 
 @media (--desktop) {
 	.image-fill-height {
@@ -39,6 +47,10 @@
 		object-position: bottom;
 	}
 }
+
+/*  */
+/*  */
+/*  */
 
 @media (--phone) {
 	.image-square-at-phone {

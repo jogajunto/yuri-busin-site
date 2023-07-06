@@ -4,10 +4,9 @@
 			{{ partial "background-image.html" (dict "image" .Params.image "alt" .Title) }}
 			<div class="container container--sm">
 				<div class="stack-lg">
-					<img src="{{ .Params.icon }}" alt="{{ .Title }}" />
-					<div class="box text-center stack-sm">
-						<h1 class="display display--sm">{{ .Title }}</h1>
-						<p class="text-lg">{{ .Params.excerpt }}</p>
+					<img src="{{ .Params.icon.mono }}" alt="{{ .Title }}" />
+					<div class="box box--large">
+						<h1 class="display display--sm text-center">{{ .Title }}</h1>
 					</div>
 					<div class="text-center">
 						<a href="#saber-mais" title="Saber mais">
@@ -18,9 +17,16 @@
 			</div>
 			{{ partial "line.html" (dict "bottom" "14rem") }}
 		</div>
-		<div class="container container--xl">
-			<div class="rich-text" id="saber-mais">
-				{{ .Content }}
+		<div class="section">
+			<div class="stack-xl">
+				<div class="container container--sm">
+					<p class="text-lg text-center">{{ .Params.excerpt }}</p>
+				</div>
+				<div class="container container--xl">
+					<div class="rich-text" id="saber-mais">
+						{{ .Content }}
+					</div>
+				</div>
 			</div>
 		</div>
 	</section>

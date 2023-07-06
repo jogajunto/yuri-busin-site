@@ -1,6 +1,9 @@
 <div class="box transtornos-card">
 	<figure class="transtornos-card__figure">
-		<img src="{{ .Params.icon }}" alt="Ícone {{ .Title }}" loading="lazy" width="102" height="102" />
+		<div class="icon-colored-on-hover">
+			<img src="{{ .Params.icon.mono }}" alt="Ícone {{ .Title }}" width="102" height="102" />
+			<img src="{{ .Params.icon.color }}" alt="Ícone {{ .Title }}" width="102" height="102" />
+		</div>
 	</figure>
 	<div class="transtornos-card__content">
 		<div class="stack-sm">
@@ -8,7 +11,7 @@
 			<p>{{ .Description }}</p>
 		</div>
 		<div class="stack-sm text-right">
-			<a class="button button--outline" href="{{ .Permalink }}">Ver mais</a>
+			<a class="button button--outline button--{{ .Params.color }}-on-hover" href="{{ .Permalink }}">Ver mais</a>
 		</div>
 	</div>
 </div>

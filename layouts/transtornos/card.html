@@ -1,10 +1,8 @@
 <div class="box transtornos-card">
-	<figure class="transtornos-card__figure">
-		<div class="icon-colored-on-hover">
-			<img src="{{ .Params.icon.mono }}" alt="Ícone {{ .Title }}" width="102" height="102" />
-			<img src="{{ .Params.icon.color }}" alt="Ícone {{ .Title }}" width="102" height="102" />
-		</div>
-	</figure>
+	<div class="transtornos-card__icon">
+		<img src="{{ .Params.icon.mono }}" alt="Ícone {{ .Title }}" width="102" height="102" />
+		<img src="{{ .Params.icon.color }}" alt="Ícone {{ .Title }}" width="102" height="102" />
+	</div>
 	<div class="transtornos-card__content">
 		<div class="stack-sm">
 			<h3 class="heading heading--sm">{{ .Params.name }}</h3>

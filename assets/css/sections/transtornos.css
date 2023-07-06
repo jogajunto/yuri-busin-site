@@ -1,6 +1,3 @@
-.transtornos {
-}
-
 .transtornos-card {
 	display: flex;
 	flex-wrap: wrap;
@@ -15,15 +12,42 @@
 	flex: 1;
 }
 
-.transtornos-card__figure {
+/*  */
+/*  */
+/*  */
+
+.transtornos-card__icon {
+	width: 6.25rem;
+	height: 6.25rem;
 	max-width: 6.25rem;
 	flex-basis: 6.25rem;
+	position: relative;
 }
 
-.transtornos-card__figure > img {
+.transtornos-card__icon > img {
 	width: 100%;
 	margin: 0;
+	position: absolute;
+	top: 0;
+	left: 0;
+	transition: opacity 0.3s ease-in-out;
 }
+
+.transtornos-card__icon > img:first-child {
+	opacity: 1;
+}
+
+.transtornos-card__icon > img:last-child {
+	opacity: 0;
+}
+
+.transtornos-card:has(a:hover) .transtornos-card__icon > img:last-child {
+	opacity: 1;
+}
+
+/*  */
+/*  */
+/*  */
 
 .transtornos-card__content {
 	/* Wrap columns when there's enough space to the content */

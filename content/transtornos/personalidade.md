@@ -3,8 +3,11 @@ name: Personalidade
 title: Tratamento para transtornos de personalidade
 description: Personalidade paranóica, esquizóide, dissocial, histriônica, anancástica e Borderline.
 excerpt: Tratamento para Personalidade paranóica, esquizóide, dissocial, histriônica, anancástica, Borderline, entre outros.
-icon: /vectors/transtorno-personalidade.svg
+icon:
+  mono: /vectors/transtorno-personalidade-mono.svg
+  color: /vectors/transtorno-personalidade-color.svg
 image: transtorno-personalidade.jpg
+color: cyan
 ---
 
 Trata-se de distúrbios graves da constituição caracterológica e das tendências comportamentais do indivíduo, não diretamente imputáveis a uma doença, lesão ou outra afecção cerebral ou a um outro transtorno psiquiátrico. Estes distúrbios compreendem habitualmente vários elementos da personalidade, acompanham-se em geral de angústia pessoal e desorganização social; aparecem habitualmente durante a infância ou a adolescência e persistem de modo duradouro na idade adulta.

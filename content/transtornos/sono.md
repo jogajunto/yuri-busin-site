@@ -3,8 +3,11 @@ name: Sono
 title: Terapia do sono
 description: Insônia não-orgânica, Hipersonia não-orgânica, privação do sono e outros problemas de sono.
 excerpt: Problemas como insônia e hipersônia são muito comuns nos dias de hoje e atrapalham bastante as nossas atividades pessoais e profissionais. Vamos solucionar esse problema?
-icon: /vectors/transtorno-sono.svg
+icon:
+  mono: /vectors/transtorno-sono-mono.svg
+  color: /vectors/transtorno-sono-color.svg
 image: transtorno-sono.jpg
+color: blue
 ---
 
 ## Insônia não-orgânica

@@ -3,8 +3,11 @@ name: Terapia de Casal
 title: Terapia de Casal
 description: Para entender melhor os seus relacionamentos e saber sempre como melhorar sua vida matrimonial e sexual.
 excerpt: Transtornos nos relacionamentos podem causar constrangimento. Mas, você não precisa se envergonhar, a psicologia está aqui para lhe fornecer meios para resolver seus conflitos.
-icon: /vectors/transtorno-terapia-de-casal.svg
+icon:
+  mono: /vectors/transtorno-terapia-de-casal-mono.svg
+  color: /vectors/transtorno-terapia-de-casal-color.svg
 image: transtorno-terapia-de-casal.jpg
+color: salmon
 ---
 
 ## Afetivo

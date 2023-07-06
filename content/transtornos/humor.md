@@ -3,8 +3,11 @@ name: Humor
 title: Tratamento para transtornos do humor
 description: Tratamentos para depressão, tristeza, humor negativo, transtorno bipolar e outros transtornos do humor.
 excerpt: Transtornos como depressão e bipolaridade causam um grande sofrimento, não só para aqueles que portam a doença, mas também para as pessoas próximas a elas.
-icon: /vectors/transtorno-humor.svg
+icon:
+  mono: /vectors/transtorno-humor-mono.svg
+  color: /vectors/transtorno-humor-color.svg
 image: transtorno-humor.jpg
+color: yellow
 ---
 
 ## Afetivo Bipolar

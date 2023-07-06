@@ -3,8 +3,11 @@ name: Trabalho
 title: Dificuldades no trabalho
 description: Dificuldades de relacionamento no trabalho, estresse, desenvolvimento e/ou escolha da carreira.
 excerpt: Como você se sente em relação ao seu trabalho? Sente que poderia melhorar de alguma forma? Muitos de nós a terapia é um ótimo instrumento para explorar nossas potencialidades.
-icon: /vectors/transtorno-trabalho.svg
+icon:
+  mono: /vectors/transtorno-trabalho-mono.svg
+  color: /vectors/transtorno-trabalho-color.svg
 image: transtorno-trabalho.jpg
+color: pink
 ---
 
 Ao longo da vida, a partir de suas experiências, você acumula uma série de manias, atitudes e regras. Alguns desses hábitos são considerados bons, no entanto, muitos deles podem influenciar negativamente o seu desenvolvimento pessoal, limitando, até mesmo, de você crescer profissionalmente.

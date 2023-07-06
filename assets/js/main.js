@@ -47,7 +47,7 @@ document.addEventListener('DOMContentLoaded', setPhoneNumberMask);
 
 const header = document.querySelector('.header');
 const menuClickableElements = document.querySelectorAll('.nav a, .nav button, .nav summary');
-const menuToggle = document.querySelector('.nav__toggle');
+const menuToggle = document.querySelector('.nav__toggle__button');
 const menuLinks = document.querySelectorAll('.nav__list__link:not(summary)');
 const menuDetails = document.querySelectorAll('.nav__list__details');
 const firstFocusableElement = menuClickableElements[0];

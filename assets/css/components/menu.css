@@ -11,46 +11,14 @@
 	z-index: calc(var(--z-index-menu-overlay) + 1);
 }
 
-.nav__cta {
-	margin-left: auto;
-}
+/*  */
+/*  */
+/*  */
 
-.nav__toggle {
-	width: 1.5em;
-	height: 1.5rem;
-}
-
-.nav__list {
-	background: rgba(0, 0, 0, 0.95);
-	height: 100vh;
-	transition: visibility 0.3s, opacity 0.3s ease-in-out;
-
-	position: absolute;
-	top: 0;
-	left: 0;
-	right: 0;
-	z-index: var(--z-index-menu-overlay);
-
-	display: grid;
-	justify-content: center;
-	align-content: center;
-	gap: var(--spacing-xxs);
-	flex-basis: 100%;
-}
-
-.nav__list__item {
-	width: 100%;
-	text-align: center;
-}
-
-.nav__list__item:last-child {
-	margin-top: 0.5em;
-}
-
-.nav__list__link {
-	display: block;
-	text-decoration: none;
-	padding: 0.5em 1em;
+@media (--tablet), (--desktop) {
+	.nav__cta {
+		margin-left: auto;
+	}
 }
 
 @media (--phone) {
@@ -59,28 +27,83 @@
 	}
 }
 
-/**
- * When the menu is closed, hide the list and the close icon. 
- */
+/*  */
+/*  */
+/*  */
+
+.nav__toggle {
+	display: flex;
+}
+
+.nav__toggle__icon {
+	width: 1.5em;
+}
+
+/*  */
+/*  */
+/*  */
+
+.nav__list {
+	background: rgba(0, 0, 0, 0.95);
+	transition: visibility 0.3s, opacity 0.3s ease-in-out;
+
+	/* Overlay the entire screen */
+	height: 100vh;
+	position: absolute;
+	top: 0;
+	left: 0;
+	right: 0;
+	z-index: var(--z-index-menu-overlay);
+
+	/* Center horizontally and vertically */
+	display: grid;
+	justify-content: center;
+	align-content: center;
+	gap: var(--spacing-xxs);
+	flex-basis: 100%;
+}
+
+.nav__list__item {
+	text-align: center;
+	width: 100%;
+}
+
+.nav__list__item:last-child {
+	margin-top: 0.5em;
+}
+
+.nav__list__link {
+	display: block;
+	padding: 0.5em 1em;
+	text-decoration: none;
+}
+
+/*  */
+/*  */
+/*  */
 
 [data-menu='closed'] .nav__list {
+	/* Hide the nav list  */
 	visibility: hidden;
 	opacity: 0;
 }
 
 [data-menu='closed'] .nav__toggle__icon--close {
+	/* Hide the close icon to only show the open icon */
 	display: none;
 }
 
-/**
- * When the menu is open, show the list and the open icon.
- */
+/*  */
+/*  */
+/*  */
 
 [data-menu='open'] .nav__list {
+	/* Show the nav list */
 	visibility: visible;
 	opacity: 1;
 }
 
 [data-menu='open'] .nav__toggle__icon--open {
+	/* Hide the open icon to only show the close icon */
 	display: none;
 }

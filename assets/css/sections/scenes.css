@@ -17,6 +17,9 @@
 	align-items: flex-start;
 	justify-content: center;
 	padding: var(--header-height) var(--side-spacing) !important;
+
+	position: absolute;
+	top: 0;
 }
 
 /* Increment the counter for each item after the first. */

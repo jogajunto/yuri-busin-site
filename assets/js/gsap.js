@@ -26,7 +26,7 @@ const scenesTimeline = gsap.timeline({
 });
 
 // Set scenes wrapper to absolute
-gsap.set(scenes, { position: 'absolute', top: 0 });
+// gsap.set(scenes, { position: 'absolute', top: 0 });
 
 // ScrollTrigger for header pinning
 // ScrollTrigger.create({

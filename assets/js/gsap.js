@@ -20,7 +20,7 @@ const scenesTimeline = gsap.timeline({
 		trigger: '.scenes__items',
 		pin: '.scenes',
 		start: 'top top',
-		end: `+=${scenesHeight}`,
+		// end: `+=${scenesHeight}`,
 		scrub: 0.75,
 	},
 });

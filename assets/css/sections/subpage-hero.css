@@ -1,4 +1,4 @@
-.subpage-hero {
+.hero {
 	min-height: 100vh;
 
 	/* Align content to the bottom by default */
@@ -6,23 +6,23 @@
 	align-content: flex-end;
 }
 
-.subpage-hero--center {
+.hero--center {
 	align-content: center;
 }
 
-.subpage-hero-background {
+.hero .background {
 	/* Make the background cover the whole section */
 	max-width: 100%;
 	width: 100%;
 	height: 100%;
 	position: absolute;
+	top: 0;
 	left: 0;
-	right: 0;
 	z-index: var(--z-index-background);
 }
 
-.subpage-hero-background::before,
-.subpage-hero-background::after {
+.hero .background::before,
+.hero .background::after {
 	/* Position the gradient that improves readability */
 	content: '';
 	width: 100%;
@@ -30,21 +30,21 @@
 	left: 0;
 }
 
-.subpage-hero-background::before {
+.hero .background::before {
 	/* Add a gradient from the top to the bottom to improve menu readability */
 	background: var(--gradient-dark-to-transparent);
 	height: 30%;
 	top: 0;
 }
 
-.subpage-hero-background::after {
+.hero .background::after {
 	/* Add a gradient from the bottom to the top to improve title readability */
 	background: var(--gradient-transparent-to-dark);
 	height: 100%;
 	bottom: 0;
 }
 
-.subpage-hero-background img {
+.hero .background > img {
 	width: 100%;
 	height: 100%;
 	object-fit: cover;

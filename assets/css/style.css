@@ -39,7 +39,9 @@
 @import 'layouts/footer';
 @import 'layouts/container';
 @import 'layouts/article';
+@import 'layouts/content';
 @import 'layouts/grid';
+@import 'layouts/flex';
 @import 'layouts/feed';
 @import 'layouts/section';
 @import 'layouts/stack';
@@ -51,7 +53,6 @@
 @import 'sections/contato';
 @import 'sections/eventos-e-publicacoes';
 @import 'sections/imprensa';
-@import 'sections/obrigado-pelo-contato';
 @import 'sections/politica-de-privacidade';
 @import 'sections/pronto-para-a-mudanca';
 @import 'sections/publicacoes-em-destaque';

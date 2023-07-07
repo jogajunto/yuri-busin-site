@@ -1,4 +1,4 @@
-{{ $class := .class | default "subpage-hero-background" }}
+{{ $class := .class | default "background" }}
 {{ $alt := .alt }}
 {{ $image := resources.Get (printf "images/%s" .image) }}
 {{ with $image }}

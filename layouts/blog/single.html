@@ -1,39 +1,38 @@
 {{ define "main" }}
 	<article class="article">
-		<div class="article__header">
+		<div class="section hero">
 			<div class="container">
 				<div class="stack-lg">
-					<div class="article__title">
-						<div class="stack-sm">
+					<div class="text-center stack-sm">
+						<div class="flex flex--center">
 							{{ with .Params.category }}
-								<a class="tag tag--negative" href="{{ delimit (slice "/categoria/" (urlize .) $.Site.Params.ugly) "" | relURL }}">{{ . }}</a>
+								<a class="tag" href="{{ delimit (slice "/categoria/" (urlize .) $.Site.Params.ugly) "" | relURL }}">{{ . }}</a>
 							{{ end }}
-							<h1 class="display display--lg">{{ .Title }}</h1>
+							<div class="icon-with-label">
+								{{ partial "svg.html" (dict "viewBox" "0 0 24 24" "src" "/icons/calendar.svg" "class" "icon") }}
+								<time class="label-md" datetime="{{ .Date }}">{{ .Date.Format "01/02/2006" }}</time>
+							</div>
 						</div>
+						<h1 class="display display--lg">{{ .Title }}</h1>
 					</div>
-					<div class="article__info">
-						<div class="icon-with-label">
-							{{ partial "svg.html" (dict "viewBox" "0 0 24 24" "src" "/icons/calendar.svg" "class" "icon") }}
-							<time class="label-md" datetime="{{ .Date }}">{{ .Date.Format "01/02/2006" }}</time>
-						</div>
-						<div class="icon-with-label">
-							{{ partial "svg.html" (dict "viewBox" "0 0 24 24" "src" "/icons/clock-circle.svg" "class" "icon") }}
-							<p class="label-md">{{ .ReadingTime }} minuto{{ if (ne .ReadingTime 1) }}s{{ end }}</p>
-						</div>
+					<div class="text-center">
+						<a href="#ler-a-publicacao" title="Ler a publicação">
+							{{ partial "svg.html" (dict "viewBox" "0 0 24 24" "src" "/icons/down.svg" "class" "icon align-center") }}
+						</a>
 					</div>
-					{{ partial "background-image.html" (dict "image" .Params.image "class" "article__image" "alt" .Title) }}
+					{{ partial "background-image.html" (dict "image" .Params.image "alt" .Title) }}
 				</div>
 			</div>
 		</div>
-		<div class="article__body">
+		<div class="section content">
 			<div class="container container--xl container--fluid">
-				<div class="article__layout">
-					<div class="article__content">
-						<div class="rich-text">
+				<div class="content__layout">
+					<div class="content__body">
+						<div class="rich-text" id="ler-a-publicacao">
 							{{ .Content }}
 						</div>
 					</div>
-					<aside class="article__share">
+					<aside class="content__share">
 						<div class="stack-sm">
 							<div class="text-center">
 								<h2 class="text-md">Compartilhar</h2>

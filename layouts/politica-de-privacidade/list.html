@@ -1,21 +1,29 @@
 {{ define "main" }}
-	<section>
-		<div class="section subpage-hero">
-			{{ partial "background-image.html" (dict "image" "politica-de-privacidade.jpg" "alt" "Homem sentado com a mão na cabeça") }}
+	<section class="article">
+		<div class="section hero">
 			<div class="container container--sm">
-				<div class="text-center stack-lg">
-					<h1 class="display display--lg">Política de Privacidade</h1>
-					<div class="icon-with-label icon-with-label--center">
-						{{ partial "svg.html" (dict "viewBox" "0 0 24 24" "src" "/icons/calendar.svg" "class" "icon") }}
-						<p class="label-md">Atualizada em <time datetime="2023-06-07">07/06/2023</time></p>
+				<div class="stack-lg">
+					<div class="text-center stack-sm">
+						<div class="flex flex--center">
+							<div class="icon-with-label">
+								{{ partial "svg.html" (dict "viewBox" "0 0 24 24" "src" "/icons/calendar.svg" "class" "icon") }}
+								<p class="label-md">Atualizada em <time datetime="{{ .Date }}">{{ .Date.Format "01/02/2006" }}</time></p>
+							</div>
+						</div>
+						<h1 class="display display--lg">Política de Privacidade</h1>
+					</div>
+					<div class="text-center">
+						<a href="#ler-a-publicacao" title="Ler a publicação">
+							{{ partial "svg.html" (dict "viewBox" "0 0 24 24" "src" "/icons/down.svg" "class" "icon align-center") }}
+						</a>
 					</div>
 				</div>
 			</div>
+			{{ partial "background-image.html" (dict "image" "politica-de-privacidade.jpg" "alt" "Homem sentado com a mão na cabeça") }}
 		</div>
-
-		<div class="section politica-de-privacidade">
-			<div class="container container--sm">
-				<div class="politica-de-privacidade-content">
+		<div class="section content">
+			<div class="container container--md">
+				<div class="politica-de-privacidade">
 					{{ .Content }}
 				</div>
 			</div>

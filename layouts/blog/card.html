@@ -18,7 +18,7 @@
 	<section class="card__body">
 		<div class="stack-md">
 			{{ with .Params.category }}
-				<a class="tag tag--negative" href="{{ delimit (slice "/categoria/" (urlize .) $.Site.Params.ugly) "" | relURL }}">{{ . }}</a>
+				<a class="tag" href="{{ delimit (slice "/categoria/" (urlize .) $.Site.Params.ugly) "" | relURL }}">{{ . }}</a>
 			{{ end }}
 			<h2 class="heading heading--sm">{{ .Title }}</h2>
 		</div>

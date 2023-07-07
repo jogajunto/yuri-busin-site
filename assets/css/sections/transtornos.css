@@ -1,4 +1,4 @@
-.transtornos-card {
+.box {
 	--icon-size: 6.25rem;
 
 	/* Make sure cards have the same height */
@@ -14,7 +14,7 @@
 /*  */
 /*  */
 
-.transtornos-card__icon {
+.box__icon {
 	width: 6.25rem;
 	height: 6.25rem;
 
@@ -25,12 +25,12 @@
 	transform: translate(25%, -50%);
 }
 
-.transtornos-card__icon--center {
+.box__icon--center {
 	transform: translate(-50%, -50%);
 	left: 50%;
 }
 
-.transtornos-card__icon > img {
+.box__icon > img {
 	width: 100%;
 	margin: 0;
 	position: absolute;
@@ -39,15 +39,15 @@
 	transition: opacity 0.3s ease-in-out;
 }
 
-.transtornos-card__icon > img:last-child {
+.box__icon > img:last-child {
 	opacity: 0;
 }
 
-.transtornos-card__icon > img:first-child {
+.box__icon > img:first-child {
 	opacity: 1;
 }
 
-.transtornos-card:has(a:hover) .transtornos-card__icon > img:last-child {
+.box:has(a:hover) .box__icon > img:last-child {
 	/* Show colored icon when hovering over button */
 	opacity: 1;
 }
@@ -56,7 +56,7 @@
 /*  */
 /*  */
 
-.transtornos-card__content {
+.box__content {
 	margin-top: var(--spacing-md);
 
 	/* Make the button be at the bottom */

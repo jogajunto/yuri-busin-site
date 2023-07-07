@@ -12,10 +12,6 @@
 /*  */
 /*  */
 
-.icon-with-label--center {
-	justify-content: center;
-}
-
 .icon-with-label--top {
 	align-items: flex-start;
 }

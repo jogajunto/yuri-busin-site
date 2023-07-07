@@ -1,14 +1,13 @@
 {{ define "main" }}
-	<section>
-		<div class="section section--line subpage-hero">
-			{{ partial "background-image.html" (dict "image" .Params.image "alt" .Title) }}
+	<section class="article">
+		<div class="section hero">
 			<div class="container container--sm">
 				<div class="stack-lg">
-					<div class="box transtornos-card">
-						<div class="transtornos-card__icon transtornos-card__icon--center">
+					<div class="box">
+						<div class="box__icon box__icon--center">
 							<img src="{{ .Params.icon.color }}" alt="Ícone {{ .Title }}" width="102" height="102" />
 						</div>
-						<div class="transtornos-card__content">
+						<div class="box__content">
 							<h1 class="display display--sm text-center">{{ .Title }}</h1>
 						</div>
 					</div>
@@ -18,18 +17,14 @@
 						</a>
 					</div>
 				</div>
+				{{ partial "line.html" (dict "bottom" "14rem") }}
+				{{ partial "background-image.html" (dict "image" .Params.image "alt" .Title) }}
 			</div>
-			{{ partial "line.html" (dict "bottom" "14rem") }}
 		</div>
-		<div class="section">
-			<div class="stack-xl">
-				<div class="container container--sm">
-					<p class="text-lg text-center">{{ .Params.excerpt }}</p>
-				</div>
-				<div class="container container--xl">
-					<div class="rich-text" id="saber-mais">
-						{{ .Content }}
-					</div>
+		<div class="section content">
+			<div class="container container--md">
+				<div class="rich-text">
+					{{ .Content }}
 				</div>
 			</div>
 		</div>

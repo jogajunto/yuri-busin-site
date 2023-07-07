@@ -20,22 +20,10 @@ const scenesTimeline = gsap.timeline({
 		trigger: '.scenes__items',
 		pin: '.scenes',
 		start: 'top top',
-		// end: `+=${scenesHeight}`,
+		end: `500%`,
 		scrub: 0.75,
 	},
 });
-
-// Set scenes wrapper to absolute
-// gsap.set(scenes, { position: 'absolute', top: 0 });
-
-// ScrollTrigger for header pinning
-// ScrollTrigger.create({
-// 	trigger: '.scenes',
-// 	start: 'top top',
-// 	endTrigger: '.scenes',
-// 	end: `+=${scenesHeight}`,
-// 	pin: 'header',
-// });
 
 // Loop over scenes
 scenes.forEach(function (elem, i) {

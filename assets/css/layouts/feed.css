@@ -1,7 +1,11 @@
 .feed {
+	--gapX: var(--spacing-md);
+	--gapY: var(--spacing-md);
+	--gap: var(--gapY) var(--gapX);
+
 	display: grid;
 	grid-template-columns: repeat(auto-fit, minmax(20rem, 1fr));
-	grid-gap: var(--spacing-md);
+	grid-gap: var(--gap);
 }
 
 .feed--lg {

@@ -4,9 +4,13 @@
 			{{ partial "background-image.html" (dict "image" .Params.image "alt" .Title) }}
 			<div class="container container--sm">
 				<div class="stack-lg">
-					<img src="{{ .Params.icon.mono }}" alt="{{ .Title }}" />
-					<div class="box box--large">
-						<h1 class="display display--sm text-center">{{ .Title }}</h1>
+					<div class="box transtornos-card">
+						<div class="transtornos-card__icon transtornos-card__icon--center">
+							<img src="{{ .Params.icon.color }}" alt="Ícone {{ .Title }}" width="102" height="102" />
+						</div>
+						<div class="transtornos-card__content">
+							<h1 class="display display--sm text-center">{{ .Title }}</h1>
+						</div>
 					</div>
 					<div class="text-center">
 						<a href="#saber-mais" title="Saber mais">

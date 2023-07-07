@@ -1,5 +1,5 @@
 .swiper-transtornos {
-	padding: var(--spacing-xxs) var(--side-spacing);
+	padding: var(--spacing-xxs) var(--side-spacing) var(--spacing-xl);
 }
 
 .swiper-transtornos .swiper-slide {

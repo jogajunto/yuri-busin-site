@@ -12,17 +12,17 @@ const swiperTranstornos = new Swiper('.swiper-transtornos', {
 		768: {
 			slidesPerView: 1.5,
 			centeredSlidesBounds: false,
-			spaceBetween: 32,
+			spaceBetween: 40,
 		},
 		960: {
 			slidesPerView: 2.5,
 			centeredSlidesBounds: false,
-			spaceBetween: 32,
+			spaceBetween: 40,
 		},
 		1280: {
 			slidesPerView: 3.5,
 			centeredSlidesBounds: false,
-			spaceBetween: 32,
+			spaceBetween: 40,
 		},
 	},
 });

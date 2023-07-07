@@ -1,15 +1,13 @@
 .transtornos-card {
-	display: flex;
-	flex-wrap: wrap;
-	align-items: flex-start;
-	gap: var(--spacing-xs) var(--spacing-md);
+	--icon-size: 6.25rem;
 
-	/* Make all items the same height */
+	/* Make sure cards have the same height */
+	display: grid;
 	height: 100%;
-}
 
-.transtornos-card > * {
-	flex: 1;
+	/* Position the icon */
+	position: relative;
+	margin-top: calc(var(--icon-size) / 2);
 }
 
 /*  */
@@ -19,9 +17,17 @@
 .transtornos-card__icon {
 	width: 6.25rem;
 	height: 6.25rem;
-	max-width: 6.25rem;
-	flex-basis: 6.25rem;
-	position: relative;
+
+	/* Position the icon */
+	position: absolute;
+	top: 0;
+	left: 0;
+	transform: translate(25%, -50%);
+}
+
+.transtornos-card__icon--center {
+	transform: translate(-50%, -50%);
+	left: 50%;
 }
 
 .transtornos-card__icon > img {
@@ -33,15 +39,16 @@
 	transition: opacity 0.3s ease-in-out;
 }
 
-.transtornos-card__icon > img:first-child {
-	opacity: 1;
-}
-
 .transtornos-card__icon > img:last-child {
 	opacity: 0;
 }
 
+.transtornos-card__icon > img:first-child {
+	opacity: 1;
+}
+
 .transtornos-card:has(a:hover) .transtornos-card__icon > img:last-child {
+	/* Show colored icon when hovering over button */
 	opacity: 1;
 }
 
@@ -50,9 +57,7 @@
 /*  */
 
 .transtornos-card__content {
-	/* Wrap columns when there's enough space to the content */
-	flex-basis: 17.5rem;
-	align-self: stretch;
+	margin-top: var(--spacing-md);
 
 	/* Make the button be at the bottom */
 	display: grid;

@@ -47,7 +47,7 @@
 @import 'layouts/stack';
 
 @import 'sections/hero';
-@import 'sections/subpage-hero';
+@import 'sections/scenes';
 
 @import 'sections/blog';
 @import 'sections/contato';

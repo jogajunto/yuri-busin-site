@@ -1,9 +1,10 @@
 {{ $class := .class | default "background" }}
 {{ $alt := .alt }}
 {{ $image := resources.Get (printf "images/%s" .image) }}
+
 {{ with $image }}
 	<picture class="{{ $class }}">
 		<source media="(min-width: 768px)" srcset="{{ ($image.Fill "1440x800 webp q90").RelPermalink }}" width="1440" height="800" />
-		<img src="{{ ($image.Fill "768x1024 webp").RelPermalink }}" alt="{{ $class }}" loading="lazy" width="768" height="1024" />
+		<img src="{{ ($image.Fill "768x1024 webp").RelPermalink }}" alt="{{ $alt }}" loading="lazy" width="768" height="1024" />
 	</picture>
 {{ end }}

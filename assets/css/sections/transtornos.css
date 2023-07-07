@@ -1,4 +1,4 @@
-.box {
+.transtorno {
 	--icon-size: 6.25rem;
 
 	/* Make sure cards have the same height */
@@ -14,7 +14,7 @@
 /*  */
 /*  */
 
-.box__icon {
+.transtorno__icon {
 	width: 6.25rem;
 	height: 6.25rem;
 
@@ -25,12 +25,12 @@
 	transform: translate(25%, -50%);
 }
 
-.box__icon--center {
+.transtorno__icon--center {
 	transform: translate(-50%, -50%);
 	left: 50%;
 }
 
-.box__icon > img {
+.transtorno__icon > img {
 	width: 100%;
 	margin: 0;
 	position: absolute;
@@ -39,15 +39,15 @@
 	transition: opacity 0.3s ease-in-out;
 }
 
-.box__icon > img:last-child {
+.transtorno__icon > img:last-child {
 	opacity: 0;
 }
 
-.box__icon > img:first-child {
+.transtorno__icon > img:first-child {
 	opacity: 1;
 }
 
-.box:has(a:hover) .box__icon > img:last-child {
+.transtorno:has(a:hover) .transtorno__icon > img:last-child {
 	/* Show colored icon when hovering over button */
 	opacity: 1;
 }
@@ -56,7 +56,7 @@
 /*  */
 /*  */
 
-.box__content {
+.transtorno__content {
 	margin-top: var(--spacing-md);
 
 	/* Make the button be at the bottom */

@@ -1,87 +1,61 @@
-.scenes {
-	counter-reset: scene;
+.hero {
+	min-height: 100vh;
+
+	/* Align content to the bottom */
+	display: grid;
+	align-content: flex-end;
 }
 
-.scenes__wrap,
-.scenes__items {
-	min-height: 100vh;
-	width: 100%;
-	position: relative;
-}
+/* ==========================================================================
+   Attributes
+   ========================================================================== */
 
-.scene {
-	min-height: 100vh;
-	width: 100%;
-
+.hero__attributes {
 	display: flex;
-	align-items: flex-start;
+	gap: var(--spacing-md);
 	justify-content: center;
-	padding: var(--header-height) var(--side-spacing) !important;
 }
 
-/* Increment the counter for each item after the first. */
-/* So the first item will have a counter of 0, the second 1, etc. */
-.scene--intro:nth-child(n + 2) {
-	counter-increment: scene;
-}
+/* ==========================================================================
+   Image
+   ========================================================================== */
 
-/* Hide the counter on the first item. */
-/* It was added to keep the counter width consistent. */
-.scene--intro:first-child .display::before {
-	opacity: 0;
-}
-
-.scene--intro .display {
-	--counter-width: 1.5em;
-
-	max-width: 20ch;
-	margin: auto;
-	position: relative;
-}
-
-.scene--intro .display:before {
-	content: counter(scene);
-	display: block;
-	border-radius: 100%;
-	border: 1px solid var(--surface-light-1);
-	font-weight: 300;
-	text-align: center;
-
-	width: var(--counter-width);
-	height: var(--counter-width);
-	line-height: var(--counter-width);
-	margin-bottom: var(--spacing-md);
-}
-
-.scene--content {
-	text-align: center;
-	position: relative !important;
-}
-
-.scene__inner {
+.hero .background {
+	/* Make the background cover the whole section */
+	max-width: 100%;
 	width: 100%;
+	height: 100%;
+	position: absolute;
+	top: 0;
+	left: 0;
+	z-index: var(--z-index-background);
 }
 
-@media (--desktop) {
-	.scene {
-		align-items: center;
-	}
+.hero .background::before,
+.hero .background::after {
+	/* Position the gradient that improves readability */
+	content: '';
+	width: 100%;
+	position: absolute;
+	left: 0;
+}
 
-	.scene__inner {
-		min-height: 20rem;
-	}
+.hero .background::before {
+	/* Add a gradient from the top to the bottom to improve menu readability */
+	background: var(--gradient-dark-to-transparent);
+	height: 30%;
+	top: 0;
+}
 
-	.scene__inner--intro .display {
-		padding-left: calc(var(--counter-width) + var(--spacing-md));
-	}
+.hero .background::after {
+	/* Add a gradient from the bottom to the top to improve title readability */
+	background: var(--gradient-transparent-to-dark);
+	height: 100%;
+	bottom: 0;
+}
 
-	.scene__inner--intro .display:before {
-		position: absolute;
-		top: 0;
-		left: 0;
-	}
-
-	.scene--content {
-		text-align: right;
-	}
+.hero .background > img {
+	width: 100%;
+	height: 100%;
+	object-fit: cover;
 }

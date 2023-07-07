@@ -3,22 +3,18 @@
 		<div class="section hero">
 			<div class="container container--sm">
 				<div class="stack-lg">
-					<div class="box">
-						<div class="box__icon box__icon--center">
+					<div class="transtorno box">
+						<div class="transtorno__icon transtorno__icon--center">
 							<img src="{{ .Params.icon.color }}" alt="Ícone {{ .Title }}" width="102" height="102" />
 						</div>
-						<div class="box__content">
+						<div class="transtorno__content">
 							<h1 class="display display--sm text-center">{{ .Title }}</h1>
 						</div>
 					</div>
-					<div class="text-center">
-						<a href="#saber-mais" title="Saber mais">
-							{{ partial "svg.html" (dict "viewBox" "0 0 24 24" "src" "/icons/down.svg" "class" "icon align-center") }}
-						</a>
-					</div>
+					{{ partial "anchor.html" (dict "label" "Ler a publicação" "href" "#conteudo") . }}
 				</div>
 				{{ partial "line.html" (dict "bottom" "14rem") }}
-				{{ partial "background-image.html" (dict "image" .Params.image "alt" .Title) }}
+				{{ partial "background.html" (dict "image" .Params.image "alt" .Title) }}
 			</div>
 		</div>
 		<div class="section content">

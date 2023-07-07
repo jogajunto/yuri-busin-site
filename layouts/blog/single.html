@@ -3,24 +3,16 @@
 		<div class="section hero">
 			<div class="container">
 				<div class="stack-lg">
-					<div class="text-center stack-sm">
-						<div class="flex flex--center">
-							{{ with .Params.category }}
-								<a class="tag" href="{{ delimit (slice "/categoria/" (urlize .) $.Site.Params.ugly) "" | relURL }}">{{ . }}</a>
-							{{ end }}
-							<div class="icon-with-label">
-								{{ partial "svg.html" (dict "viewBox" "0 0 24 24" "src" "/icons/calendar.svg" "class" "icon") }}
-								<time class="label-md" datetime="{{ .Date }}">{{ .Date.Format "01/02/2006" }}</time>
-							</div>
+					<h1 class="display display--lg text-center">{{ .Title }}</h1>
+					<div class="flex flex--center">
+						<a class="tag" href="{{ delimit (slice "/categoria/" (urlize .Params.category) $.Site.Params.ugly) "" | relURL }}">{{ .Params.category }}</a>
+						<div class="icon-with-label">
+							{{ partial "svg.html" (dict "viewBox" "0 0 24 24" "src" "/icons/calendar.svg" "class" "icon") }}
+							<time class="label-md" datetime="{{ .Date }}">{{ .Date.Format "01/02/2006" }}</time>
 						</div>
-						<h1 class="display display--lg">{{ .Title }}</h1>
 					</div>
-					<div class="text-center">
-						<a href="#ler-a-publicacao" title="Ler a publicação">
-							{{ partial "svg.html" (dict "viewBox" "0 0 24 24" "src" "/icons/down.svg" "class" "icon align-center") }}
-						</a>
-					</div>
-					{{ partial "background-image.html" (dict "image" .Params.image "alt" .Title) }}
+					{{ partial "anchor.html" (dict "label" "Ler a publicação" "href" "#conteudo") . }}
+					{{ partial "background.html" (dict "image" .Params.image "alt" .Title) }}
 				</div>
 			</div>
 		</div>
@@ -28,7 +20,7 @@
 			<div class="container container--xl container--fluid">
 				<div class="content__layout">
 					<div class="content__body">
-						<div class="rich-text" id="ler-a-publicacao">
+						<div class="rich-text" id="conteudo">
 							{{ .Content }}
 						</div>
 					</div>

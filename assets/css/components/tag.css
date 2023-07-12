@@ -1,9 +1,9 @@
 .tag {
-	border-color: var(--green);
+	border-color: var(--content-on-dark-primary);
 	border-radius: var(--radius-circle);
 	border-style: solid;
 	border-width: 1px;
-	color: var(--green);
+	color: var(--content-on-dark-primary);
 	display: inline-block;
 	font-size: var(--label-md);
 	padding: 0.3em 1em;
@@ -11,6 +11,6 @@
 }
 
 .tag:hover {
-	border-color: var(--green-hover);
-	color: var(--green-hover);
+	border-color: var(--content-on-dark-secondary);
+	color: var(--content-on-dark-secondary);
 }

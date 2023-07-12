@@ -14,7 +14,7 @@
 							<a class="link link--invisible" href="/palestras-e-eventos/">Palestras e eventos</a>
 						</li>
 						<li class="label-md">
-							<a class="link link--invisible" href="/palestras-e-eventos/">Curso Ciúme Retroativo</a>
+							<a class="link link--invisible" href="/curso-ciume-retroativo/">Curso Ciúme Retroativo</a>
 						</li>
 						<li class="label-md">
 							<a class="link link--invisible" href="/perguntas-frequentes/">Perguntas frequentes</a>
@@ -90,27 +90,27 @@
 						<div class="footer__social">
 							<ul class="social">
 								<li class="social__item">
-									<a class="social__link" title="Instagram" href="{{ .Site.Params.social.instagram }}" rel="noopener" target="_blank">
+									<a class="social__link" href="{{ .Site.Params.social.instagram }}" rel="noopener" target="_blank" aria-label="Instagram">
 										{{ partial "svg.html" (dict "viewBox" "0 0 24 24" "src" "/icons/instagram.svg" "class" "icon") }}
 									</a>
 								</li>
 								<li class="social__item">
-									<a class="social__link" title="YouTube" href="{{ .Site.Params.social.youtube }}" rel="noopener" target="_blank">
+									<a class="social__link" href="{{ .Site.Params.social.youtube }}" rel="noopener" target="_blank" aria-label="YouTube">
 										{{ partial "svg.html" (dict "viewBox" "0 0 24 24" "src" "/icons/youtube.svg" "class" "icon") }}
 									</a>
 								</li>
 								<li class="social__item">
-									<a class="social__link" title="Facebook" href="{{ .Site.Params.social.facebook }}" rel="noopener" target="_blank">
+									<a class="social__link" href="{{ .Site.Params.social.facebook }}" rel="noopener" target="_blank" aria-label="Facebook">
 										{{ partial "svg.html" (dict "viewBox" "0 0 24 24" "src" "/icons/facebook.svg" "class" "icon") }}
 									</a>
 								</li>
 								<li class="social__item">
-									<a class="social__link" title="WhatsApp" href="{{ .Site.Params.social.whatsApp }}" rel="noopener" target="_blank">
+									<a class="social__link" href="{{ .Site.Params.whatsApp }}" rel="noopener" target="_blank" aria-label="WhatsApp">
 										{{ partial "svg.html" (dict "viewBox" "0 0 24 24" "src" "/icons/whatsapp.svg" "class" "icon") }}
 									</a>
 								</li>
 								<li class="social__item">
-									<a class="social__link" title="TikTok" href="{{ .Site.Params.social.tikTok }}" rel="noopener" target="_blank">
+									<a class="social__link" href="{{ .Site.Params.social.tikTok }}" rel="noopener" target="_blank" aria-label="TikTok">
 										{{ partial "svg.html" (dict "viewBox" "0 0 24 24" "src" "/icons/tiktok.svg" "class" "icon") }}
 									</a>
 								</li>
@@ -128,7 +128,7 @@
 		</div>
 	</div>
 	<div class="whatsapp-pin">
-		<a href="{{ .Site.Params.social.whatsApp }}" target="_blank" rel="noopener">
+		<a href="{{ .Site.Params.whatsApp }}" target="_blank" rel="noopener" aria-label="Enviar mensagem via WhatsApp">
 			{{ partial "svg.html" (dict "viewBox" "0 0 24 24" "src" "/icons/whatsapp.svg") }}
 		</a>
 	</div>

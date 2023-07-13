@@ -1,3 +1,7 @@
+:where(.stack-xxs > * + *) {
+	margin-top: var(--spacing-xxs);
+}
+
 :where(.stack-xs > * + *) {
 	margin-top: var(--spacing-xs);
 }
@@ -19,6 +23,10 @@
 }
 
 @media (--desktop) {
+	:where(.stack-xxs-at-desktop > * + *) {
+		margin-top: var(--spacing-xxs);
+	}
+
 	:where(.stack-xs-at-desktop > * + *) {
 		margin-top: var(--spacing-xs);
 	}
@@ -41,6 +49,10 @@
 }
 
 @media (--tablet) {
+	:where(.stack-xxs-at-tablet > * + *) {
+		margin-top: var(--spacing-xxs);
+	}
+
 	:where(.stack-xs-at-tablet > * + *) {
 		margin-top: var(--spacing-xs);
 	}

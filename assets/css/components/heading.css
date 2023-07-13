@@ -1,4 +1,4 @@
-.heading {
+:where(.heading) {
 	color: var(--content-on-dark-primary);
 	font-weight: 900;
 	display: block;

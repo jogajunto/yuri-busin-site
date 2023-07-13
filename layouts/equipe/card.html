@@ -1,0 +1,21 @@
+<li class="box">
+	<div class="team-member">
+		<div class="team-member__bio">
+			{{ $image := resources.Get (printf "images/equipe/%s" .Params.avatar) }}
+			{{ with $image }}
+				<img class="team-member__image" src="{{ ($image.Fill "102x102 webp").RelPermalink }}" alt="" loading="lazy" width="102" height="102" />
+			{{ end }}
+			<div class="team-member__name">
+				<div class="stack-xxs">
+					<h3 class="heading heading--xs">{{ .Title }}</h3>
+					<div class="text-md">CRP 06/107708</div>
+				</div>
+			</div>
+		</div>
+		<div class="team-member__content">
+			<div class="label-sm">
+				{{ .Content }}
+			</div>
+		</div>
+	</div>
+</li>

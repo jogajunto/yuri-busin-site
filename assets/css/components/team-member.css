@@ -1,0 +1,27 @@
+.team-member {
+}
+
+.team-member__bio {
+	border-bottom: 1px solid var(--surface-dark-stroke);
+	margin-bottom: var(--spacing-md);
+	padding-bottom: var(--spacing-md);
+
+	/* Wrap the image and name in a flex container */
+	display: flex;
+	align-items: flex-start;
+	flex-direction: column;
+	gap: var(--spacing-md);
+}
+
+.team-member__image {
+	margin: 0;
+	border-radius: var(--radius-md);
+}
+
+@media (--tablet), (--desktop) {
+	.team-member__bio {
+		/* Make the image and name side-by-side */
+		flex-direction: row;
+		align-items: center;
+	}
+}

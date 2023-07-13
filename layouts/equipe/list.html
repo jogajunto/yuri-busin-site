@@ -1,0 +1,31 @@
+{{ define "main" }}
+	<section class="section section--100vh">
+		<div class="container container--lg">
+			<div class="grid align-middle">
+				<div class="stack-md">
+					<h1 class="display display--lg">Equipe da clínica Yuri Busin</h1>
+				</div>
+				<div class="stack-md">
+					<p class="heading heading--md color-green">Vamos te ajudar a superar os seus problemas!</p>
+					<p>Psicólogos qualificados que atuam com base no Método GO e nos conceitos da Terapia Cognitivo-Comportamental e da Psicologia Positiva garantindo o bem-estar e autoconhecimento de todos os pacientes.</p>
+				</div>
+			</div>
+		</div>
+		{{ partial "line.html" }}
+	</section>
+
+	<section class="section">
+		<div class="container container--xxl container--fluid">
+			<div class="text-center visually-hidden">
+				<h2 class="display display--md">Membros da equipe</h2>
+			</div>
+			<ul class="feed">
+				{{ range .Page.RegularPages }}
+					{{ .Render "card" }}
+				{{ end }}
+			</ul>
+		</div>
+	</section>
+
+	{{ partial "call-to-action.html" . }}
+{{ end }}

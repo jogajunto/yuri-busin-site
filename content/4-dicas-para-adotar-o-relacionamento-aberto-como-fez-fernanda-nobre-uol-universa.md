@@ -4,6 +4,7 @@ press: UOL Universa
 link: https://www.uol.com.br/universa/noticias/redacao/2021/01/09/dicas-para-tentar-relacionamento-aberto-como-o-de-fernanda-nobre.htm
 category: Imprensa
 type: blog
+noindex: true
 date: 2021-01-25T16:43:30.871Z
 draft: false
 ---

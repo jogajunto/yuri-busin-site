@@ -4,6 +4,7 @@ press: CanalTech
 link: https://canaltech.com.br/saude/novembro-azul-laser-cirurgia-robotica-174364/
 category: Imprensa
 type: blog
+noindex: true
 date: 2020-11-29T16:25:46.402Z
 draft: false
 ---

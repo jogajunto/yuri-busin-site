@@ -4,6 +4,7 @@ press: ISTOÉ
 link: https://istoe.com.br/a-vida-na-casa-da-mamae/
 category: Imprensa
 type: blog
+noindex: true
 date: 2021-02-21T14:35:07.515Z
 draft: false
 ---

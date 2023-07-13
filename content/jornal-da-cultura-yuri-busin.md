@@ -4,6 +4,7 @@ press: Jornal da Cultura
 link: https://www.youtube.com/watch?app=desktop&v=dahwOgGGBW4
 category: Imprensa
 type: blog
+noindex: true
 date: 2023-04-21T23:03:43.452Z
 draft: false
 ---

@@ -4,6 +4,7 @@ press: R7
 link: https://noticias.r7.com/saude/fotos/choro-da-princesa-charlotte-comove-a-todos-e-traz-a-questao-como-explicar-a-morte-as-criancas-20092022
 category: Imprensa
 type: blog
+noindex: true
 date: 2022-11-28T12:26:24.602Z
 draft: false
 ---

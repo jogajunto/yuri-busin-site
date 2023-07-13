@@ -4,6 +4,7 @@ press: R7
 link: https://noticias.r7.com/saude/uso-de-maconha-traz-a-graves-danos-a-saude-e-atinge-idosos-nos-eua-04092020
 category: Imprensa
 type: blog
+noindex: true
 date: 2020-09-03T19:44:46.178Z
 draft: false
 ---

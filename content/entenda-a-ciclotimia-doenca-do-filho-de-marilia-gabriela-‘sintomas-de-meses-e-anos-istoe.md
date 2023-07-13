@@ -4,6 +4,7 @@ press: ISTOÉ
 link: https://istoe.com.br/entenda-a-ciclotimia-doenca-do-filho-de-marilia-gabriela-sintomas-de-meses-e-anos/
 category: Imprensa
 type: blog
+noindex: true
 date: 2023-04-21T23:08:51.993Z
 draft: false
 ---

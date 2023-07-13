@@ -4,6 +4,7 @@ press: UOL Universa
 link: https://www.uol.com.br/universa/noticias/redacao/2021/03/06/crises-de-ciume-no-bbb21-especialistas-falam-como-lidar-com-o-sentimento.htm
 category: Imprensa
 type: blog
+noindex: true
 date: 2021-03-06T17:52:01.233Z
 draft: false
 ---

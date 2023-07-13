@@ -4,6 +4,7 @@ press: UOL Universa
 link: https://www.uol.com.br/universa/noticias/redacao/2022/09/29/me-sinto-uma-guerreira-por-quem-me-tornei.htm
 category: Imprensa
 type: blog
+noindex: true
 date: 2022-11-28T12:23:26.714Z
 draft: false
 ---

@@ -4,6 +4,7 @@ press: UOL VivaBem
 link: https://www.uol.com.br/vivabem/noticias/redacao/2022/04/18/livros-de-autoajuda.htm
 category: Imprensa
 type: blog
+noindex: true
 date: 2022-04-18
 draft: false
 ---

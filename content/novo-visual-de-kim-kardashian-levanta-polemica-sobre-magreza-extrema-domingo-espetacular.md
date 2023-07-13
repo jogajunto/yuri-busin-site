@@ -4,6 +4,7 @@ press: Domingo Espetacular
 link: https://recordtv.r7.com/domingo-espetacular/entretenimento/videos/novo-visual-de-kim-kardashian-levanta-polemica-sobre-magreza-extrema-25092022
 category: Imprensa
 type: blog
+noindex: true
 date: 2022-11-28T12:24:08.453Z
 draft: false
 ---

@@ -4,6 +4,7 @@ press: UOL VivaBem
 link: https://www.uol.com.br/vivabem/noticias/redacao/2022/06/09/intercambio-mudanca-de-pais-como-imigrar-sem-prejudicar-o-emocional.htm
 category: Imprensa
 type: blog
+noindex: true
 date: 2022-06-09T17:55:40.463Z
 draft: false
 ---

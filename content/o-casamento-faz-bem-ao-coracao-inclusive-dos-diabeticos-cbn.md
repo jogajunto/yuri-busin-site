@@ -4,6 +4,7 @@ press: CBN
 link: https://m.cbn.globoradio.globo.com/media/audio/399760/o-casamento-faz-bem-ao-coracao-inclusive-dos-diabe.htm
 category: Imprensa
 type: blog
+noindex: true
 date: 2023-04-21T23:17:12.436Z
 draft: false
 ---

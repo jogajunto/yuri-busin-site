@@ -4,6 +4,7 @@ press: Yahoo
 link: https://br.vida-estilo.yahoo.com/ex-voltam-durante-quarentena-063805475.html
 category: Imprensa
 type: blog
+noindex: true
 date: 2020-05-14T12:24:21.433Z
 draft: false
 ---

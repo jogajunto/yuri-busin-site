@@ -4,6 +4,7 @@ press: Vida Simples
 link: https://vidasimples.co/ser/ano-melhor-com-voce-mesmo/
 category: Imprensa
 type: blog
+noindex: true
 date: 2021-04-21T12:21:16.693Z
 draft: false
 ---

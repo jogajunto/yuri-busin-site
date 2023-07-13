@@ -4,6 +4,7 @@ press: R7
 link: https://noticias.r7.com/internacional/homem-se-recusa-a-ceder-lugar-em-trem-para-crianca-e-mae-fica-furiosa-20022023
 category: Imprensa
 type: blog
+noindex: true
 date: 2023-04-21T23:10:51.960Z
 draft: false
 ---

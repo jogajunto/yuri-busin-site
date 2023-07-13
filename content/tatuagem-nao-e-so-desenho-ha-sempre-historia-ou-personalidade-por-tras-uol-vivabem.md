@@ -4,6 +4,7 @@ press: UOL VivaBem
 link: https://www.uol.com.br/vivabem/noticias/redacao/2022/10/24/revelam-e-influenciam-meu-eu-entenda-os-efeitos-de-tatuagens-e-piercings.htm
 category: Imprensa
 type: blog
+noindex: true
 date: 2022-11-28T12:19:54.401Z
 draft: false
 ---

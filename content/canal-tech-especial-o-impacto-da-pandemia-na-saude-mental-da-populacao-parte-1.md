@@ -4,6 +4,7 @@ press: Canal Tech
 link: https://canaltech.com.br/saude/especial-dia-da-saude-mental-parte-1-172698/
 category: Imprensa
 type: blog
+noindex: true
 date: 2020-10-12T12:43:24.403Z
 draft: false
 ---
